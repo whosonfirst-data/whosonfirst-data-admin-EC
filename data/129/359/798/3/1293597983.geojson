@@ -1,0 +1,69 @@
+{
+  "id": 1293597983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.08024,-2.87757,-79.08024,-2.87757",
+    "geom:latitude":-2.87757,
+    "geom:longitude":-79.08024,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10163.0",
+    "gn:asciiname":"Pinchicana",
+    "gn:country_code":"EC",
+    "gn:dem":2903,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3653125,
+    "gn:latitude":-2.87757,
+    "gn:longitude":-79.08024,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Pinchicana",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670885,
+        421185495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3653125
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"04f49db525f48fb4391d2b61d65985a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421185495,
+            "locality_id":1293597983,
+            "region_id":85670885
+        }
+    ],
+    "wof:id":1293597983,
+    "wof:lastmodified":1536625873,
+    "wof:name":"Pinchicana",
+    "wof:parent_id":421185495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.08024,
+    -2.87757,
+    -79.08024,
+    -2.87757
+],
+  "geometry": {"coordinates":[-79.08024,-2.87757],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 421197709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.0,-2.18333,-80.0,-2.18333",
+    "geom:latitude":-2.18333,
+    "geom:longitude":-80.0,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3651411,
+    "qs:gn_pop":12523,
+    "qs:name":"Santa Lucia",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Guayas",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"6",
+    "qs:qs_id":149673,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":26810499,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670917,
+        421175423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3651411,
+        "gp:id":26810499,
+        "qs:id":149673,
+        "qs_pg:id":149673
+    },
+    "wof:country":"EC",
+    "wof:created":1459009922,
+    "wof:geomhash":"96493ac0eec71fe58a930af6e9c08c5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421175423,
+            "localadmin_id":421197709,
+            "region_id":85670917
+        }
+    ],
+    "wof:id":421197709,
+    "wof:lastmodified":1505340752,
+    "wof:name":"Santa Lucia",
+    "wof:parent_id":421175423,
+    "wof:placetype":"localadmin",
+    "wof:population":12523,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.0,
+    -2.18333,
+    -80.0,
+    -2.18333
+],
+  "geometry": {"coordinates":[-80.0,-2.18333],"type":"Point"}
+}

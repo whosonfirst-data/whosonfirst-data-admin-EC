@@ -1,0 +1,76 @@
+{
+  "id": 421203559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.90653,-1.45853,-77.90653,-1.45853",
+    "geom:latitude":-1.45853,
+    "geom:longitude":-77.90653,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3658452,
+    "qs:gn_pop":0,
+    "qs:name":"Diez de Agosto",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Pastaza",
+    "qs:photos":113,
+    "qs:photos_1k":23,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":113,
+    "qs:photos_sr":3,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":233548,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":26809920,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670949,
+        421185499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3658452,
+        "gp:id":26809920,
+        "qs:id":233548
+    },
+    "wof:country":"EC",
+    "wof:created":1459010156,
+    "wof:geomhash":"cdeb504eca367ef344516462637ab549",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421185499,
+            "localadmin_id":421203559,
+            "region_id":85670949
+        }
+    ],
+    "wof:id":421203559,
+    "wof:lastmodified":1500036639,
+    "wof:name":"Diez de Agosto",
+    "wof:parent_id":421185499,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.90653,
+    -1.45853,
+    -77.90653,
+    -1.45853
+],
+  "geometry": {"coordinates":[-77.90653,-1.45853],"type":"Point"}
+}

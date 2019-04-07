@@ -1,0 +1,79 @@
+{
+  "id": 421172291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.9394,-2.56062,-78.9394,-2.56062",
+    "geom:latitude":-2.56062,
+    "geom:longitude":-78.9394,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3659852,
+    "qs:gn_pop":9900,
+    "qs:name":"Ca\u00f1ar",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Canar",
+    "qs:photos":285,
+    "qs:photos_1k":58,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":285,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":149713,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":375780,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670909,
+        421195597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3659852,
+        "gp:id":375780,
+        "qs:id":149713
+    },
+    "wof:country":"EC",
+    "wof:created":1459008930,
+    "wof:geomhash":"4814a5ce21c4a5049a5e6deebef435f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421195597,
+            "locality_id":421172291,
+            "region_id":85670909
+        }
+    ],
+    "wof:id":421172291,
+    "wof:lastmodified":1505340610,
+    "wof:name":"Ca\u00f1ar",
+    "wof:parent_id":421195597,
+    "wof:placetype":"locality",
+    "wof:population":9900,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.9394,
+    -2.56062,
+    -78.9394,
+    -2.56062
+],
+  "geometry": {"coordinates":[-78.93940000000001,-2.56062],"type":"Point"}
+}

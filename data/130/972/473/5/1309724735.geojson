@@ -1,0 +1,70 @@
+{
+  "id": 1309724735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.23333,-2.81667,-79.23333,-2.81667",
+    "geom:latitude":-2.81667,
+    "geom:longitude":-79.23333,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10165.0",
+    "gn:asciiname":"Guabidilla",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":4017,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3657730,
+    "gn:latitude":-2.81667,
+    "gn:longitude":-79.23333,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Guabidilla",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670885,
+        421185495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3657730
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"e01e518980a2acf6509576c77dc78df7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421185495,
+            "locality_id":1309724735,
+            "region_id":85670885
+        }
+    ],
+    "wof:id":1309724735,
+    "wof:lastmodified":1537045974,
+    "wof:name":"Guabidilla",
+    "wof:parent_id":421185495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.23333000000002,
+    -2.81667,
+    -79.23333000000002,
+    -2.81667
+],
+  "geometry": {"coordinates":[-79.23333000000002,-2.81667],"type":"Point"}
+}

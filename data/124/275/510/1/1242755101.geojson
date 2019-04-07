@@ -1,0 +1,70 @@
+{
+  "id": 1242755101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.68333,-4.15,-79.68333,-4.15",
+    "geom:latitude":-4.15,
+    "geom:longitude":-79.68333,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1109.0",
+    "gn:admin3_code":"110950.0",
+    "gn:asciiname":"Hacienda Trapichillo",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":1306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3655924,
+    "gn:latitude":-4.15,
+    "gn:longitude":-79.68333,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda Trapichillo",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670891,
+        1108571061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3655924
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"a694ef1000ada8c3bece4e218f2b4033",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108571061,
+            "locality_id":1242755101,
+            "region_id":85670891
+        }
+    ],
+    "wof:id":1242755101,
+    "wof:lastmodified":1536807773,
+    "wof:name":"Hacienda Trapichillo",
+    "wof:parent_id":1108571061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.68333,
+    -4.15,
+    -79.68333,
+    -4.15
+],
+  "geometry": {"coordinates":[-79.68333,-4.15],"type":"Point"}
+}

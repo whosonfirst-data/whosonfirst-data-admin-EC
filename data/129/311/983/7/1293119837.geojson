@@ -1,0 +1,63 @@
+{
+  "id": 1293119837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.8668,1.35926,-78.8668,1.35926",
+    "geom:latitude":1.35926,
+    "geom:longitude":-78.8668,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"805.0",
+    "gn:admin3_code":"80550.0",
+    "gn:asciiname":"Tatabrero",
+    "gn:country_code":"EC",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3650753,
+    "gn:latitude":1.35926,
+    "gn:longitude":-78.8668,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Tatabrero",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3650753
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"4b5c58ba347bbe3e2c1440c586d72241",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293119837,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293119837,
+    "wof:lastmodified":1536819286,
+    "wof:name":"Tatabrero",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.8668,
+    1.35926,
+    -78.8668,
+    1.35926
+],
+  "geometry": {"coordinates":[-78.8668,1.35926],"type":"Point"}
+}

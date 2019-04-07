@@ -1,0 +1,67 @@
+{
+  "id": 1327346693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.42983,-2.52814,-79.42983,-2.52814",
+    "geom:latitude":-2.52814,
+    "geom:longitude":-79.42983,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"San Rafael",
+    "gn:country_code":"EC",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3651528,
+    "gn:latitude":-2.52814,
+    "gn:longitude":-79.42983,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"San Rafael",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670917,
+        421171755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3651528
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"c07e3a87723941c70eb1448b48697c48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421171755,
+            "locality_id":1327346693,
+            "region_id":85670917
+        }
+    ],
+    "wof:id":1327346693,
+    "wof:lastmodified":1536804388,
+    "wof:name":"San Rafael",
+    "wof:parent_id":421171755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.42983000000002,
+    -2.52814,
+    -79.42983000000002,
+    -2.52814
+],
+  "geometry": {"coordinates":[-79.42983000000002,-2.52814],"type":"Point"}
+}

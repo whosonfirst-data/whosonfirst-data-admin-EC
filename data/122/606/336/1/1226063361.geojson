@@ -1,0 +1,67 @@
+{
+  "id": 1226063361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.85754,-2.2844,-80.85754,-2.2844",
+    "geom:latitude":-2.2844,
+    "geom:longitude":-80.85754,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tambo de Abajo",
+    "gn:country_code":"EC",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3650824,
+    "gn:latitude":-2.2844,
+    "gn:longitude":-80.85754,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Tambo de Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670979,
+        1108572401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3650824
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"b5892e00eb9cda1b3a3bc3e40ee9753f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108572401,
+            "locality_id":1226063361,
+            "region_id":85670979
+        }
+    ],
+    "wof:id":1226063361,
+    "wof:lastmodified":1536700100,
+    "wof:name":"Tambo de Abajo",
+    "wof:parent_id":1108572401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.85754,
+    -2.2844,
+    -80.85754,
+    -2.2844
+],
+  "geometry": {"coordinates":[-80.85754,-2.2844],"type":"Point"}
+}

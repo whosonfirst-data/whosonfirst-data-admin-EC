@@ -1,0 +1,68 @@
+{
+  "id": 1309989769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.23333,-2.21667,-80.23333,-2.21667",
+    "geom:latitude":-2.21667,
+    "geom:longitude":-80.23333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Hacienda Los Cantares",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3656643,
+    "gn:latitude":-2.21667,
+    "gn:longitude":-80.23333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hacienda Los Cantares",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670917,
+        421175423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3656643
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"5793bd516eb943b6cfee82ff5547de46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421175423,
+            "locality_id":1309989769,
+            "region_id":85670917
+        }
+    ],
+    "wof:id":1309989769,
+    "wof:lastmodified":1536665999,
+    "wof:name":"Hacienda Los Cantares",
+    "wof:parent_id":421175423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.23333000000002,
+    -2.21667,
+    -80.23333000000002,
+    -2.21667
+],
+  "geometry": {"coordinates":[-80.23333000000002,-2.21667],"type":"Point"}
+}

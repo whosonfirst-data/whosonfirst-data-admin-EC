@@ -1,0 +1,79 @@
+{
+  "id": 421169981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.669662,-0.829999,-78.669662,-0.829999",
+    "geom:latitude":-0.829999,
+    "geom:longitude":-78.669662,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Saquisili",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Cotopaxi",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":464,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":772814,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":26810522,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670915,
+        421184855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26810522,
+        "qs:id":772814,
+        "qs_pg:id":772814
+    },
+    "wof:country":"EC",
+    "wof:created":1459008832,
+    "wof:geomhash":"0ee78a13b8786b56c4e870bf5061ea91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421184855,
+            "localadmin_id":421169981,
+            "region_id":85670915
+        }
+    ],
+    "wof:id":421169981,
+    "wof:lastmodified":1497043320,
+    "wof:name":"Saquisili",
+    "wof:parent_id":421184855,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.669662,
+    -0.829999,
+    -78.669662,
+    -0.829999
+],
+  "geometry": {"coordinates":[-78.669662,-0.829999],"type":"Point"}
+}

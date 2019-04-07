@@ -1,0 +1,69 @@
+{
+  "id": 1276846375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.52027,0.09133,-78.52027,0.09133",
+    "geom:latitude":0.09133,
+    "geom:longitude":-78.52027,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1701.0",
+    "gn:admin3_code":"170154.0",
+    "gn:asciiname":"La Loma",
+    "gn:country_code":"EC",
+    "gn:dem":1860,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3655126,
+    "gn:latitude":0.09133,
+    "gn:longitude":-78.52027,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"La Loma",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670945,
+        421188131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3655126
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"984a9294bf165397587e347940af9f74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421188131,
+            "locality_id":1276846375,
+            "region_id":85670945
+        }
+    ],
+    "wof:id":1276846375,
+    "wof:lastmodified":1537082860,
+    "wof:name":"La Loma",
+    "wof:parent_id":421188131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.52027,
+    0.09133,
+    -78.52027,
+    0.09133
+],
+  "geometry": {"coordinates":[-78.52027,0.09133],"type":"Point"}
+}

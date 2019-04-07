@@ -1,0 +1,67 @@
+{
+  "id": 1259345973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.08333,-0.26667,-79.08333,-0.26667",
+    "geom:latitude":-0.26667,
+    "geom:longitude":-79.08333,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Gloria Maria",
+    "gn:country_code":"EC",
+    "gn:dem":580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3657788,
+    "gn:latitude":-0.26667,
+    "gn:longitude":-79.08333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Gloria Mar\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670983,
+        421190535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3657788
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"bf54be6e251f166b850a9e16eea9eb5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421190535,
+            "locality_id":1259345973,
+            "region_id":85670983
+        }
+    ],
+    "wof:id":1259345973,
+    "wof:lastmodified":1537054057,
+    "wof:name":"Gloria Maria",
+    "wof:parent_id":421190535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.08333,
+    -0.26667,
+    -79.08333,
+    -0.26667
+],
+  "geometry": {"coordinates":[-79.08333,-0.26667],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 421181135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.96667,-2.0,-79.96667,-2.0",
+    "geom:latitude":-2.0,
+    "geom:longitude":-79.96667,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Estacada"
+    ],
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3655219,
+    "qs:gn_pop":0,
+    "qs:name":"La Entrada",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Santa Elena",
+    "qs:photos":61,
+    "qs:photos_1k":12,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":61,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":475482,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":420049,
+    "src:geom":"quattroshapes",
+    "wd:latitude":15.05,
+    "wd:longitude":-88.7333,
+    "wd:wordcount":75,
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670917,
+        421175423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3655219,
+        "gp:id":420049,
+        "qs:id":475482
+    },
+    "wof:country":"EC",
+    "wof:created":1459009286,
+    "wof:geomhash":"f43b3be60d44123ae6cc35bbfec98ecc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421175423,
+            "locality_id":421181135,
+            "region_id":85670917
+        }
+    ],
+    "wof:id":421181135,
+    "wof:lastmodified":1527716320,
+    "wof:name":"La Entrada",
+    "wof:parent_id":421175423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.96667,
+    -2.0,
+    -79.96667,
+    -2.0
+],
+  "geometry": {"coordinates":[-79.96666999999999,-2.0],"type":"Point"}
+}

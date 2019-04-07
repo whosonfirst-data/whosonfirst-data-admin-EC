@@ -1,0 +1,69 @@
+{
+  "id": 1259564403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.40263,0.31049,-78.40263,0.31049",
+    "geom:latitude":0.31049,
+    "geom:longitude":-78.40263,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1003.0",
+    "gn:admin3_code":"100356.0",
+    "gn:asciiname":"Muenala",
+    "gn:country_code":"EC",
+    "gn:dem":3270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8470033,
+    "gn:latitude":0.31049,
+    "gn:longitude":-78.40263,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Muenala",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670971,
+        421185493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8470033
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"28e707015f2d4c2d5689c5cd45e09d9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421185493,
+            "locality_id":1259564403,
+            "region_id":85670971
+        }
+    ],
+    "wof:id":1259564403,
+    "wof:lastmodified":1536742146,
+    "wof:name":"Muenala",
+    "wof:parent_id":421185493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.40263,
+    0.31049,
+    -78.40263,
+    0.31049
+],
+  "geometry": {"coordinates":[-78.40263,0.31049],"type":"Point"}
+}

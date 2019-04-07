@@ -1,0 +1,67 @@
+{
+  "id": 1259459159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.99935,-0.32197,-75.99935,-0.32197",
+    "geom:latitude":-0.32197,
+    "geom:longitude":-75.99935,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Pugachi",
+    "gn:country_code":"EC",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3652692,
+    "gn:latitude":-0.32197,
+    "gn:longitude":-75.99935,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Pugachi",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670977,
+        421188123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3652692
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"65196fbb3ef5084d847eebc10cb4e509",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421188123,
+            "locality_id":1259459159,
+            "region_id":85670977
+        }
+    ],
+    "wof:id":1259459159,
+    "wof:lastmodified":1536893518,
+    "wof:name":"Pugachi",
+    "wof:parent_id":421188123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.99935,
+    -0.32197,
+    -75.99935,
+    -0.32197
+],
+  "geometry": {"coordinates":[-75.99935000000001,-0.32197],"type":"Point"}
+}

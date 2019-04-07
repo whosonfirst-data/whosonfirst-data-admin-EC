@@ -1,0 +1,70 @@
+{
+  "id": 1343624743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.31667,0.06667,-78.31667,0.06667",
+    "geom:latitude":0.06667,
+    "geom:longitude":-78.31667,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1704.0",
+    "gn:admin3_code":"170453.0",
+    "gn:asciiname":"Hacienda Urcuhacienda",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":3014,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3655901,
+    "gn:latitude":0.06667,
+    "gn:longitude":-78.31667,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda Urcuhacienda",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670945,
+        421171753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3655901
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"62d2d57fa0446f5ef0ec2cf1c9b9d4a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421171753,
+            "locality_id":1343624743,
+            "region_id":85670945
+        }
+    ],
+    "wof:id":1343624743,
+    "wof:lastmodified":1537005971,
+    "wof:name":"Hacienda Urcuhacienda",
+    "wof:parent_id":421171753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.31667,
+    0.06667,
+    -78.31667,
+    0.06667
+],
+  "geometry": {"coordinates":[-78.31667,0.06667],"type":"Point"}
+}

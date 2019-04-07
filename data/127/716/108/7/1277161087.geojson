@@ -1,0 +1,69 @@
+{
+  "id": 1277161087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.86667,-1.61667,-79.86667,-1.61667",
+    "geom:latitude":-1.61667,
+    "geom:longitude":-79.86667,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"913.0",
+    "gn:admin3_code":"91350.0",
+    "gn:asciiname":"Margarita",
+    "gn:country_code":"EC",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3654357,
+    "gn:latitude":-1.61667,
+    "gn:longitude":-79.86667,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Margarita",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670917,
+        1108570955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3654357
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"db083592239284c20357c86c4b7e1414",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108570955,
+            "locality_id":1277161087,
+            "region_id":85670917
+        }
+    ],
+    "wof:id":1277161087,
+    "wof:lastmodified":1536654768,
+    "wof:name":"Margarita",
+    "wof:parent_id":1108570955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.86667,
+    -1.61667,
+    -79.86667,
+    -1.61667
+],
+  "geometry": {"coordinates":[-79.86667,-1.61667],"type":"Point"}
+}

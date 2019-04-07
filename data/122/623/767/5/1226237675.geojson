@@ -1,0 +1,67 @@
+{
+  "id": 1226237675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.84587,-2.29214,-80.84587,-2.29214",
+    "geom:latitude":-2.29214,
+    "geom:longitude":-80.84587,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Prosperidad",
+    "gn:country_code":"EC",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3652880,
+    "gn:latitude":-2.29214,
+    "gn:longitude":-80.84587,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Prosperidad",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670979,
+        1108572401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3652880
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"5dd8de5ce0b75531ba373e6ace5cbe25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108572401,
+            "locality_id":1226237675,
+            "region_id":85670979
+        }
+    ],
+    "wof:id":1226237675,
+    "wof:lastmodified":1536945694,
+    "wof:name":"Prosperidad",
+    "wof:parent_id":1108572401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.84586999999998,
+    -2.29214,
+    -80.84586999999998,
+    -2.29214
+],
+  "geometry": {"coordinates":[-80.84586999999998,-2.29214],"type":"Point"}
+}

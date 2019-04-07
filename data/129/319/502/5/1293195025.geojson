@@ -1,0 +1,70 @@
+{
+  "id": 1293195025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.53333,-0.7,-78.53333,-0.7",
+    "geom:latitude":-0.7,
+    "geom:longitude":-78.53333,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"501.0",
+    "gn:admin3_code":"50156.0",
+    "gn:asciiname":"Hacienda Ilitio de Maldonado",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":3382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3656873,
+    "gn:latitude":-0.7,
+    "gn:longitude":-78.53333,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda Ilit\u00edo de Maldonado",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670915,
+        421182157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3656873
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"54f825fd063819fc0d4f443dcec5dac3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421182157,
+            "locality_id":1293195025,
+            "region_id":85670915
+        }
+    ],
+    "wof:id":1293195025,
+    "wof:lastmodified":1536712027,
+    "wof:name":"Hacienda Ilitio de Maldonado",
+    "wof:parent_id":421182157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.53333,
+    -0.7,
+    -78.53333,
+    -0.7
+],
+  "geometry": {"coordinates":[-78.53333000000001,-0.7],"type":"Point"}
+}

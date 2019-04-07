@@ -1,0 +1,69 @@
+{
+  "id": 1310002741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.21667,-3.48333,-80.21667,-3.48333",
+    "geom:latitude":-3.48333,
+    "geom:longitude":-80.21667,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"707.0",
+    "gn:admin3_code":"70750.0",
+    "gn:asciiname":"Hualtaco Viejo",
+    "gn:country_code":"EC",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3655737,
+    "gn:latitude":-3.48333,
+    "gn:longitude":-80.21667,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hualtaco Viejo",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670887,
+        1108569819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3655737
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"3e2686e1a84bbcdcb19ba305ca29291d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108569819,
+            "locality_id":1310002741,
+            "region_id":85670887
+        }
+    ],
+    "wof:id":1310002741,
+    "wof:lastmodified":1536646914,
+    "wof:name":"Hualtaco Viejo",
+    "wof:parent_id":1108569819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.21667,
+    -3.48333,
+    -80.21667,
+    -3.48333
+],
+  "geometry": {"coordinates":[-80.21666999999999,-3.48333],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209295627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.18761,0.41734,-78.18761,0.41734",
+    "geom:latitude":0.41734,
+    "geom:longitude":-78.18761,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1006.0",
+    "gn:admin3_code":"100650.0",
+    "gn:asciiname":"Hacienda San Eloy",
+    "gn:country_code":"EC",
+    "gn:dem":2298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3656278,
+    "gn:latitude":0.41734,
+    "gn:longitude":-78.18761,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda San Eloy",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3656278
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"96c9ce7cd13414193fccc7942f06d3a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632261,
+            "locality_id":1209295627
+        }
+    ],
+    "wof:id":1209295627,
+    "wof:lastmodified":1536291538,
+    "wof:name":"Hacienda San Eloy",
+    "wof:parent_id":85632261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.18760999999998,
+    0.41734,
+    -78.18760999999998,
+    0.41734
+],
+  "geometry": {"coordinates":[-78.18760999999998,0.41734],"type":"Point"}
+}

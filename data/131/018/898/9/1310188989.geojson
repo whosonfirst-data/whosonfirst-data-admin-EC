@@ -1,0 +1,67 @@
+{
+  "id": 1310188989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.83333,-2.28333,-80.83333,-2.28333",
+    "geom:latitude":-2.28333,
+    "geom:longitude":-80.83333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tambo de Arriba",
+    "gn:country_code":"EC",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3650823,
+    "gn:latitude":-2.28333,
+    "gn:longitude":-80.83333,
+    "gn:modification_date":"1997-01-01",
+    "gn:name":"Tambo de Arriba",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670979,
+        1108572401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3650823
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"2768f8e4f8d20018b5a5509d80c5be7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108572401,
+            "locality_id":1310188989,
+            "region_id":85670979
+        }
+    ],
+    "wof:id":1310188989,
+    "wof:lastmodified":1536875210,
+    "wof:name":"Tambo de Arriba",
+    "wof:parent_id":1108572401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.83333,
+    -2.28333,
+    -80.83333,
+    -2.28333
+],
+  "geometry": {"coordinates":[-80.83333,-2.28333],"type":"Point"}
+}

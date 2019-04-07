@@ -1,0 +1,69 @@
+{
+  "id": 1226634087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.14728,0.40279,-78.14728,0.40279",
+    "geom:latitude":0.40279,
+    "geom:longitude":-78.14728,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1006.0",
+    "gn:admin3_code":"100650.0",
+    "gn:asciiname":"Hacienda El Puente",
+    "gn:country_code":"EC",
+    "gn:dem":1984,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3657029,
+    "gn:latitude":0.40279,
+    "gn:longitude":-78.14728,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda El Puente",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670971,
+        421184413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3657029
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"f3d24369878c1f871b2681e0d41fc5a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421184413,
+            "locality_id":1226634087,
+            "region_id":85670971
+        }
+    ],
+    "wof:id":1226634087,
+    "wof:lastmodified":1536875359,
+    "wof:name":"Hacienda El Puente",
+    "wof:parent_id":421184413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.14728000000002,
+    0.40279,
+    -78.14728000000002,
+    0.40279
+],
+  "geometry": {"coordinates":[-78.14728000000002,0.40279],"type":"Point"}
+}

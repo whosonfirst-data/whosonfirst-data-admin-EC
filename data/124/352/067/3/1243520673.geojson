@@ -1,0 +1,69 @@
+{
+  "id": 1243520673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.23333,0.05,-78.23333,0.05",
+    "geom:latitude":0.05,
+    "geom:longitude":-78.23333,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1704.0",
+    "gn:admin3_code":"170450.0",
+    "gn:asciiname":"Santa Teresita",
+    "gn:country_code":"EC",
+    "gn:dem":2908,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3651325,
+    "gn:latitude":0.05,
+    "gn:longitude":-78.23333,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Santa Teresita",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670945,
+        421171753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3651325
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"0febf0db2efd69f52c2610c1e44821fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421171753,
+            "locality_id":1243520673,
+            "region_id":85670945
+        }
+    ],
+    "wof:id":1243520673,
+    "wof:lastmodified":1536698894,
+    "wof:name":"Santa Teresita",
+    "wof:parent_id":421171753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.23333000000002,
+    0.05,
+    -78.23333000000002,
+    0.05
+],
+  "geometry": {"coordinates":[-78.23333000000002,0.05],"type":"Point"}
+}

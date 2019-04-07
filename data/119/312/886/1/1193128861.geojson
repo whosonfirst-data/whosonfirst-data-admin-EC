@@ -1,0 +1,69 @@
+{
+  "id": 1193128861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.9642,-0.54036,-78.9642,-0.54036",
+    "geom:latitude":-0.54036,
+    "geom:longitude":-78.9642,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"507.0",
+    "gn:admin3_code":"50753.0",
+    "gn:asciiname":"El Triunfo Grande",
+    "gn:country_code":"EC",
+    "gn:dem":2503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8472676,
+    "gn:latitude":-0.54036,
+    "gn:longitude":-78.9642,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"El Triunfo Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670915,
+        421184865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8472676
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"98393e5bef752aac85d513fe1ef75610",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421184865,
+            "locality_id":1193128861,
+            "region_id":85670915
+        }
+    ],
+    "wof:id":1193128861,
+    "wof:lastmodified":1536377986,
+    "wof:name":"El Triunfo Grande",
+    "wof:parent_id":421184865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.9642,
+    -0.54036,
+    -78.9642,
+    -0.54036
+],
+  "geometry": {"coordinates":[-78.96420000000001,-0.54036],"type":"Point"}
+}

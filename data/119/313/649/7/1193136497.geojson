@@ -1,0 +1,69 @@
+{
+  "id": 1193136497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.71955,0.65873,-77.71955,0.65873",
+    "geom:latitude":0.65873,
+    "geom:longitude":-77.71955,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"401.0",
+    "gn:admin3_code":"40153.0",
+    "gn:asciiname":"Julio Andrade",
+    "gn:country_code":"EC",
+    "gn:dem":2958,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3655394,
+    "gn:latitude":0.65873,
+    "gn:longitude":-77.71955,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Julio Andrade",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670967,
+        421204303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3655394
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"c33c39bf2350743fdb40f66c3ef0611b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421204303,
+            "locality_id":1193136497,
+            "region_id":85670967
+        }
+    ],
+    "wof:id":1193136497,
+    "wof:lastmodified":1536370144,
+    "wof:name":"Julio Andrade",
+    "wof:parent_id":421204303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.71955,
+    0.65873,
+    -77.71955,
+    0.65873
+],
+  "geometry": {"coordinates":[-77.71955,0.65873],"type":"Point"}
+}

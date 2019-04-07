@@ -1,0 +1,69 @@
+{
+  "id": 1225917413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.57167,-2.71139,-77.57167,-2.71139",
+    "geom:latitude":-2.71139,
+    "geom:longitude":-77.57167,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1409.0",
+    "gn:admin3_code":"140953.0",
+    "gn:asciiname":"Ankuash",
+    "gn:country_code":"EC",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3760725,
+    "gn:latitude":-2.71139,
+    "gn:longitude":-77.57167,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Ankuash",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670935,
+        421191241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3760725
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"27678919012f7c48014e1a096fb05a44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421191241,
+            "locality_id":1225917413,
+            "region_id":85670935
+        }
+    ],
+    "wof:id":1225917413,
+    "wof:lastmodified":1536910764,
+    "wof:name":"Ankuash",
+    "wof:parent_id":421191241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.57167,
+    -2.71139,
+    -77.57167,
+    -2.71139
+],
+  "geometry": {"coordinates":[-77.57167,-2.71139],"type":"Point"}
+}

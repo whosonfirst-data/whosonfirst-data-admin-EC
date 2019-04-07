@@ -1,0 +1,63 @@
+{
+  "id": 1209381029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.43926,-0.28856,-78.43926,-0.28856",
+    "geom:latitude":-0.28856,
+    "geom:longitude":-78.43926,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1701.0",
+    "gn:admin3_code":"170151.0",
+    "gn:asciiname":"El Tingo",
+    "gn:country_code":"EC",
+    "gn:dem":2441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3658070,
+    "gn:latitude":-0.28856,
+    "gn:longitude":-78.43926,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"El Tingo",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3658070
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"97dc706aa8d2eae1ad989604326c294e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632261,
+            "locality_id":1209381029
+        }
+    ],
+    "wof:id":1209381029,
+    "wof:lastmodified":1536288782,
+    "wof:name":"El Tingo",
+    "wof:parent_id":85632261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.43926,
+    -0.28856,
+    -78.43926,
+    -0.28856
+],
+  "geometry": {"coordinates":[-78.43926,-0.28856],"type":"Point"}
+}

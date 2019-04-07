@@ -1,0 +1,79 @@
+{
+  "id": 421196837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.26008,-4.21901,-79.26008,-4.21901",
+    "geom:latitude":-4.21901,
+    "geom:longitude":-79.26008,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Valladolid"
+    ],
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3654484,
+    "qs:gn_pop":0,
+    "qs:name":"Malacatos",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Loja",
+    "qs:photos":157,
+    "qs:photos_1k":32,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":157,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":893978,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":376122,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670891,
+        421182159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3654484,
+        "gp:id":376122,
+        "qs:id":893978
+    },
+    "wof:country":"EC",
+    "wof:created":1459009894,
+    "wof:geomhash":"dbe82f4ee0c15b7e76e0e2991ac73643",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421182159,
+            "locality_id":421196837,
+            "region_id":85670891
+        }
+    ],
+    "wof:id":421196837,
+    "wof:lastmodified":1501268353,
+    "wof:name":"Malacatos",
+    "wof:parent_id":421182159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.26008,
+    -4.21901,
+    -79.26008,
+    -4.21901
+],
+  "geometry": {"coordinates":[-79.26008,-4.21901],"type":"Point"}
+}

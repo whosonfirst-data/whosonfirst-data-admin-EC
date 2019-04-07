@@ -1,0 +1,64 @@
+{
+  "id": 1209097763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.55,-1.0,-78.55,-1.0",
+    "geom:latitude":-1.0,
+    "geom:longitude":-78.55,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"505.0",
+    "gn:admin3_code":"50554.0",
+    "gn:asciiname":"Hacienda Churuloma",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":2994,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3657194,
+    "gn:latitude":-1.0,
+    "gn:longitude":-78.55,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda Churuloma",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3657194
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"4322cc4b25b01df593a6ee1a54fa873f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632261,
+            "locality_id":1209097763
+        }
+    ],
+    "wof:id":1209097763,
+    "wof:lastmodified":1536297832,
+    "wof:name":"Hacienda Churuloma",
+    "wof:parent_id":85632261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.55,
+    -1.0,
+    -78.55,
+    -1.0
+],
+  "geometry": {"coordinates":[-78.55,-1.0],"type":"Point"}
+}

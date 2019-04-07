@@ -1,0 +1,70 @@
+{
+  "id": 1360065481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.6,-3.86667,-79.6,-3.86667",
+    "geom:latitude":-3.86667,
+    "geom:longitude":-79.6,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1105.0",
+    "gn:admin3_code":"110550.0",
+    "gn:asciiname":"Hacienda Huayquichuma",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":1350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3656880,
+    "gn:latitude":-3.86667,
+    "gn:longitude":-79.6,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda Huayquichuma",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670891,
+        1108568481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3656880
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"0ea4a6124659ac5005bd0dbc17ef9f03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108568481,
+            "locality_id":1360065481,
+            "region_id":85670891
+        }
+    ],
+    "wof:id":1360065481,
+    "wof:lastmodified":1536973577,
+    "wof:name":"Hacienda Huayquichuma",
+    "wof:parent_id":1108568481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.6,
+    -3.86667,
+    -79.6,
+    -3.86667
+],
+  "geometry": {"coordinates":[-79.59999999999999,-3.86667],"type":"Point"}
+}

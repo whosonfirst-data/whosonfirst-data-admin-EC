@@ -1,0 +1,70 @@
+{
+  "id": 1310609921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.2,-3.23333,-79.2,-3.23333",
+    "geom:latitude":-3.23333,
+    "geom:longitude":-79.2,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"102.0",
+    "gn:admin3_code":"10250.0",
+    "gn:asciiname":"Hacienda El Cucho",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":1546,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3657064,
+    "gn:latitude":-3.23333,
+    "gn:longitude":-79.2,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda El Cucho",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670885,
+        1108569491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3657064
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"3e90c70eca31f7646107a3eb1bb13017",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108569491,
+            "locality_id":1310609921,
+            "region_id":85670885
+        }
+    ],
+    "wof:id":1310609921,
+    "wof:lastmodified":1536766635,
+    "wof:name":"Hacienda El Cucho",
+    "wof:parent_id":1108569491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.2,
+    -3.23333,
+    -79.2,
+    -3.23333
+],
+  "geometry": {"coordinates":[-79.2,-3.23333],"type":"Point"}
+}

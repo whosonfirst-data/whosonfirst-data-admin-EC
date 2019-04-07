@@ -1,0 +1,69 @@
+{
+  "id": 1343327259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.31667,-1.38333,-78.31667,-1.38333",
+    "geom:latitude":-1.38333,
+    "geom:longitude":-78.31667,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1802.0",
+    "gn:admin3_code":"180253.0",
+    "gn:asciiname":"Agoyan",
+    "gn:country_code":"EC",
+    "gn:dem":2298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3660869,
+    "gn:latitude":-1.38333,
+    "gn:longitude":-78.31667,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Agoy\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670959,
+        1108567995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3660869
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"bfa72a77cc9ad5d3127594d0cabf79d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108567995,
+            "locality_id":1343327259,
+            "region_id":85670959
+        }
+    ],
+    "wof:id":1343327259,
+    "wof:lastmodified":1536939362,
+    "wof:name":"Agoyan",
+    "wof:parent_id":1108567995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.31667,
+    -1.38333,
+    -78.31667,
+    -1.38333
+],
+  "geometry": {"coordinates":[-78.31667,-1.38333],"type":"Point"}
+}

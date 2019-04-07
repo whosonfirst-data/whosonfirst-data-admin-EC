@@ -1,0 +1,69 @@
+{
+  "id": 1243047287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.46667,-0.75,-79.46667,-0.75",
+    "geom:latitude":-0.75,
+    "geom:longitude":-79.46667,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"1210.0",
+    "gn:admin3_code":"121050.0",
+    "gn:asciiname":"Ayasa",
+    "gn:country_code":"EC",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3660446,
+    "gn:latitude":-0.75,
+    "gn:longitude":-79.46667,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Ayasa",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670923,
+        1108568165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3660446
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"4abc77da8859ea6851f08858f65e02d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108568165,
+            "locality_id":1243047287,
+            "region_id":85670923
+        }
+    ],
+    "wof:id":1243047287,
+    "wof:lastmodified":1536883383,
+    "wof:name":"Ayasa",
+    "wof:parent_id":1108568165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.46667,
+    -0.75,
+    -79.46667,
+    -0.75
+],
+  "geometry": {"coordinates":[-79.46666999999999,-0.75],"type":"Point"}
+}

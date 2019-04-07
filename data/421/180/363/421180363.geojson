@@ -1,0 +1,79 @@
+{
+  "id": 421180363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.39917,-0.93548,-75.39917,-0.93548",
+    "geom:latitude":-0.93548,
+    "geom:longitude":-75.39917,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "F\u00e9lix"
+    ],
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3650036,
+    "qs:gn_pop":0,
+    "qs:name":"Yasun\u00ed",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Orellana",
+    "qs:photos":21,
+    "qs:photos_1k":4,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":21,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":501384,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":375661,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670941,
+        421183147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3650036,
+        "gp:id":375661,
+        "qs:id":501384
+    },
+    "wof:country":"EC",
+    "wof:created":1459009253,
+    "wof:geomhash":"60bf419e0355c4efdf0c10a7129f5b70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421183147,
+            "locality_id":421180363,
+            "region_id":85670941
+        }
+    ],
+    "wof:id":421180363,
+    "wof:lastmodified":1501268350,
+    "wof:name":"Yasun\u00ed",
+    "wof:parent_id":421183147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.39917,
+    -0.93548,
+    -75.39917,
+    -0.93548
+],
+  "geometry": {"coordinates":[-75.39917,-0.93548],"type":"Point"}
+}

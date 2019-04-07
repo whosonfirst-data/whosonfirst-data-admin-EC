@@ -1,0 +1,69 @@
+{
+  "id": 1344165997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.31667,-3.31667,-79.31667,-3.31667",
+    "geom:latitude":-3.31667,
+    "geom:longitude":-79.31667,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"108.0",
+    "gn:admin3_code":"10850.0",
+    "gn:asciiname":"Llyshi",
+    "gn:country_code":"EC",
+    "gn:dem":1216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3654677,
+    "gn:latitude":-3.31667,
+    "gn:longitude":-79.31667,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Llyshi",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670885,
+        421189221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3654677
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"78f288c12e360f6488d37213bb19207e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421189221,
+            "locality_id":1344165997,
+            "region_id":85670885
+        }
+    ],
+    "wof:id":1344165997,
+    "wof:lastmodified":1536723554,
+    "wof:name":"Llyshi",
+    "wof:parent_id":421189221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.31667,
+    -3.31667,
+    -79.31667,
+    -3.31667
+],
+  "geometry": {"coordinates":[-79.31667,-3.31667],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 421177871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.71396,-1.93709,-79.71396,-1.93709",
+    "geom:latitude":-1.93709,
+    "geom:longitude":-79.71396,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Hacienda Palestina"
+    ],
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3653581,
+    "qs:gn_pop":9364,
+    "qs:name":"Palestina",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Guayas",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1206910,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":375807,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670917,
+        421189217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3653581,
+        "gp:id":375807,
+        "qs:id":1206910
+    },
+    "wof:country":"EC",
+    "wof:created":1459009163,
+    "wof:geomhash":"53f643cc17a9e677a14acf53210007a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421189217,
+            "locality_id":421177871,
+            "region_id":85670917
+        }
+    ],
+    "wof:id":421177871,
+    "wof:lastmodified":1505340634,
+    "wof:name":"Palestina",
+    "wof:parent_id":421189217,
+    "wof:placetype":"locality",
+    "wof:population":9364,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.71396,
+    -1.93709,
+    -79.71396,
+    -1.93709
+],
+  "geometry": {"coordinates":[-79.71396,-1.93709],"type":"Point"}
+}

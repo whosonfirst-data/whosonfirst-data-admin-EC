@@ -1,0 +1,109 @@
+{
+  "id": 1108568447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001481,
+    "geom:area_square_m":18309198.800858,
+    "geom:bbox":"-78.6368808085,-1.37072708771,-78.5864062577,-1.32161407248",
+    "geom:latitude":-1.348089,
+    "geom:longitude":-78.608865,
+    "iso:country":"EC",
+    "lbl:latitude":-1.350513,
+    "lbl:longitude":-78.608387,
+    "meso:admin_1":"Tungurahua",
+    "meso:gadm_hasc2":"EC.TU.CE",
+    "meso:gaul_adm2":"Cevallos",
+    "meso:mps_x":-78.608387,
+    "meso:mps_y":-1.350513,
+    "meso:name_local":"Cevallos",
+    "meso:source":"AOTM",
+    "mps:latitude":-1.350513,
+    "mps:longitude":-78.608387,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u585e\u74e6\u7565\u65af\u7e23"
+    ],
+    "name:dut_x_preferred":[
+        "Cevallos Canton"
+    ],
+    "name:eng_x_preferred":[
+        "Cevallos"
+    ],
+    "name:fre_x_preferred":[
+        "Cevallos"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d4\u10d5\u10d0\u10da\u10d8\u10dd\u10e1\u10d8\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
+    ],
+    "name:ita_x_preferred":[
+        "Cantone di Cevallos"
+    ],
+    "name:que_x_preferred":[
+        "Cevallos kiti"
+    ],
+    "name:spa_x_preferred":[
+        "Cant\u00f3n Cevallos"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e1\u10d4\u10d5\u10d0\u10da\u10d8\u10dd\u10e1\u10d8\u10e8 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2001-11-25",
+    "statoids:area_km":"19",
+    "statoids:as_of_date":"2001-11-25",
+    "statoids:capital":"Cevallos",
+    "statoids:country":"EC",
+    "statoids:hasc":"EC.TU",
+    "statoids:name":"Cevallos",
+    "statoids:population":"6873",
+    "statoids:statoid":"EC.TU.CE",
+    "statoids:timezone":"-5",
+    "statoids:type":"canton",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"EC.TU.CE",
+        "wd:id":"Q1990478"
+    },
+    "wof:country":"EC",
+    "wof:created":1474064391,
+    "wof:geomhash":"028f623cd970685c226111eb243f80ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108568447,
+            "region_id":85670959
+        }
+    ],
+    "wof:id":1108568447,
+    "wof:lastmodified":1536615229,
+    "wof:name":"Cevallos",
+    "wof:parent_id":85670959,
+    "wof:placetype":"county",
+    "wof:placetype_local":"canton",
+    "wof:population":6873,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:shortcode":"CE",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.63688080852918,
+    -1.37072708771273,
+    -78.58640625774117,
+    -1.32161407248027
+],
+  "geometry": {"coordinates":[[[-78.62840277695166,-1.33719576008692],[-78.61795261921215,-1.33642519353197],[-78.61501108283178,-1.33287066685186],[-78.6140654035098,-1.3311617404029],[-78.61383482055314,-1.33101157214101],[-78.61124918419866,-1.33041643317706],[-78.60779698855644,-1.33048974558783],[-78.59783320431248,-1.32161407248027],[-78.5940784111273,-1.32688995352309],[-78.59141759085072,-1.33324939229362],[-78.59134130505367,-1.33327956271218],[-78.58837677427147,-1.3364290620016],[-78.58657098789175,-1.34234702544993],[-78.58640625774117,-1.34473441835379],[-78.58734071009779,-1.34856742014966],[-78.58730813975829,-1.34896988429413],[-78.58987955096353,-1.3515515160952],[-78.59064048630607,-1.35523540165549],[-78.59127551207379,-1.36185122505315],[-78.59406525533596,-1.3658218156834],[-78.59791165166224,-1.36681811397657],[-78.59848676392096,-1.36679206582626],[-78.5996126733215,-1.36759875239202],[-78.60891503942283,-1.37072708771273],[-78.61283822826628,-1.36709308008917],[-78.61997508621945,-1.36398154749249],[-78.62082776182325,-1.36419173264733],[-78.62251255045481,-1.36255852652506],[-78.63688080852918,-1.35411961276053],[-78.63566994639181,-1.34831977880372],[-78.63571505823113,-1.34802659997496],[-78.6337311739255,-1.34549131767038],[-78.62840277695166,-1.33719576008692]]],"type":"Polygon"}
+}

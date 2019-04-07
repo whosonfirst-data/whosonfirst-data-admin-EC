@@ -1,0 +1,69 @@
+{
+  "id": 1260055921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.12512,0.12126,-78.12512,0.12126",
+    "geom:latitude":0.12126,
+    "geom:longitude":-78.12512,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1702.0",
+    "gn:admin3_code":"170256.0",
+    "gn:asciiname":"Taxochupa",
+    "gn:country_code":"EC",
+    "gn:dem":3166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8470611,
+    "gn:latitude":0.12126,
+    "gn:longitude":-78.12512,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Taxochupa",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670945,
+        421197049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8470611
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"81fe3065007d4eef9d3fc547d78018e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421197049,
+            "locality_id":1260055921,
+            "region_id":85670945
+        }
+    ],
+    "wof:id":1260055921,
+    "wof:lastmodified":1537026619,
+    "wof:name":"Taxochupa",
+    "wof:parent_id":421197049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.12512,
+    0.12126,
+    -78.12512,
+    0.12126
+],
+  "geometry": {"coordinates":[-78.12512,0.12126],"type":"Point"}
+}

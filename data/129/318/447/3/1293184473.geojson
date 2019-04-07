@@ -1,0 +1,67 @@
+{
+  "id": 1293184473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.93333,-2.225,-80.93333,-2.225",
+    "geom:latitude":-2.225,
+    "geom:longitude":-80.93333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ciudadela Costa de Oro",
+    "gn:country_code":"EC",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3745526,
+    "gn:latitude":-2.225,
+    "gn:longitude":-80.93333,
+    "gn:modification_date":"1997-03-10",
+    "gn:name":"Ciudadela Costa de Oro",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670979,
+        421203481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3745526
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"87e02ebff724de9146405ecc559379fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421203481,
+            "locality_id":1293184473,
+            "region_id":85670979
+        }
+    ],
+    "wof:id":1293184473,
+    "wof:lastmodified":1536727357,
+    "wof:name":"Ciudadela Costa de Oro",
+    "wof:parent_id":421203481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.93333,
+    -2.225,
+    -80.93333,
+    -2.225
+],
+  "geometry": {"coordinates":[-80.93333,-2.225],"type":"Point"}
+}

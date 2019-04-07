@@ -1,0 +1,69 @@
+{
+  "id": 1260380077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.84019,-1.36188,-79.84019,-1.36188",
+    "geom:latitude":-1.36188,
+    "geom:longitude":-79.84019,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"904.0",
+    "gn:admin3_code":"90450.0",
+    "gn:asciiname":"Britanica",
+    "gn:country_code":"EC",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3656825,
+    "gn:latitude":-1.36188,
+    "gn:longitude":-79.84019,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Brit\u00e1nica",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670917,
+        1108567949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3656825
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"5be056f1baafc6317c99453d8612d807",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108567949,
+            "locality_id":1260380077,
+            "region_id":85670917
+        }
+    ],
+    "wof:id":1260380077,
+    "wof:lastmodified":1537076466,
+    "wof:name":"Britanica",
+    "wof:parent_id":1108567949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.84019,
+    -1.36188,
+    -79.84019,
+    -1.36188
+],
+  "geometry": {"coordinates":[-79.84019000000001,-1.36188],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209499549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.51799,-0.05807,-79.51799,-0.05807",
+    "geom:latitude":-0.05807,
+    "geom:longitude":-79.51799,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mocache Tres",
+    "gn:country_code":"EC",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8472349,
+    "gn:latitude":-0.05807,
+    "gn:longitude":-79.51799,
+    "gn:modification_date":"2013-03-06",
+    "gn:name":"Mocache Tres",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8472349
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"48650b7448955399ce10bb83e604ab0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632261,
+            "locality_id":1209499549
+        }
+    ],
+    "wof:id":1209499549,
+    "wof:lastmodified":1536285227,
+    "wof:name":"Mocache Tres",
+    "wof:parent_id":85632261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.51799,
+    -0.05807,
+    -79.51799,
+    -0.05807
+],
+  "geometry": {"coordinates":[-79.51799,-0.05807],"type":"Point"}
+}

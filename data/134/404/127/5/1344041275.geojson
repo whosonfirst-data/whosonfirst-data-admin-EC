@@ -1,0 +1,69 @@
+{
+  "id": 1344041275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.88116,-1.71247,-79.88116,-1.71247",
+    "geom:latitude":-1.71247,
+    "geom:longitude":-79.88116,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"913.0",
+    "gn:admin3_code":"91350.0",
+    "gn:asciiname":"La Corona",
+    "gn:country_code":"EC",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3655267,
+    "gn:latitude":-1.71247,
+    "gn:longitude":-79.88116,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"La Corona",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670917,
+        1108573139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3655267
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"c62f45b15eecef3f5bbe026e2d6aac19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108573139,
+            "locality_id":1344041275,
+            "region_id":85670917
+        }
+    ],
+    "wof:id":1344041275,
+    "wof:lastmodified":1536903486,
+    "wof:name":"La Corona",
+    "wof:parent_id":1108573139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.88116,
+    -1.71247,
+    -79.88116,
+    -1.71247
+],
+  "geometry": {"coordinates":[-79.88115999999999,-1.71247],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1226419581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.35795,-4.18991,-80.35795,-4.18991",
+    "geom:latitude":-4.18991,
+    "geom:longitude":-80.35795,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1113.0",
+    "gn:admin3_code":"111355.0",
+    "gn:asciiname":"San Felipe",
+    "gn:country_code":"EC",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3651926,
+    "gn:latitude":-4.18991,
+    "gn:longitude":-80.35795,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"San Felipe",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670891,
+        1108573397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3651926
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"211ee1efb2784bff0724b52e21f69eb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108573397,
+            "locality_id":1226419581,
+            "region_id":85670891
+        }
+    ],
+    "wof:id":1226419581,
+    "wof:lastmodified":1536683177,
+    "wof:name":"San Felipe",
+    "wof:parent_id":1108573397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.35795,
+    -4.18991,
+    -80.35795,
+    -4.18991
+],
+  "geometry": {"coordinates":[-80.35795,-4.18991],"type":"Point"}
+}

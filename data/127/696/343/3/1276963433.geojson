@@ -1,0 +1,69 @@
+{
+  "id": 1276963433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.05,1.11667,-79.05,1.11667",
+    "geom:latitude":1.11667,
+    "geom:longitude":-79.05,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"802.0",
+    "gn:admin3_code":"80254.0",
+    "gn:asciiname":"La Saban",
+    "gn:country_code":"EC",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3654989,
+    "gn:latitude":1.11667,
+    "gn:longitude":-79.05,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"La Saban",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670963,
+        1108569287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3654989
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"afb98da36fdb0e3dae2884b359610862",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108569287,
+            "locality_id":1276963433,
+            "region_id":85670963
+        }
+    ],
+    "wof:id":1276963433,
+    "wof:lastmodified":1536930081,
+    "wof:name":"La Saban",
+    "wof:parent_id":1108569287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.05,
+    1.11667,
+    -79.05,
+    1.11667
+],
+  "geometry": {"coordinates":[-79.05,1.11667],"type":"Point"}
+}

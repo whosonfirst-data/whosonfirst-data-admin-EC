@@ -1,0 +1,69 @@
+{
+  "id": 1360062511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.63333,-4.15,-79.63333,-4.15",
+    "geom:latitude":-4.15,
+    "geom:longitude":-79.63333,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1109.0",
+    "gn:admin3_code":"110950.0",
+    "gn:asciiname":"Los Llanos",
+    "gn:country_code":"EC",
+    "gn:dem":1706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3654606,
+    "gn:latitude":-4.15,
+    "gn:longitude":-79.63333,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Los Llanos",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670891,
+        1108571061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3654606
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"f0d8bfda10485f0e14078dacc2fe8082",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108571061,
+            "locality_id":1360062511,
+            "region_id":85670891
+        }
+    ],
+    "wof:id":1360062511,
+    "wof:lastmodified":1536977742,
+    "wof:name":"Los Llanos",
+    "wof:parent_id":1108571061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.63333,
+    -4.15,
+    -79.63333,
+    -4.15
+],
+  "geometry": {"coordinates":[-79.63333,-4.15],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209498985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.85,-2.18333,-80.85,-2.18333",
+    "geom:latitude":-2.18333,
+    "geom:longitude":-80.85,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Puerto Nancy",
+    "gn:country_code":"EC",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3652726,
+    "gn:latitude":-2.18333,
+    "gn:longitude":-80.85,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Puerto Nancy",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3652726
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"adf1cbaa06d8eda0ccb8f2714ca99dea",
+    "wof:hierarchy":[
+        {
+            "country_id":85632261,
+            "locality_id":1209498985
+        }
+    ],
+    "wof:id":1209498985,
+    "wof:lastmodified":1536285244,
+    "wof:name":"Puerto Nancy",
+    "wof:parent_id":85632261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.85,
+    -2.18333,
+    -80.85,
+    -2.18333
+],
+  "geometry": {"coordinates":[-80.84999999999999,-2.18333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293678115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.6,-2.16667,-80.6,-2.16667",
+    "geom:latitude":-2.16667,
+    "geom:longitude":-80.6,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Volcan Grande",
+    "gn:country_code":"EC",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3650155,
+    "gn:latitude":-2.16667,
+    "gn:longitude":-80.6,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Volc\u00e1n Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670979,
+        1108572401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3650155
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"c6c68aa592462868042a624c9ca89b0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108572401,
+            "locality_id":1293678115,
+            "region_id":85670979
+        }
+    ],
+    "wof:id":1293678115,
+    "wof:lastmodified":1537008808,
+    "wof:name":"Volcan Grande",
+    "wof:parent_id":1108572401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.6,
+    -2.16667,
+    -80.6,
+    -2.16667
+],
+  "geometry": {"coordinates":[-80.59999999999999,-2.16667],"type":"Point"}
+}

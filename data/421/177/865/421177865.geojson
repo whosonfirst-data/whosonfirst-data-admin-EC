@@ -1,0 +1,99 @@
+{
+  "id": 421177865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.96516,-1.70131,-77.96516,-1.70131",
+    "geom:latitude":-1.70131,
+    "geom:longitude":-77.96516,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Palora"
+    ],
+    "name:dut_x_preferred":[
+        "Palora"
+    ],
+    "name:eng_x_preferred":[
+        "Palora"
+    ],
+    "name:que_x_preferred":[
+        "Palura"
+    ],
+    "name:swe_x_preferred":[
+        "Palora"
+    ],
+    "name:unk_x_variant":[
+        "Metzera"
+    ],
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3653523,
+    "qs:gn_pop":6472,
+    "qs:name":"Palora",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Morona-Santiago",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1206794,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":373934,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670935,
+        421201631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3653523,
+        "gp:id":373934,
+        "qs:id":1206794,
+        "wd:id":"Q10949718",
+        "wk:page":"Palora"
+    },
+    "wof:country":"EC",
+    "wof:created":1459009163,
+    "wof:geomhash":"8049311d8ec4f97e28f07a41b29a173d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421201631,
+            "locality_id":421177865,
+            "region_id":85670935
+        }
+    ],
+    "wof:id":421177865,
+    "wof:lastmodified":1513956269,
+    "wof:name":"Palora",
+    "wof:parent_id":421201631,
+    "wof:placetype":"locality",
+    "wof:population":6472,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.96516,
+    -1.70131,
+    -77.96516,
+    -1.70131
+],
+  "geometry": {"coordinates":[-77.96516,-1.70131],"type":"Point"}
+}

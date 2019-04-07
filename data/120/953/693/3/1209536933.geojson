@@ -1,0 +1,63 @@
+{
+  "id": 1209536933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.6309,-0.94069,-78.6309,-0.94069",
+    "geom:latitude":-0.94069,
+    "geom:longitude":-78.6309,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"501.0",
+    "gn:admin3_code":"50150.0",
+    "gn:asciiname":"Hacienda Pichil",
+    "gn:country_code":"EC",
+    "gn:dem":2826,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3656474,
+    "gn:latitude":-0.94069,
+    "gn:longitude":-78.6309,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda Pichil",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3656474
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"c7b9deba2e187d21ddb35d19043ebe9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632261,
+            "locality_id":1209536933
+        }
+    ],
+    "wof:id":1209536933,
+    "wof:lastmodified":1536284111,
+    "wof:name":"Hacienda Pichil",
+    "wof:parent_id":85632261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.6309,
+    -0.94069,
+    -78.6309,
+    -0.94069
+],
+  "geometry": {"coordinates":[-78.6309,-0.94069],"type":"Point"}
+}

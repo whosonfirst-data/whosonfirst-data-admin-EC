@@ -1,0 +1,67 @@
+{
+  "id": 1260188603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.03333,-2.31667,-79.03333,-2.31667",
+    "geom:latitude":-2.31667,
+    "geom:longitude":-79.03333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"El Olimpo",
+    "gn:country_code":"EC",
+    "gn:dem":1579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3658198,
+    "gn:latitude":-2.31667,
+    "gn:longitude":-79.03333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Olimpo",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670931,
+        421196577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3658198
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"7eb69ac5ea1e41b2c1959de53a1b97a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421196577,
+            "locality_id":1260188603,
+            "region_id":85670931
+        }
+    ],
+    "wof:id":1260188603,
+    "wof:lastmodified":1536839875,
+    "wof:name":"El Olimpo",
+    "wof:parent_id":421196577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.03333,
+    -2.31667,
+    -79.03333,
+    -2.31667
+],
+  "geometry": {"coordinates":[-79.03333000000001,-2.31667],"type":"Point"}
+}

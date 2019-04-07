@@ -1,0 +1,99 @@
+{
+  "id": 421193391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.21705,0.33151,-78.21705,0.33151",
+    "geom:latitude":0.33151,
+    "geom:longitude":-78.21705,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u963f\u901a\u5854\u57fa"
+    ],
+    "name:dut_x_preferred":[
+        "Atuntaqui"
+    ],
+    "name:eng_x_preferred":[
+        "Atuntaqui"
+    ],
+    "name:que_x_preferred":[
+        "Hatuntaki"
+    ],
+    "name:spa_x_preferred":[
+        "Atuntaqui"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u901a\u5854\u57fa"
+    ],
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3660478,
+    "qs:gn_pop":17456,
+    "qs:name":"Atuntaqui",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Imbabura",
+    "qs:photos":220,
+    "qs:photos_1k":45,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":220,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":893980,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":375841,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":279,
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670971,
+        421169627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3660478,
+        "gp:id":375841,
+        "qs:id":893980,
+        "wd:id":"Q4741622"
+    },
+    "wof:country":"EC",
+    "wof:created":1459009769,
+    "wof:geomhash":"32ebb0f8ca8ee4678911efdf5caa4f03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421169627,
+            "locality_id":421193391,
+            "region_id":85670971
+        }
+    ],
+    "wof:id":421193391,
+    "wof:lastmodified":1527716138,
+    "wof:name":"Atuntaqui",
+    "wof:parent_id":421169627,
+    "wof:placetype":"locality",
+    "wof:population":17456,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.21705,
+    0.33151,
+    -78.21705,
+    0.33151
+],
+  "geometry": {"coordinates":[-78.21705,0.33151],"type":"Point"}
+}

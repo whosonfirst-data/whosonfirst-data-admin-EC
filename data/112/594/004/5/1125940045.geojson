@@ -1,0 +1,94 @@
+{
+  "id": 1125940045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.98306,1.24917,-78.98306,1.24917",
+    "geom:latitude":1.24917,
+    "geom:longitude":-78.98306,
+    "gn:gn_country":"EC",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":11441,
+    "gn:population":11441,
+    "iso:country":"EC",
+    "lbl:latitude":1.24917,
+    "lbl:longitude":-78.98306,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Valdez"
+    ],
+    "name:eng_x_preferred":[
+        "Valdez"
+    ],
+    "name:spa_x_preferred":[
+        "Vald\u00e9z"
+    ],
+    "name:swe_x_preferred":[
+        "Valdez"
+    ],
+    "name:unk_x_variant":[
+        "Limones"
+    ],
+    "qs_pg:aaroncc":"EC",
+    "qs_pg:gn_country":"EC",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3650312,
+    "qs_pg:gn_pop":11441,
+    "qs_pg:name":"Valdez",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1045833,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670963,
+        1108569287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3650312,
+        "qs_pg:id":1045833,
+        "wd:id":"Q7909405"
+    },
+    "wof:country":"EC",
+    "wof:created":1497297089,
+    "wof:geomhash":"58bb34dd34e9eedbdd942a87278db5c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108569287,
+            "locality_id":1125940045,
+            "region_id":85670963
+        }
+    ],
+    "wof:id":1125940045,
+    "wof:lastmodified":1553816646,
+    "wof:name":"Valdez",
+    "wof:parent_id":1108569287,
+    "wof:placetype":"locality",
+    "wof:population":11441,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.98306,
+    1.24917,
+    -78.98306,
+    1.24917
+],
+  "geometry": {"coordinates":[-78.98305999999999,1.24917],"type":"Point"}
+}

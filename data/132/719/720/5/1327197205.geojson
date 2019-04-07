@@ -1,0 +1,69 @@
+{
+  "id": 1327197205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.35071,0.07454,-79.35071,0.07454",
+    "geom:latitude":0.07454,
+    "geom:longitude":-79.35071,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1709.0",
+    "gn:admin3_code":"170950.0",
+    "gn:asciiname":"San Antonio del Blanco",
+    "gn:country_code":"EC",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8470177,
+    "gn:latitude":0.07454,
+    "gn:longitude":-79.35071,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"San Antonio del Blanco",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670945,
+        421190531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8470177
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"1242551b8a9699e87605443152c9cc8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421190531,
+            "locality_id":1327197205,
+            "region_id":85670945
+        }
+    ],
+    "wof:id":1327197205,
+    "wof:lastmodified":1537019675,
+    "wof:name":"San Antonio del Blanco",
+    "wof:parent_id":421190531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.35070999999998,
+    0.07454,
+    -79.35070999999998,
+    0.07454
+],
+  "geometry": {"coordinates":[-79.35070999999998,0.07454],"type":"Point"}
+}

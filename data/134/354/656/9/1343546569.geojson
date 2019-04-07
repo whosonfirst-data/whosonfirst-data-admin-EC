@@ -1,0 +1,69 @@
+{
+  "id": 1343546569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.76667,-3.5,-79.76667,-3.5",
+    "geom:latitude":-3.5,
+    "geom:longitude":-79.76667,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"703.0",
+    "gn:admin3_code":"70355.0",
+    "gn:asciiname":"Quebrada Seca",
+    "gn:country_code":"EC",
+    "gn:dem":704,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3652576,
+    "gn:latitude":-3.5,
+    "gn:longitude":-79.76667,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Quebrada Seca",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670887,
+        421192947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3652576
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"1e77f759b47f374d5d01162728ffbb62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421192947,
+            "locality_id":1343546569,
+            "region_id":85670887
+        }
+    ],
+    "wof:id":1343546569,
+    "wof:lastmodified":1536619883,
+    "wof:name":"Quebrada Seca",
+    "wof:parent_id":421192947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.76666999999998,
+    -3.5,
+    -79.76666999999998,
+    -3.5
+],
+  "geometry": {"coordinates":[-79.76666999999998,-3.5],"type":"Point"}
+}

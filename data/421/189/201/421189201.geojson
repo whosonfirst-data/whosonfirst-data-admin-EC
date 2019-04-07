@@ -1,0 +1,169 @@
+{
+  "id": 421189201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002316,
+    "geom:area_square_m":28617181.310167,
+    "geom:bbox":"-80.9201165673,-2.27240751521,-80.8665907511,-2.20698651161",
+    "geom:latitude":-2.237776,
+    "geom:longitude":-80.890467,
+    "iso:country":"EC",
+    "lbl:latitude":-2.235297,
+    "lbl:longitude":-80.892634,
+    "meso:admin_1":"Santa Elena",
+    "meso:gadm_hasc2":"EC.GU.LL",
+    "meso:gaul_adm2":"La Libertad",
+    "meso:mps_x":-80.892634,
+    "meso:mps_y":-2.235297,
+    "meso:name_local":"La Libertad",
+    "meso:source":"AOTM",
+    "mps:latitude":-2.235297,
+    "mps:longitude":-80.892634,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "La Libertad"
+    ],
+    "name:deu_x_preferred":[
+        "La Libertad"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b1 \u039b\u03b9\u03bc\u03c0\u03b5\u03c1\u03c4\u03ac\u03b4"
+    ],
+    "name:eng_x_preferred":[
+        "La Libertad"
+    ],
+    "name:epo_x_preferred":[
+        "La Libertad"
+    ],
+    "name:fra_x_preferred":[
+        "La Libertad"
+    ],
+    "name:glg_x_preferred":[
+        "La Libertad"
+    ],
+    "name:hbs_x_preferred":[
+        "La Libertad"
+    ],
+    "name:ita_x_preferred":[
+        "La Libertad"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\ub9ac\ubca0\ub974\ud0c0\ub4dc"
+    ],
+    "name:lit_x_preferred":[
+        "La Libertadas"
+    ],
+    "name:nld_x_preferred":[
+        "La Libertad"
+    ],
+    "name:pol_x_preferred":[
+        "La Libertad"
+    ],
+    "name:por_x_preferred":[
+        "La Libertad"
+    ],
+    "name:que_x_preferred":[
+        "La Libertad"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430-\u041b\u0438\u0431\u0435\u0440\u0442\u0430\u0434"
+    ],
+    "name:sco_x_preferred":[
+        "La Libertad"
+    ],
+    "name:spa_x_preferred":[
+        "La Libertad"
+    ],
+    "name:swe_x_preferred":[
+        "La Libertad"
+    ],
+    "name:vie_x_preferred":[
+        "La Libertad"
+    ],
+    "name:war_x_preferred":[
+        "La Libertad"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"La Libertad",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Santa Elena",
+    "qs:photos":11,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":272,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1110294,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":26809571,
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2001-11-25",
+    "statoids:area_km":"25",
+    "statoids:as_of_date":"2001-11-25",
+    "statoids:capital":"La Libertad",
+    "statoids:country":"EC",
+    "statoids:hasc":"EC.SE",
+    "statoids:name":"La Libertad",
+    "statoids:population":"77646",
+    "statoids:statoid":"EC.SE.LL",
+    "statoids:timezone":"-5",
+    "statoids:type":"canton",
+    "wd:wordcount":114,
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26809571,
+        "hasc:id":"EC.SE.LL",
+        "qs:id":1110294
+    },
+    "wof:country":"EC",
+    "wof:created":1459009613,
+    "wof:geomhash":"7bd0530841c9fbd0dd882d5bd3eee45c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421189201,
+            "region_id":85670979
+        }
+    ],
+    "wof:id":421189201,
+    "wof:lastmodified":1536616075,
+    "wof:name":"La Libertad",
+    "wof:parent_id":85670979,
+    "wof:placetype":"county",
+    "wof:placetype_local":"canton",
+    "wof:population":77646,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:shortcode":"LL",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.92011656733763,
+    -2.2724075152061,
+    -80.86659075113542,
+    -2.20698651161071
+],
+  "geometry": {"coordinates":[[[-80.91070634155494,-2.2165210958344],[-80.90836334199986,-2.21708321599988],[-80.90583038299991,-2.21541666999991],[-80.89919280999993,-2.21208333999982],[-80.89749908399989,-2.21208333999982],[-80.89505767799994,-2.21041655499994],[-80.89252471899988,-2.21041655499994],[-80.89167022699985,-2.20961117699989],[-80.89002990699993,-2.20961117699989],[-80.88739072386754,-2.20698651161071],[-80.88712503597168,-2.20727294438623],[-80.87923038146819,-2.21094373638472],[-80.87745865661387,-2.21021126354975],[-80.87462387805186,-2.21220444953877],[-80.87222913271819,-2.21622952573098],[-80.87088307106391,-2.21739728937396],[-80.86900272991109,-2.21803253290896],[-80.86659075113542,-2.22703511898862],[-80.86677022173512,-2.22772278930792],[-80.87004623573836,-2.23440716104041],[-80.86799340586363,-2.23931442923211],[-80.86926088332038,-2.24460134057873],[-80.86915394003246,-2.24589095505267],[-80.86887419719433,-2.24687301500296],[-80.87099946297143,-2.2552575121379],[-80.87174442966581,-2.25646824056986],[-80.86845856961808,-2.26760248648972],[-80.8757127755524,-2.2724075152061],[-80.88344842118416,-2.26736846437613],[-80.88414400360854,-2.26723165103609],[-80.88983745302697,-2.26229490720304],[-80.89158005322246,-2.2611526134884],[-80.89198979728684,-2.26056673812559],[-80.89544007459851,-2.2584795420944],[-80.90043629638907,-2.25947788659434],[-80.90724803619135,-2.25705957434868],[-80.90889656276251,-2.25671579900594],[-80.91050220652188,-2.25359337024432],[-80.91514193863668,-2.24898548669669],[-80.91884525571331,-2.24614927743239],[-80.92011656733763,-2.24320641250961],[-80.9176706894612,-2.23820101898557],[-80.91757444545686,-2.23772388862138],[-80.91802729529059,-2.23524441303444],[-80.91583650890826,-2.23143184583696],[-80.91589569242687,-2.23062844912806],[-80.91383482702786,-2.22416156805228],[-80.91220786438075,-2.22295509455243],[-80.91070634155494,-2.2165210958344]]],"type":"Polygon"}
+}

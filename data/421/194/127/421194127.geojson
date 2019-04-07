@@ -1,0 +1,112 @@
+{
+  "id": 421194127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.47015,0.33278,-79.47015,0.33278",
+    "geom:latitude":0.33278,
+    "geom:longitude":-79.47015,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Rosa Zarate"
+    ],
+    "name:hun_x_preferred":[
+        "Quinind\u00e9 kanton"
+    ],
+    "name:ita_x_preferred":[
+        "Cantone di Quinind\u00e9"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d8\u10dc\u10d8\u10dc\u10d3\u10d4\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
+    ],
+    "name:por_x_preferred":[
+        "Quinind\u00e9"
+    ],
+    "name:que_x_preferred":[
+        "Kininti kiti"
+    ],
+    "name:spa_x_preferred":[
+        "Cant\u00f3n Quinind\u00e9"
+    ],
+    "name:swe_x_preferred":[
+        "Rosa Zarate"
+    ],
+    "name:unk_x_variant":[
+        "Quinind\u00e9"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u5be7\u5fb7\u7e23"
+    ],
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3652257,
+    "qs:gn_pop":42121,
+    "qs:name":"Rosa Zarate",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Esmeraldas",
+    "qs:photos":43,
+    "qs:photos_1k":9,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":43,
+    "qs:photos_sr":2,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"7",
+    "qs:qs_id":957592,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":26810365,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":34,
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670963,
+        1108571921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3652257,
+        "gp:id":26810365,
+        "qs:id":957592,
+        "wd:id":"Q971410",
+        "wk:page":"Quinind\u00e9 Canton"
+    },
+    "wof:country":"EC",
+    "wof:created":1459009795,
+    "wof:geomhash":"f05bb10a8b7a1efd9828ca7b81354351",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108571921,
+            "localadmin_id":421194127,
+            "region_id":85670963
+        }
+    ],
+    "wof:id":421194127,
+    "wof:lastmodified":1527716132,
+    "wof:name":"Rosa Zarate",
+    "wof:parent_id":1108571921,
+    "wof:placetype":"localadmin",
+    "wof:population":42121,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.47015,
+    0.33278,
+    -79.47015,
+    0.33278
+],
+  "geometry": {"coordinates":[-79.47015,0.33278],"type":"Point"}
+}

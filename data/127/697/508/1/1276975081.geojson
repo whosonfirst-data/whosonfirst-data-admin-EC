@@ -1,0 +1,69 @@
+{
+  "id": 1276975081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.58333,-2.53333,-79.58333,-2.53333",
+    "geom:latitude":-2.53333,
+    "geom:longitude":-79.58333,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"911.0",
+    "gn:admin3_code":"91154.0",
+    "gn:asciiname":"Gramatal",
+    "gn:country_code":"EC",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3657761,
+    "gn:latitude":-2.53333,
+    "gn:longitude":-79.58333,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Gramatal",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670917,
+        421171755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3657761
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"d60a0ae8e17a65a6b1cf6ecb3c68299d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421171755,
+            "locality_id":1276975081,
+            "region_id":85670917
+        }
+    ],
+    "wof:id":1276975081,
+    "wof:lastmodified":1536914074,
+    "wof:name":"Gramatal",
+    "wof:parent_id":421171755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.58333,
+    -2.53333,
+    -79.58333,
+    -2.53333
+],
+  "geometry": {"coordinates":[-79.58333,-2.53333],"type":"Point"}
+}

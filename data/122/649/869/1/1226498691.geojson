@@ -1,0 +1,67 @@
+{
+  "id": 1226498691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.2,-0.8,-77.2,-0.8",
+    "geom:latitude":-0.8,
+    "geom:longitude":-77.2,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Cruz Chicta",
+    "gn:country_code":"EC",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3658736,
+    "gn:latitude":-0.8,
+    "gn:longitude":-77.2,
+    "gn:modification_date":"2003-08-04",
+    "gn:name":"Cruz Chicta",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670941,
+        421185491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3658736
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"c02b6429ef4c0e104a14f1625e8cf211",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421185491,
+            "locality_id":1226498691,
+            "region_id":85670941
+        }
+    ],
+    "wof:id":1226498691,
+    "wof:lastmodified":1537063176,
+    "wof:name":"Cruz Chicta",
+    "wof:parent_id":421185491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.2,
+    -0.8,
+    -77.2,
+    -0.8
+],
+  "geometry": {"coordinates":[-77.2,-0.8],"type":"Point"}
+}

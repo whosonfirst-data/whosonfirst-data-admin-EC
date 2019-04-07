@@ -1,0 +1,69 @@
+{
+  "id": 1260087661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.00888,-1.56046,-79.00888,-1.56046",
+    "geom:latitude":-1.56046,
+    "geom:longitude":-79.00888,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"201.0",
+    "gn:admin3_code":"20150.0",
+    "gn:asciiname":"Guanujo",
+    "gn:country_code":"EC",
+    "gn:dem":2920,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3657582,
+    "gn:latitude":-1.56046,
+    "gn:longitude":-79.00888,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Guanujo",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670905,
+        421171743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3657582
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"fee9f599f583379664883a8a81c0cd8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421171743,
+            "locality_id":1260087661,
+            "region_id":85670905
+        }
+    ],
+    "wof:id":1260087661,
+    "wof:lastmodified":1536981241,
+    "wof:name":"Guanujo",
+    "wof:parent_id":421171743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.00888,
+    -1.56046,
+    -79.00888,
+    -1.56046
+],
+  "geometry": {"coordinates":[-79.00888,-1.56046],"type":"Point"}
+}

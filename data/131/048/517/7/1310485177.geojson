@@ -1,0 +1,69 @@
+{
+  "id": 1310485177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.03435,-0.48872,-80.03435,-0.48872",
+    "geom:latitude":-0.48872,
+    "geom:longitude":-80.03435,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1303.0",
+    "gn:admin3_code":"130355.0",
+    "gn:asciiname":"Limon",
+    "gn:country_code":"EC",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3654758,
+    "gn:latitude":-0.48872,
+    "gn:longitude":-80.03435,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Lim\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670927,
+        421189211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3654758
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"db865405178b966314e190c96de4c75b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421189211,
+            "locality_id":1310485177,
+            "region_id":85670927
+        }
+    ],
+    "wof:id":1310485177,
+    "wof:lastmodified":1536946637,
+    "wof:name":"Limon",
+    "wof:parent_id":421189211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.03435,
+    -0.48872,
+    -80.03435,
+    -0.48872
+],
+  "geometry": {"coordinates":[-80.03435,-0.48872],"type":"Point"}
+}

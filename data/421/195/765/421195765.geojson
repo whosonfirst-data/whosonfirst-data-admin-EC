@@ -1,0 +1,97 @@
+{
+  "id": 421195765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.06458,-2.92165,-79.06458,-2.92165",
+    "geom:latitude":-2.92165,
+    "geom:longitude":-79.06458,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Ba\u00f1os"
+    ],
+    "name:dut_x_preferred":[
+        "Ba\u00f1os"
+    ],
+    "name:eng_x_preferred":[
+        "Ba\u00f1os"
+    ],
+    "name:que_x_preferred":[
+        "Ba\u00f1os kitilli"
+    ],
+    "name:spa_x_preferred":[
+        "Ba\u00f1os"
+    ],
+    "name:swe_x_preferred":[
+        "Ba\u00f1os"
+    ],
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3660344,
+    "qs:gn_pop":0,
+    "qs:name":"Ba\u00f1os",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Azuay",
+    "qs:photos":61,
+    "qs:photos_1k":12,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":61,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":118843,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":369823,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":349,
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670885,
+        421185495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3660344,
+        "gp:id":369823,
+        "qs:id":118843,
+        "wd:id":"Q4875266",
+        "wk:page":"Ba\u00f1os, Azuay"
+    },
+    "wof:country":"EC",
+    "wof:created":1459009858,
+    "wof:geomhash":"f096171622e26f8ca426c81222e6232b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421185495,
+            "locality_id":421195765,
+            "region_id":85670885
+        }
+    ],
+    "wof:id":421195765,
+    "wof:lastmodified":1527716117,
+    "wof:name":"Ba\u00f1os",
+    "wof:parent_id":421185495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.06458,
+    -2.92165,
+    -79.06458,
+    -2.92165
+],
+  "geometry": {"coordinates":[-79.06458000000001,-2.92165],"type":"Point"}
+}

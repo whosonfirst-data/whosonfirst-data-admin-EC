@@ -1,0 +1,67 @@
+{
+  "id": 1293803939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.44813,-3.57145,-79.44813,-3.57145",
+    "geom:latitude":-3.57145,
+    "geom:longitude":-79.44813,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Sabadel",
+    "gn:country_code":"EC",
+    "gn:dem":3217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3652198,
+    "gn:latitude":-3.57145,
+    "gn:longitude":-79.44813,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Sabadel",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670891,
+        421184627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3652198
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"bc4de6778be52ee2fa80098bd58322e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421184627,
+            "locality_id":1293803939,
+            "region_id":85670891
+        }
+    ],
+    "wof:id":1293803939,
+    "wof:lastmodified":1536827065,
+    "wof:name":"Sabadel",
+    "wof:parent_id":421184627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.44813,
+    -3.57145,
+    -79.44813,
+    -3.57145
+],
+  "geometry": {"coordinates":[-79.44813000000001,-3.57145],"type":"Point"}
+}

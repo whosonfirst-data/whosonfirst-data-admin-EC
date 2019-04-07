@@ -1,0 +1,69 @@
+{
+  "id": 1260367363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.61059,-3.78614,-79.61059,-3.78614",
+    "geom:latitude":-3.78614,
+    "geom:longitude":-79.61059,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1105.0",
+    "gn:admin3_code":"110552.0",
+    "gn:asciiname":"El Rosario",
+    "gn:country_code":"EC",
+    "gn:dem":860,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3658118,
+    "gn:latitude":-3.78614,
+    "gn:longitude":-79.61059,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"El Rosario",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670891,
+        1108568481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3658118
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"2cc9cf0a1bccd5e4d34c6747b50b8937",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108568481,
+            "locality_id":1260367363,
+            "region_id":85670891
+        }
+    ],
+    "wof:id":1260367363,
+    "wof:lastmodified":1537093318,
+    "wof:name":"El Rosario",
+    "wof:parent_id":1108568481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.61059,
+    -3.78614,
+    -79.61059,
+    -3.78614
+],
+  "geometry": {"coordinates":[-79.61059,-3.78614],"type":"Point"}
+}

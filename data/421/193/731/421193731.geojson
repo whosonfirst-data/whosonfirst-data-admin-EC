@@ -1,0 +1,75 @@
+{
+  "id": 421193731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.7,0.81667,-79.7,0.81667",
+    "geom:latitude":0.81667,
+    "geom:longitude":-79.7,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Tabiazo",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Esmeraldas",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":116115,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":26810556,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670963,
+        1108569317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26810556,
+        "qs:id":116115
+    },
+    "wof:country":"EC",
+    "wof:created":1459009781,
+    "wof:geomhash":"65b5972f2085e5591dd20ab21c868d2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108569317,
+            "localadmin_id":421193731,
+            "region_id":85670963
+        }
+    ],
+    "wof:id":421193731,
+    "wof:lastmodified":1500036656,
+    "wof:name":"Tabiazo",
+    "wof:parent_id":1108569317,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.7,
+    0.81667,
+    -79.7,
+    0.81667
+],
+  "geometry": {"coordinates":[-79.7,0.81667],"type":"Point"}
+}

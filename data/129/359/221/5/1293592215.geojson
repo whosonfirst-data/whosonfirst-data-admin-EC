@@ -1,0 +1,69 @@
+{
+  "id": 1293592215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.06667,-3.33333,-79.06667,-3.33333",
+    "geom:latitude":-3.33333,
+    "geom:longitude":-79.06667,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"104.0",
+    "gn:admin3_code":"10450.0",
+    "gn:asciiname":"Tintacruz",
+    "gn:country_code":"EC",
+    "gn:dem":2691,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3650643,
+    "gn:latitude":-3.33333,
+    "gn:longitude":-79.06667,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Tintacruz",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670885,
+        421186367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3650643
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"7316033225c02da26e7292f5e6050fcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421186367,
+            "locality_id":1293592215,
+            "region_id":85670885
+        }
+    ],
+    "wof:id":1293592215,
+    "wof:lastmodified":1536634833,
+    "wof:name":"Tintacruz",
+    "wof:parent_id":421186367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.06667,
+    -3.33333,
+    -79.06667,
+    -3.33333
+],
+  "geometry": {"coordinates":[-79.06667,-3.33333],"type":"Point"}
+}

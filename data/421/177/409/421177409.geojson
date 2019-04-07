@@ -1,0 +1,79 @@
+{
+  "id": 421177409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.983466,-2.846444,-78.983466,-2.846444",
+    "geom:latitude":-2.846444,
+    "geom:longitude":-78.983466,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Sidcay",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Azuay",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1110371,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":26810538,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670885,
+        421185495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26810538,
+        "qs:id":1110371,
+        "qs_pg:id":1110371
+    },
+    "wof:country":"EC",
+    "wof:created":1459009143,
+    "wof:geomhash":"f7dd27c9e2313c2fc89c47f24ee13ed6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421185495,
+            "localadmin_id":421177409,
+            "region_id":85670885
+        }
+    ],
+    "wof:id":421177409,
+    "wof:lastmodified":1497042522,
+    "wof:name":"Sidcay",
+    "wof:parent_id":421185495,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.983466,
+    -2.846444,
+    -78.983466,
+    -2.846444
+],
+  "geometry": {"coordinates":[-78.98346600000001,-2.846444],"type":"Point"}
+}

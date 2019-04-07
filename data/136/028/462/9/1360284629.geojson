@@ -1,0 +1,70 @@
+{
+  "id": 1360284629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.78333,0.63333,-77.78333,0.63333",
+    "geom:latitude":0.63333,
+    "geom:longitude":-77.78333,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"401.0",
+    "gn:admin3_code":"40155.0",
+    "gn:asciiname":"Hacienda Landazuri",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":2853,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3656732,
+    "gn:latitude":0.63333,
+    "gn:longitude":-77.78333,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda Land\u00e1zuri",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670967,
+        421204303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3656732
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"7c351d030e6999ca73a0a89d2dbeb681",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421204303,
+            "locality_id":1360284629,
+            "region_id":85670967
+        }
+    ],
+    "wof:id":1360284629,
+    "wof:lastmodified":1536657908,
+    "wof:name":"Hacienda Landazuri",
+    "wof:parent_id":421204303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.78333,
+    0.63333,
+    -77.78333,
+    0.63333
+],
+  "geometry": {"coordinates":[-77.78333000000001,0.63333],"type":"Point"}
+}

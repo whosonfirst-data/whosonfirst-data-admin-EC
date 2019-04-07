@@ -1,0 +1,79 @@
+{
+  "id": 421173925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.584518,-0.685599,-78.584518,-0.685599",
+    "geom:latitude":-0.685599,
+    "geom:longitude":-78.584518,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"San Juan de Pastocalle",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Cotopaxi",
+    "qs:photos":13,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":109,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1322963,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":26810443,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670915,
+        421182157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26810443,
+        "qs:id":1322963,
+        "qs_pg:id":1322963
+    },
+    "wof:country":"EC",
+    "wof:created":1459009011,
+    "wof:geomhash":"c5e6f3d4a76d53794b1752057b479db3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421182157,
+            "localadmin_id":421173925,
+            "region_id":85670915
+        }
+    ],
+    "wof:id":421173925,
+    "wof:lastmodified":1497046969,
+    "wof:name":"San Juan de Pastocalle",
+    "wof:parent_id":421182157,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.584518,
+    -0.685599,
+    -78.584518,
+    -0.685599
+],
+  "geometry": {"coordinates":[-78.584518,-0.685599],"type":"Point"}
+}

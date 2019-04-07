@@ -1,0 +1,77 @@
+{
+  "id": 1192987051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.76036,-0.88525,-77.76036,-0.88525",
+    "geom:latitude":-0.88525,
+    "geom:longitude":-77.76036,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1503.0",
+    "gn:admin3_code":"150354.0",
+    "gn:asciiname":"Porotoyacu",
+    "gn:country_code":"EC",
+    "gn:dem":786,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8472099,
+    "gn:latitude":-0.88525,
+    "gn:longitude":-77.76036,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Porotoyacu",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670959,
+        1108567669,
+        85670953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8472099
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"87e8e74572e9cca576b28161ff5b7b71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108567669,
+            "locality_id":1192987051,
+            "region_id":85670959
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108567669,
+            "locality_id":1192987051,
+            "region_id":85670953
+        }
+    ],
+    "wof:id":1192987051,
+    "wof:lastmodified":1536384713,
+    "wof:name":"Porotoyacu",
+    "wof:parent_id":1108567669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.76035999999998,
+    -0.88525,
+    -77.76035999999998,
+    -0.88525
+],
+  "geometry": {"coordinates":[-77.76035999999998,-0.88525],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209504137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.66667,-1.9,-79.66667,-1.9",
+    "geom:latitude":-1.9,
+    "geom:longitude":-79.66667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"La Eugenia",
+    "gn:country_code":"EC",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3655215,
+    "gn:latitude":-1.9,
+    "gn:longitude":-79.66667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Eugenia",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3655215
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"69fdaed188a6cf6142692e6aa178a853",
+    "wof:hierarchy":[
+        {
+            "country_id":85632261,
+            "locality_id":1209504137
+        }
+    ],
+    "wof:id":1209504137,
+    "wof:lastmodified":1536285088,
+    "wof:name":"La Eugenia",
+    "wof:parent_id":85632261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.66667,
+    -1.9,
+    -79.66667,
+    -1.9
+],
+  "geometry": {"coordinates":[-79.66667,-1.9],"type":"Point"}
+}

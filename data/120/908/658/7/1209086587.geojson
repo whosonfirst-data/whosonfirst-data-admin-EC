@@ -1,0 +1,63 @@
+{
+  "id": 1209086587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.89193,-4.11607,-79.89193,-4.11607",
+    "geom:latitude":-4.11607,
+    "geom:longitude":-79.89193,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1109.0",
+    "gn:admin3_code":"110952.0",
+    "gn:asciiname":"Hacienda El Limon",
+    "gn:country_code":"EC",
+    "gn:dem":1168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3657048,
+    "gn:latitude":-4.11607,
+    "gn:longitude":-79.89193,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda El Lim\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3657048
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"afa7a40a510f9b679a00ea26eb01bd79",
+    "wof:hierarchy":[
+        {
+            "country_id":85632261,
+            "locality_id":1209086587
+        }
+    ],
+    "wof:id":1209086587,
+    "wof:lastmodified":1536298167,
+    "wof:name":"Hacienda El Limon",
+    "wof:parent_id":85632261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.89193,
+    -4.11607,
+    -79.89193,
+    -4.11607
+],
+  "geometry": {"coordinates":[-79.89193,-4.11607],"type":"Point"}
+}

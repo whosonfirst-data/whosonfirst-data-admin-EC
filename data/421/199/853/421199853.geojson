@@ -1,0 +1,76 @@
+{
+  "id": 421199853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.05577,-3.96492,-79.05577,-3.96492",
+    "geom:latitude":-3.96492,
+    "geom:longitude":-79.05577,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3652187,
+    "qs:gn_pop":0,
+    "qs:name":"Sabanilla",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Zamora-Chinchipe",
+    "qs:photos":6,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":6,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":501341,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":374554,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670895,
+        421182449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3652187,
+        "gp:id":374554,
+        "qs:id":501341
+    },
+    "wof:country":"EC",
+    "wof:created":1459010003,
+    "wof:geomhash":"1a114686b79a7cf6eb9591d37598a73f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421182449,
+            "locality_id":421199853,
+            "region_id":85670895
+        }
+    ],
+    "wof:id":421199853,
+    "wof:lastmodified":1500036527,
+    "wof:name":"Sabanilla",
+    "wof:parent_id":421182449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.05577,
+    -3.96492,
+    -79.05577,
+    -3.96492
+],
+  "geometry": {"coordinates":[-79.05577,-3.96492],"type":"Point"}
+}

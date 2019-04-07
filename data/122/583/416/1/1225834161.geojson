@@ -1,0 +1,62 @@
+{
+  "id": 1225834161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.75,-1.9,-80.75,-1.9",
+    "geom:latitude":-1.9,
+    "geom:longitude":-80.75,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Atravesado",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3660489,
+    "gn:latitude":-1.9,
+    "gn:longitude":-80.75,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Atravesado",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3660489
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"7f340c94d8a84d11de8045a0a453ea91",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1225834161,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1225834161,
+    "wof:lastmodified":1537029137,
+    "wof:name":"Atravesado",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.75,
+    -1.9,
+    -80.75,
+    -1.9
+],
+  "geometry": {"coordinates":[-80.75,-1.9],"type":"Point"}
+}

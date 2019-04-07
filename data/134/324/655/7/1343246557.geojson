@@ -1,0 +1,65 @@
+{
+  "id": 1343246557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.54959,0.99376,-79.54959,0.99376",
+    "geom:latitude":0.99376,
+    "geom:longitude":-79.54959,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"801.0",
+    "gn:admin3_code":"80152.0",
+    "gn:asciiname":"Camarones",
+    "gn:country_code":"EC",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3659879,
+    "gn:latitude":0.99376,
+    "gn:longitude":-79.54959,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Camarones",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3659879
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"43345c7573a705ce8870685c3150c7d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "locality_id":1343246557,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343246557,
+    "wof:lastmodified":1537052794,
+    "wof:name":"Camarones",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.54959000000002,
+    0.99376,
+    -79.54959000000002,
+    0.99376
+],
+  "geometry": {"coordinates":[-79.54959000000002,0.99376],"type":"Point"}
+}

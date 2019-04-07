@@ -1,0 +1,69 @@
+{
+  "id": 1309860665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.01614,-0.21473,-79.01614,-0.21473",
+    "geom:latitude":-0.21473,
+    "geom:longitude":-79.01614,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"2301.0",
+    "gn:admin3_code":"230150.0",
+    "gn:asciiname":"Doce de Octubre",
+    "gn:country_code":"EC",
+    "gn:dem":796,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8472456,
+    "gn:latitude":-0.21473,
+    "gn:longitude":-79.01614,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Doce de Octubre",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670983,
+        421190535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8472456
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"6b9114da04bf2bab19d2446cf7360264",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421190535,
+            "locality_id":1309860665,
+            "region_id":85670983
+        }
+    ],
+    "wof:id":1309860665,
+    "wof:lastmodified":1536851074,
+    "wof:name":"Doce de Octubre",
+    "wof:parent_id":421190535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.01614000000002,
+    -0.21473,
+    -79.01614000000002,
+    -0.21473
+],
+  "geometry": {"coordinates":[-79.01614000000002,-0.21473],"type":"Point"}
+}

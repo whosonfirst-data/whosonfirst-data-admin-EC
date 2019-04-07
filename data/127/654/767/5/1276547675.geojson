@@ -1,0 +1,67 @@
+{
+  "id": 1276547675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.76748,-2.72347,-78.76748,-2.72347",
+    "geom:latitude":-2.72347,
+    "geom:longitude":-78.76748,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tabacay",
+    "gn:country_code":"EC",
+    "gn:dem":2637,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3650898,
+    "gn:latitude":-2.72347,
+    "gn:longitude":-78.76748,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Tabacay",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670885,
+        421193503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3650898
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"8514fd3bf19f300a4c232c489679503c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421193503,
+            "locality_id":1276547675,
+            "region_id":85670885
+        }
+    ],
+    "wof:id":1276547675,
+    "wof:lastmodified":1536987970,
+    "wof:name":"Tabacay",
+    "wof:parent_id":421193503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.76748,
+    -2.72347,
+    -78.76748,
+    -2.72347
+],
+  "geometry": {"coordinates":[-78.76748000000001,-2.72347],"type":"Point"}
+}

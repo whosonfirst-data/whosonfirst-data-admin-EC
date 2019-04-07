@@ -1,0 +1,69 @@
+{
+  "id": 1343258639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.54084,0.65848,-79.54084,0.65848",
+    "geom:latitude":0.65848,
+    "geom:longitude":-79.54084,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"804.0",
+    "gn:admin3_code":"80454.0",
+    "gn:asciiname":"Viche",
+    "gn:country_code":"EC",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3650222,
+    "gn:latitude":0.65848,
+    "gn:longitude":-79.54084,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Viche",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670963,
+        1108571921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3650222
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"68bf8fcf22e506e5e3b4ccafee2618b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108571921,
+            "locality_id":1343258639,
+            "region_id":85670963
+        }
+    ],
+    "wof:id":1343258639,
+    "wof:lastmodified":1537035978,
+    "wof:name":"Viche",
+    "wof:parent_id":1108571921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.54084,
+    0.65848,
+    -79.54084,
+    0.65848
+],
+  "geometry": {"coordinates":[-79.54084,0.65848],"type":"Point"}
+}

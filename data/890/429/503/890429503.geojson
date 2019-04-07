@@ -1,0 +1,69 @@
+{
+  "id": 890429503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.17776,-0.01249,-76.17776,-0.01249",
+    "geom:latitude":-0.01249,
+    "geom:longitude":-76.17776,
+    "gn:country":"EC",
+    "gn:fcode":"LK",
+    "gn:pop":200,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "name:unk_x_variant":[
+        "Lago Cuyabeno"
+    ],
+    "qs:name":"Laguna Grande - Cuyabeno Faunistic Reserve",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670977,
+        421166581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3658532,
+        "qs:id":584541
+    },
+    "wof:country":"EC",
+    "wof:created":1469051817,
+    "wof:geomhash":"0def35400ba0ade67e4e2eb4afc014c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421166581,
+            "locality_id":890429503,
+            "region_id":85670977
+        }
+    ],
+    "wof:id":890429503,
+    "wof:lastmodified":1505343513,
+    "wof:name":"Laguna Grande - Cuyabeno Faunistic Reserve",
+    "wof:parent_id":421166581,
+    "wof:placetype":"locality",
+    "wof:population":200,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.17776,
+    -0.01249,
+    -76.17776,
+    -0.01249
+],
+  "geometry": {"coordinates":[-76.17776000000001,-0.01249],"type":"Point"}
+}

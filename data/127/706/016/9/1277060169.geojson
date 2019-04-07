@@ -1,0 +1,70 @@
+{
+  "id": 1277060169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.0,-1.98333,-80.0,-1.98333",
+    "geom:latitude":-1.98333,
+    "geom:longitude":-80.0,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"901.0",
+    "gn:admin3_code":"90150.0",
+    "gn:asciiname":"Rosario",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3652270,
+    "gn:latitude":-1.98333,
+    "gn:longitude":-80.0,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Rosario",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670917,
+        421175423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3652270
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"647529b4a3348ac59de52937477993e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421175423,
+            "locality_id":1277060169,
+            "region_id":85670917
+        }
+    ],
+    "wof:id":1277060169,
+    "wof:lastmodified":1536799377,
+    "wof:name":"Rosario",
+    "wof:parent_id":421175423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.0,
+    -1.98333,
+    -80.0,
+    -1.98333
+],
+  "geometry": {"coordinates":[-80.0,-1.98333],"type":"Point"}
+}

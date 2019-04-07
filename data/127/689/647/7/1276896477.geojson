@@ -1,0 +1,69 @@
+{
+  "id": 1276896477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.6655,-1.7092,-78.6655,-1.7092",
+    "geom:latitude":-1.7092,
+    "geom:longitude":-78.6655,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"601.0",
+    "gn:admin3_code":"60161.0",
+    "gn:asciiname":"Hacienda Gueiguan",
+    "gn:country_code":"EC",
+    "gn:dem":3047,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3656908,
+    "gn:latitude":-1.7092,
+    "gn:longitude":-78.6655,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda G\u00fcigu\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670931,
+        421185337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3656908
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"82868d32fbf0b897f3e6ea6218879460",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421185337,
+            "locality_id":1276896477,
+            "region_id":85670931
+        }
+    ],
+    "wof:id":1276896477,
+    "wof:lastmodified":1537018185,
+    "wof:name":"Hacienda Gueiguan",
+    "wof:parent_id":421185337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.6655,
+    -1.7092,
+    -78.6655,
+    -1.7092
+],
+  "geometry": {"coordinates":[-78.66549999999999,-1.7092],"type":"Point"}
+}

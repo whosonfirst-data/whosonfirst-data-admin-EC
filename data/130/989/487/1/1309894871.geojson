@@ -1,0 +1,63 @@
+{
+  "id": 1309894871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.86667,-2.91667,-79.86667,-2.91667",
+    "geom:latitude":-2.91667,
+    "geom:longitude":-79.86667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Balsillar",
+    "gn:country_code":"EC",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3660366,
+    "gn:latitude":-2.91667,
+    "gn:longitude":-79.86667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Balsillar",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3660366
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"d2df1076ab0f73ac6ee1bbf734b0531d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "locality_id":1309894871,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309894871,
+    "wof:lastmodified":1536802664,
+    "wof:name":"Balsillar",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.86667,
+    -2.91667,
+    -79.86667,
+    -2.91667
+],
+  "geometry": {"coordinates":[-79.86667,-2.91667],"type":"Point"}
+}

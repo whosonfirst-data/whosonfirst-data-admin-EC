@@ -1,0 +1,69 @@
+{
+  "id": 1292992433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.77102,-0.95364,-78.77102,-0.95364",
+    "geom:latitude":-0.95364,
+    "geom:longitude":-78.77102,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"504.0",
+    "gn:admin3_code":"50450.0",
+    "gn:asciiname":"Hacienda Santa Barbara",
+    "gn:country_code":"EC",
+    "gn:dem":3652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3656095,
+    "gn:latitude":-0.95364,
+    "gn:longitude":-78.77102,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda Santa B\u00e1rbara",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670915,
+        421185497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3656095
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"371079366ba68eb3ef148366db7c9030",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421185497,
+            "locality_id":1292992433,
+            "region_id":85670915
+        }
+    ],
+    "wof:id":1292992433,
+    "wof:lastmodified":1537002990,
+    "wof:name":"Hacienda Santa Barbara",
+    "wof:parent_id":421185497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.77102,
+    -0.95364,
+    -78.77102,
+    -0.95364
+],
+  "geometry": {"coordinates":[-78.77101999999999,-0.95364],"type":"Point"}
+}

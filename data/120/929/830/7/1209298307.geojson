@@ -1,0 +1,63 @@
+{
+  "id": 1209298307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.5832,-0.85832,-79.5832,-0.85832",
+    "geom:latitude":-0.85832,
+    "geom:longitude":-79.5832,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"908.0",
+    "gn:admin3_code":"90851.0",
+    "gn:asciiname":"Limon de Manizales",
+    "gn:country_code":"EC",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8471873,
+    "gn:latitude":-0.85832,
+    "gn:longitude":-79.5832,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Lim\u00f3n de Manizales",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8471873
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"eeba51cb7cd5755bbd3693b473de7be6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632261,
+            "locality_id":1209298307
+        }
+    ],
+    "wof:id":1209298307,
+    "wof:lastmodified":1536291446,
+    "wof:name":"Limon de Manizales",
+    "wof:parent_id":85632261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.5832,
+    -0.8583200000000001,
+    -79.5832,
+    -0.8583200000000001
+],
+  "geometry": {"coordinates":[-79.58320000000001,-0.85832],"type":"Point"}
+}

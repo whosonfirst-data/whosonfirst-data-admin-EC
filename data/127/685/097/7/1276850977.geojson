@@ -1,0 +1,69 @@
+{
+  "id": 1276850977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.56667,-3.88333,-79.56667,-3.88333",
+    "geom:latitude":-3.88333,
+    "geom:longitude":-79.56667,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1105.0",
+    "gn:admin3_code":"110550.0",
+    "gn:asciiname":"Belen",
+    "gn:country_code":"EC",
+    "gn:dem":1250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3660264,
+    "gn:latitude":-3.88333,
+    "gn:longitude":-79.56667,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Bel\u00e9n",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670891,
+        1108571061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3660264
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"fe1c153d4c496535308a270e347b037c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108571061,
+            "locality_id":1276850977,
+            "region_id":85670891
+        }
+    ],
+    "wof:id":1276850977,
+    "wof:lastmodified":1537076756,
+    "wof:name":"Belen",
+    "wof:parent_id":1108571061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.56667,
+    -3.88333,
+    -79.56667,
+    -3.88333
+],
+  "geometry": {"coordinates":[-79.56667,-3.88333],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1293259431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.20405,-0.38389,-79.20405,-0.38389",
+    "geom:latitude":-0.38389,
+    "geom:longitude":-79.20405,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"2301.0",
+    "gn:admin3_code":"230150.0",
+    "gn:asciiname":"El Paraiso",
+    "gn:country_code":"EC",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8472496,
+    "gn:latitude":-0.38389,
+    "gn:longitude":-79.20405,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"El Para\u00edso",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670983,
+        421190535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8472496
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"62bebcb51f1abda0257d2aa93beb2d21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421190535,
+            "locality_id":1293259431,
+            "region_id":85670983
+        }
+    ],
+    "wof:id":1293259431,
+    "wof:lastmodified":1536616604,
+    "wof:name":"El Paraiso",
+    "wof:parent_id":421190535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.20405,
+    -0.38389,
+    -79.20405,
+    -0.38389
+],
+  "geometry": {"coordinates":[-79.20405,-0.38389],"type":"Point"}
+}

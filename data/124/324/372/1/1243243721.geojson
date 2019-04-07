@@ -1,0 +1,69 @@
+{
+  "id": 1243243721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.14544,-4.16606,-80.14544,-4.16606",
+    "geom:latitude":-4.16606,
+    "geom:longitude":-80.14544,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1104.0",
+    "gn:admin3_code":"110456.0",
+    "gn:asciiname":"Guineo Grande",
+    "gn:country_code":"EC",
+    "gn:dem":637,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3657467,
+    "gn:latitude":-4.16606,
+    "gn:longitude":-80.14544,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Guineo Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670891,
+        421195603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3657467
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"b4ae44e10678ba6573797ab91223c545",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421195603,
+            "locality_id":1243243721,
+            "region_id":85670891
+        }
+    ],
+    "wof:id":1243243721,
+    "wof:lastmodified":1537094527,
+    "wof:name":"Guineo Grande",
+    "wof:parent_id":421195603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.14544000000002,
+    -4.16606,
+    -80.14544000000002,
+    -4.16606
+],
+  "geometry": {"coordinates":[-80.14544000000002,-4.16606],"type":"Point"}
+}

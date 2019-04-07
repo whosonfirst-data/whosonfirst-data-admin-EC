@@ -1,0 +1,80 @@
+{
+  "id": 421170683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.98191,-2.06707,-76.98191,-2.06707",
+    "geom:latitude":-2.06707,
+    "geom:longitude":-76.98191,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3654063,
+    "qs:gn_pop":0,
+    "qs:name":"Montalvo",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Pastaza",
+    "qs:photos":12,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":12,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1195401,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":26810196,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670949,
+        421185499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3654063,
+        "gp:id":26810196,
+        "qs:id":1195401,
+        "qs_pg:id":1195401
+    },
+    "wof:country":"EC",
+    "wof:created":1459008864,
+    "wof:geomhash":"bd1a6ee50eae1ee3ca4887f0e8a4510d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421185499,
+            "localadmin_id":421170683,
+            "region_id":85670949
+        }
+    ],
+    "wof:id":421170683,
+    "wof:lastmodified":1497043912,
+    "wof:name":"Montalvo",
+    "wof:parent_id":421185499,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.98191,
+    -2.06707,
+    -76.98191,
+    -2.06707
+],
+  "geometry": {"coordinates":[-76.98191,-2.06707],"type":"Point"}
+}

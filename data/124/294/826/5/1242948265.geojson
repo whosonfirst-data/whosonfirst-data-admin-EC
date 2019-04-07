@@ -1,0 +1,70 @@
+{
+  "id": 1242948265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.55,-1.2,-78.55,-1.2",
+    "geom:latitude":-1.2,
+    "geom:longitude":-78.55,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1808.0",
+    "gn:admin3_code":"180857.0",
+    "gn:asciiname":"Hacienda Panguigua",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":2701,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3656500,
+    "gn:latitude":-1.2,
+    "gn:longitude":-78.55,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda Panguigua",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670959,
+        1108572557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3656500
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"fae57c493cfaf786172ffafe4252b4d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108572557,
+            "locality_id":1242948265,
+            "region_id":85670959
+        }
+    ],
+    "wof:id":1242948265,
+    "wof:lastmodified":1537025718,
+    "wof:name":"Hacienda Panguigua",
+    "wof:parent_id":1108572557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.55,
+    -1.2,
+    -78.55,
+    -1.2
+],
+  "geometry": {"coordinates":[-78.55,-1.2],"type":"Point"}
+}

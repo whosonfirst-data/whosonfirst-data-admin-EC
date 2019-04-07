@@ -1,0 +1,69 @@
+{
+  "id": 1242566607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.38049,-2.28091,-79.38049,-2.28091",
+    "geom:latitude":-2.28091,
+    "geom:longitude":-79.38049,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"909.0",
+    "gn:admin3_code":"90950.0",
+    "gn:asciiname":"La Lola",
+    "gn:country_code":"EC",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3655127,
+    "gn:latitude":-2.28091,
+    "gn:longitude":-79.38049,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"La Lola",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670917,
+        1108568753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3655127
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"4817460c31a5862d48df395d3c6660be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108568753,
+            "locality_id":1242566607,
+            "region_id":85670917
+        }
+    ],
+    "wof:id":1242566607,
+    "wof:lastmodified":1537076380,
+    "wof:name":"La Lola",
+    "wof:parent_id":1108568753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.38049000000002,
+    -2.28091,
+    -79.38049000000002,
+    -2.28091
+],
+  "geometry": {"coordinates":[-79.38049000000002,-2.28091],"type":"Point"}
+}

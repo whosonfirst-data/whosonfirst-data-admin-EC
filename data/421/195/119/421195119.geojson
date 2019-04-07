@@ -1,0 +1,117 @@
+{
+  "id": 421195119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.80957,-1.55917,-80.80957,-1.55917",
+    "geom:latitude":-1.55917,
+    "geom:longitude":-80.80957,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u99ac\u7d0d\u7dad\u7701"
+    ],
+    "name:dut_x_preferred":[
+        "Puerto L\u00f3pez"
+    ],
+    "name:eng_x_preferred":[
+        "Puerto L\u00f3pez"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0631\u062a\u0648 \u0644\u0648\u067e\u0632"
+    ],
+    "name:fra_x_preferred":[
+        "Puerto L\u00f3pez"
+    ],
+    "name:fre_x_preferred":[
+        "Puerto L\u00f3pez"
+    ],
+    "name:ger_x_preferred":[
+        "Puerto L\u00f3pez"
+    ],
+    "name:lit_x_preferred":[
+        "Puerto Lopesas"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0648\u0631\u062a\u0648 \u0644\u0648\u067e\u0632"
+    ],
+    "name:pol_x_preferred":[
+        "Puerto L\u00f3pez"
+    ],
+    "name:que_x_preferred":[
+        "Puerto L\u00f3pez"
+    ],
+    "name:spa_x_preferred":[
+        "Puerto L\u00f3pez"
+    ],
+    "name:unk_x_variant":[
+        "L\u00f3pez"
+    ],
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3652731,
+    "qs:gn_pop":0,
+    "qs:name":"Puerto L\u00f3pez",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Manabi",
+    "qs:photos":1059,
+    "qs:photos_1k":215,
+    "qs:photos_9k":5,
+    "qs:photos_9r":7,
+    "qs:photos_all":1059,
+    "qs:photos_sr":11,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":240971,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":375812,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670927,
+        421176841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3652731,
+        "gp:id":375812,
+        "qs:id":240971,
+        "wd:id":"Q5763389",
+        "wk:page":"Puerto L\u00f3pez"
+    },
+    "wof:country":"EC",
+    "wof:created":1459009833,
+    "wof:geomhash":"3e5cbb50c9042c3063674ff19bbd61a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421176841,
+            "locality_id":421195119,
+            "region_id":85670927
+        }
+    ],
+    "wof:id":421195119,
+    "wof:lastmodified":1513956285,
+    "wof:name":"Puerto L\u00f3pez",
+    "wof:parent_id":421176841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.80957,
+    -1.55917,
+    -80.80957,
+    -1.55917
+],
+  "geometry": {"coordinates":[-80.80956999999999,-1.55917],"type":"Point"}
+}

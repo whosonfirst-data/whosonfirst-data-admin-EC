@@ -1,0 +1,69 @@
+{
+  "id": 1343444573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.46758,-1.27833,-80.46758,-1.27833",
+    "geom:latitude":-1.27833,
+    "geom:longitude":-80.46758,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1316.0",
+    "gn:admin3_code":"131650.0",
+    "gn:asciiname":"Anona",
+    "gn:country_code":"EC",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3660598,
+    "gn:latitude":-1.27833,
+    "gn:longitude":-80.46758,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Anona",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670927,
+        421175419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3660598
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"dff54b166b1ab90fc11f37d40bd54081",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421175419,
+            "locality_id":1343444573,
+            "region_id":85670927
+        }
+    ],
+    "wof:id":1343444573,
+    "wof:lastmodified":1536769697,
+    "wof:name":"Anona",
+    "wof:parent_id":421175419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.46758,
+    -1.27833,
+    -80.46758,
+    -1.27833
+],
+  "geometry": {"coordinates":[-80.46758,-1.27833],"type":"Point"}
+}

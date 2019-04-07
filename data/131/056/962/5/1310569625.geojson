@@ -1,0 +1,70 @@
+{
+  "id": 1310569625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.13333,-0.65,-77.13333,-0.65",
+    "geom:latitude":-0.65,
+    "geom:longitude":-77.13333,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2204.0",
+    "gn:admin3_code":"220452.0",
+    "gn:asciiname":"Cacao Punto",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3660003,
+    "gn:latitude":-0.65,
+    "gn:longitude":-77.13333,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Cacao Punto",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670941,
+        421184851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3660003
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"c7deda1a423d0a8db2ddaca8501dcd39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421184851,
+            "locality_id":1310569625,
+            "region_id":85670941
+        }
+    ],
+    "wof:id":1310569625,
+    "wof:lastmodified":1536823633,
+    "wof:name":"Cacao Punto",
+    "wof:parent_id":421184851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.13333,
+    -0.65,
+    -77.13333,
+    -0.65
+],
+  "geometry": {"coordinates":[-77.13333,-0.65],"type":"Point"}
+}

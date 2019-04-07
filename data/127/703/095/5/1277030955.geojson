@@ -1,0 +1,69 @@
+{
+  "id": 1277030955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.38549,0.01149,-77.38549,0.01149",
+    "geom:latitude":0.01149,
+    "geom:longitude":-77.38549,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"2102.0",
+    "gn:admin3_code":"210252.0",
+    "gn:asciiname":"Cayagama",
+    "gn:country_code":"EC",
+    "gn:dem":604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3827888,
+    "gn:latitude":0.01149,
+    "gn:longitude":-77.38549,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Cayagama",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670977,
+        421171747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3827888
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"494cc59229d728aed20764b8ffd0da80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421171747,
+            "locality_id":1277030955,
+            "region_id":85670977
+        }
+    ],
+    "wof:id":1277030955,
+    "wof:lastmodified":1536837623,
+    "wof:name":"Cayagama",
+    "wof:parent_id":421171747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.38549,
+    0.01149,
+    -77.38549,
+    0.01149
+],
+  "geometry": {"coordinates":[-77.38549,0.01149],"type":"Point"}
+}

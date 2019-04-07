@@ -1,0 +1,70 @@
+{
+  "id": 1310213855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.06667,-3.05,-79.06667,-3.05",
+    "geom:latitude":-3.05,
+    "geom:longitude":-79.06667,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10171.0",
+    "gn:asciiname":"Hacienda Centeno",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":2700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3657267,
+    "gn:latitude":-3.05,
+    "gn:longitude":-79.06667,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda Centeno",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670885,
+        421185495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3657267
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"ef7adf5b71329518a488ee281dbd718d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421185495,
+            "locality_id":1310213855,
+            "region_id":85670885
+        }
+    ],
+    "wof:id":1310213855,
+    "wof:lastmodified":1536839083,
+    "wof:name":"Hacienda Centeno",
+    "wof:parent_id":421185495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.06667,
+    -3.05,
+    -79.06667,
+    -3.05
+],
+  "geometry": {"coordinates":[-79.06667,-3.05],"type":"Point"}
+}

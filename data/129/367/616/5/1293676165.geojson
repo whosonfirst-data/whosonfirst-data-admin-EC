@@ -1,0 +1,69 @@
+{
+  "id": 1293676165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.72038,-4.31996,-79.72038,-4.31996",
+    "geom:latitude":-4.31996,
+    "geom:longitude":-79.72038,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1102.0",
+    "gn:admin3_code":"110251.0",
+    "gn:asciiname":"Papaca",
+    "gn:country_code":"EC",
+    "gn:dem":1757,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3653451,
+    "gn:latitude":-4.31996,
+    "gn:longitude":-79.72038,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Papaca",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670891,
+        1108568239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3653451
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"8feb6185a5e167f91f8943d04711343a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108568239,
+            "locality_id":1293676165,
+            "region_id":85670891
+        }
+    ],
+    "wof:id":1293676165,
+    "wof:lastmodified":1537011609,
+    "wof:name":"Papaca",
+    "wof:parent_id":1108568239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.72038,
+    -4.31996,
+    -79.72038,
+    -4.31996
+],
+  "geometry": {"coordinates":[-79.72038000000001,-4.31996],"type":"Point"}
+}

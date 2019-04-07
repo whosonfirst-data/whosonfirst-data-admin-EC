@@ -1,0 +1,69 @@
+{
+  "id": 1226508059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.5149,-1.3136,-78.5149,-1.3136",
+    "geom:latitude":-1.3136,
+    "geom:longitude":-78.5149,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1805.0",
+    "gn:admin3_code":"180550.0",
+    "gn:asciiname":"Hacienda Chilipala",
+    "gn:country_code":"EC",
+    "gn:dem":2101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3657224,
+    "gn:latitude":-1.3136,
+    "gn:longitude":-78.5149,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda Chilipala",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670959,
+        1108571185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3657224
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"ac3563c1d43164b9c4880715b232f22c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108571185,
+            "locality_id":1226508059,
+            "region_id":85670959
+        }
+    ],
+    "wof:id":1226508059,
+    "wof:lastmodified":1537050371,
+    "wof:name":"Hacienda Chilipala",
+    "wof:parent_id":1108571185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.5149,
+    -1.3136,
+    -78.5149,
+    -1.3136
+],
+  "geometry": {"coordinates":[-78.5149,-1.3136],"type":"Point"}
+}

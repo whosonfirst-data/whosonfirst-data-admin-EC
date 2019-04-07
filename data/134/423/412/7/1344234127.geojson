@@ -1,0 +1,69 @@
+{
+  "id": 1344234127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.26667,-3.96667,-79.26667,-3.96667",
+    "geom:latitude":-3.96667,
+    "geom:longitude":-79.26667,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1101.0",
+    "gn:admin3_code":"110160.0",
+    "gn:asciiname":"Pucashpa",
+    "gn:country_code":"EC",
+    "gn:dem":2644,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3652827,
+    "gn:latitude":-3.96667,
+    "gn:longitude":-79.26667,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Pucashpa",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670891,
+        421182159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3652827
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"b69003e2e488dfb9277e9b7a1d8c3277",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421182159,
+            "locality_id":1344234127,
+            "region_id":85670891
+        }
+    ],
+    "wof:id":1344234127,
+    "wof:lastmodified":1536623076,
+    "wof:name":"Pucashpa",
+    "wof:parent_id":421182159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.26666999999998,
+    -3.96667,
+    -79.26666999999998,
+    -3.96667
+],
+  "geometry": {"coordinates":[-79.26666999999998,-3.96667],"type":"Point"}
+}

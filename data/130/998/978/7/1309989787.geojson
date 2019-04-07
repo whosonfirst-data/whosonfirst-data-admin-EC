@@ -1,0 +1,67 @@
+{
+  "id": 1309989787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.71667,-3.01667,-79.71667,-3.01667",
+    "geom:latitude":-3.01667,
+    "geom:longitude":-79.71667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Gala de Arriba",
+    "gn:country_code":"EC",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3657881,
+    "gn:latitude":-3.01667,
+    "gn:longitude":-79.71667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Gala de Arriba",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670885,
+        1108571605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3657881
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"501b43e4376b2deacb9d300c4641f408",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108571605,
+            "locality_id":1309989787,
+            "region_id":85670885
+        }
+    ],
+    "wof:id":1309989787,
+    "wof:lastmodified":1536665971,
+    "wof:name":"Gala de Arriba",
+    "wof:parent_id":1108571605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.71667,
+    -3.01667,
+    -79.71667,
+    -3.01667
+],
+  "geometry": {"coordinates":[-79.71666999999999,-3.01667],"type":"Point"}
+}

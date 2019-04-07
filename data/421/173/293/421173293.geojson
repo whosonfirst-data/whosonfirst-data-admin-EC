@@ -1,0 +1,79 @@
+{
+  "id": 421173293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.480148,-0.153808,-78.480148,-0.153808",
+    "geom:latitude":-0.153808,
+    "geom:longitude":-78.480148,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Zambiza",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Pichincha",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":50,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":286277,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":26810646,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670945,
+        421188131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26810646,
+        "qs:id":286277,
+        "qs_pg:id":286277
+    },
+    "wof:country":"EC",
+    "wof:created":1459008977,
+    "wof:geomhash":"23966435afe34d10576de10e7d0b4d20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421188131,
+            "localadmin_id":421173293,
+            "region_id":85670945
+        }
+    ],
+    "wof:id":421173293,
+    "wof:lastmodified":1497046339,
+    "wof:name":"Zambiza",
+    "wof:parent_id":421188131,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.480148,
+    -0.153808,
+    -78.480148,
+    -0.153808
+],
+  "geometry": {"coordinates":[-78.480148,-0.153808],"type":"Point"}
+}

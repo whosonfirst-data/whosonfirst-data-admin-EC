@@ -1,0 +1,76 @@
+{
+  "id": 421201033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.58351,-1.02642,-80.58351,-1.02642",
+    "geom:latitude":-1.02642,
+    "geom:longitude":-80.58351,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3651170,
+    "qs:gn_pop":0,
+    "qs:name":"Sequita",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Manabi",
+    "qs:photos":32,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":32,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":909489,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":376278,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670927,
+        1108570471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3651170,
+        "gp:id":376278,
+        "qs:id":909489
+    },
+    "wof:country":"EC",
+    "wof:created":1459010049,
+    "wof:geomhash":"439b0dad7a29e4126d0fcfed25969e48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108570471,
+            "locality_id":421201033,
+            "region_id":85670927
+        }
+    ],
+    "wof:id":421201033,
+    "wof:lastmodified":1500036609,
+    "wof:name":"Sequita",
+    "wof:parent_id":1108570471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.58351,
+    -1.02642,
+    -80.58351,
+    -1.02642
+],
+  "geometry": {"coordinates":[-80.58351,-1.02642],"type":"Point"}
+}

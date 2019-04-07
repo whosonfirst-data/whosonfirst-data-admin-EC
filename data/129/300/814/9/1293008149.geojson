@@ -1,0 +1,69 @@
+{
+  "id": 1293008149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.03333,-1.28333,-79.03333,-1.28333",
+    "geom:latitude":-1.28333,
+    "geom:longitude":-79.03333,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"201.0",
+    "gn:admin3_code":"20159.0",
+    "gn:asciiname":"Talaguapungo",
+    "gn:country_code":"EC",
+    "gn:dem":3200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3650851,
+    "gn:latitude":-1.28333,
+    "gn:longitude":-79.03333,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Talaguapungo",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670905,
+        421171743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3650851
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"95a096ee999073c15310ffdc7b23d423",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421171743,
+            "locality_id":1293008149,
+            "region_id":85670905
+        }
+    ],
+    "wof:id":1293008149,
+    "wof:lastmodified":1536980317,
+    "wof:name":"Talaguapungo",
+    "wof:parent_id":421171743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.03333,
+    -1.28333,
+    -79.03333,
+    -1.28333
+],
+  "geometry": {"coordinates":[-79.03333000000001,-1.28333],"type":"Point"}
+}

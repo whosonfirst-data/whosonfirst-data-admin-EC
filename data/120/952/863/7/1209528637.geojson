@@ -1,0 +1,63 @@
+{
+  "id": 1209528637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.06667,-2.98333,-79.06667,-2.98333",
+    "geom:latitude":-2.98333,
+    "geom:longitude":-79.06667,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10168.0",
+    "gn:asciiname":"Guagua Tarqui",
+    "gn:country_code":"EC",
+    "gn:dem":2741,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3657680,
+    "gn:latitude":-2.98333,
+    "gn:longitude":-79.06667,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Guagua Tarqui",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3657680
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"6460a2a31f64902e420bf1a6144a1924",
+    "wof:hierarchy":[
+        {
+            "country_id":85632261,
+            "locality_id":1209528637
+        }
+    ],
+    "wof:id":1209528637,
+    "wof:lastmodified":1536284353,
+    "wof:name":"Guagua Tarqui",
+    "wof:parent_id":85632261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.06667,
+    -2.98333,
+    -79.06667,
+    -2.98333
+],
+  "geometry": {"coordinates":[-79.06667,-2.98333],"type":"Point"}
+}

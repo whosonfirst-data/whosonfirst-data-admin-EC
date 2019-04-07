@@ -1,0 +1,63 @@
+{
+  "id": 1209423741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.3725,-3.17315,-79.3725,-3.17315",
+    "geom:latitude":-3.17315,
+    "geom:longitude":-79.3725,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"108.0",
+    "gn:admin3_code":"10853.0",
+    "gn:asciiname":"Shaglli",
+    "gn:country_code":"EC",
+    "gn:dem":2753,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3651159,
+    "gn:latitude":-3.17315,
+    "gn:longitude":-79.3725,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Shaglli",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3651159
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"63dcf656ee7dd2ec487e5f3b1ad60c45",
+    "wof:hierarchy":[
+        {
+            "country_id":85632261,
+            "locality_id":1209423741
+        }
+    ],
+    "wof:id":1209423741,
+    "wof:lastmodified":1536287446,
+    "wof:name":"Shaglli",
+    "wof:parent_id":85632261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.3725,
+    -3.17315,
+    -79.3725,
+    -3.17315
+],
+  "geometry": {"coordinates":[-79.3725,-3.17315],"type":"Point"}
+}

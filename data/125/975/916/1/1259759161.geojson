@@ -1,0 +1,70 @@
+{
+  "id": 1259759161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.11667,0.03333,-78.11667,0.03333",
+    "geom:latitude":0.03333,
+    "geom:longitude":-78.11667,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1702.0",
+    "gn:admin3_code":"170250.0",
+    "gn:asciiname":"Hacienda Anchola",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":3032,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3657383,
+    "gn:latitude":0.03333,
+    "gn:longitude":-78.11667,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda Anchola",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670945,
+        421197049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3657383
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"2f9fd30f8888259f2d7c39f21d51fbc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421197049,
+            "locality_id":1259759161,
+            "region_id":85670945
+        }
+    ],
+    "wof:id":1259759161,
+    "wof:lastmodified":1536958189,
+    "wof:name":"Hacienda Anchola",
+    "wof:parent_id":421197049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.11667,
+    0.03333,
+    -78.11667,
+    0.03333
+],
+  "geometry": {"coordinates":[-78.11667,0.03333],"type":"Point"}
+}

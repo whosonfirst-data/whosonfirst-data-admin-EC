@@ -1,0 +1,229 @@
+{
+  "id": 421180761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.85694,-2.22778,-80.85694,-2.22778",
+    "geom:latitude":-2.22778,
+    "geom:longitude":-80.85694,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u0625\u064a\u0644\u064a\u0646\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09a8\u09cd\u09a4\u09be \u098f\u09b2\u09c7\u09a8\u09be"
+    ],
+    "name:cat_x_preferred":[
+        "Santa Elena"
+    ],
+    "name:ceb_x_preferred":[
+        "Santa Elena"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u57c3\u502b\u5a1c"
+    ],
+    "name:dan_x_preferred":[
+        "Santa Elena"
+    ],
+    "name:dut_x_preferred":[
+        "Santa Elena"
+    ],
+    "name:eng_x_preferred":[
+        "Santa Elena"
+    ],
+    "name:epo_x_preferred":[
+        "Santa Elena"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u0627\u0644\u0646\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Santa Elena"
+    ],
+    "name:fra_x_preferred":[
+        "Santa Elena"
+    ],
+    "name:fre_x_preferred":[
+        "Santa Elena"
+    ],
+    "name:ger_x_preferred":[
+        "Santa Elena"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03ac\u03bd\u03c4\u03b1 \u0388\u03bb\u03b5\u03bd\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0abe\u0aa8\u0acd\u0aa4\u0abe \u0a8f\u0ab2\u0ac7\u0aa8\u0abe"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u093e\u0902\u0924\u093e \u0910\u0932\u0947\u0928\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Santa Elena"
+    ],
+    "name:ita_x_preferred":[
+        "Santa Elena"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30bf\u30fb\u30a8\u30ec\u30fc\u30ca"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0cbe\u0c82\u0c9f\u0cbe \u0c8e\u0cb2\u0cc6\u0ca8\u0cbe"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0\ud0c0\uc5d8\ub808\ub098"
+    ],
+    "name:lav_x_preferred":[
+        "Santaelena"
+    ],
+    "name:lit_x_preferred":[
+        "Santa Elena"
+    ],
+    "name:mac_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430 \u0415\u043b\u0435\u043d\u0430"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u093e\u0902\u0924\u093e \u090f\u0932\u0947\u0928\u093e"
+    ],
+    "name:may_x_preferred":[
+        "Santa Elena"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430 \u0415\u043b\u0435\u043d\u0430"
+    ],
+    "name:nob_x_preferred":[
+        "Santa Elena"
+    ],
+    "name:oci_x_preferred":[
+        "Santa Elena"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u0627\u0644\u0646\u0627"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u0627\u06cc\u0644\u06cc\u0646\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Santa Elena"
+    ],
+    "name:por_x_preferred":[
+        "Santa Elena"
+    ],
+    "name:que_x_preferred":[
+        "Santa Elena"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u0415\u043b\u0435\u043d\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Santa Elena"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dd0\u0db1\u0dca\u0da7\u0dcf \u0d91\u0dbd\u0dd2\u0db1\u0dcf"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Elena"
+    ],
+    "name:swe_x_preferred":[
+        "Santa Elena"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bbe\u0ba9\u0bcd\u0b9f\u0bbe  \u0b8e\u0bb2\u0bc6\u0ba9\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c36\u0c3e\u0c02\u0c1f \u0c0f\u0c32\u0c46\u0c28\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e32\u0e19\u0e15\u0e32 \u0e40\u0e2d\u0e40\u0e25\u0e19\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Santa Elena"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u0415\u043b\u0435\u043d\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u0627\u0644\u06cc\u0646\u0627\u060c \u0627\u06cc\u06a9\u0648\u0627\u0688\u0648\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Santa Elena"
+    ],
+    "name:war_x_preferred":[
+        "Santa Elena"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u57c3\u502b\u5a1c"
+    ],
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPLA",
+    "qs:gn_id":3651438,
+    "qs:gn_pop":42214,
+    "qs:name":"Santa Elena",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Santa Elena",
+    "qs:photos":175,
+    "qs:photos_1k":35,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":175,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1215279,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":375761,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":670,
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670979,
+        1108572401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3651438,
+        "gp:id":375761,
+        "qs:id":1215279,
+        "wd:id":"Q135864",
+        "wk:page":"Santa Elena, Ecuador"
+    },
+    "wof:country":"EC",
+    "wof:created":1459009270,
+    "wof:geomhash":"bd82504931754122e131405c6ed229b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108572401,
+            "locality_id":421180761,
+            "region_id":85670979
+        }
+    ],
+    "wof:id":421180761,
+    "wof:lastmodified":1553816369,
+    "wof:name":"Santa Elena",
+    "wof:parent_id":1108572401,
+    "wof:placetype":"locality",
+    "wof:population":42214,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.85694,
+    -2.22778,
+    -80.85694,
+    -2.22778
+],
+  "geometry": {"coordinates":[-80.85693999999999,-2.22778],"type":"Point"}
+}

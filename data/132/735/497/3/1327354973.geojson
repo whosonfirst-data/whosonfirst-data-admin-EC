@@ -1,0 +1,69 @@
+{
+  "id": 1327354973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.57302,-1.03813,-78.57302,-1.03813",
+    "geom:latitude":-1.03813,
+    "geom:longitude":-78.57302,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"505.0",
+    "gn:admin3_code":"50550.0",
+    "gn:asciiname":"Mulliquindil",
+    "gn:country_code":"EC",
+    "gn:dem":2674,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3653950,
+    "gn:latitude":-1.03813,
+    "gn:longitude":-78.57302,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Mulliquindil",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670915,
+        421171759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3653950
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"86313527e45cc231531f6398865ad55c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421171759,
+            "locality_id":1327354973,
+            "region_id":85670915
+        }
+    ],
+    "wof:id":1327354973,
+    "wof:lastmodified":1536793003,
+    "wof:name":"Mulliquindil",
+    "wof:parent_id":421171759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.57302,
+    -1.03813,
+    -78.57302,
+    -1.03813
+],
+  "geometry": {"coordinates":[-78.57302,-1.03813],"type":"Point"}
+}

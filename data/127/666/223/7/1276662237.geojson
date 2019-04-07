@@ -1,0 +1,70 @@
+{
+  "id": 1276662237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.81667,0.51667,-77.81667,0.51667",
+    "geom:latitude":0.51667,
+    "geom:longitude":-77.81667,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"405.0",
+    "gn:admin3_code":"40550.0",
+    "gn:asciiname":"Hacienda Taltun",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":2679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3655963,
+    "gn:latitude":0.51667,
+    "gn:longitude":-77.81667,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda Talt\u00fan",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670967,
+        421197239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3655963
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"3c067dad3ac209478d4cff244963cd8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421197239,
+            "locality_id":1276662237,
+            "region_id":85670967
+        }
+    ],
+    "wof:id":1276662237,
+    "wof:lastmodified":1536833954,
+    "wof:name":"Hacienda Taltun",
+    "wof:parent_id":421197239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.81667,
+    0.51667,
+    -77.81667,
+    0.51667
+],
+  "geometry": {"coordinates":[-77.81667,0.51667],"type":"Point"}
+}

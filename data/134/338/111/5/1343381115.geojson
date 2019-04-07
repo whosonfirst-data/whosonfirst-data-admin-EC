@@ -1,0 +1,70 @@
+{
+  "id": 1343381115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.98333,-3.5,-79.98333,-3.5",
+    "geom:latitude":-3.5,
+    "geom:longitude":-79.98333,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"712.0",
+    "gn:admin3_code":"71251.0",
+    "gn:asciiname":"Hacienda Pesantes",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3656481,
+    "gn:latitude":-3.5,
+    "gn:longitude":-79.98333,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda Pesantes",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670887,
+        1108572519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3656481
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"071a0959d1d7645f337d31577d6fbc73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108572519,
+            "locality_id":1343381115,
+            "region_id":85670887
+        }
+    ],
+    "wof:id":1343381115,
+    "wof:lastmodified":1536859385,
+    "wof:name":"Hacienda Pesantes",
+    "wof:parent_id":1108572519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.98333000000002,
+    -3.5,
+    -79.98333000000002,
+    -3.5
+],
+  "geometry": {"coordinates":[-79.98333000000002,-3.5],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1193007099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.06667,-1.81667,-80.06667,-1.81667",
+    "geom:latitude":-1.81667,
+    "geom:longitude":-80.06667,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"924.0",
+    "gn:admin3_code":"92450.0",
+    "gn:asciiname":"Las Canas",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3654981,
+    "gn:latitude":-1.81667,
+    "gn:longitude":-80.06667,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Las Ca\u00f1as",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670917,
+        1108570117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3654981
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"210736ae2a8145d77db9965bd5828bd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108570117,
+            "locality_id":1193007099,
+            "region_id":85670917
+        }
+    ],
+    "wof:id":1193007099,
+    "wof:lastmodified":1536365197,
+    "wof:name":"Las Canas",
+    "wof:parent_id":1108570117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.06667,
+    -1.81667,
+    -80.06667,
+    -1.81667
+],
+  "geometry": {"coordinates":[-80.06667,-1.81667],"type":"Point"}
+}

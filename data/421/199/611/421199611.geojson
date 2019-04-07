@@ -1,0 +1,102 @@
+{
+  "id": 421199611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.42958,-1.55238,-80.42958,-1.55238",
+    "geom:latitude":-1.55238,
+    "geom:longitude":-80.42958,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Paj\u00e1n"
+    ],
+    "name:dut_x_preferred":[
+        "Paj\u00e1n"
+    ],
+    "name:eng_x_preferred":[
+        "Paj\u00e1n"
+    ],
+    "name:fra_x_preferred":[
+        "Paj\u00e1n"
+    ],
+    "name:fre_x_preferred":[
+        "Paj\u00e1n"
+    ],
+    "name:que_x_preferred":[
+        "Paj\u00e1n"
+    ],
+    "name:swe_x_preferred":[
+        "Paj\u00e1n"
+    ],
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3653609,
+    "qs:gn_pop":9183,
+    "qs:name":"Paj\u00e1n",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Manabi",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":194742,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":375806,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670927,
+        421184203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3653609,
+        "gp:id":375806,
+        "qs:id":194742,
+        "wd:id":"Q7125333",
+        "wk:page":"Paj\u00e1n"
+    },
+    "wof:country":"EC",
+    "wof:created":1459009995,
+    "wof:geomhash":"152588155aa8ec0425c52f4ca2d3ebb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421184203,
+            "locality_id":421199611,
+            "region_id":85670927
+        }
+    ],
+    "wof:id":421199611,
+    "wof:lastmodified":1513956268,
+    "wof:name":"Paj\u00e1n",
+    "wof:parent_id":421184203,
+    "wof:placetype":"locality",
+    "wof:population":9183,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.42958,
+    -1.55238,
+    -80.42958,
+    -1.55238
+],
+  "geometry": {"coordinates":[-80.42958,-1.55238],"type":"Point"}
+}

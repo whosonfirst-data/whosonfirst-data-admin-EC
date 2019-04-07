@@ -1,0 +1,70 @@
+{
+  "id": 1260257001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.01667,-4.61667,-79.01667,-4.61667",
+    "geom:latitude":-4.61667,
+    "geom:longitude":-79.01667,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1908.0",
+    "gn:admin3_code":"190851.0",
+    "gn:asciiname":"Tambo Santa Ana",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":1754,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3650811,
+    "gn:latitude":-4.61667,
+    "gn:longitude":-79.01667,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Tambo Santa Ana",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670895,
+        421183941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3650811
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"82e77553d6e7cee29d3b7fab62ae37c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421183941,
+            "locality_id":1260257001,
+            "region_id":85670895
+        }
+    ],
+    "wof:id":1260257001,
+    "wof:lastmodified":1536747556,
+    "wof:name":"Tambo Santa Ana",
+    "wof:parent_id":421183941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.01666999999998,
+    -4.61667,
+    -79.01666999999998,
+    -4.61667
+],
+  "geometry": {"coordinates":[-79.01666999999998,-4.61667],"type":"Point"}
+}

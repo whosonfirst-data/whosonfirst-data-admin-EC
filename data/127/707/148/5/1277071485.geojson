@@ -1,0 +1,69 @@
+{
+  "id": 1277071485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.17242,-0.81732,-79.17242,-0.81732",
+    "geom:latitude":-0.81732,
+    "geom:longitude":-79.17242,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"502.0",
+    "gn:admin3_code":"50251.0",
+    "gn:asciiname":"El Tesoro",
+    "gn:country_code":"EC",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8472661,
+    "gn:latitude":-0.81732,
+    "gn:longitude":-79.17242,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"El Tesoro",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670915,
+        421178141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8472661
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"3498cdd3d7dd09a05ad44c5a6d13d670",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421178141,
+            "locality_id":1277071485,
+            "region_id":85670915
+        }
+    ],
+    "wof:id":1277071485,
+    "wof:lastmodified":1536784363,
+    "wof:name":"El Tesoro",
+    "wof:parent_id":421178141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.17241999999997,
+    -0.81732,
+    -79.17241999999997,
+    -0.81732
+],
+  "geometry": {"coordinates":[-79.17241999999997,-0.81732],"type":"Point"}
+}

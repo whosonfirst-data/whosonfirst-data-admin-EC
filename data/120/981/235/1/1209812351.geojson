@@ -1,0 +1,69 @@
+{
+  "id": 1209812351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.13446,-0.75432,-79.13446,-0.75432",
+    "geom:latitude":-0.75432,
+    "geom:longitude":-79.13446,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"502.0",
+    "gn:admin3_code":"50251.0",
+    "gn:asciiname":"La Josefina",
+    "gn:country_code":"EC",
+    "gn:dem":529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8472662,
+    "gn:latitude":-0.75432,
+    "gn:longitude":-79.13446,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"La Josefina",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670915,
+        421178141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8472662
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"ca4fca641620452c0bd037cb52e6eac2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421178141,
+            "locality_id":1209812351,
+            "region_id":85670915
+        }
+    ],
+    "wof:id":1209812351,
+    "wof:lastmodified":1536385865,
+    "wof:name":"La Josefina",
+    "wof:parent_id":421178141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.13446,
+    -0.75432,
+    -79.13446,
+    -0.75432
+],
+  "geometry": {"coordinates":[-79.13446,-0.75432],"type":"Point"}
+}

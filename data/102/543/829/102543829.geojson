@@ -1,0 +1,65 @@
+{
+  "id": 102543829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.55226,-1.704382,-79.55226,-1.704382",
+    "geom:latitude":-1.704382,
+    "geom:longitude":-79.55226,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"50",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424801,
+        "county_id":26809498,
+        "localadmin_id":26810285,
+        "planet_id":1,
+        "state_id":2345214
+    },
+    "wof:belongsto":[
+        85632261,
+        85670923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512635,
+        "icao:code":"SELJ",
+        "oa:id":"6060",
+        "wd:id":"Q20447505"
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"9d3aa51d6f935bc95c652b31ec4f1a06",
+    "wof:hierarchy":[
+        {
+            "campus_id":102543829,
+            "country_id":85632261,
+            "region_id":85670923
+        }
+    ],
+    "wof:id":102543829,
+    "wof:lastmodified":1543846097,
+    "wof:name":"Hacienda la Julia Airport",
+    "wof:parent_id":85670923,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -79.55226,
+    -1.704382,
+    -79.55226,
+    -1.704382
+],
+  "geometry": {"coordinates":[-79.55226,-1.704382],"type":"Point"}
+}

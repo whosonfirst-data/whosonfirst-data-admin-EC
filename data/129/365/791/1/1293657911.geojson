@@ -1,0 +1,77 @@
+{
+  "id": 1293657911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.11034,-0.37033,-78.11034,-0.37033",
+    "geom:latitude":-0.37033,
+    "geom:longitude":-78.11034,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1507.0",
+    "gn:admin3_code":"150753.0",
+    "gn:asciiname":"Chalpi Chico",
+    "gn:country_code":"EC",
+    "gn:dem":2890,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3659463,
+    "gn:latitude":-0.37033,
+    "gn:longitude":-78.11034,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Chalpi Chico",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670959,
+        1108571837,
+        85670953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3659463
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"e72ef4eaeb13b85307bf537128753238",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108571837,
+            "locality_id":1293657911,
+            "region_id":85670959
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108571837,
+            "locality_id":1293657911,
+            "region_id":85670953
+        }
+    ],
+    "wof:id":1293657911,
+    "wof:lastmodified":1537037059,
+    "wof:name":"Chalpi Chico",
+    "wof:parent_id":1108571837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.11034000000002,
+    -0.37033,
+    -78.11034000000002,
+    -0.37033
+],
+  "geometry": {"coordinates":[-78.11034000000002,-0.37033],"type":"Point"}
+}

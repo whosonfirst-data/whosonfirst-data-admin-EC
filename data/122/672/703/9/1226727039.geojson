@@ -1,0 +1,69 @@
+{
+  "id": 1226727039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.72648,-4.0146,-79.72648,-4.0146",
+    "geom:latitude":-4.0146,
+    "geom:longitude":-79.72648,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1109.0",
+    "gn:admin3_code":"110958.0",
+    "gn:asciiname":"Hacienda Macandamine",
+    "gn:country_code":"EC",
+    "gn:dem":946,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3656635,
+    "gn:latitude":-4.0146,
+    "gn:longitude":-79.72648,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda Macandamine",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670891,
+        1108571061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3656635
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"ea8a656bee13510edb43703b8e26980e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108571061,
+            "locality_id":1226727039,
+            "region_id":85670891
+        }
+    ],
+    "wof:id":1226727039,
+    "wof:lastmodified":1536742278,
+    "wof:name":"Hacienda Macandamine",
+    "wof:parent_id":1108571061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.72648000000002,
+    -4.0146,
+    -79.72648000000002,
+    -4.0146
+],
+  "geometry": {"coordinates":[-79.72648000000002,-4.0146],"type":"Point"}
+}

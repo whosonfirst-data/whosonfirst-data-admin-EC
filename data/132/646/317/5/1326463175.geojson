@@ -1,0 +1,69 @@
+{
+  "id": 1326463175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.96667,-2.46667,-78.96667,-2.46667",
+    "geom:latitude":-2.46667,
+    "geom:longitude":-78.96667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"303.0",
+    "gn:admin3_code":"30357.0",
+    "gn:asciiname":"Yanahurco",
+    "gn:country_code":"EC",
+    "gn:dem":3470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3650086,
+    "gn:latitude":-2.46667,
+    "gn:longitude":-78.96667,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Yanahurco",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670909,
+        421195597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3650086
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"1e442beacf4c99299d0e31aac24d05d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421195597,
+            "locality_id":1326463175,
+            "region_id":85670909
+        }
+    ],
+    "wof:id":1326463175,
+    "wof:lastmodified":1537080408,
+    "wof:name":"Yanahurco",
+    "wof:parent_id":421195597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.96667,
+    -2.46667,
+    -78.96667,
+    -2.46667
+],
+  "geometry": {"coordinates":[-78.96666999999999,-2.46667],"type":"Point"}
+}

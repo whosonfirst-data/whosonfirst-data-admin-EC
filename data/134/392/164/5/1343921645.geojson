@@ -1,0 +1,70 @@
+{
+  "id": 1343921645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.41667,-2.1,-77.41667,-2.1",
+    "geom:latitude":-2.1,
+    "geom:longitude":-77.41667,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"1601.0",
+    "gn:admin3_code":"160161.0",
+    "gn:asciiname":"Chumbela",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3659081,
+    "gn:latitude":-2.1,
+    "gn:longitude":-77.41667,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Chumbela",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670949,
+        421185499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3659081
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"0831a8339028b29023d6e3fc63c31867",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421185499,
+            "locality_id":1343921645,
+            "region_id":85670949
+        }
+    ],
+    "wof:id":1343921645,
+    "wof:lastmodified":1537073049,
+    "wof:name":"Chumbela",
+    "wof:parent_id":421185499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.41667,
+    -2.1,
+    -77.41667,
+    -2.1
+],
+  "geometry": {"coordinates":[-77.41667,-2.1],"type":"Point"}
+}

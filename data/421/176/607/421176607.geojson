@@ -1,0 +1,93 @@
+{
+  "id": 421176607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.75823,-1.69592,-78.75823,-1.69592",
+    "geom:latitude":-1.69592,
+    "geom:longitude":-78.75823,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Cajabamba"
+    ],
+    "name:eng_x_preferred":[
+        "Cajabamba"
+    ],
+    "name:que_x_preferred":[
+        "Kashapampa"
+    ],
+    "name:spa_x_preferred":[
+        "Cajabamba"
+    ],
+    "name:unk_x_variant":[
+        "Sicalpa"
+    ],
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3659949,
+    "qs:gn_pop":0,
+    "qs:name":"Cajabamba",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Chimborazo",
+    "qs:photos":28,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":28,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1052169,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":370003,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670931,
+        421194443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3659949,
+        "gp:id":370003,
+        "qs:id":1052169,
+        "wd:id":"Q5017971",
+        "wk:page":"Colta Canton"
+    },
+    "wof:country":"EC",
+    "wof:created":1459009113,
+    "wof:geomhash":"40eab2f2a0158255271ba3c924934200",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421194443,
+            "locality_id":421176607,
+            "region_id":85670931
+        }
+    ],
+    "wof:id":421176607,
+    "wof:lastmodified":1553816366,
+    "wof:name":"Cajabamba",
+    "wof:parent_id":421194443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.75823,
+    -1.69592,
+    -78.75823,
+    -1.69592
+],
+  "geometry": {"coordinates":[-78.75823,-1.69592],"type":"Point"}
+}

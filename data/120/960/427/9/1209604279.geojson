@@ -1,0 +1,61 @@
+{
+  "id": 1209604279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.86536,-2.26027,-79.86536,-2.26027",
+    "geom:latitude":-2.26027,
+    "geom:longitude":-79.86536,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Estero Cobina",
+    "gn:country_code":"EC",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3745565,
+    "gn:latitude":-2.26027,
+    "gn:longitude":-79.86536,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Estero Cobina",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3745565
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"8014e1626ecc635b831a02c82fb69d0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632261,
+            "locality_id":1209604279
+        }
+    ],
+    "wof:id":1209604279,
+    "wof:lastmodified":1536282064,
+    "wof:name":"Estero Cobina",
+    "wof:parent_id":85632261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.86536,
+    -2.26027,
+    -79.86536,
+    -2.26027
+],
+  "geometry": {"coordinates":[-79.86536,-2.26027],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 421201627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.993834,-4.2965,-78.993834,-4.2965",
+    "geom:latitude":-4.2965,
+    "geom:longitude":-78.993834,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Palanda",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Zamora-Chinchipe",
+    "qs:photos":53,
+    "qs:photos_1k":11,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":244,
+    "qs:photos_sr":2,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1264189,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":26809610,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":45,
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26809610,
+        "qs:id":1264189
+    },
+    "wof:country":"EC",
+    "wof:created":1459010079,
+    "wof:geomhash":"a23bc043f5505c6bfd72832397ce1596",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421201627,
+            "region_id":85670895
+        }
+    ],
+    "wof:id":421201627,
+    "wof:lastmodified":1527716433,
+    "wof:name":"Palanda",
+    "wof:parent_id":85670895,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.993834,
+    -4.2965,
+    -78.993834,
+    -4.2965
+],
+  "geometry": {"coordinates":[-78.99383400000001,-4.2965],"type":"Point"}
+}

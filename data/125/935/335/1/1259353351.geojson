@@ -1,0 +1,70 @@
+{
+  "id": 1259353351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.11667,-2.56667,-77.11667,-2.56667",
+    "geom:latitude":-2.56667,
+    "geom:longitude":-77.11667,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1409.0",
+    "gn:admin3_code":"140951.0",
+    "gn:asciiname":"Pincho",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3653124,
+    "gn:latitude":-2.56667,
+    "gn:longitude":-77.11667,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Pincho",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670935,
+        421191241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3653124
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"9ca1e2b4f7a16157a9292f9187854aef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421191241,
+            "locality_id":1259353351,
+            "region_id":85670935
+        }
+    ],
+    "wof:id":1259353351,
+    "wof:lastmodified":1537043924,
+    "wof:name":"Pincho",
+    "wof:parent_id":421191241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.11667,
+    -2.56667,
+    -77.11667,
+    -2.56667
+],
+  "geometry": {"coordinates":[-77.11667,-2.56667],"type":"Point"}
+}

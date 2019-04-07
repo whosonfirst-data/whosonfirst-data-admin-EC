@@ -1,0 +1,69 @@
+{
+  "id": 1293222649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.82384,-2.27459,-78.82384,-2.27459",
+    "geom:latitude":-2.27459,
+    "geom:longitude":-78.82384,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"602.0",
+    "gn:admin3_code":"60258.0",
+    "gn:asciiname":"Sevilla",
+    "gn:country_code":"EC",
+    "gn:dem":2834,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3651166,
+    "gn:latitude":-2.27459,
+    "gn:longitude":-78.82384,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Sevilla",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670931,
+        421196577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3651166
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"3a0377fc95b6f2c4a5a27a164a6181ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421196577,
+            "locality_id":1293222649,
+            "region_id":85670931
+        }
+    ],
+    "wof:id":1293222649,
+    "wof:lastmodified":1536671810,
+    "wof:name":"Sevilla",
+    "wof:parent_id":421196577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.82384,
+    -2.27459,
+    -78.82384,
+    -2.27459
+],
+  "geometry": {"coordinates":[-78.82384,-2.27459],"type":"Point"}
+}

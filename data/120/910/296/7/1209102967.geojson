@@ -1,0 +1,63 @@
+{
+  "id": 1209102967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.03333,-3.76667,-80.03333,-3.76667",
+    "geom:latitude":-3.76667,
+    "geom:longitude":-80.03333,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"714.0",
+    "gn:admin3_code":"71452.0",
+    "gn:asciiname":"El Tambo",
+    "gn:country_code":"EC",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3658077,
+    "gn:latitude":-3.76667,
+    "gn:longitude":-80.03333,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"El Tambo",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3658077
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"a2ad505893b59d929e6b59e57e7fab00",
+    "wof:hierarchy":[
+        {
+            "country_id":85632261,
+            "locality_id":1209102967
+        }
+    ],
+    "wof:id":1209102967,
+    "wof:lastmodified":1536297673,
+    "wof:name":"El Tambo",
+    "wof:parent_id":85632261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.03333,
+    -3.76667,
+    -80.03333,
+    -3.76667
+],
+  "geometry": {"coordinates":[-80.03333000000001,-3.76667],"type":"Point"}
+}

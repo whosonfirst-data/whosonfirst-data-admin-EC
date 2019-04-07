@@ -1,0 +1,97 @@
+{
+  "id": 421177075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.95952,-3.44882,-79.95952,-3.44882",
+    "geom:latitude":-3.44882,
+    "geom:longitude":-79.95952,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Santa Rosa"
+    ],
+    "name:ita_x_preferred":[
+        "Santa Rosa"
+    ],
+    "name:que_x_preferred":[
+        "Santa Rosa"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Rosa"
+    ],
+    "name:swe_x_preferred":[
+        "Santa Rosa"
+    ],
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3651356,
+    "qs:gn_pop":41816,
+    "qs:name":"Santa Rosa",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"El Oro",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"7",
+    "qs:qs_id":401607,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":26810507,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":347,
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670887,
+        1108572519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3651356,
+        "gp:id":26810507,
+        "qs:id":401607,
+        "wd:id":"Q7419863",
+        "wk:page":"Santa Rosa, El Oro"
+    },
+    "wof:country":"EC",
+    "wof:created":1459009132,
+    "wof:geomhash":"d878467e5c430ece8778fd12a4cc2808",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108572519,
+            "localadmin_id":421177075,
+            "region_id":85670887
+        }
+    ],
+    "wof:id":421177075,
+    "wof:lastmodified":1527716483,
+    "wof:name":"Santa Rosa",
+    "wof:parent_id":1108572519,
+    "wof:placetype":"localadmin",
+    "wof:population":41816,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.95952,
+    -3.44882,
+    -79.95952,
+    -3.44882
+],
+  "geometry": {"coordinates":[-79.95952,-3.44882],"type":"Point"}
+}

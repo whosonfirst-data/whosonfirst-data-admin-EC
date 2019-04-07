@@ -1,0 +1,69 @@
+{
+  "id": 1310507517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.0518,-2.51017,-79.0518,-2.51017",
+    "geom:latitude":-2.51017,
+    "geom:longitude":-79.0518,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"303.0",
+    "gn:admin3_code":"30354.0",
+    "gn:asciiname":"Hacienda Ger",
+    "gn:country_code":"EC",
+    "gn:dem":2061,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3656958,
+    "gn:latitude":-2.51017,
+    "gn:longitude":-79.0518,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda Ger",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670909,
+        421195597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3656958
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"f0cbbe53a56789847e064aa5626aa22c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421195597,
+            "locality_id":1310507517,
+            "region_id":85670909
+        }
+    ],
+    "wof:id":1310507517,
+    "wof:lastmodified":1536914415,
+    "wof:name":"Hacienda Ger",
+    "wof:parent_id":421195597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.0518,
+    -2.51017,
+    -79.0518,
+    -2.51017
+],
+  "geometry": {"coordinates":[-79.0518,-2.51017],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1193002149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.01667,-2.63333,-80.01667,-2.63333",
+    "geom:latitude":-2.63333,
+    "geom:longitude":-80.01667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Puerto Salinas",
+    "gn:country_code":"EC",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3652704,
+    "gn:latitude":-2.63333,
+    "gn:longitude":-80.01667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Puerto Salinas",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3652704
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"8a4cc66d6525a3375c25dd5b23c4033e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1193002149,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1193002149,
+    "wof:lastmodified":1536369345,
+    "wof:name":"Puerto Salinas",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.01666999999998,
+    -2.63333,
+    -80.01666999999998,
+    -2.63333
+],
+  "geometry": {"coordinates":[-80.01666999999998,-2.63333],"type":"Point"}
+}

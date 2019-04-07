@@ -1,0 +1,67 @@
+{
+  "id": 1226255401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.3,-3.46667,-79.3,-3.46667",
+    "geom:latitude":-3.46667,
+    "geom:longitude":-79.3,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Seurcel",
+    "gn:country_code":"EC",
+    "gn:dem":1501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3651167,
+    "gn:latitude":-3.46667,
+    "gn:longitude":-79.3,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Seurcel",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670891,
+        421184627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3651167
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"9208342965702b57b395ed1629847527",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421184627,
+            "locality_id":1226255401,
+            "region_id":85670891
+        }
+    ],
+    "wof:id":1226255401,
+    "wof:lastmodified":1536920275,
+    "wof:name":"Seurcel",
+    "wof:parent_id":421184627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.3,
+    -3.46667,
+    -79.3,
+    -3.46667
+],
+  "geometry": {"coordinates":[-79.3,-3.46667],"type":"Point"}
+}

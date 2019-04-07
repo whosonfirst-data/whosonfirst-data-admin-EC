@@ -1,0 +1,64 @@
+{
+  "id": 1209082627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.73333,-1.5,-79.73333,-1.5",
+    "geom:latitude":-1.5,
+    "geom:longitude":-79.73333,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"1208.0",
+    "gn:admin3_code":"120850.0",
+    "gn:asciiname":"Hacienda San Miguel",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3656155,
+    "gn:latitude":-1.5,
+    "gn:longitude":-79.73333,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda San Miguel",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3656155
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"b40dc8bf82fe3ad2b6520d6382bed34b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632261,
+            "locality_id":1209082627
+        }
+    ],
+    "wof:id":1209082627,
+    "wof:lastmodified":1536298288,
+    "wof:name":"Hacienda San Miguel",
+    "wof:parent_id":85632261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.73333000000002,
+    -1.5,
+    -79.73333000000002,
+    -1.5
+],
+  "geometry": {"coordinates":[-79.73333000000002,-1.5],"type":"Point"}
+}

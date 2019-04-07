@@ -1,0 +1,70 @@
+{
+  "id": 1193006159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.23333,0.26667,-78.23333,0.26667",
+    "geom:latitude":0.26667,
+    "geom:longitude":-78.23333,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1004.0",
+    "gn:admin3_code":"100456.0",
+    "gn:asciiname":"Hacienda Chichavo",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":2642,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3657232,
+    "gn:latitude":0.26667,
+    "gn:longitude":-78.23333,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda Chichavo",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670971,
+        421171751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3657232
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"ed1b72ad7c1cd7542bd77036a5c471aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421171751,
+            "locality_id":1193006159,
+            "region_id":85670971
+        }
+    ],
+    "wof:id":1193006159,
+    "wof:lastmodified":1536365833,
+    "wof:name":"Hacienda Chichavo",
+    "wof:parent_id":421171751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.23333000000002,
+    0.26667,
+    -78.23333000000002,
+    0.26667
+],
+  "geometry": {"coordinates":[-78.23333000000002,0.26667],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1260063943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.25184,-2.82904,-80.25184,-2.82904",
+    "geom:latitude":-2.82904,
+    "geom:longitude":-80.25184,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"901.0",
+    "gn:admin3_code":"90157.0",
+    "gn:asciiname":"Subida Alta",
+    "gn:country_code":"EC",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3650967,
+    "gn:latitude":-2.82904,
+    "gn:longitude":-80.25184,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Subida Alta",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670917,
+        421175423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3650967
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"5634aea67849ad53b2f2ea78fc51b73b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421175423,
+            "locality_id":1260063943,
+            "region_id":85670917
+        }
+    ],
+    "wof:id":1260063943,
+    "wof:lastmodified":1537015453,
+    "wof:name":"Subida Alta",
+    "wof:parent_id":421175423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.25184,
+    -2.82904,
+    -80.25184,
+    -2.82904
+],
+  "geometry": {"coordinates":[-80.25184,-2.82904],"type":"Point"}
+}

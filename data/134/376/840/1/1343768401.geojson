@@ -1,0 +1,69 @@
+{
+  "id": 1343768401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.49371,-2.50649,-79.49371,-2.50649",
+    "geom:latitude":-2.50649,
+    "geom:longitude":-79.49371,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"304.0",
+    "gn:admin3_code":"30452.0",
+    "gn:asciiname":"Pancho Negro",
+    "gn:country_code":"EC",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3653491,
+    "gn:latitude":-2.50649,
+    "gn:longitude":-79.49371,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Pancho Negro",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670909,
+        421191239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3653491
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"d92d43fb569c794ea5a2f2240f0ad27d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421191239,
+            "locality_id":1343768401,
+            "region_id":85670909
+        }
+    ],
+    "wof:id":1343768401,
+    "wof:lastmodified":1536799532,
+    "wof:name":"Pancho Negro",
+    "wof:parent_id":421191239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.49371,
+    -2.50649,
+    -79.49371,
+    -2.50649
+],
+  "geometry": {"coordinates":[-79.49370999999999,-2.50649],"type":"Point"}
+}

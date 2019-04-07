@@ -1,0 +1,63 @@
+{
+  "id": 1209102783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.22043,-3.3456,-80.22043,-3.3456",
+    "geom:latitude":-3.3456,
+    "geom:longitude":-80.22043,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"712.0",
+    "gn:admin3_code":"71252.0",
+    "gn:asciiname":"Los Corazones",
+    "gn:country_code":"EC",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3746781,
+    "gn:latitude":-3.3456,
+    "gn:longitude":-80.22043,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Los Corazones",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3746781
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"34132ac164a14dfeec6d475c328b8ce7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632261,
+            "locality_id":1209102783
+        }
+    ],
+    "wof:id":1209102783,
+    "wof:lastmodified":1536297679,
+    "wof:name":"Los Corazones",
+    "wof:parent_id":85632261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.22043000000002,
+    -3.3456,
+    -80.22043000000002,
+    -3.3456
+],
+  "geometry": {"coordinates":[-80.22043000000002,-3.3456],"type":"Point"}
+}

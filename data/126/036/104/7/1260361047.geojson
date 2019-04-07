@@ -1,0 +1,69 @@
+{
+  "id": 1260361047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.16667,-1.46667,-77.16667,-1.46667",
+    "geom:latitude":-1.46667,
+    "geom:longitude":-77.16667,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"1604.0",
+    "gn:admin3_code":"160451.0",
+    "gn:asciiname":"Ramon Playa",
+    "gn:country_code":"EC",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3652440,
+    "gn:latitude":-1.46667,
+    "gn:longitude":-77.16667,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Ram\u00f3n Playa",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670949,
+        421185499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3652440
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"6ac5a7a3906ad3c3729dea255b6b87ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421185499,
+            "locality_id":1260361047,
+            "region_id":85670949
+        }
+    ],
+    "wof:id":1260361047,
+    "wof:lastmodified":1536605092,
+    "wof:name":"Ramon Playa",
+    "wof:parent_id":421185499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.16667,
+    -1.46667,
+    -77.16667,
+    -1.46667
+],
+  "geometry": {"coordinates":[-77.16667,-1.46667],"type":"Point"}
+}

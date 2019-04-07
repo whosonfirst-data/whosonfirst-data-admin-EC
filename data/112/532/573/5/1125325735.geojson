@@ -1,0 +1,85 @@
+{
+  "id": 1125325735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.810668,-0.976362,-77.810668,-0.976362",
+    "geom:latitude":-0.976362,
+    "geom:longitude":-77.810668,
+    "gn:gn_country":null,
+    "iso:country":"EC",
+    "lbl:latitude":-0.976362,
+    "lbl:longitude":-77.810668,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"EC",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Tena",
+    "qs_pg:name_adm0":"Ecuador",
+    "qs_pg:name_adm1":"Napo",
+    "qs_pg:photos":468,
+    "qs_pg:photos_1k":95,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1004,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1264253,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424801,
+    "qs_pg:woe_id":26810573,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424801,
+    "woe:name_adm0":"Ecuador",
+    "woe:name_adm1":"Napo",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670953,
+        1108572985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26810573,
+        "qs:id":1264253,
+        "qs_pg:id":1264253
+    },
+    "wof:country":"EC",
+    "wof:created":1497044802,
+    "wof:geomhash":"7d06c60975c1bbf95347256414fa9d0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108572985,
+            "localadmin_id":1125325735,
+            "region_id":85670953
+        }
+    ],
+    "wof:id":1125325735,
+    "wof:lastmodified":1534379290,
+    "wof:name":"Tena",
+    "wof:parent_id":1108572985,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        421171775
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.810668,
+    -0.976362,
+    -77.810668,
+    -0.976362
+],
+  "geometry": {"coordinates":[-77.81066800000001,-0.976362],"type":"Point"}
+}

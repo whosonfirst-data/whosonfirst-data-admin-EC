@@ -1,0 +1,69 @@
+{
+  "id": 1193121569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.5299,0.70771,-79.5299,0.70771",
+    "geom:latitude":0.70771,
+    "geom:longitude":-79.5299,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"801.0",
+    "gn:admin3_code":"80159.0",
+    "gn:asciiname":"Majua",
+    "gn:country_code":"EC",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3654488,
+    "gn:latitude":0.70771,
+    "gn:longitude":-79.5299,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Majua",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670963,
+        1108569317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3654488
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"560be49bc3eb203943ed131e634c6cc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108569317,
+            "locality_id":1193121569,
+            "region_id":85670963
+        }
+    ],
+    "wof:id":1193121569,
+    "wof:lastmodified":1536363914,
+    "wof:name":"Majua",
+    "wof:parent_id":1108569317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.5299,
+    0.70771,
+    -79.5299,
+    0.70771
+],
+  "geometry": {"coordinates":[-79.5299,0.70771],"type":"Point"}
+}

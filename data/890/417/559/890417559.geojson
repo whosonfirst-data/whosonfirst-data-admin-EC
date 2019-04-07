@@ -1,0 +1,72 @@
+{
+  "id": 890417559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.02957,-2.90295,-79.02957,-2.90295",
+    "geom:latitude":-2.90295,
+    "geom:longitude":-79.02957,
+    "gn:country":"EC",
+    "gn:fcode":"MFG",
+    "gn:pop":2578,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":1,
+    "qs:name":"Modasa",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:elevation":197.0,
+    "wd:latitude":"23.47",
+    "wd:longitude":"73.3",
+    "wd:wordcount":1251,
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670885,
+        421185495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7648651,
+        "gp:id":375734,
+        "qs:id":695728,
+        "wk:page":"Modasa"
+    },
+    "wof:country":"EC",
+    "wof:created":1469051209,
+    "wof:geomhash":"40d59094565bf291cb4d9393923df895",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421185495,
+            "locality_id":890417559,
+            "region_id":85670885
+        }
+    ],
+    "wof:id":890417559,
+    "wof:lastmodified":1527782120,
+    "wof:name":"Modasa",
+    "wof:parent_id":421185495,
+    "wof:placetype":"locality",
+    "wof:population":2578,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.02957,
+    -2.90295,
+    -79.02957,
+    -2.90295
+],
+  "geometry": {"coordinates":[-79.02957000000001,-2.90295],"type":"Point"}
+}

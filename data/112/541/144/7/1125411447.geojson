@@ -1,0 +1,85 @@
+{
+  "id": 1125411447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.270206,0.140075,-78.270206,0.140075",
+    "geom:latitude":0.140075,
+    "geom:longitude":-78.270206,
+    "gn:gn_country":null,
+    "iso:country":"EC",
+    "lbl:latitude":0.140075,
+    "lbl:longitude":-78.270206,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"EC",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"San Rafael",
+    "qs_pg:name_adm0":"Ecuador",
+    "qs_pg:name_adm1":"Imbabura",
+    "qs_pg:photos":28,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":48,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1184656,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424801,
+    "qs_pg:woe_id":26810474,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424801,
+    "woe:name_adm0":"Ecuador",
+    "woe:name_adm1":"Imbabura",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670971,
+        421171751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26810474,
+        "qs:id":1184656,
+        "qs_pg:id":1184656
+    },
+    "wof:country":"EC",
+    "wof:created":1497050294,
+    "wof:geomhash":"f1b5ecd67f882fca89fc2bee7e1bd0e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421171751,
+            "localadmin_id":1125411447,
+            "region_id":85670971
+        }
+    ],
+    "wof:id":1125411447,
+    "wof:lastmodified":1534379289,
+    "wof:name":"San Rafael",
+    "wof:parent_id":421171751,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        421204137
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.270206,
+    0.140075,
+    -78.270206,
+    0.140075
+],
+  "geometry": {"coordinates":[-78.270206,0.140075],"type":"Point"}
+}

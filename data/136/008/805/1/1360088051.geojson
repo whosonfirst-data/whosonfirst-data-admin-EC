@@ -1,0 +1,69 @@
+{
+  "id": 1360088051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.71919,-2.73875,-78.71919,-2.73875",
+    "geom:latitude":-2.73875,
+    "geom:longitude":-78.71919,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"105.0",
+    "gn:admin3_code":"10562.0",
+    "gn:asciiname":"Hacienda Dugdug",
+    "gn:country_code":"EC",
+    "gn:dem":2491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3657105,
+    "gn:latitude":-2.73875,
+    "gn:longitude":-78.71919,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda Dugdug",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670885,
+        421193503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3657105
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"37b7fc2e1dc6048e6249b0e36fd8f921",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421193503,
+            "locality_id":1360088051,
+            "region_id":85670885
+        }
+    ],
+    "wof:id":1360088051,
+    "wof:lastmodified":1536941931,
+    "wof:name":"Hacienda Dugdug",
+    "wof:parent_id":421193503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.71919,
+    -2.73875,
+    -78.71919,
+    -2.73875
+],
+  "geometry": {"coordinates":[-78.71919,-2.73875],"type":"Point"}
+}

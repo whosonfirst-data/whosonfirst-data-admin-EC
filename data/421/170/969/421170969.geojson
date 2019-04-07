@@ -1,0 +1,83 @@
+{
+  "id": 421170969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.851055,-1.16948,-77.851055,-1.16948",
+    "geom:latitude":-1.16948,
+    "geom:longitude":-77.851055,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Carlos Julio Arosemena Tola",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Napo",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":5,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1203903,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":26809811,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670959,
+        1108572985,
+        85670953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26809811,
+        "qs:id":1203903
+    },
+    "wof:country":"EC",
+    "wof:created":1459008876,
+    "wof:geomhash":"6b646780890513f7a1b7f0659b6ff66e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108572985,
+            "localadmin_id":421170969,
+            "region_id":85670959
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108572985,
+            "localadmin_id":421170969,
+            "region_id":85670953
+        }
+    ],
+    "wof:id":421170969,
+    "wof:lastmodified":1500036644,
+    "wof:name":"Carlos Julio Arosemena Tola",
+    "wof:parent_id":1108572985,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.851055,
+    -1.16948,
+    -77.851055,
+    -1.16948
+],
+  "geometry": {"coordinates":[-77.851055,-1.16948],"type":"Point"}
+}

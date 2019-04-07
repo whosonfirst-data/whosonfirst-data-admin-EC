@@ -1,0 +1,93 @@
+{
+  "id": 1125314465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.15176,-0.369364,-78.15176,-0.369364",
+    "geom:latitude":-0.369364,
+    "geom:longitude":-78.15176,
+    "gn:gn_country":null,
+    "iso:country":"EC",
+    "lbl:latitude":-0.369364,
+    "lbl:longitude":-78.15176,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"EC",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Papallacta",
+    "qs_pg:name_adm0":"Ecuador",
+    "qs_pg:name_adm1":"Napo",
+    "qs_pg:photos":378,
+    "qs_pg:photos_1k":77,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":653,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":893650,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424801,
+    "qs_pg:woe_id":26810260,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424801,
+    "woe:name_adm0":"Ecuador",
+    "woe:name_adm1":"Napo",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670959,
+        1108571837,
+        85670953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26810260,
+        "qs:id":893650,
+        "qs_pg:id":893650
+    },
+    "wof:country":"EC",
+    "wof:created":1497044196,
+    "wof:geomhash":"f408597ef9ecea43f44fe6a899c94aa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108571837,
+            "localadmin_id":1125314465,
+            "region_id":85670959
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108571837,
+            "localadmin_id":1125314465,
+            "region_id":85670953
+        }
+    ],
+    "wof:id":1125314465,
+    "wof:lastmodified":1534379289,
+    "wof:name":"Papallacta",
+    "wof:parent_id":1108571837,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        421200735
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.15176,
+    -0.369364,
+    -78.15176,
+    -0.369364
+],
+  "geometry": {"coordinates":[-78.15176,-0.369364],"type":"Point"}
+}

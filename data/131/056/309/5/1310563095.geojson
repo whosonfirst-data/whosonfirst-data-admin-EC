@@ -1,0 +1,69 @@
+{
+  "id": 1310563095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.75916,-3.90873,-78.75916,-3.90873",
+    "geom:latitude":-3.90873,
+    "geom:longitude":-78.75916,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1907.0",
+    "gn:admin3_code":"190750.0",
+    "gn:asciiname":"Nanguipa Bajo",
+    "gn:country_code":"EC",
+    "gn:dem":943,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3760421,
+    "gn:latitude":-3.90873,
+    "gn:longitude":-78.75916,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Nanguipa Bajo",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670895,
+        421182449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3760421
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"b0e49dadecf274f38a763722328577a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421182449,
+            "locality_id":1310563095,
+            "region_id":85670895
+        }
+    ],
+    "wof:id":1310563095,
+    "wof:lastmodified":1536832996,
+    "wof:name":"Nanguipa Bajo",
+    "wof:parent_id":421182449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.75916,
+    -3.90873,
+    -78.75916,
+    -3.90873
+],
+  "geometry": {"coordinates":[-78.75915999999999,-3.90873],"type":"Point"}
+}

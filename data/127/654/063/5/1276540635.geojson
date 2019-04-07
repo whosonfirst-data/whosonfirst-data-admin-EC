@@ -1,0 +1,69 @@
+{
+  "id": 1276540635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.64408,-0.90365,-78.64408,-0.90365",
+    "geom:latitude":-0.90365,
+    "geom:longitude":-78.64408,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"501.0",
+    "gn:admin3_code":"50150.0",
+    "gn:asciiname":"Hacienda Tilipulo",
+    "gn:country_code":"EC",
+    "gn:dem":2915,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3655936,
+    "gn:latitude":-0.90365,
+    "gn:longitude":-78.64408,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda Tilipulo",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670915,
+        421182157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3655936
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"ba156d94359543f5cbf533b3f9ce7d32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421182157,
+            "locality_id":1276540635,
+            "region_id":85670915
+        }
+    ],
+    "wof:id":1276540635,
+    "wof:lastmodified":1536997484,
+    "wof:name":"Hacienda Tilipulo",
+    "wof:parent_id":421182157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.64408,
+    -0.90365,
+    -78.64408,
+    -0.90365
+],
+  "geometry": {"coordinates":[-78.64408,-0.90365],"type":"Point"}
+}

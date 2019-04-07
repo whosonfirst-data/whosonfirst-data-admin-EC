@@ -1,0 +1,102 @@
+{
+  "id": 421195809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.54625,-1.0595,-77.54625,-1.0595",
+    "geom:latitude":-1.0595,
+    "geom:longitude":-77.54625,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Ahuano"
+    ],
+    "name:eng_x_preferred":[
+        "Ahuano"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0647\u0648\u0627\u0646\u0648\u060c \u0627\u06a9\u0648\u0627\u062f\u0648\u0631"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0647\u0648\u0627\u0646\u0648\u060c \u0627\u06a9\u0648\u0627\u062f\u0648\u0631"
+    ],
+    "name:unk_x_variant":[
+        "Ahuana"
+    ],
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3660822,
+    "qs:gn_pop":0,
+    "qs:name":"Ahuano",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Napo",
+    "qs:photos":151,
+    "qs:photos_1k":31,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":151,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1342173,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":375914,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":146,
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670959,
+        1108572985,
+        85670953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3660822,
+        "gp:id":375914,
+        "qs:id":1342173,
+        "wd:id":"Q15178537",
+        "wk:page":"Ahuano, Ecuador"
+    },
+    "wof:country":"EC",
+    "wof:created":1459009860,
+    "wof:geomhash":"5de3f991bcf553ca3ad726aa2f4b9680",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108572985,
+            "locality_id":421195809,
+            "region_id":85670959
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108572985,
+            "locality_id":421195809,
+            "region_id":85670953
+        }
+    ],
+    "wof:id":421195809,
+    "wof:lastmodified":1527716124,
+    "wof:name":"Ahuano",
+    "wof:parent_id":1108572985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.54625,
+    -1.0595,
+    -77.54625,
+    -1.0595
+],
+  "geometry": {"coordinates":[-77.54625,-1.0595],"type":"Point"}
+}

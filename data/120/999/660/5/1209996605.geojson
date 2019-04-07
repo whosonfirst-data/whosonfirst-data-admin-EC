@@ -1,0 +1,69 @@
+{
+  "id": 1209996605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.21336,-4.27154,-79.21336,-4.27154",
+    "geom:latitude":-4.27154,
+    "geom:longitude":-79.21336,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1101.0",
+    "gn:admin3_code":"110161.0",
+    "gn:asciiname":"San Jose",
+    "gn:country_code":"EC",
+    "gn:dem":1657,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3651776,
+    "gn:latitude":-4.27154,
+    "gn:longitude":-79.21336,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"San Jos\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670891,
+        421182159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3651776
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"e49dfa2e7f8012232a787f9ee17e4a41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421182159,
+            "locality_id":1209996605,
+            "region_id":85670891
+        }
+    ],
+    "wof:id":1209996605,
+    "wof:lastmodified":1536383198,
+    "wof:name":"San Jose",
+    "wof:parent_id":421182159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.21336,
+    -4.27154,
+    -79.21336,
+    -4.27154
+],
+  "geometry": {"coordinates":[-79.21335999999999,-4.27154],"type":"Point"}
+}

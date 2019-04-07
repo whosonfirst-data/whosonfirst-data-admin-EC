@@ -1,0 +1,63 @@
+{
+  "id": 1209279959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.58591,-1.35954,-78.58591,-1.35954",
+    "geom:latitude":-1.35954,
+    "geom:longitude":-78.58591,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1806.0",
+    "gn:admin3_code":"180650.0",
+    "gn:asciiname":"Llimpe",
+    "gn:country_code":"EC",
+    "gn:dem":2926,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3654701,
+    "gn:latitude":-1.35954,
+    "gn:longitude":-78.58591,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Llimpe",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3654701
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"d132c05bc5b495f3d5ddfea443f71ec1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632261,
+            "locality_id":1209279959
+        }
+    ],
+    "wof:id":1209279959,
+    "wof:lastmodified":1536292058,
+    "wof:name":"Llimpe",
+    "wof:parent_id":85632261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.58591,
+    -1.35954,
+    -78.58591,
+    -1.35954
+],
+  "geometry": {"coordinates":[-78.58591,-1.35954],"type":"Point"}
+}

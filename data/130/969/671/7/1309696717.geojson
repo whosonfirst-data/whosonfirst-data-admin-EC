@@ -1,0 +1,65 @@
+{
+  "id": 1309696717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.9421,1.32643,-78.9421,1.32643",
+    "geom:latitude":1.32643,
+    "geom:longitude":-78.9421,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"802.0",
+    "gn:admin3_code":"80257.0",
+    "gn:asciiname":"Santa Rosa",
+    "gn:country_code":"EC",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3651376,
+    "gn:latitude":1.32643,
+    "gn:longitude":-78.9421,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Santa Rosa",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3651376
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"835a0c34b0b1ac733fee810e2efd002b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "locality_id":1309696717,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309696717,
+    "wof:lastmodified":1537085241,
+    "wof:name":"Santa Rosa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.9421,
+    1.32643,
+    -78.9421,
+    1.32643
+],
+  "geometry": {"coordinates":[-78.9421,1.32643],"type":"Point"}
+}

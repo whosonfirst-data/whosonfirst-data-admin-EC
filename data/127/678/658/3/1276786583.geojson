@@ -1,0 +1,69 @@
+{
+  "id": 1276786583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.77133,-3.37833,-79.77133,-3.37833",
+    "geom:latitude":-3.37833,
+    "geom:longitude":-79.77133,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"709.0",
+    "gn:admin3_code":"70950.0",
+    "gn:asciiname":"Palenque",
+    "gn:country_code":"EC",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3653586,
+    "gn:latitude":-3.37833,
+    "gn:longitude":-79.77133,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Palenque",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670887,
+        421191247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3653586
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"fb545ff6c0f4f2e85f79a3bc43808386",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421191247,
+            "locality_id":1276786583,
+            "region_id":85670887
+        }
+    ],
+    "wof:id":1276786583,
+    "wof:lastmodified":1536668727,
+    "wof:name":"Palenque",
+    "wof:parent_id":421191247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.77133,
+    -3.37833,
+    -79.77133,
+    -3.37833
+],
+  "geometry": {"coordinates":[-79.77133000000001,-3.37833],"type":"Point"}
+}

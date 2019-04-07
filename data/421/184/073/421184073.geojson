@@ -1,0 +1,82 @@
+{
+  "id": 421184073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.58333,-0.25,-78.58333,-0.25",
+    "geom:latitude":-0.25,
+    "geom:longitude":-78.58333,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:que_x_preferred":[
+        "Lluwa kitilli"
+    ],
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3654698,
+    "qs:gn_pop":0,
+    "qs:name":"Lloa",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Pichincha",
+    "qs:photos":33,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":33,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":989405,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":373423,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":67,
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670945,
+        421188131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3654698,
+        "gp:id":373423,
+        "qs:id":989405,
+        "wd:id":"Q5058665",
+        "wk:page":"Lloa"
+    },
+    "wof:country":"EC",
+    "wof:created":1459009399,
+    "wof:geomhash":"e5c1e2df3243ab312a389ca1714e3620",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421188131,
+            "locality_id":421184073,
+            "region_id":85670945
+        }
+    ],
+    "wof:id":421184073,
+    "wof:lastmodified":1527716452,
+    "wof:name":"Lloa",
+    "wof:parent_id":421188131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.58333,
+    -0.25,
+    -78.58333,
+    -0.25
+],
+  "geometry": {"coordinates":[-78.58333,-0.25],"type":"Point"}
+}

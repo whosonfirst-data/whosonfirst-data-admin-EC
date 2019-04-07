@@ -1,0 +1,61 @@
+{
+  "id": 1209090077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.46657,-2.37083,-80.46657,-2.37083",
+    "geom:latitude":-2.37083,
+    "geom:longitude":-80.46657,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Sucre",
+    "gn:country_code":"EC",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3650959,
+    "gn:latitude":-2.37083,
+    "gn:longitude":-80.46657,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Sucre",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3650959
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"65e9b9d8a111e36881786d7772d03d2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632261,
+            "locality_id":1209090077
+        }
+    ],
+    "wof:id":1209090077,
+    "wof:lastmodified":1536298063,
+    "wof:name":"Sucre",
+    "wof:parent_id":85632261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.46656999999998,
+    -2.37083,
+    -80.46656999999998,
+    -2.37083
+],
+  "geometry": {"coordinates":[-80.46656999999998,-2.37083],"type":"Point"}
+}

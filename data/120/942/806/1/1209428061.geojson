@@ -1,0 +1,63 @@
+{
+  "id": 1209428061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.10298,-3.10501,-79.10298,-3.10501",
+    "geom:latitude":-3.10501,
+    "geom:longitude":-79.10298,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10171.0",
+    "gn:asciiname":"Portete",
+    "gn:country_code":"EC",
+    "gn:dem":2728,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3652952,
+    "gn:latitude":-3.10501,
+    "gn:longitude":-79.10298,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Portete",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3652952
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"1241cfb5c4eb38977a2e63af64bfeea7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632261,
+            "locality_id":1209428061
+        }
+    ],
+    "wof:id":1209428061,
+    "wof:lastmodified":1536287319,
+    "wof:name":"Portete",
+    "wof:parent_id":85632261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.10298,
+    -3.10501,
+    -79.10298,
+    -3.10501
+],
+  "geometry": {"coordinates":[-79.10298,-3.10501],"type":"Point"}
+}

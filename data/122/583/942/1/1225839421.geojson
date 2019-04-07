@@ -1,0 +1,70 @@
+{
+  "id": 1225839421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.65,-0.75,-78.65,-0.75",
+    "geom:latitude":-0.75,
+    "geom:longitude":-78.65,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"501.0",
+    "gn:admin3_code":"50161.0",
+    "gn:asciiname":"Hacienda Luzun Chico",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":3091,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3656637,
+    "gn:latitude":-0.75,
+    "gn:longitude":-78.65,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda Luz\u00fan Chico",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670915,
+        421182157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3656637
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"5d8fb325db1f3e634e06fafd98477079",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421182157,
+            "locality_id":1225839421,
+            "region_id":85670915
+        }
+    ],
+    "wof:id":1225839421,
+    "wof:lastmodified":1537021855,
+    "wof:name":"Hacienda Luzun Chico",
+    "wof:parent_id":421182157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.65,
+    -0.75,
+    -78.65,
+    -0.75
+],
+  "geometry": {"coordinates":[-78.65000000000001,-0.75],"type":"Point"}
+}

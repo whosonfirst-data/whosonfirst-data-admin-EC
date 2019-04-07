@@ -1,0 +1,69 @@
+{
+  "id": 1243034345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.33941,-0.24407,-78.33941,-0.24407",
+    "geom:latitude":-0.24407,
+    "geom:longitude":-78.33941,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1701.0",
+    "gn:admin3_code":"170175.0",
+    "gn:asciiname":"Hacienda Paluga",
+    "gn:country_code":"EC",
+    "gn:dem":2593,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3656503,
+    "gn:latitude":-0.24407,
+    "gn:longitude":-78.33941,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda Paluga",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670945,
+        421188131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3656503
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"4aa481421df3b2c9b5356ea80ece1898",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421188131,
+            "locality_id":1243034345,
+            "region_id":85670945
+        }
+    ],
+    "wof:id":1243034345,
+    "wof:lastmodified":1536902811,
+    "wof:name":"Hacienda Paluga",
+    "wof:parent_id":421188131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.33941,
+    -0.24407,
+    -78.33941,
+    -0.24407
+],
+  "geometry": {"coordinates":[-78.33941,-0.24407],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259559325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.55,-0.5,-78.55,-0.5",
+    "geom:latitude":-0.5,
+    "geom:longitude":-78.55,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1703.0",
+    "gn:admin3_code":"170350.0",
+    "gn:asciiname":"Hacienda La Lola",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":2872,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3656754,
+    "gn:latitude":-0.5,
+    "gn:longitude":-78.55,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda La Lola",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670945,
+        421175413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3656754
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"80c7b7f02a797550d871e2e7b1d22a7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421175413,
+            "locality_id":1259559325,
+            "region_id":85670945
+        }
+    ],
+    "wof:id":1259559325,
+    "wof:lastmodified":1536749582,
+    "wof:name":"Hacienda La Lola",
+    "wof:parent_id":421175413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.55,
+    -0.5,
+    -78.55,
+    -0.5
+],
+  "geometry": {"coordinates":[-78.55,-0.5],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1193126411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.95,-1.51667,-79.95,-1.51667",
+    "geom:latitude":-1.51667,
+    "geom:longitude":-79.95,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"904.0",
+    "gn:admin3_code":"90450.0",
+    "gn:asciiname":"Hacienda Javiera",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3656840,
+    "gn:latitude":-1.51667,
+    "gn:longitude":-79.95,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda Javiera",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670917,
+        1108568689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3656840
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"1954be8e8293c37cdb34d730cec7b1c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108568689,
+            "locality_id":1193126411,
+            "region_id":85670917
+        }
+    ],
+    "wof:id":1193126411,
+    "wof:lastmodified":1536380442,
+    "wof:name":"Hacienda Javiera",
+    "wof:parent_id":1108568689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.95,
+    -1.51667,
+    -79.95,
+    -1.51667
+],
+  "geometry": {"coordinates":[-79.95,-1.51667],"type":"Point"}
+}

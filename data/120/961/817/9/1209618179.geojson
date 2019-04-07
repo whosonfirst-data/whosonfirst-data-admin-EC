@@ -1,0 +1,63 @@
+{
+  "id": 1209618179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.72284,-2.74173,-78.72284,-2.74173",
+    "geom:latitude":-2.74173,
+    "geom:longitude":-78.72284,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"105.0",
+    "gn:admin3_code":"10562.0",
+    "gn:asciiname":"Dugdug",
+    "gn:country_code":"EC",
+    "gn:dem":2415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3658409,
+    "gn:latitude":-2.74173,
+    "gn:longitude":-78.72284,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Dugdug",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3658409
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"c3d20568f3a8f341aadd02df49a31440",
+    "wof:hierarchy":[
+        {
+            "country_id":85632261,
+            "locality_id":1209618179
+        }
+    ],
+    "wof:id":1209618179,
+    "wof:lastmodified":1536281614,
+    "wof:name":"Dugdug",
+    "wof:parent_id":85632261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.72284,
+    -2.74173,
+    -78.72284,
+    -2.74173
+],
+  "geometry": {"coordinates":[-78.72284000000001,-2.74173],"type":"Point"}
+}

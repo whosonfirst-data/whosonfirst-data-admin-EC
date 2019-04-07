@@ -1,0 +1,127 @@
+{
+  "id": 421179437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.42367,-0.59792,-80.42367,-0.59792",
+    "geom:latitude":-0.59792,
+    "geom:longitude":-80.42367,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Bah\u00eda de Car\u00e1quez"
+    ],
+    "name:chi_x_preferred":[
+        "\u5361\u62c9\u514b\u65af\u6e2f"
+    ],
+    "name:dut_x_preferred":[
+        "Bah\u00eda de Car\u00e1quez"
+    ],
+    "name:eng_x_preferred":[
+        "Bah\u00eda de Car\u00e1quez"
+    ],
+    "name:fra_x_preferred":[
+        "Bah\u00eda de Car\u00e1quez"
+    ],
+    "name:fre_x_preferred":[
+        "Bah\u00eda de Car\u00e1quez"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30a4\u30fc\u30a2\u30fb\u30c7\u30fb\u30ab\u30e9\u30b1\u30b9"
+    ],
+    "name:lit_x_preferred":[
+        "Bahija de Karakesas"
+    ],
+    "name:pol_x_preferred":[
+        "Bah\u00eda de Caraquez"
+    ],
+    "name:por_x_preferred":[
+        "Bah\u00eda de Car\u00e1quez"
+    ],
+    "name:que_x_preferred":[
+        "Bah\u00eda de Car\u00e1quez"
+    ],
+    "name:ron_x_preferred":[
+        "Bahia"
+    ],
+    "name:rum_x_preferred":[
+        "Bahia"
+    ],
+    "name:spa_x_preferred":[
+        "Bah\u00eda de Car\u00e1quez"
+    ],
+    "name:swe_x_preferred":[
+        "Bah\u00eda de Car\u00e1quez"
+    ],
+    "name:unk_x_variant":[
+        "Sucre"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u62c9\u514b\u65af\u6e2f"
+    ],
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3660401,
+    "qs:gn_pop":37056,
+    "qs:name":"Bah\u00eda de Car\u00e1quez",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Manabi",
+    "qs:photos":263,
+    "qs:photos_1k":53,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":263,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":149724,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":375773,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":730,
+    "wof:belongsto":[
+        85632261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3660401,
+        "gp:id":375773,
+        "qs:id":149724,
+        "wd:id":"Q2749246",
+        "wk:page":"Bah\u00eda de Car\u00e1quez"
+    },
+    "wof:country":"EC",
+    "wof:created":1459009221,
+    "wof:geomhash":"0fa717311ae1dacca3ca262547579f20",
+    "wof:hierarchy":[
+        {
+            "country_id":85632261,
+            "locality_id":421179437
+        }
+    ],
+    "wof:id":421179437,
+    "wof:lastmodified":1527717704,
+    "wof:name":"Bah\u00eda de Car\u00e1quez",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":37056,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.42367,
+    -0.59792,
+    -80.42367,
+    -0.59792
+],
+  "geometry": {"coordinates":[-80.42367,-0.59792],"type":"Point"}
+}

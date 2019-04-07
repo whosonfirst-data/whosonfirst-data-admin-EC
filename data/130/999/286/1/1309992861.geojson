@@ -1,0 +1,70 @@
+{
+  "id": 1309992861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.96667,-3.9,-79.96667,-3.9",
+    "geom:latitude":-3.9,
+    "geom:longitude":-79.96667,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1110.0",
+    "gn:admin3_code":"111051.0",
+    "gn:asciiname":"Ciano",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":807,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3659031,
+    "gn:latitude":-3.9,
+    "gn:longitude":-79.96667,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Ciano",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670891,
+        1108571749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3659031
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"d05143567670142ad20db0b0957329ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108571749,
+            "locality_id":1309992861,
+            "region_id":85670891
+        }
+    ],
+    "wof:id":1309992861,
+    "wof:lastmodified":1536661584,
+    "wof:name":"Ciano",
+    "wof:parent_id":1108571749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.96667,
+    -3.9,
+    -79.96667,
+    -3.9
+],
+  "geometry": {"coordinates":[-79.96666999999999,-3.9],"type":"Point"}
+}

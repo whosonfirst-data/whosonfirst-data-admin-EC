@@ -1,0 +1,70 @@
+{
+  "id": 1327223449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.9,1.01667,-78.9,1.01667",
+    "geom:latitude":1.01667,
+    "geom:longitude":-78.9,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"802.0",
+    "gn:admin3_code":"80262.0",
+    "gn:asciiname":"Pueblito",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3652801,
+    "gn:latitude":1.01667,
+    "gn:longitude":-78.9,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Pueblito",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670963,
+        1108569287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3652801
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"7dbcf79d1b91aee5d0ff1f28c6cd699c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108569287,
+            "locality_id":1327223449,
+            "region_id":85670963
+        }
+    ],
+    "wof:id":1327223449,
+    "wof:lastmodified":1536981856,
+    "wof:name":"Pueblito",
+    "wof:parent_id":1108569287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.9,
+    1.01667,
+    -78.9,
+    1.01667
+],
+  "geometry": {"coordinates":[-78.90000000000001,1.01667],"type":"Point"}
+}

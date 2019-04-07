@@ -1,0 +1,69 @@
+{
+  "id": 1243247045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.44263,-0.23501,-79.44263,-0.23501",
+    "geom:latitude":-0.23501,
+    "geom:longitude":-79.44263,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1304.0",
+    "gn:admin3_code":"130450.0",
+    "gn:asciiname":"Sumita",
+    "gn:country_code":"EC",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8472341,
+    "gn:latitude":-0.23501,
+    "gn:longitude":-79.44263,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Sumita",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670927,
+        1108569025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8472341
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"ff41c2a9f5c0d17915c873e7a49c4d82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108569025,
+            "locality_id":1243247045,
+            "region_id":85670927
+        }
+    ],
+    "wof:id":1243247045,
+    "wof:lastmodified":1537089752,
+    "wof:name":"Sumita",
+    "wof:parent_id":1108569025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.44263000000002,
+    -0.23501,
+    -79.44263000000002,
+    -0.23501
+],
+  "geometry": {"coordinates":[-79.44263000000002,-0.23501],"type":"Point"}
+}

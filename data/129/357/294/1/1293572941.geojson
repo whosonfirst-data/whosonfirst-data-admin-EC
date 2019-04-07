@@ -1,0 +1,69 @@
+{
+  "id": 1293572941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.46064,-1.97776,-79.46064,-1.97776",
+    "geom:latitude":-1.97776,
+    "geom:longitude":-79.46064,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"922.0",
+    "gn:admin3_code":"92250.0",
+    "gn:asciiname":"Emperatriz",
+    "gn:country_code":"EC",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3658034,
+    "gn:latitude":-1.97776,
+    "gn:longitude":-79.46064,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Emperatriz",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670917,
+        1108572819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3658034
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"bc6db41bbcce8d0138b028544e309f2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108572819,
+            "locality_id":1293572941,
+            "region_id":85670917
+        }
+    ],
+    "wof:id":1293572941,
+    "wof:lastmodified":1536663940,
+    "wof:name":"Emperatriz",
+    "wof:parent_id":1108572819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.46064,
+    -1.97776,
+    -79.46064,
+    -1.97776
+],
+  "geometry": {"coordinates":[-79.46064,-1.97776],"type":"Point"}
+}

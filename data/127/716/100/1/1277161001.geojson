@@ -1,0 +1,67 @@
+{
+  "id": 1277161001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.79393,-2.16015,-80.79393,-2.16015",
+    "geom:latitude":-2.16015,
+    "geom:longitude":-80.79393,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Punta Blanca",
+    "gn:country_code":"EC",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11395527,
+    "gn:latitude":-2.16015,
+    "gn:longitude":-80.79393,
+    "gn:modification_date":"2016-12-13",
+    "gn:name":"Punta Blanca",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670979,
+        1108572401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11395527
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"d12ab1e9c9472e40256a58ec6d420990",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108572401,
+            "locality_id":1277161001,
+            "region_id":85670979
+        }
+    ],
+    "wof:id":1277161001,
+    "wof:lastmodified":1536654888,
+    "wof:name":"Punta Blanca",
+    "wof:parent_id":1108572401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.79393,
+    -2.16015,
+    -80.79393,
+    -2.16015
+],
+  "geometry": {"coordinates":[-80.79393,-2.16015],"type":"Point"}
+}

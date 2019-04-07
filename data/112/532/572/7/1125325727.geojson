@@ -1,0 +1,85 @@
+{
+  "id": 1125325727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.666618,-1.035233,-77.666618,-1.035233",
+    "geom:latitude":-1.035233,
+    "geom:longitude":-77.666618,
+    "gn:gn_country":null,
+    "iso:country":"EC",
+    "lbl:latitude":-1.035233,
+    "lbl:longitude":-77.666618,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"EC",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Puerto Misahualli",
+    "qs_pg:name_adm0":"Ecuador",
+    "qs_pg:name_adm1":"Napo",
+    "qs_pg:photos":187,
+    "qs_pg:photos_1k":38,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":490,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1264219,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424801,
+    "qs_pg:woe_id":26810323,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424801,
+    "woe:name_adm0":"Ecuador",
+    "woe:name_adm1":"Napo",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670953,
+        1108572985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26810323,
+        "qs:id":1264219,
+        "qs_pg:id":1264219
+    },
+    "wof:country":"EC",
+    "wof:created":1497044801,
+    "wof:geomhash":"28f37b2cc08b1dc2ea4ea5512e24652a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108572985,
+            "localadmin_id":1125325727,
+            "region_id":85670953
+        }
+    ],
+    "wof:id":1125325727,
+    "wof:lastmodified":1534379289,
+    "wof:name":"Puerto Misahualli",
+    "wof:parent_id":1108572985,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        421171741
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.666618,
+    -1.035233,
+    -77.666618,
+    -1.035233
+],
+  "geometry": {"coordinates":[-77.666618,-1.035233],"type":"Point"}
+}

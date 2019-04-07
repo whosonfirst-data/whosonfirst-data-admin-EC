@@ -1,0 +1,63 @@
+{
+  "id": 1209591437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.42131,0.16094,-78.42131,0.16094",
+    "geom:latitude":0.16094,
+    "geom:longitude":-78.42131,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1701.0",
+    "gn:admin3_code":"170181.0",
+    "gn:asciiname":"San Luis de La Chonta",
+    "gn:country_code":"EC",
+    "gn:dem":2496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8470627,
+    "gn:latitude":0.16094,
+    "gn:longitude":-78.42131,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"San Luis de La Chonta",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8470627
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"b2f582f007169544385ea44f9cc9a3f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632261,
+            "locality_id":1209591437
+        }
+    ],
+    "wof:id":1209591437,
+    "wof:lastmodified":1536282465,
+    "wof:name":"San Luis de La Chonta",
+    "wof:parent_id":85632261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.42130999999998,
+    0.16094,
+    -78.42130999999998,
+    0.16094
+],
+  "geometry": {"coordinates":[-78.42130999999998,0.16094],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 421181393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.6245,-0.71356,-78.6245,-0.71356",
+    "geom:latitude":-0.71356,
+    "geom:longitude":-78.6245,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Pastocalle"
+    ],
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3651703,
+    "qs:gn_pop":0,
+    "qs:name":"San Juan de Pastocalle",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Cotopaxi",
+    "qs:photos":40,
+    "qs:photos_1k":8,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":40,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":489640,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":376249,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670915,
+        421182157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3651703,
+        "gp:id":376249,
+        "qs:id":489640
+    },
+    "wof:country":"EC",
+    "wof:created":1459009294,
+    "wof:geomhash":"8a71ae301f938901e3818b47a23300c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421182157,
+            "locality_id":421181393,
+            "region_id":85670915
+        }
+    ],
+    "wof:id":421181393,
+    "wof:lastmodified":1501268351,
+    "wof:name":"San Juan de Pastocalle",
+    "wof:parent_id":421182157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.6245,
+    -0.71356,
+    -78.6245,
+    -0.71356
+],
+  "geometry": {"coordinates":[-78.6245,-0.71356],"type":"Point"}
+}

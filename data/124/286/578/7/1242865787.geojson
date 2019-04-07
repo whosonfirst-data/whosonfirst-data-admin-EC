@@ -1,0 +1,70 @@
+{
+  "id": 1242865787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.55,-0.76667,-78.55,-0.76667",
+    "geom:latitude":-0.76667,
+    "geom:longitude":-78.55,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"501.0",
+    "gn:admin3_code":"50156.0",
+    "gn:asciiname":"Hacienda San Elias",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":3168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3656279,
+    "gn:latitude":-0.76667,
+    "gn:longitude":-78.55,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda San El\u00edas",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670915,
+        421182157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3656279
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"e74a286a61607223e2c90db1de4c2bd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421182157,
+            "locality_id":1242865787,
+            "region_id":85670915
+        }
+    ],
+    "wof:id":1242865787,
+    "wof:lastmodified":1536648245,
+    "wof:name":"Hacienda San Elias",
+    "wof:parent_id":421182157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.55,
+    -0.76667,
+    -78.55,
+    -0.76667
+],
+  "geometry": {"coordinates":[-78.55,-0.76667],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1242853859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.78333,-1.68333,-79.78333,-1.68333",
+    "geom:latitude":-1.68333,
+    "geom:longitude":-79.78333,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"1208.0",
+    "gn:admin3_code":"120851.0",
+    "gn:asciiname":"Poza Seca",
+    "gn:country_code":"EC",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3652910,
+    "gn:latitude":-1.68333,
+    "gn:longitude":-79.78333,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Poza Seca",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670923,
+        421173271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3652910
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"1ca94bcd8dfca3c94817a165ca86fdde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421173271,
+            "locality_id":1242853859,
+            "region_id":85670923
+        }
+    ],
+    "wof:id":1242853859,
+    "wof:lastmodified":1536665787,
+    "wof:name":"Poza Seca",
+    "wof:parent_id":421173271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.78333,
+    -1.68333,
+    -79.78333,
+    -1.68333
+],
+  "geometry": {"coordinates":[-79.78333000000001,-1.68333],"type":"Point"}
+}

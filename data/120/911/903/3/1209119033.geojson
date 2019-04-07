@@ -1,0 +1,63 @@
+{
+  "id": 1209119033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.06667,-3.01667,-79.06667,-3.01667",
+    "geom:latitude":-3.01667,
+    "geom:longitude":-79.06667,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10171.0",
+    "gn:asciiname":"Mama Tarqui",
+    "gn:country_code":"EC",
+    "gn:dem":2928,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3654455,
+    "gn:latitude":-3.01667,
+    "gn:longitude":-79.06667,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Mama Tarqui",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3654455
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"e6e0cb9cc248c69ee57d5afc3aee1004",
+    "wof:hierarchy":[
+        {
+            "country_id":85632261,
+            "locality_id":1209119033
+        }
+    ],
+    "wof:id":1209119033,
+    "wof:lastmodified":1536297162,
+    "wof:name":"Mama Tarqui",
+    "wof:parent_id":85632261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.06667,
+    -3.01667,
+    -79.06667,
+    -3.01667
+],
+  "geometry": {"coordinates":[-79.06667,-3.01667],"type":"Point"}
+}

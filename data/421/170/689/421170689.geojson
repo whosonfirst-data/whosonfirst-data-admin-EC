@@ -1,0 +1,80 @@
+{
+  "id": 421170689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.88739,-1.26399,-77.88739,-1.26399",
+    "geom:latitude":-1.26399,
+    "geom:longitude":-77.88739,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3651457,
+    "qs:gn_pop":0,
+    "qs:name":"Santa Clara",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Pastaza",
+    "qs:photos":27,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":27,
+    "qs:photos_sr":2,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1195418,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":26810494,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670949,
+        1108572349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3651457,
+        "gp:id":26810494,
+        "qs:id":1195418,
+        "qs_pg:id":1195418
+    },
+    "wof:country":"EC",
+    "wof:created":1459008864,
+    "wof:geomhash":"fe01987aad290044772a125f06fb9105",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108572349,
+            "localadmin_id":421170689,
+            "region_id":85670949
+        }
+    ],
+    "wof:id":421170689,
+    "wof:lastmodified":1497043914,
+    "wof:name":"Santa Clara",
+    "wof:parent_id":1108572349,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.88739,
+    -1.26399,
+    -77.88739,
+    -1.26399
+],
+  "geometry": {"coordinates":[-77.88739,-1.26399],"type":"Point"}
+}

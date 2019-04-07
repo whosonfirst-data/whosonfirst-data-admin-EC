@@ -1,0 +1,69 @@
+{
+  "id": 1309980597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.73503,-3.75353,-78.73503,-3.75353",
+    "geom:latitude":-3.75353,
+    "geom:longitude":-78.73503,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1905.0",
+    "gn:admin3_code":"190551.0",
+    "gn:asciiname":"Chicana Bajo",
+    "gn:country_code":"EC",
+    "gn:dem":833,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3760457,
+    "gn:latitude":-3.75353,
+    "gn:longitude":-78.73503,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Chica\u00f1a Bajo",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670895,
+        1108573331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3760457
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"331361df1c5d2911c83d3b9b61d63850",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108573331,
+            "locality_id":1309980597,
+            "region_id":85670895
+        }
+    ],
+    "wof:id":1309980597,
+    "wof:lastmodified":1536679258,
+    "wof:name":"Chicana Bajo",
+    "wof:parent_id":1108573331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.73503000000002,
+    -3.75353,
+    -78.73503000000002,
+    -3.75353
+],
+  "geometry": {"coordinates":[-78.73503000000002,-3.75353],"type":"Point"}
+}

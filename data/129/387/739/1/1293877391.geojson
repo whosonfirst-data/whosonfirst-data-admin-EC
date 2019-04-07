@@ -1,0 +1,62 @@
+{
+  "id": 1293877391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.76667,-1.88333,-80.76667,-1.88333",
+    "geom:latitude":-1.88333,
+    "geom:longitude":-80.76667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Cadeate",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3659963,
+    "gn:latitude":-1.88333,
+    "gn:longitude":-80.76667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Cadeate",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3659963
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"40f25382a80833385fca24328ae515f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293877391,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293877391,
+    "wof:lastmodified":1536722501,
+    "wof:name":"Cadeate",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.76666999999998,
+    -1.88333,
+    -80.76666999999998,
+    -1.88333
+],
+  "geometry": {"coordinates":[-80.76666999999998,-1.88333],"type":"Point"}
+}

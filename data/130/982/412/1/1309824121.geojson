@@ -1,0 +1,67 @@
+{
+  "id": 1309824121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.73367,-2.05501,-80.73367,-2.05501",
+    "geom:latitude":-2.05501,
+    "geom:longitude":-80.73367,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Monteverde",
+    "gn:country_code":"EC",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3654041,
+    "gn:latitude":-2.05501,
+    "gn:longitude":-80.73367,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Monteverde",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670979,
+        1108572401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3654041
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"bed883b63ab2ee90a056708cdc6ce50d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108572401,
+            "locality_id":1309824121,
+            "region_id":85670979
+        }
+    ],
+    "wof:id":1309824121,
+    "wof:lastmodified":1536904936,
+    "wof:name":"Monteverde",
+    "wof:parent_id":1108572401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.73366999999998,
+    -2.05501,
+    -80.73366999999998,
+    -2.05501
+],
+  "geometry": {"coordinates":[-80.73366999999998,-2.05501],"type":"Point"}
+}

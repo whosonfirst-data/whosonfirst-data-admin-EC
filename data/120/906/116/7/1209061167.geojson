@@ -1,0 +1,63 @@
+{
+  "id": 1209061167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.22838,-0.59279,-79.22838,-0.59279",
+    "geom:latitude":-0.59279,
+    "geom:longitude":-79.22838,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"2301.0",
+    "gn:admin3_code":"230157.0",
+    "gn:asciiname":"Fuerzas Unidas",
+    "gn:country_code":"EC",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8472513,
+    "gn:latitude":-0.59279,
+    "gn:longitude":-79.22838,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Fuerzas Unidas",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8472513
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"262c366902835027dcd5a3dc979de3c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632261,
+            "locality_id":1209061167
+        }
+    ],
+    "wof:id":1209061167,
+    "wof:lastmodified":1536298949,
+    "wof:name":"Fuerzas Unidas",
+    "wof:parent_id":85632261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.22838,
+    -0.5927899999999999,
+    -79.22838,
+    -0.5927899999999999
+],
+  "geometry": {"coordinates":[-79.22838,-0.59279],"type":"Point"}
+}

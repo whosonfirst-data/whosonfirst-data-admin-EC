@@ -1,0 +1,84 @@
+{
+  "id": 421178975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.43133,-0.20072,-78.43133,-0.20072",
+    "geom:latitude":-0.20072,
+    "geom:longitude":-78.43133,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Cumbay\u00e1"
+    ],
+    "name:que_x_preferred":[
+        "Cumbay\u00e1 kitilli"
+    ],
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3658625,
+    "qs:gn_pop":0,
+    "qs:name":"Cumbay\u00e1",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Pichincha",
+    "qs:photos":144,
+    "qs:photos_1k":29,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":144,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":475313,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":375855,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":303,
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670945,
+        421188131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3658625,
+        "gp:id":375855,
+        "qs:id":475313,
+        "wd:id":"Q5193804"
+    },
+    "wof:country":"EC",
+    "wof:created":1459009199,
+    "wof:geomhash":"c570534b684571bcbf29584bde0fc095",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421188131,
+            "locality_id":421178975,
+            "region_id":85670945
+        }
+    ],
+    "wof:id":421178975,
+    "wof:lastmodified":1527726422,
+    "wof:name":"Cumbay\u00e1",
+    "wof:parent_id":421188131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.43133,
+    -0.20072,
+    -78.43133,
+    -0.20072
+],
+  "geometry": {"coordinates":[-78.43133,-0.20072],"type":"Point"}
+}

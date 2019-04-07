@@ -1,0 +1,198 @@
+{
+  "id": 421186711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.6093865,-0.897408,-89.6093865,-0.897408",
+    "geom:latitude":-0.897408,
+    "geom:longitude":-89.609386,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u064a\u0631\u062a\u0648 \u0628\u0643\u0648\u064a\u0631\u064a\u0632\u0648 \u0645\u0648\u0631\u064a\u0646\u0648"
+    ],
+    "name:ceb_x_preferred":[
+        "Puerto Baquerizo Moreno"
+    ],
+    "name:ces_x_preferred":[
+        "Puerto Baquerizo Moreno"
+    ],
+    "name:chi_x_preferred":[
+        "\u5df4\u514b\u91cc\u7d22\u83ab\u96f7\u8afe\u6e2f"
+    ],
+    "name:cze_x_preferred":[
+        "Puerto Baquerizo Moreno"
+    ],
+    "name:deu_x_preferred":[
+        "Puerto Baquerizo Moreno"
+    ],
+    "name:dut_x_preferred":[
+        "Puerto Baquerizo Moreno"
+    ],
+    "name:eng_x_preferred":[
+        "Puerto Baquerizo Moreno"
+    ],
+    "name:epo_x_preferred":[
+        "Puerto Baquerizo Moreno"
+    ],
+    "name:fra_x_preferred":[
+        "Puerto Baquerizo Moreno"
+    ],
+    "name:fre_x_preferred":[
+        "Puerto Baquerizo Moreno"
+    ],
+    "name:ger_x_preferred":[
+        "Puerto Baquerizo Moreno"
+    ],
+    "name:glg_x_preferred":[
+        "Puerto Baquerizo Moreno"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05d0\u05e8\u05d8\u05d5 \u05d1\u05e7\u05e8\u05d9\u05e1\u05d5 \u05de\u05d5\u05e8\u05e0\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u094d\u092f\u0942\u0930\u094d\u091f\u094b \u092c\u0948\u0915\u094d\u0935\u0947\u0930\u0940\u091c\u093c\u094b \u092e\u094b\u0930\u0947\u0928\u094b"
+    ],
+    "name:hun_x_preferred":[
+        "Puerto Baquerizo Moreno"
+    ],
+    "name:ita_x_preferred":[
+        "Puerto Baquerizo Moreno"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30a8\u30eb\u30c8\u30fb\u30d0\u30b1\u30ea\u30bd\u30fb\u30e2\u30ec\u30ce"
+    ],
+    "name:kor_x_preferred":[
+        "\ud478\uc5d0\ub974\ud1a0\ubc14\ucf00\ub9ac\uc18c\ubaa8\ub808\ub178"
+    ],
+    "name:lit_x_preferred":[
+        "Puerto Bakeriso Morenas"
+    ],
+    "name:nld_x_preferred":[
+        "Puerto Baquerizo Moreno"
+    ],
+    "name:nob_x_preferred":[
+        "Puerto Baquerizo Moreno"
+    ],
+    "name:nor_x_preferred":[
+        "Puerto Baquerizo Moreno"
+    ],
+    "name:oss_x_preferred":[
+        "\u041f\u0443\u044d\u0440\u0442\u043e-\u0411\u0430\u043a\u0435\u0440\u0438\u0441\u043e-\u041c\u043e\u0440\u0435\u043d\u043e"
+    ],
+    "name:pnb_x_preferred":[
+        "\u067e\u0648\u0631\u062a\u0648 \u0628\u0627\u06a9\u0648\u0631\u06cc\u0632\u0648 \u0645\u0648\u0631\u06cc\u0646\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Puerto Baquerizo Moreno"
+    ],
+    "name:por_x_preferred":[
+        "Puerto Baquerizo Moreno"
+    ],
+    "name:que_x_preferred":[
+        "Puerto Baquerizo Moreno"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u044d\u0440\u0442\u043e-\u0411\u0430\u043a\u0435\u0440\u0438\u0441\u043e-\u041c\u043e\u0440\u0435\u043d\u043e"
+    ],
+    "name:sco_x_preferred":[
+        "Puerto Baquerizo Moreno"
+    ],
+    "name:slk_x_preferred":[
+        "Puerto Baquerizo Moreno"
+    ],
+    "name:slo_x_preferred":[
+        "Puerto Baquerizo Moreno"
+    ],
+    "name:spa_x_preferred":[
+        "Puerto Baquerizo Moreno"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0443\u0435\u0440\u0442\u043e \u0411\u0430\u043a\u0432\u0435\u0440\u0438\u0437\u043e \u041c\u043e\u0440\u0435\u043d\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Puerto Baquerizo Moreno"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0443\u0435\u0440\u0442\u043e-\u0411\u0430\u043a\u0435\u0440\u0456\u0441\u043e-\u041c\u043e\u0440\u0435\u043d\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0648\u06cc\u0631\u062a\u0648 \u0628\u0627\u06a9\u0648\u06cc\u0631\u06cc\u0633\u0648 \u0645\u0648\u0631\u06cc\u0646\u0648"
+    ],
+    "name:war_x_preferred":[
+        "Puerto Baquerizo Moreno"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u514b\u91cc\u7d22\u83ab\u96f7\u8afe\u6e2f"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Puerto Baquerizo Moreno",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Galapagos",
+    "qs:photos":2370,
+    "qs:photos_1k":480,
+    "qs:photos_9k":11,
+    "qs:photos_9r":10,
+    "qs:photos_all":2370,
+    "qs:photos_sr":17,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1075706,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":375887,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":2234,
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670899,
+        421181765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":375887,
+        "qs:id":1075706,
+        "wd:id":"Q694109"
+    },
+    "wof:country":"EC",
+    "wof:created":1459009489,
+    "wof:geomhash":"20dbef64a0270cbc0eedc47dcfa02683",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421181765,
+            "locality_id":421186711,
+            "region_id":85670899
+        }
+    ],
+    "wof:id":421186711,
+    "wof:lastmodified":1534379289,
+    "wof:name":"Puerto Baquerizo Moreno",
+    "wof:parent_id":421181765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[
+        890440181
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.6093865,
+    -0.897408,
+    -89.6093865,
+    -0.897408
+],
+  "geometry": {"coordinates":[-89.6093865,-0.897408],"type":"Point"}
+}

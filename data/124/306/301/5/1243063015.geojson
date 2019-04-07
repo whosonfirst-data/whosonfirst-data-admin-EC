@@ -1,0 +1,67 @@
+{
+  "id": 1243063015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.38603,-1.72006,-80.38603,-1.72006",
+    "geom:latitude":-1.72006,
+    "geom:longitude":-80.38603,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Cruz de Guanabano",
+    "gn:country_code":"EC",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3658734,
+    "gn:latitude":-1.72006,
+    "gn:longitude":-80.38603,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Cruz de Guan\u00e1bano",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670927,
+        421184203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3658734
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"20c079f302a9bdade633de7790cb66b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421184203,
+            "locality_id":1243063015,
+            "region_id":85670927
+        }
+    ],
+    "wof:id":1243063015,
+    "wof:lastmodified":1536859924,
+    "wof:name":"Cruz de Guanabano",
+    "wof:parent_id":421184203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.38603,
+    -1.72006,
+    -80.38603,
+    -1.72006
+],
+  "geometry": {"coordinates":[-80.38603000000001,-1.72006],"type":"Point"}
+}

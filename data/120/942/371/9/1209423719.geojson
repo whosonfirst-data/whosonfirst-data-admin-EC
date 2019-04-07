@@ -1,0 +1,63 @@
+{
+  "id": 1209423719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.19397,-3.43531,-79.19397,-3.43531",
+    "geom:latitude":-3.43531,
+    "geom:longitude":-79.19397,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"110.0",
+    "gn:admin3_code":"11051.0",
+    "gn:asciiname":"Hacienda Shurapamba",
+    "gn:country_code":"EC",
+    "gn:dem":1918,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3655994,
+    "gn:latitude":-3.43531,
+    "gn:longitude":-79.19397,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda Shurapamba",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3655994
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"d006dc69f2ba0b998a38baa3bc97962b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632261,
+            "locality_id":1209423719
+        }
+    ],
+    "wof:id":1209423719,
+    "wof:lastmodified":1536287447,
+    "wof:name":"Hacienda Shurapamba",
+    "wof:parent_id":85632261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.19397,
+    -3.43531,
+    -79.19397,
+    -3.43531
+],
+  "geometry": {"coordinates":[-79.19396999999999,-3.43531],"type":"Point"}
+}

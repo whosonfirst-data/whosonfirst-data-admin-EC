@@ -1,0 +1,77 @@
+{
+  "id": 421179927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.76439,-1.47341,-80.76439,-1.47341",
+    "geom:latitude":-1.47341,
+    "geom:longitude":-80.76439,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3654529,
+    "qs:gn_pop":0,
+    "qs:name":"Machalilla",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Manabi",
+    "qs:photos":70,
+    "qs:photos_1k":14,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":70,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":266529,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":375802,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":32,
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670927,
+        421176841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3654529,
+        "gp:id":375802,
+        "qs:id":266529
+    },
+    "wof:country":"EC",
+    "wof:created":1459009238,
+    "wof:geomhash":"95aab11242c990ccecf40a657f6fd2d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421176841,
+            "locality_id":421179927,
+            "region_id":85670927
+        }
+    ],
+    "wof:id":421179927,
+    "wof:lastmodified":1527717716,
+    "wof:name":"Machalilla",
+    "wof:parent_id":421176841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.76439,
+    -1.47341,
+    -80.76439,
+    -1.47341
+],
+  "geometry": {"coordinates":[-80.76439000000001,-1.47341],"type":"Point"}
+}

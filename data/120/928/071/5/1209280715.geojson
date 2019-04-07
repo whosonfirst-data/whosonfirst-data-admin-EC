@@ -1,0 +1,63 @@
+{
+  "id": 1209280715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.25,-0.03333,-78.25,-0.03333",
+    "geom:latitude":-0.03333,
+    "geom:longitude":-78.25,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1702.0",
+    "gn:admin3_code":"170254.0",
+    "gn:asciiname":"Pogyo",
+    "gn:country_code":"EC",
+    "gn:dem":2983,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3652994,
+    "gn:latitude":-0.03333,
+    "gn:longitude":-78.25,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Pogyo",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3652994
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"5a4439d45493a611e7a25267a8ab81cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632261,
+            "locality_id":1209280715
+        }
+    ],
+    "wof:id":1209280715,
+    "wof:lastmodified":1536292033,
+    "wof:name":"Pogyo",
+    "wof:parent_id":85632261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.25,
+    -0.03333,
+    -78.25,
+    -0.03333
+],
+  "geometry": {"coordinates":[-78.25,-0.03333],"type":"Point"}
+}

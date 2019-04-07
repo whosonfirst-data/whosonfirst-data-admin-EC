@@ -1,0 +1,69 @@
+{
+  "id": 1293069849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.15176,0.03216,-77.15176,0.03216",
+    "geom:latitude":0.03216,
+    "geom:longitude":-77.15176,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"2106.0",
+    "gn:admin3_code":"210650.0",
+    "gn:asciiname":"Jesus del Gran Poder",
+    "gn:country_code":"EC",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3827901,
+    "gn:latitude":0.03216,
+    "gn:longitude":-77.15176,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Jes\u00fas del Gran Poder",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670977,
+        1108568283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3827901
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"39a8580a2362d765095c3f2ff62b09bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108568283,
+            "locality_id":1293069849,
+            "region_id":85670977
+        }
+    ],
+    "wof:id":1293069849,
+    "wof:lastmodified":1536892004,
+    "wof:name":"Jesus del Gran Poder",
+    "wof:parent_id":1108568283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.15176,
+    0.03216,
+    -77.15176,
+    0.03216
+],
+  "geometry": {"coordinates":[-77.15176,0.03216],"type":"Point"}
+}

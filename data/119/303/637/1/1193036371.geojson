@@ -1,0 +1,69 @@
+{
+  "id": 1193036371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.65695,-1.97389,-79.65695,-1.97389",
+    "geom:latitude":-1.97389,
+    "geom:longitude":-79.65695,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"920.0",
+    "gn:admin3_code":"92050.0",
+    "gn:asciiname":"Rosa de Oro",
+    "gn:country_code":"EC",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3652286,
+    "gn:latitude":-1.97389,
+    "gn:longitude":-79.65695,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Rosa de Oro",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670917,
+        1108572073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3652286
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"10442df0302d1be0e519ffc980d55a93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108572073,
+            "locality_id":1193036371,
+            "region_id":85670917
+        }
+    ],
+    "wof:id":1193036371,
+    "wof:lastmodified":1536380614,
+    "wof:name":"Rosa de Oro",
+    "wof:parent_id":1108572073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.65695,
+    -1.97389,
+    -79.65695,
+    -1.97389
+],
+  "geometry": {"coordinates":[-79.65694999999999,-1.97389],"type":"Point"}
+}

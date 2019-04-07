@@ -1,0 +1,67 @@
+{
+  "id": 1243155939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.58333,-1.71667,-80.58333,-1.71667",
+    "geom:latitude":-1.71667,
+    "geom:longitude":-80.58333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Las Planchadas",
+    "gn:country_code":"EC",
+    "gn:dem":589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3654882,
+    "gn:latitude":-1.71667,
+    "gn:longitude":-80.58333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Las Planchadas",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670927,
+        1108569923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3654882
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"5094100feea1674e120619cd23c00272",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108569923,
+            "locality_id":1243155939,
+            "region_id":85670927
+        }
+    ],
+    "wof:id":1243155939,
+    "wof:lastmodified":1536727795,
+    "wof:name":"Las Planchadas",
+    "wof:parent_id":1108569923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.58333,
+    -1.71667,
+    -80.58333,
+    -1.71667
+],
+  "geometry": {"coordinates":[-80.58333,-1.71667],"type":"Point"}
+}

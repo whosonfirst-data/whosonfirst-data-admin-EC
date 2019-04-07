@@ -1,0 +1,69 @@
+{
+  "id": 1326824529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.67046,-0.87117,-78.67046,-0.87117",
+    "geom:latitude":-0.87117,
+    "geom:longitude":-78.67046,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"501.0",
+    "gn:admin3_code":"50158.0",
+    "gn:asciiname":"Hacienda La Rioja",
+    "gn:country_code":"EC",
+    "gn:dem":2901,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3656706,
+    "gn:latitude":-0.87117,
+    "gn:longitude":-78.67046,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda La Rioja",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670915,
+        421182157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3656706
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"4fdda1f787723962617a1bf9d48249c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421182157,
+            "locality_id":1326824529,
+            "region_id":85670915
+        }
+    ],
+    "wof:id":1326824529,
+    "wof:lastmodified":1537057400,
+    "wof:name":"Hacienda La Rioja",
+    "wof:parent_id":421182157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.67045999999998,
+    -0.87117,
+    -78.67045999999998,
+    -0.87117
+],
+  "geometry": {"coordinates":[-78.67045999999998,-0.87117],"type":"Point"}
+}

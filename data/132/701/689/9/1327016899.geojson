@@ -1,0 +1,69 @@
+{
+  "id": 1327016899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.31872,-3.90792,-79.31872,-3.90792",
+    "geom:latitude":-3.90792,
+    "geom:longitude":-79.31872,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1101.0",
+    "gn:admin3_code":"110160.0",
+    "gn:asciiname":"Hacienda Gonzabal",
+    "gn:country_code":"EC",
+    "gn:dem":1830,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3656953,
+    "gn:latitude":-3.90792,
+    "gn:longitude":-79.31872,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda Gonzabal",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670891,
+        421182159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3656953
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"2ed6e1c1f88494f3e1337ea49b941c86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421182159,
+            "locality_id":1327016899,
+            "region_id":85670891
+        }
+    ],
+    "wof:id":1327016899,
+    "wof:lastmodified":1536783355,
+    "wof:name":"Hacienda Gonzabal",
+    "wof:parent_id":421182159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.31872,
+    -3.90792,
+    -79.31872,
+    -3.90792
+],
+  "geometry": {"coordinates":[-79.31872,-3.90792],"type":"Point"}
+}

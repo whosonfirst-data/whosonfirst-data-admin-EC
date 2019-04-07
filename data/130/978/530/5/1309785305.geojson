@@ -1,0 +1,69 @@
+{
+  "id": 1309785305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.40184,-1.3551,-79.40184,-1.3551",
+    "geom:latitude":-1.3551,
+    "geom:longitude":-79.40184,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"1207.0",
+    "gn:admin3_code":"120752.0",
+    "gn:asciiname":"Zapotal",
+    "gn:country_code":"EC",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3649928,
+    "gn:latitude":-1.3551,
+    "gn:longitude":-79.40184,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Zapotal",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670923,
+        1108573237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3649928
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"8e106e74905020e4ac145d7920d01b05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108573237,
+            "locality_id":1309785305,
+            "region_id":85670923
+        }
+    ],
+    "wof:id":1309785305,
+    "wof:lastmodified":1536960575,
+    "wof:name":"Zapotal",
+    "wof:parent_id":1108573237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.40184,
+    -1.3551,
+    -79.40184,
+    -1.3551
+],
+  "geometry": {"coordinates":[-79.40184000000001,-1.3551],"type":"Point"}
+}

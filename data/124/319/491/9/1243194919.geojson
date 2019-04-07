@@ -1,0 +1,70 @@
+{
+  "id": 1243194919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.05,0.85,-78.05,0.85",
+    "geom:latitude":0.85,
+    "geom:longitude":-78.05,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"401.0",
+    "gn:admin3_code":"40154.0",
+    "gn:asciiname":"Juncal",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":2537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3655390,
+    "gn:latitude":0.85,
+    "gn:longitude":-78.05,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Juncal",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670967,
+        421204303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3655390
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"6cd266e1cb74f7e1077d7f3f9a993fed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421204303,
+            "locality_id":1243194919,
+            "region_id":85670967
+        }
+    ],
+    "wof:id":1243194919,
+    "wof:lastmodified":1536671150,
+    "wof:name":"Juncal",
+    "wof:parent_id":421204303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.05,
+    0.85,
+    -78.05,
+    0.85
+],
+  "geometry": {"coordinates":[-78.05,0.85],"type":"Point"}
+}

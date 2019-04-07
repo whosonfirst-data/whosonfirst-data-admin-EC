@@ -1,0 +1,147 @@
+{
+  "id": 421173491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.85519,-2.17579,-79.85519,-2.17579",
+    "geom:latitude":-2.17579,
+    "geom:longitude":-79.85519,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Eloy Alfaro"
+    ],
+    "name:chi_x_preferred":[
+        "\u675c\u862d"
+    ],
+    "name:deu_x_preferred":[
+        "Dur\u00e1n"
+    ],
+    "name:dut_x_preferred":[
+        "Dur\u00e1n"
+    ],
+    "name:eng_x_preferred":[
+        "Dur\u00e1n"
+    ],
+    "name:epo_x_preferred":[
+        "Dur\u00e1n"
+    ],
+    "name:fra_x_preferred":[
+        "Dur\u00e1n"
+    ],
+    "name:fre_x_preferred":[
+        "Dur\u00e1n"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d3\u10e3\u10e0\u10d0\u10dc\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Dur\u00e1n"
+    ],
+    "name:ita_x_preferred":[
+        "Dur\u00e1n"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30ed\u30a4\u30a2\u30eb\u30d5\u30a1\u30ed"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10e3\u10e0\u10d0\u10dc\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ub450\ub780"
+    ],
+    "name:lit_x_preferred":[
+        "Duranas"
+    ],
+    "name:pol_x_preferred":[
+        "Dur\u00e1n"
+    ],
+    "name:por_x_preferred":[
+        "Dur\u00e1n"
+    ],
+    "name:que_x_preferred":[
+        "Dur\u00e1n"
+    ],
+    "name:spa_x_preferred":[
+        "Dur\u00e1n"
+    ],
+    "name:swe_x_preferred":[
+        "Eloy Alfaro"
+    ],
+    "name:unk_x_variant":[
+        "Alfaro"
+    ],
+    "name:vol_x_preferred":[
+        "Dur\u00e1n"
+    ],
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3658192,
+    "qs:gn_pop":167784,
+    "qs:name":"Eloy Alfaro",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Guayas",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"9",
+    "qs:qs_id":288727,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":376041,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670917,
+        1108568901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3658192,
+        "gp:id":376041,
+        "qs:id":288727,
+        "wd:id":"Q1120810",
+        "wk:page":"Dur\u00e1n, Ecuador"
+    },
+    "wof:country":"EC",
+    "wof:created":1459008984,
+    "wof:geomhash":"b91690e3011acf58a2d0511b1a7eb47a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108568901,
+            "locality_id":421173491,
+            "region_id":85670917
+        }
+    ],
+    "wof:id":421173491,
+    "wof:lastmodified":1513956169,
+    "wof:name":"Eloy Alfaro",
+    "wof:parent_id":1108568901,
+    "wof:placetype":"locality",
+    "wof:population":167784,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.85519,
+    -2.17579,
+    -79.85519,
+    -2.17579
+],
+  "geometry": {"coordinates":[-79.85518999999999,-2.17579],"type":"Point"}
+}

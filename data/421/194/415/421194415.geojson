@@ -1,0 +1,97 @@
+{
+  "id": 421194415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.05168,-2.43718,-79.05168,-2.43718",
+    "geom:latitude":-2.43718,
+    "geom:longitude":-79.05168,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ita_x_preferred":[
+        "Cantone di Suscal"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10e3\u10e1\u10d9\u10d0\u10da\u10d8\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
+    ],
+    "name:por_x_preferred":[
+        "Suscal"
+    ],
+    "name:que_x_preferred":[
+        "Suskal kiti"
+    ],
+    "name:spa_x_preferred":[
+        "Cant\u00f3n Suscal"
+    ],
+    "name:zho_x_preferred":[
+        "\u8607\u65af\u5361\u723e\u7e23"
+    ],
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3650907,
+    "qs:gn_pop":0,
+    "qs:name":"Suscal",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Canar",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":401627,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":26810553,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":33,
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670909,
+        421195597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3650907,
+        "gp:id":26810553,
+        "qs:id":401627,
+        "wd:id":"Q2466588",
+        "wk:page":"Suscal Canton"
+    },
+    "wof:country":"EC",
+    "wof:created":1459009804,
+    "wof:geomhash":"78b426bdd84216222af08e6b9699bbf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421195597,
+            "localadmin_id":421194415,
+            "region_id":85670909
+        }
+    ],
+    "wof:id":421194415,
+    "wof:lastmodified":1527716130,
+    "wof:name":"Suscal",
+    "wof:parent_id":421195597,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.05168,
+    -2.43718,
+    -79.05168,
+    -2.43718
+],
+  "geometry": {"coordinates":[-79.05168,-2.43718],"type":"Point"}
+}

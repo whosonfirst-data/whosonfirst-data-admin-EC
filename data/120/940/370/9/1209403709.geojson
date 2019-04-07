@@ -1,0 +1,63 @@
+{
+  "id": 1209403709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.73333,-2.76667,-79.73333,-2.76667",
+    "geom:latitude":-2.76667,
+    "geom:longitude":-79.73333,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"911.0",
+    "gn:admin3_code":"91150.0",
+    "gn:asciiname":"Campamento Quinones",
+    "gn:country_code":"EC",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3659869,
+    "gn:latitude":-2.76667,
+    "gn:longitude":-79.73333,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Campamento Qui\u00f1ones",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3659869
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"ae5ea1fd0abd8f944d38bd0b98341ff6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632261,
+            "locality_id":1209403709
+        }
+    ],
+    "wof:id":1209403709,
+    "wof:lastmodified":1536288062,
+    "wof:name":"Campamento Quinones",
+    "wof:parent_id":85632261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.73333000000002,
+    -2.76667,
+    -79.73333000000002,
+    -2.76667
+],
+  "geometry": {"coordinates":[-79.73333000000002,-2.76667],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243276809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.28333,-3.3,-79.28333,-3.3",
+    "geom:latitude":-3.3,
+    "geom:longitude":-79.28333,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"108.0",
+    "gn:admin3_code":"10850.0",
+    "gn:asciiname":"Hacienda Zanzari",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":1087,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3655833,
+    "gn:latitude":-3.3,
+    "gn:longitude":-79.28333,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda Zanzari",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670885,
+        421189221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3655833
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"68f80fd8ede94fba804fb0b85c577e1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421189221,
+            "locality_id":1243276809,
+            "region_id":85670885
+        }
+    ],
+    "wof:id":1243276809,
+    "wof:lastmodified":1537047997,
+    "wof:name":"Hacienda Zanzari",
+    "wof:parent_id":421189221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.28333,
+    -3.3,
+    -79.28333,
+    -3.3
+],
+  "geometry": {"coordinates":[-79.28333000000001,-3.3],"type":"Point"}
+}

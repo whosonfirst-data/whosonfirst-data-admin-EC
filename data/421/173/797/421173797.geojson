@@ -1,0 +1,72 @@
+{
+  "id": 421173797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.87409,0.86381,-79.87409,0.86381",
+    "geom:latitude":0.86381,
+    "geom:longitude":-79.87409,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3650975,
+    "qs:gn_pop":0,
+    "qs:name":"S\u00faa",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Esmeraldas",
+    "qs:photos":36,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":36,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":299746,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":375242,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3650975,
+        "gp:id":375242,
+        "qs:id":299746
+    },
+    "wof:country":"EC",
+    "wof:created":1459009006,
+    "wof:geomhash":"86fbbdb8989ec355b8102aca28e4744a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "locality_id":421173797,
+            "region_id":85670963
+        }
+    ],
+    "wof:id":421173797,
+    "wof:lastmodified":1466635838,
+    "wof:name":"S\u00faa",
+    "wof:parent_id":85670963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.87409,
+    0.86381,
+    -79.87409,
+    0.86381
+],
+  "geometry": {"coordinates":[-79.87409,0.86381],"type":"Point"}
+}

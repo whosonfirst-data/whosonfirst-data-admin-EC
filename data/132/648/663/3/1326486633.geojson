@@ -1,0 +1,77 @@
+{
+  "id": 1326486633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.7947,-0.86029,-77.7947,-0.86029",
+    "geom:latitude":-0.86029,
+    "geom:longitude":-77.7947,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1503.0",
+    "gn:admin3_code":"150350.0",
+    "gn:asciiname":"Reten",
+    "gn:country_code":"EC",
+    "gn:dem":686,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8472101,
+    "gn:latitude":-0.86029,
+    "gn:longitude":-77.7947,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Ret\u00e9n",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670959,
+        1108567669,
+        85670953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8472101
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"700bf68beec6d46ad39ab50c4ce6c72e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108567669,
+            "locality_id":1326486633,
+            "region_id":85670959
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108567669,
+            "locality_id":1326486633,
+            "region_id":85670953
+        }
+    ],
+    "wof:id":1326486633,
+    "wof:lastmodified":1537047819,
+    "wof:name":"Reten",
+    "wof:parent_id":1108567669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.7947,
+    -0.86029,
+    -77.7947,
+    -0.86029
+],
+  "geometry": {"coordinates":[-77.79470000000001,-0.86029],"type":"Point"}
+}

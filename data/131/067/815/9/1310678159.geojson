@@ -1,0 +1,69 @@
+{
+  "id": 1310678159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.36784,-3.96934,-79.36784,-3.96934",
+    "geom:latitude":-3.96934,
+    "geom:longitude":-79.36784,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1103.0",
+    "gn:admin3_code":"110350.0",
+    "gn:asciiname":"Trapichillo",
+    "gn:country_code":"EC",
+    "gn:dem":1281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3650519,
+    "gn:latitude":-3.96934,
+    "gn:longitude":-79.36784,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Trapichillo",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670891,
+        1108568325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3650519
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"df70f7d9e3c3cccc4d83e62fd7031959",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108568325,
+            "locality_id":1310678159,
+            "region_id":85670891
+        }
+    ],
+    "wof:id":1310678159,
+    "wof:lastmodified":1536667905,
+    "wof:name":"Trapichillo",
+    "wof:parent_id":1108568325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.36784,
+    -3.96934,
+    -79.36784,
+    -3.96934
+],
+  "geometry": {"coordinates":[-79.36784,-3.96934],"type":"Point"}
+}

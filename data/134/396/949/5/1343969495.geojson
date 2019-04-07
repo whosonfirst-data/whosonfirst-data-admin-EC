@@ -1,0 +1,69 @@
+{
+  "id": 1343969495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.0125,-1.61449,-79.0125,-1.61449",
+    "geom:latitude":-1.61449,
+    "geom:longitude":-79.0125,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"201.0",
+    "gn:admin3_code":"20158.0",
+    "gn:asciiname":"Santa Fe",
+    "gn:country_code":"EC",
+    "gn:dem":2690,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3651430,
+    "gn:latitude":-1.61449,
+    "gn:longitude":-79.0125,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Santa Fe",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670905,
+        421171743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3651430
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"55bda2b2bbbcdd68060602048a4e7872",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421171743,
+            "locality_id":1343969495,
+            "region_id":85670905
+        }
+    ],
+    "wof:id":1343969495,
+    "wof:lastmodified":1537006192,
+    "wof:name":"Santa Fe",
+    "wof:parent_id":421171743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.0125,
+    -1.61449,
+    -79.0125,
+    -1.61449
+],
+  "geometry": {"coordinates":[-79.0125,-1.61449],"type":"Point"}
+}

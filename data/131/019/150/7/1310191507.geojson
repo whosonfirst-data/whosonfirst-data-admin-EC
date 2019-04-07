@@ -1,0 +1,67 @@
+{
+  "id": 1310191507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.81667,-1.73333,-79.81667,-1.73333",
+    "geom:latitude":-1.73333,
+    "geom:longitude":-79.81667,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Sotomayor",
+    "gn:country_code":"EC",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3650981,
+    "gn:latitude":-1.73333,
+    "gn:longitude":-79.81667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Sotomayor",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670917,
+        1108573139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3650981
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"add4f840305b92b9cef37e259fb04f23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108573139,
+            "locality_id":1310191507,
+            "region_id":85670917
+        }
+    ],
+    "wof:id":1310191507,
+    "wof:lastmodified":1536871424,
+    "wof:name":"Sotomayor",
+    "wof:parent_id":1108573139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.81667,
+    -1.73333,
+    -79.81667,
+    -1.73333
+],
+  "geometry": {"coordinates":[-79.81667,-1.73333],"type":"Point"}
+}

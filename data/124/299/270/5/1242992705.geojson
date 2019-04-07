@@ -1,0 +1,69 @@
+{
+  "id": 1242992705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.06667,-3.58333,-80.06667,-3.58333",
+    "geom:latitude":-3.58333,
+    "geom:longitude":-80.06667,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"702.0",
+    "gn:admin3_code":"70250.0",
+    "gn:asciiname":"Cabo de Hornos",
+    "gn:country_code":"EC",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3660015,
+    "gn:latitude":-3.58333,
+    "gn:longitude":-80.06667,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Cabo de Hornos",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670887,
+        1108567705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3660015
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"2f5941d9fc7c18b4b5938035404c538f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108567705,
+            "locality_id":1242992705,
+            "region_id":85670887
+        }
+    ],
+    "wof:id":1242992705,
+    "wof:lastmodified":1536962609,
+    "wof:name":"Cabo de Hornos",
+    "wof:parent_id":1108567705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.06667,
+    -3.58333,
+    -80.06667,
+    -3.58333
+],
+  "geometry": {"coordinates":[-80.06667,-3.58333],"type":"Point"}
+}

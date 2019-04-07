@@ -1,0 +1,79 @@
+{
+  "id": 421179419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.37132,-1.20726,-80.37132,-1.20726",
+    "geom:latitude":-1.20726,
+    "geom:longitude":-80.37132,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3651495,
+    "qs:gn_pop":12833,
+    "qs:name":"Santa Ana",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Manabi",
+    "qs:photos":93,
+    "qs:photos_1k":19,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":93,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":149675,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":375822,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670927,
+        421194445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3651495,
+        "gp:id":375822,
+        "qs:id":149675
+    },
+    "wof:country":"EC",
+    "wof:created":1459009220,
+    "wof:geomhash":"4c6d0388a4d6b457e21ca6bf65479808",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421194445,
+            "locality_id":421179419,
+            "region_id":85670927
+        }
+    ],
+    "wof:id":421179419,
+    "wof:lastmodified":1505340642,
+    "wof:name":"Santa Ana",
+    "wof:parent_id":421194445,
+    "wof:placetype":"locality",
+    "wof:population":12833,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.37132,
+    -1.20726,
+    -80.37132,
+    -1.20726
+],
+  "geometry": {"coordinates":[-80.37132,-1.20726],"type":"Point"}
+}

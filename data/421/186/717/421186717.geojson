@@ -1,0 +1,84 @@
+{
+  "id": 421186717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.139301,-0.719843,-77.139301,-0.719843",
+    "geom:latitude":-0.719843,
+    "geom:longitude":-77.139301,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Puerto San Miguel",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Napo",
+    "qs:photos":90,
+    "qs:photos_1k":18,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":90,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1075731,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":376189,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":390,
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670959,
+        1108572985,
+        85670953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":376189,
+        "qs:id":1075731
+    },
+    "wof:country":"EC",
+    "wof:created":1459009489,
+    "wof:geomhash":"5c3ca864db02e265ee5b09f5e1024bf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108572985,
+            "locality_id":421186717,
+            "region_id":85670959
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108572985,
+            "locality_id":421186717,
+            "region_id":85670953
+        }
+    ],
+    "wof:id":421186717,
+    "wof:lastmodified":1527716319,
+    "wof:name":"Puerto San Miguel",
+    "wof:parent_id":1108572985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.139301,
+    -0.719843,
+    -77.139301,
+    -0.719843
+],
+  "geometry": {"coordinates":[-77.139301,-0.719843],"type":"Point"}
+}

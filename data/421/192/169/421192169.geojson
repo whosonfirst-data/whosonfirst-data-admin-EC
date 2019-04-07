@@ -1,0 +1,89 @@
+{
+  "id": 421192169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.67527,0.80542,-77.67527,0.80542",
+    "geom:latitude":0.80542,
+    "geom:longitude":-77.67527,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Urbina"
+    ],
+    "name:pol_x_preferred":[
+        "Urbina"
+    ],
+    "name:spa_x_preferred":[
+        "Urbina"
+    ],
+    "name:unk_x_variant":[
+        "Urvina"
+    ],
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3650351,
+    "qs:gn_pop":0,
+    "qs:name":"Urbina",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Carchi",
+    "qs:photos":98,
+    "qs:photos_1k":20,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":98,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1165337,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":375525,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":185,
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670967,
+        421204303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3650351,
+        "gp:id":375525,
+        "qs:id":1165337
+    },
+    "wof:country":"EC",
+    "wof:created":1459009728,
+    "wof:geomhash":"51eeb6e273572ffe66c7b40f61f99690",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421204303,
+            "locality_id":421192169,
+            "region_id":85670967
+        }
+    ],
+    "wof:id":421192169,
+    "wof:lastmodified":1527716108,
+    "wof:name":"Urbina",
+    "wof:parent_id":421204303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.67527,
+    0.80542,
+    -77.67527,
+    0.80542
+],
+  "geometry": {"coordinates":[-77.67527,0.80542],"type":"Point"}
+}

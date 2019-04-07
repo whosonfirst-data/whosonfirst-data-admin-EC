@@ -1,0 +1,69 @@
+{
+  "id": 1327221911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.28048,0.32674,-78.28048,0.32674",
+    "geom:latitude":0.32674,
+    "geom:longitude":-78.28048,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1003.0",
+    "gn:admin3_code":"100350.0",
+    "gn:asciiname":"San Pedro",
+    "gn:country_code":"EC",
+    "gn:dem":2713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8470028,
+    "gn:latitude":0.32674,
+    "gn:longitude":-78.28048,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"San Pedro",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670971,
+        421185493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8470028
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"a74a7463394e1cf79f252958f80b14fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421185493,
+            "locality_id":1327221911,
+            "region_id":85670971
+        }
+    ],
+    "wof:id":1327221911,
+    "wof:lastmodified":1536984002,
+    "wof:name":"San Pedro",
+    "wof:parent_id":421185493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.28048000000003,
+    0.32674,
+    -78.28048000000003,
+    0.32674
+],
+  "geometry": {"coordinates":[-78.28048000000003,0.32674],"type":"Point"}
+}

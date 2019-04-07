@@ -1,0 +1,94 @@
+{
+  "id": 421191329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.81441,-2.911,-79.81441,-2.911",
+    "geom:latitude":-2.911,
+    "geom:longitude":-79.81441,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Bal\u00e1o"
+    ],
+    "name:que_x_preferred":[
+        "Balao"
+    ],
+    "name:swe_x_preferred":[
+        "Bal\u00e1o"
+    ],
+    "name:unk_x_variant":[
+        "Bal\u00e1o"
+    ],
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3660387,
+    "qs:gn_pop":12205,
+    "qs:name":"Balao",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Guayas",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"6",
+    "qs:qs_id":62566,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":26809758,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":117,
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670917,
+        1108567875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3660387,
+        "gp:id":26809758,
+        "qs:id":62566,
+        "wd:id":"Q4850064",
+        "wk:page":"Balao"
+    },
+    "wof:country":"EC",
+    "wof:created":1459009688,
+    "wof:geomhash":"754dd7e10def9fd2a79e97af01a8d90e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108567875,
+            "localadmin_id":421191329,
+            "region_id":85670917
+        }
+    ],
+    "wof:id":421191329,
+    "wof:lastmodified":1527716386,
+    "wof:name":"Balao",
+    "wof:parent_id":1108567875,
+    "wof:placetype":"localadmin",
+    "wof:population":12205,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.81441,
+    -2.911,
+    -79.81441,
+    -2.911
+],
+  "geometry": {"coordinates":[-79.81441,-2.911],"type":"Point"}
+}

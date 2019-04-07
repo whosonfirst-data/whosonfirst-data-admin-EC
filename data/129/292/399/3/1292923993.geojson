@@ -1,0 +1,69 @@
+{
+  "id": 1292923993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.50636,-1.95817,-79.50636,-1.95817",
+    "geom:latitude":-1.95817,
+    "geom:longitude":-79.50636,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"902.0",
+    "gn:admin3_code":"90250.0",
+    "gn:asciiname":"Beldaco",
+    "gn:country_code":"EC",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3660266,
+    "gn:latitude":-1.95817,
+    "gn:longitude":-79.50636,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Beldaco",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670917,
+        1108567563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3660266
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"b910d0530f73a7365aa05f65d3e8e86a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108567563,
+            "locality_id":1292923993,
+            "region_id":85670917
+        }
+    ],
+    "wof:id":1292923993,
+    "wof:lastmodified":1536602187,
+    "wof:name":"Beldaco",
+    "wof:parent_id":1108567563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.50636,
+    -1.95817,
+    -79.50636,
+    -1.95817
+],
+  "geometry": {"coordinates":[-79.50636,-1.95817],"type":"Point"}
+}

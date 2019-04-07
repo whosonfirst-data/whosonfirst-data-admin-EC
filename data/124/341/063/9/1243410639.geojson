@@ -1,0 +1,69 @@
+{
+  "id": 1243410639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.89155,0.07267,-76.89155,0.07267",
+    "geom:latitude":0.07267,
+    "geom:longitude":-76.89155,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"2101.0",
+    "gn:admin3_code":"210150.0",
+    "gn:asciiname":"Esmeraldas Libre",
+    "gn:country_code":"EC",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3763458,
+    "gn:latitude":0.07267,
+    "gn:longitude":-76.89155,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Esmeraldas Libre",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670977,
+        421177637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3763458
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"086d7a30335c23d8a1b4e316e22bf978",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421177637,
+            "locality_id":1243410639,
+            "region_id":85670977
+        }
+    ],
+    "wof:id":1243410639,
+    "wof:lastmodified":1536855992,
+    "wof:name":"Esmeraldas Libre",
+    "wof:parent_id":421177637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.89155,
+    0.07267,
+    -76.89155,
+    0.07267
+],
+  "geometry": {"coordinates":[-76.89155,0.07267],"type":"Point"}
+}

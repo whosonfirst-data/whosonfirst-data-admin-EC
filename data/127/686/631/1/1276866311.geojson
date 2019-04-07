@@ -1,0 +1,67 @@
+{
+  "id": 1276866311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.44247,-0.05536,-79.44247,-0.05536",
+    "geom:latitude":-0.05536,
+    "geom:longitude":-79.44247,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"La Villegas",
+    "gn:country_code":"EC",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8472352,
+    "gn:latitude":-0.05536,
+    "gn:longitude":-79.44247,
+    "gn:modification_date":"2013-03-06",
+    "gn:name":"La Villegas",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670983,
+        1108570759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8472352
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"33e56ae71399e702a0664e167945015e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108570759,
+            "locality_id":1276866311,
+            "region_id":85670983
+        }
+    ],
+    "wof:id":1276866311,
+    "wof:lastmodified":1537056853,
+    "wof:name":"La Villegas",
+    "wof:parent_id":1108570759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.44247,
+    -0.05536,
+    -79.44247,
+    -0.05536
+],
+  "geometry": {"coordinates":[-79.44247,-0.05536],"type":"Point"}
+}

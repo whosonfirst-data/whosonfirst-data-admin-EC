@@ -1,0 +1,68 @@
+{
+  "id": 1225828991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.81667,-2.1,-79.81667,-2.1",
+    "geom:latitude":-2.1,
+    "geom:longitude":-79.81667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"La Delicia",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3655249,
+    "gn:latitude":-2.1,
+    "gn:longitude":-79.81667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Delicia",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670917,
+        1108568901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3655249
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"de27a3d237354958065f1e721d7b8c1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108568901,
+            "locality_id":1225828991,
+            "region_id":85670917
+        }
+    ],
+    "wof:id":1225828991,
+    "wof:lastmodified":1537036286,
+    "wof:name":"La Delicia",
+    "wof:parent_id":1108568901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.81667,
+    -2.1,
+    -79.81667,
+    -2.1
+],
+  "geometry": {"coordinates":[-79.81667,-2.1],"type":"Point"}
+}

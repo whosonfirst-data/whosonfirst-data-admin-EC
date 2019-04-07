@@ -1,0 +1,94 @@
+{
+  "id": 421176337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.90494,-1.36501,-79.90494,-1.36501",
+    "geom:latitude":-1.36501,
+    "geom:longitude":-79.90494,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Balzar"
+    ],
+    "name:que_x_preferred":[
+        "Balzar"
+    ],
+    "name:swe_x_preferred":[
+        "Balzar"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u723e\u85a9\u723e"
+    ],
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3660361,
+    "qs:gn_pop":40115,
+    "qs:name":"Balzar",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Guayas",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1045862,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":26809761,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":244,
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670917,
+        1108567949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3660361,
+        "gp:id":26809761,
+        "qs:id":1045862,
+        "wd:id":"Q4853169",
+        "wk:page":"Balzar"
+    },
+    "wof:country":"EC",
+    "wof:created":1459009105,
+    "wof:geomhash":"df5e5f24e1019c0bbfe26e3ea58936a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108567949,
+            "localadmin_id":421176337,
+            "region_id":85670917
+        }
+    ],
+    "wof:id":421176337,
+    "wof:lastmodified":1527726468,
+    "wof:name":"Balzar",
+    "wof:parent_id":1108567949,
+    "wof:placetype":"localadmin",
+    "wof:population":40115,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.90494,
+    -1.36501,
+    -79.90494,
+    -1.36501
+],
+  "geometry": {"coordinates":[-79.90494,-1.36501],"type":"Point"}
+}

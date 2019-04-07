@@ -1,0 +1,79 @@
+{
+  "id": 421195807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.40691,-0.52999,-76.40691,-0.52999",
+    "geom:latitude":-0.52999,
+    "geom:longitude":-76.40691,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:por_x_preferred":[
+        "A\u00f1angu"
+    ],
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3660660,
+    "qs:gn_pop":0,
+    "qs:name":"A\u00f1angu",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Orellana",
+    "qs:photos":51,
+    "qs:photos_1k":10,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":51,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1342172,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":375923,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670941,
+        421185491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3660660,
+        "gp:id":375923,
+        "qs:id":1342172
+    },
+    "wof:country":"EC",
+    "wof:created":1459009860,
+    "wof:geomhash":"233acf671e0fce831d7bb8be952d6482",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421185491,
+            "locality_id":421195807,
+            "region_id":85670941
+        }
+    ],
+    "wof:id":421195807,
+    "wof:lastmodified":1501268426,
+    "wof:name":"A\u00f1angu",
+    "wof:parent_id":421185491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.40691,
+    -0.52999,
+    -76.40691,
+    -0.52999
+],
+  "geometry": {"coordinates":[-76.40691,-0.52999],"type":"Point"}
+}

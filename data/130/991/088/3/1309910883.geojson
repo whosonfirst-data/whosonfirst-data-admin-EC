@@ -1,0 +1,69 @@
+{
+  "id": 1309910883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.781,0.59181,-77.781,0.59181",
+    "geom:latitude":0.59181,
+    "geom:longitude":-77.781,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"405.0",
+    "gn:admin3_code":"40552.0",
+    "gn:asciiname":"Hacienda El Salado",
+    "gn:country_code":"EC",
+    "gn:dem":2742,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3657007,
+    "gn:latitude":0.59181,
+    "gn:longitude":-77.781,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda El Salado",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670967,
+        421197239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3657007
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"0abfeac154e82e663938b50a244f1855",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421197239,
+            "locality_id":1309910883,
+            "region_id":85670967
+        }
+    ],
+    "wof:id":1309910883,
+    "wof:lastmodified":1536780092,
+    "wof:name":"Hacienda El Salado",
+    "wof:parent_id":421197239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.781,
+    0.59181,
+    -77.781,
+    0.59181
+],
+  "geometry": {"coordinates":[-77.78100000000001,0.59181],"type":"Point"}
+}

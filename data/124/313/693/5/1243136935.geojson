@@ -1,0 +1,69 @@
+{
+  "id": 1243136935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.93003,-3.64566,-78.93003,-3.64566",
+    "geom:latitude":-3.64566,
+    "geom:longitude":-78.93003,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1904.0",
+    "gn:admin3_code":"190450.0",
+    "gn:asciiname":"El Salado",
+    "gn:country_code":"EC",
+    "gn:dem":1189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3760267,
+    "gn:latitude":-3.64566,
+    "gn:longitude":-78.93003,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"El Salado",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670895,
+        1108573293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3760267
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"b490f60bb6f7b1bbd104eff825fe66c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108573293,
+            "locality_id":1243136935,
+            "region_id":85670895
+        }
+    ],
+    "wof:id":1243136935,
+    "wof:lastmodified":1536754993,
+    "wof:name":"El Salado",
+    "wof:parent_id":1108573293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.93003,
+    -3.64566,
+    -78.93003,
+    -3.64566
+],
+  "geometry": {"coordinates":[-78.93003,-3.64566],"type":"Point"}
+}

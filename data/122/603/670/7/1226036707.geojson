@@ -1,0 +1,69 @@
+{
+  "id": 1226036707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.62221,-0.88059,-78.62221,-0.88059",
+    "geom:latitude":-0.88059,
+    "geom:longitude":-78.62221,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"501.0",
+    "gn:admin3_code":"50150.0",
+    "gn:asciiname":"Hacienda Laigua de Estupinan",
+    "gn:country_code":"EC",
+    "gn:dem":2837,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3656771,
+    "gn:latitude":-0.88059,
+    "gn:longitude":-78.62221,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda Laigua de Estupi\u00f1\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670915,
+        421182157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3656771
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"8dd70e626ae89556a7cb113738b79b27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421182157,
+            "locality_id":1226036707,
+            "region_id":85670915
+        }
+    ],
+    "wof:id":1226036707,
+    "wof:lastmodified":1536738160,
+    "wof:name":"Hacienda Laigua de Estupinan",
+    "wof:parent_id":421182157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.62221,
+    -0.88059,
+    -78.62221,
+    -0.88059
+],
+  "geometry": {"coordinates":[-78.62221,-0.88059],"type":"Point"}
+}

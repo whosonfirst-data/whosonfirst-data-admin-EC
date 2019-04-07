@@ -1,0 +1,67 @@
+{
+  "id": 1343970841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.61328,-2.91136,-79.61328,-2.91136",
+    "geom:latitude":-2.91136,
+    "geom:longitude":-79.61328,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Hacienda Victoria",
+    "gn:country_code":"EC",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3655873,
+    "gn:latitude":-2.91136,
+    "gn:longitude":-79.61328,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Hacienda Victoria",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670917,
+        1108567875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3655873
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"72c12892e61f14fbe5392118dfb1e636",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108567875,
+            "locality_id":1343970841,
+            "region_id":85670917
+        }
+    ],
+    "wof:id":1343970841,
+    "wof:lastmodified":1537004200,
+    "wof:name":"Hacienda Victoria",
+    "wof:parent_id":1108567875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.61328,
+    -2.91136,
+    -79.61328,
+    -2.91136
+],
+  "geometry": {"coordinates":[-79.61328,-2.91136],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209109457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.83333,-2.8,-78.83333,-2.8",
+    "geom:latitude":-2.8,
+    "geom:longitude":-78.83333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Cantagallo",
+    "gn:country_code":"EC",
+    "gn:dem":2877,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3659789,
+    "gn:latitude":-2.8,
+    "gn:longitude":-78.83333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Cantagallo",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3659789
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"f7559ffee724f7fd4259ba2b4131fd2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632261,
+            "locality_id":1209109457
+        }
+    ],
+    "wof:id":1209109457,
+    "wof:lastmodified":1536297455,
+    "wof:name":"Cantagallo",
+    "wof:parent_id":85632261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.83333,
+    -2.8,
+    -78.83333,
+    -2.8
+],
+  "geometry": {"coordinates":[-78.83333,-2.8],"type":"Point"}
+}

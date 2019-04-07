@@ -1,0 +1,107 @@
+{
+  "id": 421194011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.74505,-1.84942,-80.74505,-1.84942",
+    "geom:latitude":-1.84942,
+    "geom:longitude":-80.74505,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u57c3\u502b\u5a1c\u7701"
+    ],
+    "name:deu_x_preferred":[
+        "Monta\u00f1ita"
+    ],
+    "name:dut_x_preferred":[
+        "Monta\u00f1ita"
+    ],
+    "name:eng_x_preferred":[
+        "Monta\u00f1ita"
+    ],
+    "name:fra_x_preferred":[
+        "Monta\u00f1ita"
+    ],
+    "name:fre_x_preferred":[
+        "Monta\u00f1ita"
+    ],
+    "name:ger_x_preferred":[
+        "Monta\u00f1ita"
+    ],
+    "name:que_x_preferred":[
+        "Monta\u00f1ita"
+    ],
+    "name:spa_x_preferred":[
+        "Monta\u00f1ita"
+    ],
+    "name:swe_x_preferred":[
+        "Monta\u00f1ita"
+    ],
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3654423,
+    "qs:gn_pop":0,
+    "qs:name":"Manglaralto",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Santa Elena",
+    "qs:photos":613,
+    "qs:photos_1k":124,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":613,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":887596,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":375803,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670979,
+        1108572401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3654423,
+        "gp:id":375803,
+        "qs:id":887596,
+        "wd:id":"Q950503"
+    },
+    "wof:country":"EC",
+    "wof:created":1459009790,
+    "wof:geomhash":"74c6ea6b6ff17474d2c6ec43a3b39819",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108572401,
+            "locality_id":421194011,
+            "region_id":85670979
+        }
+    ],
+    "wof:id":421194011,
+    "wof:lastmodified":1513956246,
+    "wof:name":"Manglaralto",
+    "wof:parent_id":1108572401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.74505,
+    -1.84942,
+    -80.74505,
+    -1.84942
+],
+  "geometry": {"coordinates":[-80.74505000000001,-1.84942],"type":"Point"}
+}

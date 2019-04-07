@@ -1,0 +1,69 @@
+{
+  "id": 1326552369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.73459,-1.74009,-78.73459,-1.74009",
+    "geom:latitude":-1.74009,
+    "geom:longitude":-78.73459,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"603.0",
+    "gn:admin3_code":"60354.0",
+    "gn:asciiname":"Hacienda Alabado",
+    "gn:country_code":"EC",
+    "gn:dem":3421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3657411,
+    "gn:latitude":-1.74009,
+    "gn:longitude":-78.73459,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda Alabado",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670931,
+        421194443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3657411
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"43107b1ee6fc6c1f01f5348091517dd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421194443,
+            "locality_id":1326552369,
+            "region_id":85670931
+        }
+    ],
+    "wof:id":1326552369,
+    "wof:lastmodified":1536955089,
+    "wof:name":"Hacienda Alabado",
+    "wof:parent_id":421194443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.73459,
+    -1.74009,
+    -78.73459,
+    -1.74009
+],
+  "geometry": {"coordinates":[-78.73459,-1.74009],"type":"Point"}
+}

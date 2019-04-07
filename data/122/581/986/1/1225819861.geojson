@@ -1,0 +1,69 @@
+{
+  "id": 1225819861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.00876,-4.03481,-79.00876,-4.03481",
+    "geom:latitude":-4.03481,
+    "geom:longitude":-79.00876,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1901.0",
+    "gn:admin3_code":"190155.0",
+    "gn:asciiname":"Sabanilla",
+    "gn:country_code":"EC",
+    "gn:dem":1139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3652186,
+    "gn:latitude":-4.03481,
+    "gn:longitude":-79.00876,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Sabanilla",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670895,
+        421182449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3652186
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"81bd6d84934e8c954bb2a1452d4ec270",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421182449,
+            "locality_id":1225819861,
+            "region_id":85670895
+        }
+    ],
+    "wof:id":1225819861,
+    "wof:lastmodified":1537049010,
+    "wof:name":"Sabanilla",
+    "wof:parent_id":421182449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.00876,
+    -4.03481,
+    -79.00876,
+    -4.03481
+],
+  "geometry": {"coordinates":[-79.00876,-4.03481],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1293496481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.86667,-2.93333,-78.86667,-2.93333",
+    "geom:latitude":-2.93333,
+    "geom:longitude":-78.86667,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"103.0",
+    "gn:admin3_code":"10358.0",
+    "gn:asciiname":"Cerro Alto",
+    "gn:country_code":"EC",
+    "gn:dem":2871,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3659523,
+    "gn:latitude":-2.93333,
+    "gn:longitude":-78.86667,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Cerro Alto",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670885,
+        1108569603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3659523
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"c01fc3fee15a2259c638e0b19c034a86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108569603,
+            "locality_id":1293496481,
+            "region_id":85670885
+        }
+    ],
+    "wof:id":1293496481,
+    "wof:lastmodified":1536774663,
+    "wof:name":"Cerro Alto",
+    "wof:parent_id":1108569603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.86667,
+    -2.93333,
+    -78.86667,
+    -2.93333
+],
+  "geometry": {"coordinates":[-78.86667,-2.93333],"type":"Point"}
+}

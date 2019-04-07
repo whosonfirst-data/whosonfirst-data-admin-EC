@@ -1,0 +1,70 @@
+{
+  "id": 1259570159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.46667,-4.48333,-79.46667,-4.48333",
+    "geom:latitude":-4.48333,
+    "geom:longitude":-79.46667,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1106.0",
+    "gn:admin3_code":"110651.0",
+    "gn:asciiname":"San Guillen",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":1249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3651850,
+    "gn:latitude":-4.48333,
+    "gn:longitude":-79.46667,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"San Guill\u00e9n",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670891,
+        1108569379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3651850
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"208853d789197b206715b48ff1b3dd82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108569379,
+            "locality_id":1259570159,
+            "region_id":85670891
+        }
+    ],
+    "wof:id":1259570159,
+    "wof:lastmodified":1536734266,
+    "wof:name":"San Guillen",
+    "wof:parent_id":1108569379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.46667,
+    -4.48333,
+    -79.46667,
+    -4.48333
+],
+  "geometry": {"coordinates":[-79.46666999999999,-4.48333],"type":"Point"}
+}

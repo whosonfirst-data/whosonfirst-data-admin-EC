@@ -1,0 +1,61 @@
+{
+  "id": 1276752981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.8577,-2.24394,-79.8577,-2.24394",
+    "geom:latitude":-2.24394,
+    "geom:longitude":-79.8577,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Hacienda Matilde",
+    "gn:country_code":"EC",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3655103,
+    "gn:latitude":-2.24394,
+    "gn:longitude":-79.8577,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Hacienda Matilde",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3655103
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"d904ae4f193ae2907d39fb71d0497d3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276752981,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276752981,
+    "wof:lastmodified":1536713933,
+    "wof:name":"Hacienda Matilde",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.8577,
+    -2.24394,
+    -79.8577,
+    -2.24394
+],
+  "geometry": {"coordinates":[-79.85769999999999,-2.24394],"type":"Point"}
+}

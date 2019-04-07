@@ -1,0 +1,70 @@
+{
+  "id": 1293767471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.8,-2.35,-79.8,-2.35",
+    "geom:latitude":-2.35,
+    "geom:longitude":-79.8,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"911.0",
+    "gn:admin3_code":"91154.0",
+    "gn:asciiname":"Hacienda Micha",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3656597,
+    "gn:latitude":-2.35,
+    "gn:longitude":-79.8,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda Micha",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670917,
+        421171755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3656597
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"e4b634bbb08cf40a4403950b2f0a69c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421171755,
+            "locality_id":1293767471,
+            "region_id":85670917
+        }
+    ],
+    "wof:id":1293767471,
+    "wof:lastmodified":1536879778,
+    "wof:name":"Hacienda Micha",
+    "wof:parent_id":421171755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.8,
+    -2.35,
+    -79.8,
+    -2.35
+],
+  "geometry": {"coordinates":[-79.8,-2.35],"type":"Point"}
+}

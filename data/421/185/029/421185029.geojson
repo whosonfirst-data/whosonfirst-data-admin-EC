@@ -1,0 +1,97 @@
+{
+  "id": 421185029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.85577,-0.29891,-76.85577,-0.29891",
+    "geom:latitude":-0.29891,
+    "geom:longitude":-76.85577,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ita_x_preferred":[
+        "Cantone di Joya de los Sachas"
+    ],
+    "name:que_x_preferred":[
+        "Joya de los Sachas kiti"
+    ],
+    "name:spa_x_preferred":[
+        "Cant\u00f3n La Joya de los Sachas"
+    ],
+    "name:unk_x_variant":[
+        "La Joya de los Sachas"
+    ],
+    "name:zho_x_preferred":[
+        "\u970d\u4e9e\u5fb7\u6d1b\u65af\u85a9\u67e5\u65af\u7e23"
+    ],
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3655141,
+    "qs:gn_pop":0,
+    "qs:name":"La Joya de Los Sachas",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Orellana",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1017004,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":26810094,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670941,
+        421178137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3655141,
+        "gp:id":26810094,
+        "qs:id":1017004,
+        "qs_pg:id":1017004,
+        "wd:id":"Q1992899",
+        "wk:page":"Joya de los Sachas Canton"
+    },
+    "wof:country":"EC",
+    "wof:created":1459009430,
+    "wof:geomhash":"d551be339fe6cf7c86c5f77c2b42ad98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421178137,
+            "localadmin_id":421185029,
+            "region_id":85670941
+        }
+    ],
+    "wof:id":421185029,
+    "wof:lastmodified":1497048617,
+    "wof:name":"La Joya de Los Sachas",
+    "wof:parent_id":421178137,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.85577,
+    -0.29891,
+    -76.85577,
+    -0.29891
+],
+  "geometry": {"coordinates":[-76.85577000000001,-0.29891],"type":"Point"}
+}

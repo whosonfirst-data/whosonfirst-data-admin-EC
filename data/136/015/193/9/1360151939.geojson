@@ -1,0 +1,69 @@
+{
+  "id": 1360151939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.21057,-0.61441,-79.21057,-0.61441",
+    "geom:latitude":-0.61441,
+    "geom:longitude":-79.21057,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"2301.0",
+    "gn:admin3_code":"230157.0",
+    "gn:asciiname":"Union Lojana",
+    "gn:country_code":"EC",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8472515,
+    "gn:latitude":-0.61441,
+    "gn:longitude":-79.21057,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Uni\u00f3n Lojana",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670983,
+        421190535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8472515
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"ada28d5c53b5e03d4bc3cea6e80e0b36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421190535,
+            "locality_id":1360151939,
+            "region_id":85670983
+        }
+    ],
+    "wof:id":1360151939,
+    "wof:lastmodified":1536848253,
+    "wof:name":"Union Lojana",
+    "wof:parent_id":421190535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.21056999999998,
+    -0.61441,
+    -79.21056999999998,
+    -0.61441
+],
+  "geometry": {"coordinates":[-79.21056999999998,-0.61441],"type":"Point"}
+}

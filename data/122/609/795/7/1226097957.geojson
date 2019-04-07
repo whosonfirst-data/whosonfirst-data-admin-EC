@@ -1,0 +1,69 @@
+{
+  "id": 1226097957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.0,-0.7,-76.0,-0.7",
+    "geom:latitude":-0.7,
+    "geom:longitude":-76.0,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2202.0",
+    "gn:admin3_code":"220251.0",
+    "gn:asciiname":"Ancayacu",
+    "gn:country_code":"EC",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3660654,
+    "gn:latitude":-0.7,
+    "gn:longitude":-76.0,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Ancayacu",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670941,
+        421185491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3660654
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"0b08b1944c18ab0ce3a1418f3c606fa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421185491,
+            "locality_id":1226097957,
+            "region_id":85670941
+        }
+    ],
+    "wof:id":1226097957,
+    "wof:lastmodified":1536649638,
+    "wof:name":"Ancayacu",
+    "wof:parent_id":421185491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.0,
+    -0.7,
+    -76.0,
+    -0.7
+],
+  "geometry": {"coordinates":[-76.0,-0.7],"type":"Point"}
+}

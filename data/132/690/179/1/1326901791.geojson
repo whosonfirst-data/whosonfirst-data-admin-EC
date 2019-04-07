@@ -1,0 +1,67 @@
+{
+  "id": 1326901791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.81667,-1.31667,-79.81667,-1.31667",
+    "geom:latitude":-1.31667,
+    "geom:longitude":-79.81667,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Peralto",
+    "gn:country_code":"EC",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3653274,
+    "gn:latitude":-1.31667,
+    "gn:longitude":-79.81667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Peralto",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670917,
+        1108567949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3653274
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"a2a06cc188c2be0ed13b84a7e5b70f2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108567949,
+            "locality_id":1326901791,
+            "region_id":85670917
+        }
+    ],
+    "wof:id":1326901791,
+    "wof:lastmodified":1536949026,
+    "wof:name":"Peralto",
+    "wof:parent_id":1108567949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.81667,
+    -1.31667,
+    -79.81667,
+    -1.31667
+],
+  "geometry": {"coordinates":[-79.81667,-1.31667],"type":"Point"}
+}

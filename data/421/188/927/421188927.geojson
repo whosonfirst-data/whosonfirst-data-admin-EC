@@ -1,0 +1,79 @@
+{
+  "id": 421188927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.53333,-1.31667,-78.53333,-1.31667",
+    "geom:latitude":-1.31667,
+    "geom:longitude":-78.53333,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Pelileo",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Tungurahua",
+    "qs:photos":9,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":9,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1105195,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":26810272,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670959,
+        1108572289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26810272,
+        "qs:id":1105195
+    },
+    "wof:country":"EC",
+    "wof:created":1459009588,
+    "wof:geomhash":"e63b3e9b238088bf9041c63a3794b23e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108572289,
+            "localadmin_id":421188927,
+            "region_id":85670959
+        }
+    ],
+    "wof:id":421188927,
+    "wof:lastmodified":1534379290,
+    "wof:name":"Pelileo",
+    "wof:parent_id":1108572289,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[
+        1125306493
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.53333,
+    -1.31667,
+    -78.53333,
+    -1.31667
+],
+  "geometry": {"coordinates":[-78.53333000000001,-1.31667],"type":"Point"}
+}

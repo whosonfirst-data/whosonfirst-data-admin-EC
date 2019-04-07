@@ -1,0 +1,79 @@
+{
+  "id": 421200877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.45,-1.25,-90.45,-1.25",
+    "geom:latitude":-1.25,
+    "geom:longitude":-90.45,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Puerto Flores"
+    ],
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3651405,
+    "qs:gn_pop":0,
+    "qs:name":"Santa Mar\u00eda",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Galapagos",
+    "qs:photos":962,
+    "qs:photos_1k":195,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":962,
+    "qs:photos_sr":10,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":898509,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":375050,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670899,
+        421183483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3651405,
+        "gp:id":375050,
+        "qs:id":898509
+    },
+    "wof:country":"EC",
+    "wof:created":1459010044,
+    "wof:geomhash":"f6a284df4ea5bc87de37ea8e9c57d789",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421183483,
+            "locality_id":421200877,
+            "region_id":85670899
+        }
+    ],
+    "wof:id":421200877,
+    "wof:lastmodified":1501268350,
+    "wof:name":"Santa Mar\u00eda",
+    "wof:parent_id":421183483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.45,
+    -1.25,
+    -90.45,
+    -1.25
+],
+  "geometry": {"coordinates":[-90.45,-1.25],"type":"Point"}
+}

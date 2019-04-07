@@ -1,0 +1,70 @@
+{
+  "id": 1293167103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.48333,-0.53333,-78.48333,-0.53333",
+    "geom:latitude":-0.53333,
+    "geom:longitude":-78.48333,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1703.0",
+    "gn:admin3_code":"170350.0",
+    "gn:asciiname":"Hacienda Porvenir",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":3505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3656439,
+    "gn:latitude":-0.53333,
+    "gn:longitude":-78.48333,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda Porvenir",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670945,
+        421175413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3656439
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"7b7037420a904eec2b305c8b4c8ed568",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421175413,
+            "locality_id":1293167103,
+            "region_id":85670945
+        }
+    ],
+    "wof:id":1293167103,
+    "wof:lastmodified":1536752048,
+    "wof:name":"Hacienda Porvenir",
+    "wof:parent_id":421175413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.48333000000002,
+    -0.53333,
+    -78.48333000000002,
+    -0.53333
+],
+  "geometry": {"coordinates":[-78.48333000000002,-0.53333],"type":"Point"}
+}

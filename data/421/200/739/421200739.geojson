@@ -1,0 +1,118 @@
+{
+  "id": 421200739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.56712,-0.51011,-78.56712,-0.51011",
+    "geom:latitude":-0.51011,
+    "geom:longitude":-78.56712,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Machachi"
+    ],
+    "name:dut_x_preferred":[
+        "Machachi"
+    ],
+    "name:eng_x_preferred":[
+        "Machachi"
+    ],
+    "name:fra_x_preferred":[
+        "Machachi"
+    ],
+    "name:fre_x_preferred":[
+        "Machachi"
+    ],
+    "name:ger_x_preferred":[
+        "Machachi"
+    ],
+    "name:por_x_preferred":[
+        "Machachi"
+    ],
+    "name:que_x_preferred":[
+        "Machachi"
+    ],
+    "name:spa_x_preferred":[
+        "Machachi"
+    ],
+    "name:swe_x_preferred":[
+        "Machachi"
+    ],
+    "name:unk_x_variant":[
+        "Ciudad de Machachi"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0686\u0627\u0686\u06cc"
+    ],
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3654536,
+    "qs:gn_pop":25742,
+    "qs:name":"Machachi",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Pichincha",
+    "qs:photos":75,
+    "qs:photos_1k":15,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":75,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":893979,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":375801,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":180,
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670945,
+        421175413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3654536,
+        "gp:id":375801,
+        "qs:id":893979,
+        "wd:id":"Q6723341",
+        "wk:page":"Machachi"
+    },
+    "wof:country":"EC",
+    "wof:created":1459010036,
+    "wof:geomhash":"f8ee83ca34ee40c4fb2f257f17bd5178",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421175413,
+            "locality_id":421200739,
+            "region_id":85670945
+        }
+    ],
+    "wof:id":421200739,
+    "wof:lastmodified":1527716420,
+    "wof:name":"Machachi",
+    "wof:parent_id":421175413,
+    "wof:placetype":"locality",
+    "wof:population":25742,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.56712,
+    -0.51011,
+    -78.56712,
+    -0.51011
+],
+  "geometry": {"coordinates":[-78.56712,-0.51011],"type":"Point"}
+}

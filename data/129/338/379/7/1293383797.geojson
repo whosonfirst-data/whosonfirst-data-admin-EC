@@ -1,0 +1,67 @@
+{
+  "id": 1293383797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.66882,-1.87037,-79.66882,-1.87037",
+    "geom:latitude":-1.87037,
+    "geom:longitude":-79.66882,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"La Angelina",
+    "gn:country_code":"EC",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3655359,
+    "gn:latitude":-1.87037,
+    "gn:longitude":-79.66882,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"La Angelina",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670923,
+        1108567841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3655359
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"c3fceac324c75751a421f5bbeb3607ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108567841,
+            "locality_id":1293383797,
+            "region_id":85670923
+        }
+    ],
+    "wof:id":1293383797,
+    "wof:lastmodified":1536937263,
+    "wof:name":"La Angelina",
+    "wof:parent_id":1108567841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.66882,
+    -1.87037,
+    -79.66882,
+    -1.87037
+],
+  "geometry": {"coordinates":[-79.66882,-1.87037],"type":"Point"}
+}

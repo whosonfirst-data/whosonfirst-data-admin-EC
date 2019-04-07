@@ -1,0 +1,69 @@
+{
+  "id": 1259975075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.08333,-3.83333,-80.08333,-3.83333",
+    "geom:latitude":-3.83333,
+    "geom:longitude":-80.08333,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"714.0",
+    "gn:admin3_code":"71451.0",
+    "gn:asciiname":"Canas",
+    "gn:country_code":"EC",
+    "gn:dem":580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3659841,
+    "gn:latitude":-3.83333,
+    "gn:longitude":-80.08333,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Ca\u00f1as",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670887,
+        1108570011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3659841
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"4b48e42a86fc9127330ed4f5a8616733",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108570011,
+            "locality_id":1259975075,
+            "region_id":85670887
+        }
+    ],
+    "wof:id":1259975075,
+    "wof:lastmodified":1536646851,
+    "wof:name":"Canas",
+    "wof:parent_id":1108570011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.08333,
+    -3.83333,
+    -80.08333,
+    -3.83333
+],
+  "geometry": {"coordinates":[-80.08333,-3.83333],"type":"Point"}
+}

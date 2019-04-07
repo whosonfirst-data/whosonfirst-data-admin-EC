@@ -1,0 +1,76 @@
+{
+  "id": 421177573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.84913,-0.99765,-80.84913,-0.99765",
+    "geom:latitude":-0.99765,
+    "geom:longitude":-80.84913,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3651398,
+    "qs:gn_pop":0,
+    "qs:name":"Santa Marianita",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Manabi",
+    "qs:photos":50,
+    "qs:photos_1k":10,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":50,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1342222,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":376285,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670927,
+        421175411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3651398,
+        "gp:id":376285,
+        "qs:id":1342222
+    },
+    "wof:country":"EC",
+    "wof:created":1459009151,
+    "wof:geomhash":"c16f5f94cd55c03df956938f4f4ae45c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421175411,
+            "locality_id":421177573,
+            "region_id":85670927
+        }
+    ],
+    "wof:id":421177573,
+    "wof:lastmodified":1500036608,
+    "wof:name":"Santa Marianita",
+    "wof:parent_id":421175411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.84913,
+    -0.99765,
+    -80.84913,
+    -0.99765
+],
+  "geometry": {"coordinates":[-80.84913,-0.99765],"type":"Point"}
+}

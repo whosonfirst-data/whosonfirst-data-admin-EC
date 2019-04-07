@@ -1,0 +1,70 @@
+{
+  "id": 1260001883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.66667,-1.6,-78.66667,-1.6",
+    "geom:latitude":-1.6,
+    "geom:longitude":-78.66667,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"607.0",
+    "gn:admin3_code":"60750.0",
+    "gn:asciiname":"Hacienda Tutupala",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":2807,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3655911,
+    "gn:latitude":-1.6,
+    "gn:longitude":-78.66667,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda Tutupala",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670931,
+        421201625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3655911
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"9989d1d3575538f2ed264346565703db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421201625,
+            "locality_id":1260001883,
+            "region_id":85670931
+        }
+    ],
+    "wof:id":1260001883,
+    "wof:lastmodified":1536605719,
+    "wof:name":"Hacienda Tutupala",
+    "wof:parent_id":421201625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.66667,
+    -1.6,
+    -78.66667,
+    -1.6
+],
+  "geometry": {"coordinates":[-78.66667,-1.6],"type":"Point"}
+}

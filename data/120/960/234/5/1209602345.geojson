@@ -1,0 +1,63 @@
+{
+  "id": 1209602345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.2041,-4.07691,-80.2041,-4.07691",
+    "geom:latitude":-4.07691,
+    "geom:longitude":-80.2041,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1114.0",
+    "gn:admin3_code":"111453.0",
+    "gn:asciiname":"Huasimo",
+    "gn:country_code":"EC",
+    "gn:dem":624,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3655705,
+    "gn:latitude":-4.07691,
+    "gn:longitude":-80.2041,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hu\u00e1simo",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3655705
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"294bc72f0186c18e758898e35f51bf23",
+    "wof:hierarchy":[
+        {
+            "country_id":85632261,
+            "locality_id":1209602345
+        }
+    ],
+    "wof:id":1209602345,
+    "wof:lastmodified":1536282125,
+    "wof:name":"Huasimo",
+    "wof:parent_id":85632261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.2041,
+    -4.07691,
+    -80.2041,
+    -4.07691
+],
+  "geometry": {"coordinates":[-80.2041,-4.07691],"type":"Point"}
+}

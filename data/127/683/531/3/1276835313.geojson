@@ -1,0 +1,69 @@
+{
+  "id": 1276835313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.48636,-1.42575,-78.48636,-1.42575",
+    "geom:latitude":-1.42575,
+    "geom:longitude":-78.48636,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1807.0",
+    "gn:admin3_code":"180753.0",
+    "gn:asciiname":"Cusua",
+    "gn:country_code":"EC",
+    "gn:dem":2260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3658549,
+    "gn:latitude":-1.42575,
+    "gn:longitude":-78.48636,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Cus\u00faa",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670959,
+        1108572289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3658549
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"0e874c6d817b84ad1707948be2298aa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108572289,
+            "locality_id":1276835313,
+            "region_id":85670959
+        }
+    ],
+    "wof:id":1276835313,
+    "wof:lastmodified":1536600137,
+    "wof:name":"Cusua",
+    "wof:parent_id":1108572289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.48635999999998,
+    -1.42575,
+    -78.48635999999998,
+    -1.42575
+],
+  "geometry": {"coordinates":[-78.48635999999998,-1.42575],"type":"Point"}
+}

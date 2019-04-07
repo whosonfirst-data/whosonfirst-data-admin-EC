@@ -1,0 +1,67 @@
+{
+  "id": 1327402277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.93333,-1.36667,-76.93333,-1.36667",
+    "geom:latitude":-1.36667,
+    "geom:longitude":-76.93333,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Paushiyacu",
+    "gn:country_code":"EC",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3653334,
+    "gn:latitude":-1.36667,
+    "gn:longitude":-76.93333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Paushiyacu",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670949,
+        421185499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3653334
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"3dd116958ee2849e7c982b95cae07d91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421185499,
+            "locality_id":1327402277,
+            "region_id":85670949
+        }
+    ],
+    "wof:id":1327402277,
+    "wof:lastmodified":1536724708,
+    "wof:name":"Paushiyacu",
+    "wof:parent_id":421185499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.93333,
+    -1.36667,
+    -76.93333,
+    -1.36667
+],
+  "geometry": {"coordinates":[-76.93333,-1.36667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226338259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.57999,-0.05997,-79.57999,-0.05997",
+    "geom:latitude":-0.05997,
+    "geom:longitude":-79.57999,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"San Miguel de Guabal",
+    "gn:country_code":"EC",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8472348,
+    "gn:latitude":-0.05997,
+    "gn:longitude":-79.57999,
+    "gn:modification_date":"2013-03-06",
+    "gn:name":"San Miguel de Guabal",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670983,
+        1108570759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8472348
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"0c7bc48f6a3f3844f309c96ceca751cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108570759,
+            "locality_id":1226338259,
+            "region_id":85670983
+        }
+    ],
+    "wof:id":1226338259,
+    "wof:lastmodified":1536800331,
+    "wof:name":"San Miguel de Guabal",
+    "wof:parent_id":1108570759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.57999000000002,
+    -0.05997,
+    -79.57999000000002,
+    -0.05997
+],
+  "geometry": {"coordinates":[-79.57999000000002,-0.05997],"type":"Point"}
+}

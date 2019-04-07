@@ -1,0 +1,70 @@
+{
+  "id": 1310188787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.45,-2.03333,-79.45,-2.03333",
+    "geom:latitude":-2.03333,
+    "geom:longitude":-79.45,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"922.0",
+    "gn:admin3_code":"92250.0",
+    "gn:asciiname":"Hacienda San Enrique",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3656276,
+    "gn:latitude":-2.03333,
+    "gn:longitude":-79.45,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda San Enrique",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670917,
+        1108572819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3656276
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"1720e210ff93aab8ba8160af4c3e68ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108572819,
+            "locality_id":1310188787,
+            "region_id":85670917
+        }
+    ],
+    "wof:id":1310188787,
+    "wof:lastmodified":1536875506,
+    "wof:name":"Hacienda San Enrique",
+    "wof:parent_id":1108572819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.45,
+    -2.03333,
+    -79.45,
+    -2.03333
+],
+  "geometry": {"coordinates":[-79.45,-2.03333],"type":"Point"}
+}

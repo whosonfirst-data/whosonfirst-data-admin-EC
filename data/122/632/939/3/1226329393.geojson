@@ -1,0 +1,69 @@
+{
+  "id": 1226329393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.57373,-3.8221,-79.57373,-3.8221",
+    "geom:latitude":-3.8221,
+    "geom:longitude":-79.57373,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1103.0",
+    "gn:admin3_code":"110352.0",
+    "gn:asciiname":"Guayquichuma",
+    "gn:country_code":"EC",
+    "gn:dem":863,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3657497,
+    "gn:latitude":-3.8221,
+    "gn:longitude":-79.57373,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Guayquichuma",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670891,
+        1108568325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3657497
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"71c79a6b2524664b457a157331865884",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108568325,
+            "locality_id":1226329393,
+            "region_id":85670891
+        }
+    ],
+    "wof:id":1226329393,
+    "wof:lastmodified":1536812514,
+    "wof:name":"Guayquichuma",
+    "wof:parent_id":1108568325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.57373,
+    -3.8221,
+    -79.57373,
+    -3.8221
+],
+  "geometry": {"coordinates":[-79.57373,-3.8221],"type":"Point"}
+}

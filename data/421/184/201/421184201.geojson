@@ -1,0 +1,73 @@
+{
+  "id": 421184201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.659706,-4.340249,-78.659706,-4.340249",
+    "geom:latitude":-4.340249,
+    "geom:longitude":-78.659706,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Nangaritza",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Zamora-Chinchipe",
+    "qs:photos":8,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":8,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":990187,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":26809601,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26809601,
+        "qs:id":990187
+    },
+    "wof:country":"EC",
+    "wof:created":1459009403,
+    "wof:geomhash":"c056ba3f225f247837e60170621b1236",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421184201,
+            "region_id":85675895
+        }
+    ],
+    "wof:id":421184201,
+    "wof:lastmodified":1474066283,
+    "wof:name":"Nangaritza",
+    "wof:parent_id":85675895,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.659706,
+    -4.340249,
+    -78.659706,
+    -4.340249
+],
+  "geometry": {"coordinates":[-78.659706,-4.340249],"type":"Point"}
+}

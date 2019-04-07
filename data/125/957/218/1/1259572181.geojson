@@ -1,0 +1,69 @@
+{
+  "id": 1259572181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.95,-1.58333,-79.95,-1.58333",
+    "geom:latitude":-1.58333,
+    "geom:longitude":-79.95,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"905.0",
+    "gn:admin3_code":"90550.0",
+    "gn:asciiname":"Rosa Hermania",
+    "gn:country_code":"EC",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3652279,
+    "gn:latitude":-1.58333,
+    "gn:longitude":-79.95,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Rosa Hermania",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670917,
+        1108568689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3652279
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"0257dd6421fe34b1276160c8b995abaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108568689,
+            "locality_id":1259572181,
+            "region_id":85670917
+        }
+    ],
+    "wof:id":1259572181,
+    "wof:lastmodified":1536731452,
+    "wof:name":"Rosa Hermania",
+    "wof:parent_id":1108568689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.95,
+    -1.58333,
+    -79.95,
+    -1.58333
+],
+  "geometry": {"coordinates":[-79.95,-1.58333],"type":"Point"}
+}

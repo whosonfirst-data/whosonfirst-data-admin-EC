@@ -1,0 +1,70 @@
+{
+  "id": 1360265359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.0,-4.36667,-80.0,-4.36667",
+    "geom:latitude":-4.36667,
+    "geom:longitude":-80.0,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1108.0",
+    "gn:admin3_code":"110850.0",
+    "gn:asciiname":"Hacienda La Cruz",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3656799,
+    "gn:latitude":-4.36667,
+    "gn:longitude":-80.0,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda La Cruz",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670891,
+        421191233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3656799
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"7f7d1f9aecad1f91b8262320a7179b4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421191233,
+            "locality_id":1360265359,
+            "region_id":85670891
+        }
+    ],
+    "wof:id":1360265359,
+    "wof:lastmodified":1536685635,
+    "wof:name":"Hacienda La Cruz",
+    "wof:parent_id":421191233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.0,
+    -4.36667,
+    -80.0,
+    -4.36667
+],
+  "geometry": {"coordinates":[-80.0,-4.36667],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1292982069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.93333,0.38333,-77.93333,0.38333",
+    "geom:latitude":0.38333,
+    "geom:longitude":-77.93333,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1005.0",
+    "gn:admin3_code":"100550.0",
+    "gn:asciiname":"Hacienda San Nicolas",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":2064,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3656146,
+    "gn:latitude":0.38333,
+    "gn:longitude":-77.93333,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda San Nicol\u00e1s",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670971,
+        1108571433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3656146
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"e9c5fca9f7ae57128b1ec6bf90c3c3d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108571433,
+            "locality_id":1292982069,
+            "region_id":85670971
+        }
+    ],
+    "wof:id":1292982069,
+    "wof:lastmodified":1537017893,
+    "wof:name":"Hacienda San Nicolas",
+    "wof:parent_id":1108571433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.93333,
+    0.38333,
+    -77.93333,
+    0.38333
+],
+  "geometry": {"coordinates":[-77.93333,0.38333],"type":"Point"}
+}

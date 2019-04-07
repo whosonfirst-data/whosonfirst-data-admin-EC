@@ -1,0 +1,86 @@
+{
+  "id": 421181719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.96455,-2.86256,-78.96455,-2.86256",
+    "geom:latitude":-2.86256,
+    "geom:longitude":-78.96455,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Ricaurte"
+    ],
+    "name:eng_x_preferred":[
+        "Ricaurte"
+    ],
+    "name:que_x_preferred":[
+        "Ricaurte kitilli"
+    ],
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3652361,
+    "qs:gn_pop":0,
+    "qs:name":"Ricaurte",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Azuay",
+    "qs:photos":10,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":10,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":501339,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":374457,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670885,
+        421185495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3652361,
+        "gp:id":374457,
+        "qs:id":501339,
+        "wd:id":"Q7322880"
+    },
+    "wof:country":"EC",
+    "wof:created":1459009304,
+    "wof:geomhash":"113164fe0be543f1e5b642487534d2e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421185495,
+            "locality_id":421181719,
+            "region_id":85670885
+        }
+    ],
+    "wof:id":421181719,
+    "wof:lastmodified":1553816371,
+    "wof:name":"Ricaurte",
+    "wof:parent_id":421185495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.96455,
+    -2.86256,
+    -78.96455,
+    -2.86256
+],
+  "geometry": {"coordinates":[-78.96455,-2.86256],"type":"Point"}
+}

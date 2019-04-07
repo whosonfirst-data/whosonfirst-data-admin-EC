@@ -1,0 +1,69 @@
+{
+  "id": 1226829157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.64633,-3.93489,-79.64633,-3.93489",
+    "geom:latitude":-3.93489,
+    "geom:longitude":-79.64633,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1116.0",
+    "gn:admin3_code":"111650.0",
+    "gn:asciiname":"Olmedo",
+    "gn:country_code":"EC",
+    "gn:dem":1274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3653733,
+    "gn:latitude":-3.93489,
+    "gn:longitude":-79.64633,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Olmedo",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670891,
+        1108571061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3653733
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"ce1ede0375f2402720838a5214ac21c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108571061,
+            "locality_id":1226829157,
+            "region_id":85670891
+        }
+    ],
+    "wof:id":1226829157,
+    "wof:lastmodified":1537089044,
+    "wof:name":"Olmedo",
+    "wof:parent_id":1108571061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.64633,
+    -3.93489,
+    -79.64633,
+    -3.93489
+],
+  "geometry": {"coordinates":[-79.64633000000001,-3.93489],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 421183469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.204988,-3.988474,-79.204988,-3.988474",
+    "geom:latitude":-3.988474,
+    "geom:longitude":-79.204988,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Loja",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Loja",
+    "qs:photos":847,
+    "qs:photos_1k":172,
+    "qs:photos_9k":5,
+    "qs:photos_9r":7,
+    "qs:photos_all":1221,
+    "qs:photos_sr":9,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":978527,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":26810141,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670891,
+        421182159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26810141,
+        "qs:id":978527,
+        "qs_pg:id":978527
+    },
+    "wof:country":"EC",
+    "wof:created":1459009370,
+    "wof:geomhash":"5b186a37cdcac10e25fc119825867c3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421182159,
+            "localadmin_id":421183469,
+            "region_id":85670891
+        }
+    ],
+    "wof:id":421183469,
+    "wof:lastmodified":1497047487,
+    "wof:name":"Loja",
+    "wof:parent_id":421182159,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.204988,
+    -3.988474,
+    -79.204988,
+    -3.988474
+],
+  "geometry": {"coordinates":[-79.204988,-3.988474],"type":"Point"}
+}

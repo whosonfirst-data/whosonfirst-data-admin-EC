@@ -1,0 +1,69 @@
+{
+  "id": 1310504497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.50026,-2.58111,-78.50026,-2.58111",
+    "geom:latitude":-2.58111,
+    "geom:longitude":-78.50026,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"113.0",
+    "gn:admin3_code":"11351.0",
+    "gn:asciiname":"Guarumal",
+    "gn:country_code":"EC",
+    "gn:dem":1650,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3657549,
+    "gn:latitude":-2.58111,
+    "gn:longitude":-78.50026,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Guarumal",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670885,
+        1108572697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3657549
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"97df603a5a695b1fba907fd5024a7812",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108572697,
+            "locality_id":1310504497,
+            "region_id":85670885
+        }
+    ],
+    "wof:id":1310504497,
+    "wof:lastmodified":1536918937,
+    "wof:name":"Guarumal",
+    "wof:parent_id":1108572697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.50026,
+    -2.58111,
+    -78.50026,
+    -2.58111
+],
+  "geometry": {"coordinates":[-78.50026,-2.58111],"type":"Point"}
+}

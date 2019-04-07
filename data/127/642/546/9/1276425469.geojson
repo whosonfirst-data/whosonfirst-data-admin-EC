@@ -1,0 +1,69 @@
+{
+  "id": 1276425469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.81112,1.18291,-78.81112,1.18291",
+    "geom:latitude":1.18291,
+    "geom:longitude":-78.81112,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"805.0",
+    "gn:admin3_code":"80550.0",
+    "gn:asciiname":"Najurungo",
+    "gn:country_code":"EC",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3828110,
+    "gn:latitude":1.18291,
+    "gn:longitude":-78.81112,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Najurungo",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670963,
+        421171763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3828110
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"5f834fa3c20b86b955cbc3a9a5a0bd6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421171763,
+            "locality_id":1276425469,
+            "region_id":85670963
+        }
+    ],
+    "wof:id":1276425469,
+    "wof:lastmodified":1536655247,
+    "wof:name":"Najurungo",
+    "wof:parent_id":421171763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.81111999999997,
+    1.18291,
+    -78.81111999999997,
+    1.18291
+],
+  "geometry": {"coordinates":[-78.81111999999997,1.18291],"type":"Point"}
+}

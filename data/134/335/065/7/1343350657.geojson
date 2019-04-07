@@ -1,0 +1,70 @@
+{
+  "id": 1343350657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.95,-2.03333,-79.95,-2.03333",
+    "geom:latitude":-2.03333,
+    "geom:longitude":-79.95,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"901.0",
+    "gn:admin3_code":"90150.0",
+    "gn:asciiname":"La Germania",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3655190,
+    "gn:latitude":-2.03333,
+    "gn:longitude":-79.95,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"La Germania",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670917,
+        421175423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3655190
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"618326d9ff3992e43aa683a3df583959",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421175423,
+            "locality_id":1343350657,
+            "region_id":85670917
+        }
+    ],
+    "wof:id":1343350657,
+    "wof:lastmodified":1536904898,
+    "wof:name":"La Germania",
+    "wof:parent_id":421175423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.95,
+    -2.03333,
+    -79.95,
+    -2.03333
+],
+  "geometry": {"coordinates":[-79.95,-2.03333],"type":"Point"}
+}

@@ -1,0 +1,117 @@
+{
+  "id": 421179427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.26555,0.29932,-78.26555,0.29932",
+    "geom:latitude":0.29932,
+    "geom:longitude":-78.26555,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Cotacachi"
+    ],
+    "name:dut_x_preferred":[
+        "Cotacachi"
+    ],
+    "name:eng_x_preferred":[
+        "Cotacachi"
+    ],
+    "name:epo_x_preferred":[
+        "Kotaka\u0109i"
+    ],
+    "name:fre_x_preferred":[
+        "Cotacachi"
+    ],
+    "name:ger_x_preferred":[
+        "Cotacachi"
+    ],
+    "name:glg_x_preferred":[
+        "Cotacachi"
+    ],
+    "name:lit_x_preferred":[
+        "Kotaka\u010dis"
+    ],
+    "name:que_x_preferred":[
+        "Kutakachi llaqta"
+    ],
+    "name:spa_x_preferred":[
+        "Cotacachi"
+    ],
+    "name:swe_x_preferred":[
+        "Cotacachi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0442\u0430\u043a\u0430\u0447\u0456"
+    ],
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3658781,
+    "qs:gn_pop":8238,
+    "qs:name":"Cotacachi",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Imbabura",
+    "qs:photos":249,
+    "qs:photos_1k":50,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":249,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":149705,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":375853,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670971,
+        421185493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3658781,
+        "gp:id":375853,
+        "qs:id":149705,
+        "wd:id":"Q1001959",
+        "wk:page":"Cotacachi (city)"
+    },
+    "wof:country":"EC",
+    "wof:created":1459009220,
+    "wof:geomhash":"c6e48478cf4c5dae6061ffc9edea055c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421185493,
+            "locality_id":421179427,
+            "region_id":85670971
+        }
+    ],
+    "wof:id":421179427,
+    "wof:lastmodified":1513956153,
+    "wof:name":"Cotacachi",
+    "wof:parent_id":421185493,
+    "wof:placetype":"locality",
+    "wof:population":8238,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.26555,
+    0.29932,
+    -78.26555,
+    0.29932
+],
+  "geometry": {"coordinates":[-78.26555,0.29932],"type":"Point"}
+}

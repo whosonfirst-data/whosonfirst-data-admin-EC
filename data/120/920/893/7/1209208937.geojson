@@ -1,0 +1,63 @@
+{
+  "id": 1209208937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.02817,-2.18757,-80.02817,-2.18757",
+    "geom:latitude":-2.18757,
+    "geom:longitude":-80.02817,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"901.0",
+    "gn:admin3_code":"90150.0",
+    "gn:asciiname":"Palobamba",
+    "gn:country_code":"EC",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3653535,
+    "gn:latitude":-2.18757,
+    "gn:longitude":-80.02817,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Palobamba",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3653535
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"07de83e729e4acd682623424ba281eb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632261,
+            "locality_id":1209208937
+        }
+    ],
+    "wof:id":1209208937,
+    "wof:lastmodified":1536294355,
+    "wof:name":"Palobamba",
+    "wof:parent_id":85632261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.02816999999997,
+    -2.18757,
+    -80.02816999999997,
+    -2.18757
+],
+  "geometry": {"coordinates":[-80.02816999999997,-2.18757],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209197863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.85,-0.78333,-79.85,-0.78333",
+    "geom:latitude":-0.78333,
+    "geom:longitude":-79.85,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1311.0",
+    "gn:admin3_code":"131151.0",
+    "gn:asciiname":"Pueblo Viejo",
+    "gn:country_code":"EC",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3652792,
+    "gn:latitude":-0.78333,
+    "gn:longitude":-79.85,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Pueblo Viejo",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3652792
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"5f356e51415167b726a7d01d9f012f84",
+    "wof:hierarchy":[
+        {
+            "country_id":85632261,
+            "locality_id":1209197863
+        }
+    ],
+    "wof:id":1209197863,
+    "wof:lastmodified":1536294710,
+    "wof:name":"Pueblo Viejo",
+    "wof:parent_id":85632261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.85,
+    -0.78333,
+    -79.85,
+    -0.78333
+],
+  "geometry": {"coordinates":[-79.84999999999999,-0.78333],"type":"Point"}
+}

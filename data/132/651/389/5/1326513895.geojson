@@ -1,0 +1,69 @@
+{
+  "id": 1326513895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.03333,-1.96667,-80.03333,-1.96667",
+    "geom:latitude":-1.96667,
+    "geom:longitude":-80.03333,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"925.0",
+    "gn:admin3_code":"92550.0",
+    "gn:asciiname":"Tortura",
+    "gn:country_code":"EC",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3650556,
+    "gn:latitude":-1.96667,
+    "gn:longitude":-80.03333,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Tortura",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670917,
+        421197133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3650556
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"1cbd9af8dd0bfa8b5a124a13c66f8d8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421197133,
+            "locality_id":1326513895,
+            "region_id":85670917
+        }
+    ],
+    "wof:id":1326513895,
+    "wof:lastmodified":1537009813,
+    "wof:name":"Tortura",
+    "wof:parent_id":421197133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.03333,
+    -1.96667,
+    -80.03333,
+    -1.96667
+],
+  "geometry": {"coordinates":[-80.03333000000001,-1.96667],"type":"Point"}
+}

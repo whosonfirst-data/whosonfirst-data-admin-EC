@@ -1,0 +1,94 @@
+{
+  "id": 421203193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.35912,-3.98652,-79.35912,-3.98652",
+    "geom:latitude":-3.98652,
+    "geom:longitude":-79.35912,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Catamayo"
+    ],
+    "name:que_x_preferred":[
+        "Katamayu"
+    ],
+    "name:swe_x_preferred":[
+        "Catamayo"
+    ],
+    "name:unk_x_variant":[
+        "La Toma"
+    ],
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3659599,
+    "qs:gn_pop":18565,
+    "qs:name":"Catamayo",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Loja",
+    "qs:photos":6,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":6,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"6",
+    "qs:qs_id":55034,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":26809818,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":30,
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670891,
+        1108568325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3659599,
+        "gp:id":26809818,
+        "qs:id":55034,
+        "wd:id":"Q15207968",
+        "wk:page":"Catamayo"
+    },
+    "wof:country":"EC",
+    "wof:created":1459010143,
+    "wof:geomhash":"d03b396e77e433ee5f40f8ff461aa9a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108568325,
+            "localadmin_id":421203193,
+            "region_id":85670891
+        }
+    ],
+    "wof:id":421203193,
+    "wof:lastmodified":1527716189,
+    "wof:name":"Catamayo",
+    "wof:parent_id":1108568325,
+    "wof:placetype":"localadmin",
+    "wof:population":18565,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.35912,
+    -3.98652,
+    -79.35912,
+    -3.98652
+],
+  "geometry": {"coordinates":[-79.35912,-3.98652],"type":"Point"}
+}

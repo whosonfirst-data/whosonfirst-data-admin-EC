@@ -1,0 +1,166 @@
+{
+  "id": 421174579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.3138,-0.74018,-90.3138,-0.74018",
+    "geom:latitude":-0.74018,
+    "geom:longitude":-90.3138,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Puerto Ayora"
+    ],
+    "name:chi_x_preferred":[
+        "\u963f\u7d04\u62c9\u6e2f"
+    ],
+    "name:deu_x_preferred":[
+        "Puerto Ayora"
+    ],
+    "name:dut_x_preferred":[
+        "Puerto Ayora"
+    ],
+    "name:eng_x_preferred":[
+        "Puerto Ayora"
+    ],
+    "name:fra_x_preferred":[
+        "Puerto Isidro Ayora"
+    ],
+    "name:fre_x_preferred":[
+        "Puerto Isidro Ayora"
+    ],
+    "name:ger_x_preferred":[
+        "Puerto Ayora"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05d0\u05e8\u05d8\u05d5 \u05d0\u05d9\u05d5\u05e8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u094d\u092f\u0942\u0930\u094d\u091f\u094b \u0905\u092f\u094b\u0930\u093e"
+    ],
+    "name:hrv_x_preferred":[
+        "Puerto Ayora"
+    ],
+    "name:ita_x_preferred":[
+        "Puerto Ayora"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30a8\u30eb\u30c8\u30fb\u30a2\u30e8\u30e9"
+    ],
+    "name:kor_x_preferred":[
+        "\ud478\uc5d0\ub974\ud1a0\uc544\uc694\ub77c"
+    ],
+    "name:lit_x_preferred":[
+        "Puerto Ajora"
+    ],
+    "name:nob_x_preferred":[
+        "Puerto Ayora"
+    ],
+    "name:nor_x_preferred":[
+        "Puerto Ayora"
+    ],
+    "name:pol_x_preferred":[
+        "Puerto Ayora"
+    ],
+    "name:por_x_preferred":[
+        "Puerto Ayora"
+    ],
+    "name:que_x_preferred":[
+        "Ayora Wampurani"
+    ],
+    "name:ron_x_preferred":[
+        "Puerto Ayora"
+    ],
+    "name:rum_x_preferred":[
+        "Puerto Ayora"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u044d\u0440\u0442\u043e-\u0410\u0439\u043e\u0440\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Puerto Ayora"
+    ],
+    "name:spa_x_preferred":[
+        "Puerto Ayora"
+    ],
+    "name:swe_x_preferred":[
+        "Puerto Ayora"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0443\u0435\u0440\u0442\u043e-\u0410\u0439\u043e\u0440\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u7d04\u62c9\u6e2f"
+    ],
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3652764,
+    "qs:gn_pop":8996,
+    "qs:name":"Puerto Ayora",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Galapagos",
+    "qs:photos":4998,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":4998,
+    "qs:photos_sr":24,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":887592,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":376193,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":921,
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670899,
+        421183483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3652764,
+        "gp:id":376193,
+        "qs:id":887592,
+        "wd:id":"Q1013526",
+        "wk:page":"Puerto Ayora"
+    },
+    "wof:country":"EC",
+    "wof:created":1459009037,
+    "wof:geomhash":"e8118c2166decd74f6a1947fbcec0193",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421183483,
+            "locality_id":421174579,
+            "region_id":85670899
+        }
+    ],
+    "wof:id":421174579,
+    "wof:lastmodified":1527716232,
+    "wof:name":"Puerto Ayora",
+    "wof:parent_id":421183483,
+    "wof:placetype":"locality",
+    "wof:population":8996,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.3138,
+    -0.74018,
+    -90.3138,
+    -0.74018
+],
+  "geometry": {"coordinates":[-90.3138,-0.74018],"type":"Point"}
+}

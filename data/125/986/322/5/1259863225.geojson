@@ -1,0 +1,69 @@
+{
+  "id": 1259863225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.83386,-2.19856,-79.83386,-2.19856",
+    "geom:latitude":-2.19856,
+    "geom:longitude":-79.83386,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"907.0",
+    "gn:admin3_code":"90750.0",
+    "gn:asciiname":"Hacienda Santay",
+    "gn:country_code":"EC",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3651322,
+    "gn:latitude":-2.19856,
+    "gn:longitude":-79.83386,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda Santay",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670917,
+        1108568901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3651322
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"64e0fce34c3d1ebc73750827ffec6f8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108568901,
+            "locality_id":1259863225,
+            "region_id":85670917
+        }
+    ],
+    "wof:id":1259863225,
+    "wof:lastmodified":1536808076,
+    "wof:name":"Hacienda Santay",
+    "wof:parent_id":1108568901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.83386,
+    -2.19856,
+    -79.83386,
+    -2.19856
+],
+  "geometry": {"coordinates":[-79.83386,-2.19856],"type":"Point"}
+}

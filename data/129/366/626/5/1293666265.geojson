@@ -1,0 +1,69 @@
+{
+  "id": 1293666265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.20987,-3.85634,-79.20987,-3.85634",
+    "geom:latitude":-3.85634,
+    "geom:longitude":-79.20987,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1101.0",
+    "gn:admin3_code":"110159.0",
+    "gn:asciiname":"Pucala",
+    "gn:country_code":"EC",
+    "gn:dem":2125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3652859,
+    "gn:latitude":-3.85634,
+    "gn:longitude":-79.20987,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Pucala",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670891,
+        421182159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3652859
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"a30024019e7b77bd92d6a6a0ffb75757",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421182159,
+            "locality_id":1293666265,
+            "region_id":85670891
+        }
+    ],
+    "wof:id":1293666265,
+    "wof:lastmodified":1537025482,
+    "wof:name":"Pucala",
+    "wof:parent_id":421182159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.20987,
+    -3.85634,
+    -79.20987,
+    -3.85634
+],
+  "geometry": {"coordinates":[-79.20987,-3.85634],"type":"Point"}
+}

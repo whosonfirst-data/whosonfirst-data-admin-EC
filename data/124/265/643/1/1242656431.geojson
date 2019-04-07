@@ -1,0 +1,70 @@
+{
+  "id": 1242656431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.98333,0.03333,-79.98333,0.03333",
+    "geom:latitude":0.03333,
+    "geom:longitude":-79.98333,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1317.0",
+    "gn:admin3_code":"131750.0",
+    "gn:asciiname":"Pata de Pajaro",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3653387,
+    "gn:latitude":0.03333,
+    "gn:longitude":-79.98333,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Pata de P\u00e1jaro",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670927,
+        1108571251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3653387
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"f8739a335bcac5876a16bd29098e4a05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108571251,
+            "locality_id":1242656431,
+            "region_id":85670927
+        }
+    ],
+    "wof:id":1242656431,
+    "wof:lastmodified":1536950556,
+    "wof:name":"Pata de Pajaro",
+    "wof:parent_id":1108571251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.98333000000002,
+    0.03333,
+    -79.98333000000002,
+    0.03333
+],
+  "geometry": {"coordinates":[-79.98333000000002,0.03333],"type":"Point"}
+}

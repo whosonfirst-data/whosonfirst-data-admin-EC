@@ -1,0 +1,63 @@
+{
+  "id": 1209510399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.9,-1.26667,-79.9,-1.26667",
+    "geom:latitude":-1.26667,
+    "geom:longitude":-79.9,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"904.0",
+    "gn:admin3_code":"90450.0",
+    "gn:asciiname":"Caferino Espanol",
+    "gn:country_code":"EC",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3659961,
+    "gn:latitude":-1.26667,
+    "gn:longitude":-79.9,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Caferino Espa\u00f1ol",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3659961
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"6435debd5c8a0c54367f76a2cb2b03f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632261,
+            "locality_id":1209510399
+        }
+    ],
+    "wof:id":1209510399,
+    "wof:lastmodified":1536284900,
+    "wof:name":"Caferino Espanol",
+    "wof:parent_id":85632261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.9,
+    -1.26667,
+    -79.9,
+    -1.26667
+],
+  "geometry": {"coordinates":[-79.90000000000001,-1.26667],"type":"Point"}
+}

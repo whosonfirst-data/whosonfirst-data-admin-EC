@@ -1,0 +1,64 @@
+{
+  "id": 1209039533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.78333,-2.5,-78.78333,-2.5",
+    "geom:latitude":-2.5,
+    "geom:longitude":-78.78333,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"303.0",
+    "gn:admin3_code":"30356.0",
+    "gn:asciiname":"Hacienda Cebadas",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":3286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3657270,
+    "gn:latitude":-2.5,
+    "gn:longitude":-78.78333,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda Cebadas",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3657270
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"0e1b3c9ee547a4052e19f84b00cc86c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632261,
+            "locality_id":1209039533
+        }
+    ],
+    "wof:id":1209039533,
+    "wof:lastmodified":1536299589,
+    "wof:name":"Hacienda Cebadas",
+    "wof:parent_id":85632261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.78333,
+    -2.5,
+    -78.78333,
+    -2.5
+],
+  "geometry": {"coordinates":[-78.78333000000001,-2.5],"type":"Point"}
+}

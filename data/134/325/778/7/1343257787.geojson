@@ -1,0 +1,67 @@
+{
+  "id": 1343257787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.35482,-2.13051,-80.35482,-2.13051",
+    "geom:latitude":-2.13051,
+    "geom:longitude":-80.35482,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"La Camarona",
+    "gn:country_code":"EC",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3655326,
+    "gn:latitude":-2.13051,
+    "gn:longitude":-80.35482,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"La Camarona",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670979,
+        1108572401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3655326
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"2f0cdd1b7daa73a452c56cdcd6ba235d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108572401,
+            "locality_id":1343257787,
+            "region_id":85670979
+        }
+    ],
+    "wof:id":1343257787,
+    "wof:lastmodified":1537037158,
+    "wof:name":"La Camarona",
+    "wof:parent_id":1108572401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.35481999999998,
+    -2.13051,
+    -80.35481999999998,
+    -2.13051
+],
+  "geometry": {"coordinates":[-80.35481999999998,-2.13051],"type":"Point"}
+}

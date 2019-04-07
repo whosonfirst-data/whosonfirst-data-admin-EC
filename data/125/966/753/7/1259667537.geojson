@@ -1,0 +1,67 @@
+{
+  "id": 1259667537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.73333,-1.875,-80.73333,-1.875",
+    "geom:latitude":-1.875,
+    "geom:longitude":-80.73333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Simon Bolivar",
+    "gn:country_code":"EC",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3746164,
+    "gn:latitude":-1.875,
+    "gn:longitude":-80.73333,
+    "gn:modification_date":"1996-04-02",
+    "gn:name":"Sim\u00f3n Bol\u00edvar",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670979,
+        1108572401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3746164
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"63e9b4f33e0dc511c276d8b87580bfad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108572401,
+            "locality_id":1259667537,
+            "region_id":85670979
+        }
+    ],
+    "wof:id":1259667537,
+    "wof:lastmodified":1537086806,
+    "wof:name":"Simon Bolivar",
+    "wof:parent_id":1108572401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.73333000000002,
+    -1.875,
+    -80.73333000000002,
+    -1.875
+],
+  "geometry": {"coordinates":[-80.73333000000002,-1.875],"type":"Point"}
+}

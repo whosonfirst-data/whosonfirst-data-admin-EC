@@ -1,0 +1,77 @@
+{
+  "id": 1242929665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.79383,-0.84177,-77.79383,-0.84177",
+    "geom:latitude":-0.84177,
+    "geom:longitude":-77.79383,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1503.0",
+    "gn:admin3_code":"150352.0",
+    "gn:asciiname":"Cotundo",
+    "gn:country_code":"EC",
+    "gn:dem":756,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3658760,
+    "gn:latitude":-0.84177,
+    "gn:longitude":-77.79383,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Cotundo",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670959,
+        1108567669,
+        85670953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3658760
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"cffb33c42c914a9314bf1c65ff1f201b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108567669,
+            "locality_id":1242929665,
+            "region_id":85670959
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108567669,
+            "locality_id":1242929665,
+            "region_id":85670953
+        }
+    ],
+    "wof:id":1242929665,
+    "wof:lastmodified":1537051577,
+    "wof:name":"Cotundo",
+    "wof:parent_id":1108567669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.79383,
+    -0.84177,
+    -77.79383,
+    -0.84177
+],
+  "geometry": {"coordinates":[-77.79383,-0.84177],"type":"Point"}
+}

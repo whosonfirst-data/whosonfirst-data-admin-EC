@@ -1,0 +1,67 @@
+{
+  "id": 1309869291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.3,-2.41667,-76.3,-2.41667",
+    "geom:latitude":-2.41667,
+    "geom:longitude":-76.3,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Huayuri",
+    "gn:country_code":"EC",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3655691,
+    "gn:latitude":-2.41667,
+    "gn:longitude":-76.3,
+    "gn:modification_date":"1997-01-01",
+    "gn:name":"Huayuri",
+    "gn:population":0,
+    "gn:timezone":"America/Lima",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675899,
+        421175173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3655691
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"1d287e10606011ee9c65fab7497db39c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421175173,
+            "locality_id":1309869291,
+            "region_id":85675899
+        }
+    ],
+    "wof:id":1309869291,
+    "wof:lastmodified":1536838699,
+    "wof:name":"Huayuri",
+    "wof:parent_id":421175173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.3,
+    -2.41667,
+    -76.3,
+    -2.41667
+],
+  "geometry": {"coordinates":[-76.3,-2.41667],"type":"Point"}
+}

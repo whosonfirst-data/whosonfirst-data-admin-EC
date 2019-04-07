@@ -1,0 +1,79 @@
+{
+  "id": 421192165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.28945,0.23648,-78.28945,0.23648",
+    "geom:latitude":0.23648,
+    "geom:longitude":-78.28945,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Quichinche"
+    ],
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3651743,
+    "qs:gn_pop":0,
+    "qs:name":"San Jos\u00e9 de Quichinche",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Imbabura",
+    "qs:photos":43,
+    "qs:photos_1k":9,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":43,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1165334,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":374798,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670971,
+        421171751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3651743,
+        "gp:id":374798,
+        "qs:id":1165334
+    },
+    "wof:country":"EC",
+    "wof:created":1459009727,
+    "wof:geomhash":"7e6b59aaaed3e04a55e98a5aae997c02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421171751,
+            "locality_id":421192165,
+            "region_id":85670971
+        }
+    ],
+    "wof:id":421192165,
+    "wof:lastmodified":1501268351,
+    "wof:name":"San Jos\u00e9 de Quichinche",
+    "wof:parent_id":421171751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.28945,
+    0.23648,
+    -78.28945,
+    0.23648
+],
+  "geometry": {"coordinates":[-78.28945,0.23648],"type":"Point"}
+}

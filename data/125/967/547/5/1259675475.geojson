@@ -1,0 +1,69 @@
+{
+  "id": 1259675475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.61101,-0.89449,-78.61101,-0.89449",
+    "geom:latitude":-0.89449,
+    "geom:longitude":-78.61101,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"501.0",
+    "gn:admin3_code":"50150.0",
+    "gn:asciiname":"San Buenaventura",
+    "gn:country_code":"EC",
+    "gn:dem":2811,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3651965,
+    "gn:latitude":-0.89449,
+    "gn:longitude":-78.61101,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"San Buenaventura",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670915,
+        421182157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3651965
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"f2eff769513be4ed991cb97a71a2c435",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421182157,
+            "locality_id":1259675475,
+            "region_id":85670915
+        }
+    ],
+    "wof:id":1259675475,
+    "wof:lastmodified":1537075500,
+    "wof:name":"San Buenaventura",
+    "wof:parent_id":421182157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.61101,
+    -0.89449,
+    -78.61101,
+    -0.89449
+],
+  "geometry": {"coordinates":[-78.61100999999999,-0.89449],"type":"Point"}
+}

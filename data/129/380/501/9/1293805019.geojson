@@ -1,0 +1,69 @@
+{
+  "id": 1293805019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.17838,-0.85448,-79.17838,-0.85448",
+    "geom:latitude":-0.85448,
+    "geom:longitude":-79.17838,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"502.0",
+    "gn:admin3_code":"50251.0",
+    "gn:asciiname":"Juan Cobos",
+    "gn:country_code":"EC",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8472655,
+    "gn:latitude":-0.85448,
+    "gn:longitude":-79.17838,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Juan Cobos",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670915,
+        421178141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8472655
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"eb3e911bc90db6169db424c88249ba93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421178141,
+            "locality_id":1293805019,
+            "region_id":85670915
+        }
+    ],
+    "wof:id":1293805019,
+    "wof:lastmodified":1536825522,
+    "wof:name":"Juan Cobos",
+    "wof:parent_id":421178141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.17838,
+    -0.85448,
+    -79.17838,
+    -0.85448
+],
+  "geometry": {"coordinates":[-79.17838,-0.85448],"type":"Point"}
+}

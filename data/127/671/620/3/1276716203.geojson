@@ -1,0 +1,69 @@
+{
+  "id": 1276716203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.25922,-0.23683,-79.25922,-0.23683",
+    "geom:latitude":-0.23683,
+    "geom:longitude":-79.25922,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"2301.0",
+    "gn:admin3_code":"230150.0",
+    "gn:asciiname":"Kilometro Once",
+    "gn:country_code":"EC",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8472612,
+    "gn:latitude":-0.23683,
+    "gn:longitude":-79.25922,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Kil\u00f3metro Once",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670983,
+        421190535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8472612
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"e753a62b9e82e4861a1d319753ae4f70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421190535,
+            "locality_id":1276716203,
+            "region_id":85670983
+        }
+    ],
+    "wof:id":1276716203,
+    "wof:lastmodified":1536763220,
+    "wof:name":"Kilometro Once",
+    "wof:parent_id":421190535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.25922,
+    -0.23683,
+    -79.25922,
+    -0.23683
+],
+  "geometry": {"coordinates":[-79.25922,-0.23683],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1344113781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.35604,-0.21346,-79.35604,-0.21346",
+    "geom:latitude":-0.21346,
+    "geom:longitude":-79.35604,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"2301.0",
+    "gn:admin3_code":"230150.0",
+    "gn:asciiname":"Miraflores",
+    "gn:country_code":"EC",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8472610,
+    "gn:latitude":-0.21346,
+    "gn:longitude":-79.35604,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Miraflores",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670983,
+        421190535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8472610
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"6823bcc1fff143896e00f066edae921b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421190535,
+            "locality_id":1344113781,
+            "region_id":85670983
+        }
+    ],
+    "wof:id":1344113781,
+    "wof:lastmodified":1536798920,
+    "wof:name":"Miraflores",
+    "wof:parent_id":421190535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.35604000000002,
+    -0.21346,
+    -79.35604000000002,
+    -0.21346
+],
+  "geometry": {"coordinates":[-79.35604000000002,-0.21346],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1226429617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.47023,-4.05248,-80.47023,-4.05248",
+    "geom:latitude":-4.05248,
+    "geom:longitude":-80.47023,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1113.0",
+    "gn:admin3_code":"111356.0",
+    "gn:asciiname":"Hacienda Cruz Blanca",
+    "gn:country_code":"EC",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3657141,
+    "gn:latitude":-4.05248,
+    "gn:longitude":-80.47023,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda Cruz Blanca",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670891,
+        1108573397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3657141
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"65c7968234f7ad0b22f60e6dfda11b65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108573397,
+            "locality_id":1226429617,
+            "region_id":85670891
+        }
+    ],
+    "wof:id":1226429617,
+    "wof:lastmodified":1536668745,
+    "wof:name":"Hacienda Cruz Blanca",
+    "wof:parent_id":1108573397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.47023,
+    -4.05248,
+    -80.47023,
+    -4.05248
+],
+  "geometry": {"coordinates":[-80.47023,-4.05248],"type":"Point"}
+}

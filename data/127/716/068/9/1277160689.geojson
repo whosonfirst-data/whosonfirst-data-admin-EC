@@ -1,0 +1,69 @@
+{
+  "id": 1277160689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.55423,-0.32468,-79.55423,-0.32468",
+    "geom:latitude":-0.32468,
+    "geom:longitude":-79.55423,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1304.0",
+    "gn:admin3_code":"130450.0",
+    "gn:asciiname":"La Raiz",
+    "gn:country_code":"EC",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8472290,
+    "gn:latitude":-0.32468,
+    "gn:longitude":-79.55423,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"La Ra\u00edz",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670927,
+        1108569025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8472290
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"9863c3f8fb4a75859b0c9713f92493df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108569025,
+            "locality_id":1277160689,
+            "region_id":85670927
+        }
+    ],
+    "wof:id":1277160689,
+    "wof:lastmodified":1536655371,
+    "wof:name":"La Raiz",
+    "wof:parent_id":1108569025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.55423,
+    -0.32468,
+    -79.55423,
+    -0.32468
+],
+  "geometry": {"coordinates":[-79.55423,-0.32468],"type":"Point"}
+}

@@ -1,0 +1,105 @@
+{
+  "id": 421198033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.61174,-3.69132,-79.61174,-3.69132",
+    "geom:latitude":-3.69132,
+    "geom:longitude":-79.61174,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Zaruma"
+    ],
+    "name:deu_x_preferred":[
+        "Zaruma"
+    ],
+    "name:ita_x_preferred":[
+        "Zaruma"
+    ],
+    "name:lit_x_preferred":[
+        "Saruma"
+    ],
+    "name:que_x_preferred":[
+        "Saruma"
+    ],
+    "name:spa_x_preferred":[
+        "Zaruma"
+    ],
+    "name:swe_x_preferred":[
+        "Zaruma"
+    ],
+    "name:unk_x_variant":[
+        "Zaruma"
+    ],
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3649914,
+    "qs:gn_pop":12505,
+    "qs:name":"Zarumilla",
+    "qs:name_adm0":"Per\u00fa",
+    "qs:name_adm1":"Tumbes",
+    "qs:photos":209,
+    "qs:photos_1k":42,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":209,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":300825,
+    "qs:woe_adm0":23424919,
+    "qs:woe_id":418610,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670887,
+        421184733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3649914,
+        "gp:id":418610,
+        "qs:id":300825,
+        "wd:id":"Q148121",
+        "wk:page":"Zaruma"
+    },
+    "wof:country":"EC",
+    "wof:created":1459009934,
+    "wof:geomhash":"95bf2c2bfc3bde44454769aa1af9d247",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421184733,
+            "locality_id":421198033,
+            "region_id":85670887
+        }
+    ],
+    "wof:id":421198033,
+    "wof:lastmodified":1505340754,
+    "wof:name":"Zarumilla",
+    "wof:parent_id":421184733,
+    "wof:placetype":"locality",
+    "wof:population":12505,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.61174,
+    -3.69132,
+    -79.61174,
+    -3.69132
+],
+  "geometry": {"coordinates":[-79.61174,-3.69132],"type":"Point"}
+}

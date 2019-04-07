@@ -1,0 +1,63 @@
+{
+  "id": 1276720257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.84417,0.24083,-76.84417,0.24083",
+    "geom:latitude":0.24083,
+    "geom:longitude":-76.84417,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Puerto San Miguel",
+    "gn:country_code":"EC",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3763509,
+    "gn:latitude":0.24083,
+    "gn:longitude":-76.84417,
+    "gn:modification_date":"1998-04-23",
+    "gn:name":"Puerto San Miguel",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3763509
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"470d6abb86b1489b2fd641f5e4cabfd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "locality_id":1276720257,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276720257,
+    "wof:lastmodified":1536757635,
+    "wof:name":"Puerto San Miguel",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.84416999999998,
+    0.24083,
+    -76.84416999999998,
+    0.24083
+],
+  "geometry": {"coordinates":[-76.84416999999998,0.24083],"type":"Point"}
+}

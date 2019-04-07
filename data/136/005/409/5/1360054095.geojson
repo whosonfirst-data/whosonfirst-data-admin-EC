@@ -1,0 +1,77 @@
+{
+  "id": 1360054095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.88465,-0.51605,-77.88465,-0.51605",
+    "geom:latitude":-0.51605,
+    "geom:longitude":-77.88465,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1507.0",
+    "gn:admin3_code":"150750.0",
+    "gn:asciiname":"Bermejo",
+    "gn:country_code":"EC",
+    "gn:dem":1956,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3660223,
+    "gn:latitude":-0.51605,
+    "gn:longitude":-77.88465,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Bermejo",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670959,
+        1108571837,
+        85670953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3660223
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"969e83d234df058dcfad6e717f5043e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108571837,
+            "locality_id":1360054095,
+            "region_id":85670959
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108571837,
+            "locality_id":1360054095,
+            "region_id":85670953
+        }
+    ],
+    "wof:id":1360054095,
+    "wof:lastmodified":1536989693,
+    "wof:name":"Bermejo",
+    "wof:parent_id":1108571837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.88465,
+    -0.51605,
+    -77.88465,
+    -0.51605
+],
+  "geometry": {"coordinates":[-77.88464999999999,-0.51605],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209008971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.79347,-2.66507,-78.79347,-2.66507",
+    "geom:latitude":-2.66507,
+    "geom:longitude":-78.79347,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Hacienda Nudpud",
+    "gn:country_code":"EC",
+    "gn:dem":3089,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3656536,
+    "gn:latitude":-2.66507,
+    "gn:longitude":-78.79347,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Hacienda Nudpud",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3656536
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"9b10b907c381b20bedc832fc00a71633",
+    "wof:hierarchy":[
+        {
+            "country_id":85632261,
+            "locality_id":1209008971
+        }
+    ],
+    "wof:id":1209008971,
+    "wof:lastmodified":1536300510,
+    "wof:name":"Hacienda Nudpud",
+    "wof:parent_id":85632261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.79347,
+    -2.66507,
+    -78.79347,
+    -2.66507
+],
+  "geometry": {"coordinates":[-78.79347,-2.66507],"type":"Point"}
+}

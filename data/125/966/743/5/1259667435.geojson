@@ -1,0 +1,63 @@
+{
+  "id": 1259667435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.75476,-2.5252,-79.75476,-2.5252",
+    "geom:latitude":-2.5252,
+    "geom:longitude":-79.75476,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"911.0",
+    "gn:admin3_code":"91154.0",
+    "gn:asciiname":"Churute",
+    "gn:country_code":"EC",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3659041,
+    "gn:latitude":-2.5252,
+    "gn:longitude":-79.75476,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Churute",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3659041
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"a067d6f7ba88a0828cceb18f06e7c3a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1259667435,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259667435,
+    "wof:lastmodified":1537086952,
+    "wof:name":"Churute",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.75476,
+    -2.5252,
+    -79.75476,
+    -2.5252
+],
+  "geometry": {"coordinates":[-79.75476,-2.5252],"type":"Point"}
+}

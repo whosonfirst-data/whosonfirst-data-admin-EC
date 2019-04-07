@@ -1,0 +1,69 @@
+{
+  "id": 1276424669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.81667,-2.05,-79.81667,-2.05",
+    "geom:latitude":-2.05,
+    "geom:longitude":-79.81667,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"916.0",
+    "gn:admin3_code":"91650.0",
+    "gn:asciiname":"Santa Ana",
+    "gn:country_code":"EC",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3651491,
+    "gn:latitude":-2.05,
+    "gn:longitude":-79.81667,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Santa Ana",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670917,
+        421189217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3651491
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"5af510a1ded708ce6fe760364ff4e62b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421189217,
+            "locality_id":1276424669,
+            "region_id":85670917
+        }
+    ],
+    "wof:id":1276424669,
+    "wof:lastmodified":1536656390,
+    "wof:name":"Santa Ana",
+    "wof:parent_id":421189217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.81667,
+    -2.05,
+    -79.81667,
+    -2.05
+],
+  "geometry": {"coordinates":[-79.81667,-2.05],"type":"Point"}
+}

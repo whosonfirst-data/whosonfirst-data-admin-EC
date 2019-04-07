@@ -1,0 +1,69 @@
+{
+  "id": 1310297605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.64327,-1.91126,-78.64327,-1.91126",
+    "geom:latitude":-1.91126,
+    "geom:longitude":-78.64327,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"606.0",
+    "gn:admin3_code":"60651.0",
+    "gn:asciiname":"Cebadas",
+    "gn:country_code":"EC",
+    "gn:dem":2933,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3659566,
+    "gn:latitude":-1.91126,
+    "gn:longitude":-78.64327,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Cebadas",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670931,
+        421191235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3659566
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"df0794f4aa1b3e350f6cdd3af9fc3975",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421191235,
+            "locality_id":1310297605,
+            "region_id":85670931
+        }
+    ],
+    "wof:id":1310297605,
+    "wof:lastmodified":1536719696,
+    "wof:name":"Cebadas",
+    "wof:parent_id":421191235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.64327,
+    -1.91126,
+    -78.64327,
+    -1.91126
+],
+  "geometry": {"coordinates":[-78.64327,-1.91126],"type":"Point"}
+}

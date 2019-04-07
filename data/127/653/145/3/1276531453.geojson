@@ -1,0 +1,69 @@
+{
+  "id": 1276531453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.48555,-0.24757,-79.48555,-0.24757",
+    "geom:latitude":-0.24757,
+    "geom:longitude":-79.48555,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1304.0",
+    "gn:admin3_code":"130450.0",
+    "gn:asciiname":"Cuatro de Diciembre",
+    "gn:country_code":"EC",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8472342,
+    "gn:latitude":-0.24757,
+    "gn:longitude":-79.48555,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Cuatro de Diciembre",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670927,
+        1108569025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8472342
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"390a2b6c554d8f8ebd9247b9331240f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108569025,
+            "locality_id":1276531453,
+            "region_id":85670927
+        }
+    ],
+    "wof:id":1276531453,
+    "wof:lastmodified":1537009852,
+    "wof:name":"Cuatro de Diciembre",
+    "wof:parent_id":1108569025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.48555,
+    -0.24757,
+    -79.48555,
+    -0.24757
+],
+  "geometry": {"coordinates":[-79.48555,-0.24757],"type":"Point"}
+}

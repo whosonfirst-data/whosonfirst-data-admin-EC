@@ -1,0 +1,65 @@
+{
+  "id": 1309890237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.30046,1.07997,-79.30046,1.07997",
+    "geom:latitude":1.07997,
+    "geom:longitude":-79.30046,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"807.0",
+    "gn:admin3_code":"80754.0",
+    "gn:asciiname":"Bocana",
+    "gn:country_code":"EC",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3746315,
+    "gn:latitude":1.07997,
+    "gn:longitude":-79.30046,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Bocana",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3746315
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"31493bf438caf1469eb50a4123859f76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "locality_id":1309890237,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309890237,
+    "wof:lastmodified":1536809049,
+    "wof:name":"Bocana",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.30046,
+    1.07997,
+    -79.30046,
+    1.07997
+],
+  "geometry": {"coordinates":[-79.30046,1.07997],"type":"Point"}
+}

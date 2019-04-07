@@ -1,0 +1,69 @@
+{
+  "id": 1310479801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.29979,0.2734,-78.29979,0.2734",
+    "geom:latitude":0.2734,
+    "geom:longitude":-78.29979,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1003.0",
+    "gn:admin3_code":"100356.0",
+    "gn:asciiname":"Domingo Sabio",
+    "gn:country_code":"EC",
+    "gn:dem":2604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8470030,
+    "gn:latitude":0.2734,
+    "gn:longitude":-78.29979,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Domingo Sabio",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670971,
+        421185493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8470030
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"8fedadd7ac210cd39803bf8d9681f17a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421185493,
+            "locality_id":1310479801,
+            "region_id":85670971
+        }
+    ],
+    "wof:id":1310479801,
+    "wof:lastmodified":1536954097,
+    "wof:name":"Domingo Sabio",
+    "wof:parent_id":421185493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.29979,
+    0.2734,
+    -78.29979,
+    0.2734
+],
+  "geometry": {"coordinates":[-78.29979,0.2734],"type":"Point"}
+}

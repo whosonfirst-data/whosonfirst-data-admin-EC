@@ -1,0 +1,63 @@
+{
+  "id": 1209437241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.68333,-1.63333,-78.68333,-1.63333",
+    "geom:latitude":-1.63333,
+    "geom:longitude":-78.68333,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"601.0",
+    "gn:admin3_code":"60155.0",
+    "gn:asciiname":"Hacienda Tapi",
+    "gn:country_code":"EC",
+    "gn:dem":2879,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3655955,
+    "gn:latitude":-1.63333,
+    "gn:longitude":-78.68333,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda Tapi",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3655955
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"59339a7254ccf4dbffe7d9ef7c4f0629",
+    "wof:hierarchy":[
+        {
+            "country_id":85632261,
+            "locality_id":1209437241
+        }
+    ],
+    "wof:id":1209437241,
+    "wof:lastmodified":1536287066,
+    "wof:name":"Hacienda Tapi",
+    "wof:parent_id":85632261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.68333,
+    -1.63333,
+    -78.68333,
+    -1.63333
+],
+  "geometry": {"coordinates":[-78.68333,-1.63333],"type":"Point"}
+}

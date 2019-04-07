@@ -1,0 +1,103 @@
+{
+  "id": 421172293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.51667,-1.91667,-79.51667,-1.91667",
+    "geom:latitude":-1.91667,
+    "geom:longitude":-79.51667,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Alfredo Baquerizo Moreno"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0644\u0641\u0631\u062f \u0628\u0627\u06a9\u0648\u06cc\u0631\u06cc\u0632\u0648 \u0645\u0648\u0631\u0646\u0648"
+    ],
+    "name:que_x_preferred":[
+        "Jujan"
+    ],
+    "name:sco_x_preferred":[
+        "Alfredo Baquerizo Moreno"
+    ],
+    "name:spa_x_preferred":[
+        "Jujan"
+    ],
+    "name:swe_x_preferred":[
+        "Alfredo Baquerizo Moreno"
+    ],
+    "name:unk_x_variant":[
+        "Juj\u00e1n"
+    ],
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3660773,
+    "qs:gn_pop":12617,
+    "qs:name":"Alfredo Baquerizo Moreno",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Guayas",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":46,
+    "qs:photos_sr":0,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"6",
+    "qs:qs_id":149730,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":26809710,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":149,
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670917,
+        1108567563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3660773,
+        "gp:id":26809710,
+        "qs:id":149730,
+        "wd:id":"Q4723711",
+        "wk:page":"Alfredo Baquerizo Moreno (town)"
+    },
+    "wof:country":"EC",
+    "wof:created":1459008930,
+    "wof:geomhash":"b699601134a70e85461cdd245e1247e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108567563,
+            "localadmin_id":421172293,
+            "region_id":85670917
+        }
+    ],
+    "wof:id":421172293,
+    "wof:lastmodified":1527716303,
+    "wof:name":"Alfredo Baquerizo Moreno",
+    "wof:parent_id":1108567563,
+    "wof:placetype":"localadmin",
+    "wof:population":12617,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.51667,
+    -1.91667,
+    -79.51667,
+    -1.91667
+],
+  "geometry": {"coordinates":[-79.51667,-1.91667],"type":"Point"}
+}

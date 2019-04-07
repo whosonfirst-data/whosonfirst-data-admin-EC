@@ -1,0 +1,67 @@
+{
+  "id": 1260266619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.71234,-2.36255,-80.71234,-2.36255",
+    "geom:latitude":-2.36255,
+    "geom:longitude":-80.71234,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Pechiche",
+    "gn:country_code":"EC",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3653310,
+    "gn:latitude":-2.36255,
+    "gn:longitude":-80.71234,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Pechiche",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670979,
+        1108572401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3653310
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"c1e86ff7ede5632645b7d73cd37119a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108572401,
+            "locality_id":1260266619,
+            "region_id":85670979
+        }
+    ],
+    "wof:id":1260266619,
+    "wof:lastmodified":1536734705,
+    "wof:name":"Pechiche",
+    "wof:parent_id":1108572401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.71234,
+    -2.36255,
+    -80.71234,
+    -2.36255
+],
+  "geometry": {"coordinates":[-80.71234,-2.36255],"type":"Point"}
+}

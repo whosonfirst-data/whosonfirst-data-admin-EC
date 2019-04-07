@@ -1,0 +1,70 @@
+{
+  "id": 1344234175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.4,-4.21667,-79.4,-4.21667",
+    "geom:latitude":-4.21667,
+    "geom:longitude":-79.4,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1107.0",
+    "gn:admin3_code":"110754.0",
+    "gn:asciiname":"Hacienda Puyunuma",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":2621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3656403,
+    "gn:latitude":-4.21667,
+    "gn:longitude":-79.4,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda Puyunuma",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670891,
+        1108569565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3656403
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"5e2b62f50b3acb6ee0d282584fb57260",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108569565,
+            "locality_id":1344234175,
+            "region_id":85670891
+        }
+    ],
+    "wof:id":1344234175,
+    "wof:lastmodified":1536622998,
+    "wof:name":"Hacienda Puyunuma",
+    "wof:parent_id":1108569565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.4,
+    -4.21667,
+    -79.4,
+    -4.21667
+],
+  "geometry": {"coordinates":[-79.40000000000001,-4.21667],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209604335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.86667,-1.86667,-79.86667,-1.86667",
+    "geom:latitude":-1.86667,
+    "geom:longitude":-79.86667,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"906.0",
+    "gn:admin3_code":"90652.0",
+    "gn:asciiname":"Semen",
+    "gn:country_code":"EC",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3651179,
+    "gn:latitude":-1.86667,
+    "gn:longitude":-79.86667,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Semen",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3651179
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"c3c5cef645d064057a3822d4ea6b900f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632261,
+            "locality_id":1209604335
+        }
+    ],
+    "wof:id":1209604335,
+    "wof:lastmodified":1536282063,
+    "wof:name":"Semen",
+    "wof:parent_id":85632261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.86667,
+    -1.86667,
+    -79.86667,
+    -1.86667
+],
+  "geometry": {"coordinates":[-79.86667,-1.86667],"type":"Point"}
+}

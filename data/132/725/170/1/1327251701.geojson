@@ -1,0 +1,69 @@
+{
+  "id": 1327251701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.92243,-1.18504,-79.92243,-1.18504",
+    "geom:latitude":-1.18504,
+    "geom:longitude":-79.92243,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"904.0",
+    "gn:admin3_code":"90450.0",
+    "gn:asciiname":"Pasaje",
+    "gn:country_code":"EC",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3653404,
+    "gn:latitude":-1.18504,
+    "gn:longitude":-79.92243,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Pasaje",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670917,
+        1108567949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3653404
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"f7e89f54dc99040be378b8fd011e66a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108567949,
+            "locality_id":1327251701,
+            "region_id":85670917
+        }
+    ],
+    "wof:id":1327251701,
+    "wof:lastmodified":1536942290,
+    "wof:name":"Pasaje",
+    "wof:parent_id":1108567949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.92243,
+    -1.18504,
+    -79.92243,
+    -1.18504
+],
+  "geometry": {"coordinates":[-79.92243000000001,-1.18504],"type":"Point"}
+}

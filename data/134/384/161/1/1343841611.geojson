@@ -1,0 +1,67 @@
+{
+  "id": 1343841611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.7,-1.95,-80.7,-1.95",
+    "geom:latitude":-1.95,
+    "geom:longitude":-80.7,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Buenos Aires",
+    "gn:country_code":"EC",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3660054,
+    "gn:latitude":-1.95,
+    "gn:longitude":-80.7,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Buenos Aires",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670979,
+        1108572401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3660054
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"23b876e5b4f9e56d647064461c224de8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108572401,
+            "locality_id":1343841611,
+            "region_id":85670979
+        }
+    ],
+    "wof:id":1343841611,
+    "wof:lastmodified":1536694026,
+    "wof:name":"Buenos Aires",
+    "wof:parent_id":1108572401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.7,
+    -1.95,
+    -80.7,
+    -1.95
+],
+  "geometry": {"coordinates":[-80.7,-1.95],"type":"Point"}
+}

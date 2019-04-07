@@ -1,0 +1,61 @@
+{
+  "id": 1309824309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.78333,-2.4,-80.78333,-2.4",
+    "geom:latitude":-2.4,
+    "geom:longitude":-80.78333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Bomba",
+    "gn:country_code":"EC",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3660123,
+    "gn:latitude":-2.4,
+    "gn:longitude":-80.78333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Bomba",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3660123
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"beadf7fb639d77e37e1d2bea1de1fc53",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1309824309,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309824309,
+    "wof:lastmodified":1536904660,
+    "wof:name":"Bomba",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.78333,
+    -2.4,
+    -80.78333,
+    -2.4
+],
+  "geometry": {"coordinates":[-80.78333000000001,-2.4],"type":"Point"}
+}

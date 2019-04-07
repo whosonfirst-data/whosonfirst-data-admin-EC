@@ -1,0 +1,70 @@
+{
+  "id": 1260071923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.63333,-0.71667,-78.63333,-0.71667",
+    "geom:latitude":-0.71667,
+    "geom:longitude":-78.63333,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"501.0",
+    "gn:admin3_code":"50159.0",
+    "gn:asciiname":"Hacienda de Rivas",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":3189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3657112,
+    "gn:latitude":-0.71667,
+    "gn:longitude":-78.63333,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda de Rivas",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670915,
+        421182157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3657112
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"bb2172d595b36ab23a375d6c7bd8e4a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421182157,
+            "locality_id":1260071923,
+            "region_id":85670915
+        }
+    ],
+    "wof:id":1260071923,
+    "wof:lastmodified":1537003962,
+    "wof:name":"Hacienda de Rivas",
+    "wof:parent_id":421182157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.63333,
+    -0.71667,
+    -78.63333,
+    -0.71667
+],
+  "geometry": {"coordinates":[-78.63333,-0.71667],"type":"Point"}
+}

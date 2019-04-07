@@ -1,0 +1,100 @@
+{
+  "id": 421184027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.93194,-3.0309,-78.93194,-3.0309",
+    "geom:latitude":-3.0309,
+    "geom:longitude":-78.93194,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Quingeo"
+    ],
+    "name:dut_x_preferred":[
+        "Quingeo"
+    ],
+    "name:eng_x_preferred":[
+        "Quingeo"
+    ],
+    "name:que_x_preferred":[
+        "Kinkiyu kitilli"
+    ],
+    "name:spa_x_preferred":[
+        "Quingeo"
+    ],
+    "name:swe_x_preferred":[
+        "Quingeo"
+    ],
+    "name:unk_x_variant":[
+        "Quingueo"
+    ],
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3652502,
+    "qs:gn_pop":0,
+    "qs:name":"Quingeo",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Azuay",
+    "qs:photos":7,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":7,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":988321,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":376201,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":48,
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670885,
+        421185495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3652502,
+        "gp:id":376201,
+        "qs:id":988321,
+        "wd:id":"Q7272229",
+        "wk:page":"Quingeo"
+    },
+    "wof:country":"EC",
+    "wof:created":1459009398,
+    "wof:geomhash":"fe5d6e7242dc9d1a6c3cff147b6642e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421185495,
+            "locality_id":421184027,
+            "region_id":85670885
+        }
+    ],
+    "wof:id":421184027,
+    "wof:lastmodified":1527716452,
+    "wof:name":"Quingeo",
+    "wof:parent_id":421185495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.93194,
+    -3.0309,
+    -78.93194,
+    -3.0309
+],
+  "geometry": {"coordinates":[-78.93194,-3.0309],"type":"Point"}
+}

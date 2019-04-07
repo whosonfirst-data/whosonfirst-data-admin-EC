@@ -1,0 +1,69 @@
+{
+  "id": 1243467421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.28388,-3.36831,-79.28388,-3.36831",
+    "geom:latitude":-3.36831,
+    "geom:longitude":-79.28388,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"104.0",
+    "gn:admin3_code":"10452.0",
+    "gn:asciiname":"Hacienda La Cria",
+    "gn:country_code":"EC",
+    "gn:dem":1617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3656802,
+    "gn:latitude":-3.36831,
+    "gn:longitude":-79.28388,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda La Cr\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670885,
+        421189221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3656802
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"9c1a65adadbdb2167673e908cef17a1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421189221,
+            "locality_id":1243467421,
+            "region_id":85670885
+        }
+    ],
+    "wof:id":1243467421,
+    "wof:lastmodified":1536775827,
+    "wof:name":"Hacienda La Cria",
+    "wof:parent_id":421189221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.28388000000002,
+    -3.36831,
+    -79.28388000000002,
+    -3.36831
+],
+  "geometry": {"coordinates":[-79.28388000000002,-3.36831],"type":"Point"}
+}

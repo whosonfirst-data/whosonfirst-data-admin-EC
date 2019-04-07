@@ -1,0 +1,89 @@
+{
+  "id": 421181751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.82404,-3.76084,-79.82404,-3.76084",
+    "geom:latitude":-3.76084,
+    "geom:longitude":-79.82404,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Balsas"
+    ],
+    "name:eng_x_preferred":[
+        "Balsas"
+    ],
+    "name:que_x_preferred":[
+        "Balsas"
+    ],
+    "name:unk_x_variant":[
+        "Balzas"
+    ],
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3660356,
+    "qs:gn_pop":0,
+    "qs:name":"Balsas",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"El Oro",
+    "qs:photos":10,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":10,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":501581,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":420038,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670887,
+        1108567915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3660356,
+        "gp:id":420038,
+        "qs:id":501581,
+        "wd:id":"Q4852560"
+    },
+    "wof:country":"EC",
+    "wof:created":1459009306,
+    "wof:geomhash":"243b98990e54d2191ded8290433c9526",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108567915,
+            "locality_id":421181751,
+            "region_id":85670887
+        }
+    ],
+    "wof:id":421181751,
+    "wof:lastmodified":1553816371,
+    "wof:name":"Balsas",
+    "wof:parent_id":1108567915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.82404,
+    -3.76084,
+    -79.82404,
+    -3.76084
+],
+  "geometry": {"coordinates":[-79.82404,-3.76084],"type":"Point"}
+}

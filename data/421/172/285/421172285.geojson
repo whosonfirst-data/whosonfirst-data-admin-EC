@@ -1,0 +1,97 @@
+{
+  "id": 421172285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.64944,-4.04974,-79.64944,-4.04974",
+    "geom:latitude":-4.04974,
+    "geom:longitude":-79.64944,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Catacocha"
+    ],
+    "name:dut_x_preferred":[
+        "Catacocha"
+    ],
+    "name:eng_x_preferred":[
+        "Catacocha"
+    ],
+    "name:que_x_preferred":[
+        "Katakucha"
+    ],
+    "name:swe_x_preferred":[
+        "Catacocha"
+    ],
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3659602,
+    "qs:gn_pop":10872,
+    "qs:name":"Catacocha",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Loja",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":22,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":149710,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":375782,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":22,
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670891,
+        1108571061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3659602,
+        "gp:id":375782,
+        "qs:id":149710,
+        "wd:id":"Q5051163",
+        "wk:page":"Catacocha"
+    },
+    "wof:country":"EC",
+    "wof:created":1459008930,
+    "wof:geomhash":"09207e83be836e021f90bd524b2f8729",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108571061,
+            "locality_id":421172285,
+            "region_id":85670891
+        }
+    ],
+    "wof:id":421172285,
+    "wof:lastmodified":1527716307,
+    "wof:name":"Catacocha",
+    "wof:parent_id":1108571061,
+    "wof:placetype":"locality",
+    "wof:population":10872,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.64944,
+    -4.04974,
+    -79.64944,
+    -4.04974
+],
+  "geometry": {"coordinates":[-79.64944,-4.04974],"type":"Point"}
+}

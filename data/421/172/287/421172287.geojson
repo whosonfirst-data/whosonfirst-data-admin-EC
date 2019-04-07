@@ -1,0 +1,107 @@
+{
+  "id": 421172287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.55554,-4.32796,-79.55554,-4.32796",
+    "geom:latitude":-4.32796,
+    "geom:longitude":-79.55554,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Cariamanga"
+    ],
+    "name:que_x_preferred":[
+        "Cariamanga"
+    ],
+    "name:spa_x_preferred":[
+        "Cariamanga"
+    ],
+    "name:swe_x_preferred":[
+        "Cariamanga"
+    ],
+    "name:unk_x_variant":[
+        "Calvas"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u91cc\u4e9e\u66fc\u52a0"
+    ],
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3659711,
+    "qs:gn_pop":16862,
+    "qs:name":"Cariamanga",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Loja",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":92,
+    "qs:photos_sr":0,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"6",
+    "qs:qs_id":149711,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":26809810,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"quattroshapes",
+    "wd:elevation":1950.0,
+    "wd:latitude":-4.32,
+    "wd:longitude":-79.56,
+    "wd:wordcount":30,
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670891,
+        1108568239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3659711,
+        "gp:id":26809810,
+        "qs:id":149711,
+        "qs_pg:id":149711,
+        "wd:id":"Q54884",
+        "wk:page":"Cariamanga"
+    },
+    "wof:country":"EC",
+    "wof:created":1459008930,
+    "wof:geomhash":"27f09fb8e84d14e15b2ce9026c0df2ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108568239,
+            "localadmin_id":421172287,
+            "region_id":85670891
+        }
+    ],
+    "wof:id":421172287,
+    "wof:lastmodified":1527716300,
+    "wof:name":"Cariamanga",
+    "wof:parent_id":1108568239,
+    "wof:placetype":"localadmin",
+    "wof:population":16862,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.55554,
+    -4.32796,
+    -79.55554,
+    -4.32796
+],
+  "geometry": {"coordinates":[-79.55553999999999,-4.32796],"type":"Point"}
+}

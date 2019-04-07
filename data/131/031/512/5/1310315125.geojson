@@ -1,0 +1,67 @@
+{
+  "id": 1310315125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.56547,-0.63795,-79.56547,-0.63795",
+    "geom:latitude":-0.63795,
+    "geom:longitude":-79.56547,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"La Toquilla",
+    "gn:country_code":"EC",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8471912,
+    "gn:latitude":-0.63795,
+    "gn:longitude":-79.56547,
+    "gn:modification_date":"2013-03-06",
+    "gn:name":"La Toquilla",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670927,
+        1108570741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8471912
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"4960d8f3d0ed2368af9502da6daeca53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108570741,
+            "locality_id":1310315125,
+            "region_id":85670927
+        }
+    ],
+    "wof:id":1310315125,
+    "wof:lastmodified":1536694150,
+    "wof:name":"La Toquilla",
+    "wof:parent_id":1108570741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.56546999999998,
+    -0.63795,
+    -79.56546999999998,
+    -0.63795
+],
+  "geometry": {"coordinates":[-79.56546999999998,-0.63795],"type":"Point"}
+}

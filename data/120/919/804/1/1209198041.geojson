@@ -1,0 +1,64 @@
+{
+  "id": 1209198041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.1,-2.21667,-80.1,-2.21667",
+    "geom:latitude":-2.21667,
+    "geom:longitude":-80.1,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"901.0",
+    "gn:admin3_code":"90150.0",
+    "gn:asciiname":"Hacienda Relicario",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3656379,
+    "gn:latitude":-2.21667,
+    "gn:longitude":-80.1,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda Relicario",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3656379
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"643c0e84f400d9368b4903daed560f30",
+    "wof:hierarchy":[
+        {
+            "country_id":85632261,
+            "locality_id":1209198041
+        }
+    ],
+    "wof:id":1209198041,
+    "wof:lastmodified":1536294706,
+    "wof:name":"Hacienda Relicario",
+    "wof:parent_id":85632261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.1,
+    -2.21667,
+    -80.1,
+    -2.21667
+],
+  "geometry": {"coordinates":[-80.09999999999999,-2.21667],"type":"Point"}
+}

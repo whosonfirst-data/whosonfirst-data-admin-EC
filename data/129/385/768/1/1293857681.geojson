@@ -1,0 +1,69 @@
+{
+  "id": 1293857681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.19504,-0.48524,-80.19504,-0.48524",
+    "geom:latitude":-0.48524,
+    "geom:longitude":-80.19504,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1303.0",
+    "gn:admin3_code":"130351.0",
+    "gn:asciiname":"Los Liberales",
+    "gn:country_code":"EC",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3654610,
+    "gn:latitude":-0.48524,
+    "gn:longitude":-80.19504,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Los Liberales",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670927,
+        421189211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3654610
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"8ea9c2e87747ea95b4403455d5326f6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421189211,
+            "locality_id":1293857681,
+            "region_id":85670927
+        }
+    ],
+    "wof:id":1293857681,
+    "wof:lastmodified":1536750471,
+    "wof:name":"Los Liberales",
+    "wof:parent_id":421189211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.19504,
+    -0.48524,
+    -80.19504,
+    -0.48524
+],
+  "geometry": {"coordinates":[-80.19504000000001,-0.48524],"type":"Point"}
+}

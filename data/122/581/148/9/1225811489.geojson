@@ -1,0 +1,69 @@
+{
+  "id": 1225811489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.39255,-0.10427,-78.39255,-0.10427",
+    "geom:latitude":-0.10427,
+    "geom:longitude":-78.39255,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1701.0",
+    "gn:admin3_code":"170155.0",
+    "gn:asciiname":"Oyacoto",
+    "gn:country_code":"EC",
+    "gn:dem":2303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8522012,
+    "gn:latitude":-0.10427,
+    "gn:longitude":-78.39255,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Oyacoto",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670945,
+        421188131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8522012
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"fb49d68f9524febfa3b58c9bd7555462",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421188131,
+            "locality_id":1225811489,
+            "region_id":85670945
+        }
+    ],
+    "wof:id":1225811489,
+    "wof:lastmodified":1537060533,
+    "wof:name":"Oyacoto",
+    "wof:parent_id":421188131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.39255,
+    -0.10427,
+    -78.39255,
+    -0.10427
+],
+  "geometry": {"coordinates":[-78.39255,-0.10427],"type":"Point"}
+}

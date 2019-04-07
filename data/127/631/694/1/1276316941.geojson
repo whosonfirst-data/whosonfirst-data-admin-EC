@@ -1,0 +1,67 @@
+{
+  "id": 1276316941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.56416,-2.46824,-80.56416,-2.46824",
+    "geom:latitude":-2.46824,
+    "geom:longitude":-80.56416,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Engunga",
+    "gn:country_code":"EC",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3658025,
+    "gn:latitude":-2.46824,
+    "gn:longitude":-80.56416,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Engunga",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670979,
+        1108572401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3658025
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"8e1cdf1e560c622567fb74a0d35036b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108572401,
+            "locality_id":1276316941,
+            "region_id":85670979
+        }
+    ],
+    "wof:id":1276316941,
+    "wof:lastmodified":1536800757,
+    "wof:name":"Engunga",
+    "wof:parent_id":1108572401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.56416,
+    -2.46824,
+    -80.56416,
+    -2.46824
+],
+  "geometry": {"coordinates":[-80.56416,-2.46824],"type":"Point"}
+}

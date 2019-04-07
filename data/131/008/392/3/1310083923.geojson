@@ -1,0 +1,69 @@
+{
+  "id": 1310083923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.96183,0.3114,-77.96183,0.3114",
+    "geom:latitude":0.3114,
+    "geom:longitude":-77.96183,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1005.0",
+    "gn:admin3_code":"100552.0",
+    "gn:asciiname":"Guanupamba",
+    "gn:country_code":"EC",
+    "gn:dem":2798,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8470014,
+    "gn:latitude":0.3114,
+    "gn:longitude":-77.96183,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Guanupamba",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670971,
+        1108571433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8470014
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"3851f3a1c2e12160220c5a8e502918a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108571433,
+            "locality_id":1310083923,
+            "region_id":85670971
+        }
+    ],
+    "wof:id":1310083923,
+    "wof:lastmodified":1537026491,
+    "wof:name":"Guanupamba",
+    "wof:parent_id":1108571433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.96183,
+    0.3114,
+    -77.96183,
+    0.3114
+],
+  "geometry": {"coordinates":[-77.96183000000001,0.3114],"type":"Point"}
+}

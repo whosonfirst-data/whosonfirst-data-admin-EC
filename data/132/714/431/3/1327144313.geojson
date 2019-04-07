@@ -1,0 +1,67 @@
+{
+  "id": 1327144313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.55932,-0.52542,-79.55932,-0.52542",
+    "geom:latitude":-0.52542,
+    "geom:longitude":-79.55932,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Luz de America",
+    "gn:country_code":"EC",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8471926,
+    "gn:latitude":-0.52542,
+    "gn:longitude":-79.55932,
+    "gn:modification_date":"2013-03-06",
+    "gn:name":"Luz de Am\u00e9rica",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670927,
+        1108570741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8471926
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"791ad16f8769985287f9095fc56bca3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108570741,
+            "locality_id":1327144313,
+            "region_id":85670927
+        }
+    ],
+    "wof:id":1327144313,
+    "wof:lastmodified":1537093484,
+    "wof:name":"Luz de America",
+    "wof:parent_id":1108570741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.55932,
+    -0.52542,
+    -79.55932,
+    -0.52542
+],
+  "geometry": {"coordinates":[-79.55932,-0.52542],"type":"Point"}
+}

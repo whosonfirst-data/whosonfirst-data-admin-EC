@@ -1,0 +1,67 @@
+{
+  "id": 1309706411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.72297,-1.76529,-79.72297,-1.76529",
+    "geom:latitude":-1.76529,
+    "geom:longitude":-79.72297,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Curiquingue",
+    "gn:country_code":"EC",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3658582,
+    "gn:latitude":-1.76529,
+    "gn:longitude":-79.72297,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Curiquingue",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670923,
+        1108567841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3658582
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"7e212c0553a864d6e76f9f310e3968d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108567841,
+            "locality_id":1309706411,
+            "region_id":85670923
+        }
+    ],
+    "wof:id":1309706411,
+    "wof:lastmodified":1537071364,
+    "wof:name":"Curiquingue",
+    "wof:parent_id":1108567841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.72296999999998,
+    -1.76529,
+    -79.72296999999998,
+    -1.76529
+],
+  "geometry": {"coordinates":[-79.72296999999998,-1.76529],"type":"Point"}
+}

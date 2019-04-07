@@ -1,0 +1,67 @@
+{
+  "id": 1226157581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.62115,-0.71839,-79.62115,-0.71839",
+    "geom:latitude":-0.71839,
+    "geom:longitude":-79.62115,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Damacio Grande",
+    "gn:country_code":"EC",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8471907,
+    "gn:latitude":-0.71839,
+    "gn:longitude":-79.62115,
+    "gn:modification_date":"2013-03-06",
+    "gn:name":"Damacio Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670927,
+        1108570741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8471907
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"b78605e9b0d2ddefd98b7f4d41aab9b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108570741,
+            "locality_id":1226157581,
+            "region_id":85670927
+        }
+    ],
+    "wof:id":1226157581,
+    "wof:lastmodified":1537058033,
+    "wof:name":"Damacio Grande",
+    "wof:parent_id":1108570741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.62115,
+    -0.71839,
+    -79.62115,
+    -0.71839
+],
+  "geometry": {"coordinates":[-79.62115,-0.71839],"type":"Point"}
+}

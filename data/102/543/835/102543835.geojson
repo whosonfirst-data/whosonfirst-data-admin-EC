@@ -1,0 +1,66 @@
+{
+  "id": 102543835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.6158333333,-0.906944444444,-78.6158333333,-0.906944444444",
+    "geom:latitude":-0.906944,
+    "geom:longitude":-78.615833,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"9205",
+    "oa:type":"large_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424801,
+        "county_id":26809578,
+        "localadmin_id":26810123,
+        "planet_id":1,
+        "state_id":2345208
+    },
+    "wof:belongsto":[
+        85632261,
+        85670915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512626,
+        "iata:code":"LTX",
+        "icao:code":"SELT",
+        "oa:id":"6061",
+        "wd:id":"Q1658001"
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"e4ea4f4b7679daa8aec6ae4ff288fa68",
+    "wof:hierarchy":[
+        {
+            "campus_id":102543835,
+            "country_id":85632261,
+            "region_id":85670915
+        }
+    ],
+    "wof:id":102543835,
+    "wof:lastmodified":1543846097,
+    "wof:name":"Cotopaxi Airport",
+    "wof:parent_id":85670915,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -78.615833333333,
+    -0.90694444444444,
+    -78.615833333333,
+    -0.90694444444444
+],
+  "geometry": {"coordinates":[-78.615833333333,-0.90694444444444],"type":"Point"}
+}

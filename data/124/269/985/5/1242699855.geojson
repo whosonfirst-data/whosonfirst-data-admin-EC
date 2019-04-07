@@ -1,0 +1,70 @@
+{
+  "id": 1242699855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.53333,-1.6,-78.53333,-1.6",
+    "geom:latitude":-1.6,
+    "geom:longitude":-78.53333,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"609.0",
+    "gn:admin3_code":"60950.0",
+    "gn:asciiname":"Hacienda Rio Blanco",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":2734,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3656373,
+    "gn:latitude":-1.6,
+    "gn:longitude":-78.53333,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda R\u00edo Blanco",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670931,
+        421184411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3656373
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"9cf46e8975aa4597755c5aab3ce6cd0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421184411,
+            "locality_id":1242699855,
+            "region_id":85670931
+        }
+    ],
+    "wof:id":1242699855,
+    "wof:lastmodified":1536887268,
+    "wof:name":"Hacienda Rio Blanco",
+    "wof:parent_id":421184411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.53333,
+    -1.6,
+    -78.53333,
+    -1.6
+],
+  "geometry": {"coordinates":[-78.53333000000001,-1.6],"type":"Point"}
+}

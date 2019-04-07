@@ -1,0 +1,69 @@
+{
+  "id": 1276560769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.78146,-2.94155,-78.78146,-2.94155",
+    "geom:latitude":-2.94155,
+    "geom:longitude":-78.78146,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"111.0",
+    "gn:admin3_code":"11150.0",
+    "gn:asciiname":"Zhondeleg",
+    "gn:country_code":"EC",
+    "gn:dem":2445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3649895,
+    "gn:latitude":-2.94155,
+    "gn:longitude":-78.78146,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Zhondeleg",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670885,
+        421188121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3649895
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"d3c5fb541fea93de45d41587d2b1216c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421188121,
+            "locality_id":1276560769,
+            "region_id":85670885
+        }
+    ],
+    "wof:id":1276560769,
+    "wof:lastmodified":1536970922,
+    "wof:name":"Zhondeleg",
+    "wof:parent_id":421188121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.78146,
+    -2.94155,
+    -78.78146,
+    -2.94155
+],
+  "geometry": {"coordinates":[-78.78146,-2.94155],"type":"Point"}
+}

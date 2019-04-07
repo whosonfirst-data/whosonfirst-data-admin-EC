@@ -1,0 +1,63 @@
+{
+  "id": 1209418097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.0408,-3.02821,-79.0408,-3.02821",
+    "geom:latitude":-3.02821,
+    "geom:longitude":-79.0408,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10168.0",
+    "gn:asciiname":"Hacienda Santa Lucrecia",
+    "gn:country_code":"EC",
+    "gn:dem":2634,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3656074,
+    "gn:latitude":-3.02821,
+    "gn:longitude":-79.0408,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda Santa Lucrecia",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3656074
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"053d472bfbf8b5f403f1147f24e825f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632261,
+            "locality_id":1209418097
+        }
+    ],
+    "wof:id":1209418097,
+    "wof:lastmodified":1536287620,
+    "wof:name":"Hacienda Santa Lucrecia",
+    "wof:parent_id":85632261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.0408,
+    -3.02821,
+    -79.0408,
+    -3.02821
+],
+  "geometry": {"coordinates":[-79.0408,-3.02821],"type":"Point"}
+}

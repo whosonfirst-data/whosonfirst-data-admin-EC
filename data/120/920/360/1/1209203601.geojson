@@ -1,0 +1,64 @@
+{
+  "id": 1209203601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.48333,-2.26667,-79.48333,-2.26667",
+    "geom:latitude":-2.26667,
+    "geom:longitude":-79.48333,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"923.0",
+    "gn:admin3_code":"92350.0",
+    "gn:asciiname":"Santa Isabel",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3651419,
+    "gn:latitude":-2.26667,
+    "gn:longitude":-79.48333,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Santa Isabel",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3651419
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"bb00a3bc73586c5c3b8946f8426ffd72",
+    "wof:hierarchy":[
+        {
+            "country_id":85632261,
+            "locality_id":1209203601
+        }
+    ],
+    "wof:id":1209203601,
+    "wof:lastmodified":1536294527,
+    "wof:name":"Santa Isabel",
+    "wof:parent_id":85632261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.48333000000002,
+    -2.26667,
+    -79.48333000000002,
+    -2.26667
+],
+  "geometry": {"coordinates":[-79.48333000000002,-2.26667],"type":"Point"}
+}

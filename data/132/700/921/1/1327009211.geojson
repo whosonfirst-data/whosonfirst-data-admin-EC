@@ -1,0 +1,69 @@
+{
+  "id": 1327009211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.53402,-1.55065,-79.53402,-1.55065",
+    "geom:latitude":-1.55065,
+    "geom:longitude":-79.53402,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"1204.0",
+    "gn:admin3_code":"120450.0",
+    "gn:asciiname":"Puebloviejo",
+    "gn:country_code":"EC",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3652791,
+    "gn:latitude":-1.55065,
+    "gn:longitude":-79.53402,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Puebloviejo",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670923,
+        1108571631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3652791
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"4f62547aa5183dbc3b933fd4daa9f826",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108571631,
+            "locality_id":1327009211,
+            "region_id":85670923
+        }
+    ],
+    "wof:id":1327009211,
+    "wof:lastmodified":1536794281,
+    "wof:name":"Puebloviejo",
+    "wof:parent_id":1108571631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.53402,
+    -1.55065,
+    -79.53402,
+    -1.55065
+],
+  "geometry": {"coordinates":[-79.53402,-1.55065],"type":"Point"}
+}

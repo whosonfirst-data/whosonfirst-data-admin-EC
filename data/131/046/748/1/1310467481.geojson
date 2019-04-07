@@ -1,0 +1,70 @@
+{
+  "id": 1310467481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.55,-1.13333,-78.55,-1.13333",
+    "geom:latitude":-1.13333,
+    "geom:longitude":-78.55,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1808.0",
+    "gn:admin3_code":"180854.0",
+    "gn:asciiname":"Hacienda Aycallate",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":2858,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3657357,
+    "gn:latitude":-1.13333,
+    "gn:longitude":-78.55,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda Aycallate",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670959,
+        1108572557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3657357
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"ebf024916d89a30fd92965af598e32a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108572557,
+            "locality_id":1310467481,
+            "region_id":85670959
+        }
+    ],
+    "wof:id":1310467481,
+    "wof:lastmodified":1536971471,
+    "wof:name":"Hacienda Aycallate",
+    "wof:parent_id":1108572557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.55,
+    -1.13333,
+    -78.55,
+    -1.13333
+],
+  "geometry": {"coordinates":[-78.55,-1.13333],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1243463345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.63186,-2.6622,-78.63186,-2.6622",
+    "geom:latitude":-2.6622,
+    "geom:longitude":-78.63186,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"105.0",
+    "gn:admin3_code":"10556.0",
+    "gn:asciiname":"Guarainac",
+    "gn:country_code":"EC",
+    "gn:dem":2550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3657572,
+    "gn:latitude":-2.6622,
+    "gn:longitude":-78.63186,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Guarainac",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670885,
+        421193503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3657572
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"af58e78d3992ea464bee81bfcb2fb783",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421193503,
+            "locality_id":1243463345,
+            "region_id":85670885
+        }
+    ],
+    "wof:id":1243463345,
+    "wof:lastmodified":1536781574,
+    "wof:name":"Guarainac",
+    "wof:parent_id":421193503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.63186,
+    -2.6622,
+    -78.63186,
+    -2.6622
+],
+  "geometry": {"coordinates":[-78.63186,-2.6622],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1243267179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.85,-2.88333,-78.85,-2.88333",
+    "geom:latitude":-2.88333,
+    "geom:longitude":-78.85,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"103.0",
+    "gn:admin3_code":"10353.0",
+    "gn:asciiname":"Habaspamba",
+    "gn:country_code":"EC",
+    "gn:dem":2861,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3657425,
+    "gn:latitude":-2.88333,
+    "gn:longitude":-78.85,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Habaspamba",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670885,
+        1108569603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3657425
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"0c3735fc4a49038d66c3285d638adbf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108569603,
+            "locality_id":1243267179,
+            "region_id":85670885
+        }
+    ],
+    "wof:id":1243267179,
+    "wof:lastmodified":1537061204,
+    "wof:name":"Habaspamba",
+    "wof:parent_id":1108569603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.85,
+    -2.88333,
+    -78.85,
+    -2.88333
+],
+  "geometry": {"coordinates":[-78.84999999999999,-2.88333],"type":"Point"}
+}

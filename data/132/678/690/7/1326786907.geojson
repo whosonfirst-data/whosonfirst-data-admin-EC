@@ -1,0 +1,69 @@
+{
+  "id": 1326786907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.89171,0.09449,-76.89171,0.09449",
+    "geom:latitude":0.09449,
+    "geom:longitude":-76.89171,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"2101.0",
+    "gn:admin3_code":"210150.0",
+    "gn:asciiname":"El Dorado",
+    "gn:country_code":"EC",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3763442,
+    "gn:latitude":0.09449,
+    "gn:longitude":-76.89171,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"El Dorado",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670977,
+        421177637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3763442
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"5c08907a0a1043b54de02b9ee72d5951",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421177637,
+            "locality_id":1326786907,
+            "region_id":85670977
+        }
+    ],
+    "wof:id":1326786907,
+    "wof:lastmodified":1536614708,
+    "wof:name":"El Dorado",
+    "wof:parent_id":421177637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.89171,
+    0.09449,
+    -76.89171,
+    0.09449
+],
+  "geometry": {"coordinates":[-76.89171,0.09449],"type":"Point"}
+}

@@ -1,0 +1,103 @@
+{
+  "id": 421177875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.41885,-1.27974,-80.41885,-1.27974",
+    "geom:latitude":-1.27974,
+    "geom:longitude":-80.41885,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Sucre"
+    ],
+    "name:dut_x_preferred":[
+        "Sucre"
+    ],
+    "name:eng_x_preferred":[
+        "Sucre"
+    ],
+    "name:fra_x_preferred":[
+        "Sucre"
+    ],
+    "name:fre_x_preferred":[
+        "Sucre"
+    ],
+    "name:que_x_preferred":[
+        "Sucre"
+    ],
+    "name:swe_x_preferred":[
+        "Sucre"
+    ],
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3650960,
+    "qs:gn_pop":15286,
+    "qs:name":"Sucre",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Manabi",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1206920,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":375827,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":13,
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670927,
+        421175419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3650960,
+        "gp:id":375827,
+        "qs:id":1206920,
+        "wd:id":"Q7633158",
+        "wk:page":"Sucre, Manab\u00ed"
+    },
+    "wof:country":"EC",
+    "wof:created":1459009163,
+    "wof:geomhash":"c1bee832640a63a660f307a8038012cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421175419,
+            "locality_id":421177875,
+            "region_id":85670927
+        }
+    ],
+    "wof:id":421177875,
+    "wof:lastmodified":1527716478,
+    "wof:name":"Sucre",
+    "wof:parent_id":421175419,
+    "wof:placetype":"locality",
+    "wof:population":15286,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.41885,
+    -1.27974,
+    -80.41885,
+    -1.27974
+],
+  "geometry": {"coordinates":[-80.41885000000001,-1.27974],"type":"Point"}
+}

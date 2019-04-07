@@ -1,0 +1,70 @@
+{
+  "id": 1276318765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.86667,-3.33333,-79.86667,-3.33333",
+    "geom:latitude":-3.33333,
+    "geom:longitude":-79.86667,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"701.0",
+    "gn:admin3_code":"70150.0",
+    "gn:asciiname":"Hacienda El Chocuano",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3657077,
+    "gn:latitude":-3.33333,
+    "gn:longitude":-79.86667,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda El Chocuano",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670887,
+        1108570217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3657077
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"af6f8cce6bcebe61799dd32ac654c797",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108570217,
+            "locality_id":1276318765,
+            "region_id":85670887
+        }
+    ],
+    "wof:id":1276318765,
+    "wof:lastmodified":1536798386,
+    "wof:name":"Hacienda El Chocuano",
+    "wof:parent_id":1108570217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.86667,
+    -3.33333,
+    -79.86667,
+    -3.33333
+],
+  "geometry": {"coordinates":[-79.86667,-3.33333],"type":"Point"}
+}

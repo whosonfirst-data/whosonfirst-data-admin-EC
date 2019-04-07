@@ -1,0 +1,69 @@
+{
+  "id": 1292906581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.73333,-2.98333,-78.73333,-2.98333",
+    "geom:latitude":-2.98333,
+    "geom:longitude":-78.73333,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"111.0",
+    "gn:admin3_code":"11153.0",
+    "gn:asciiname":"Calug",
+    "gn:country_code":"EC",
+    "gn:dem":3132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3659891,
+    "gn:latitude":-2.98333,
+    "gn:longitude":-78.73333,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Calug",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670885,
+        421188121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3659891
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"d76ec81f2b1cf044ea3f75a9d2e55fec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421188121,
+            "locality_id":1292906581,
+            "region_id":85670885
+        }
+    ],
+    "wof:id":1292906581,
+    "wof:lastmodified":1536628671,
+    "wof:name":"Calug",
+    "wof:parent_id":421188121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.73333000000002,
+    -2.98333,
+    -78.73333000000002,
+    -2.98333
+],
+  "geometry": {"coordinates":[-78.73333000000002,-2.98333],"type":"Point"}
+}

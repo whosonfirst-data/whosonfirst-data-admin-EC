@@ -1,0 +1,121 @@
+{
+  "id": 421192183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.22287,-4.26233,-79.22287,-4.26233",
+    "geom:latitude":-4.26233,
+    "geom:longitude":-79.22287,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Vilcabamba"
+    ],
+    "name:deu_x_preferred":[
+        "Vilcabamba"
+    ],
+    "name:dut_x_preferred":[
+        "Vilcabamba"
+    ],
+    "name:eng_x_preferred":[
+        "Vilcabamba"
+    ],
+    "name:fra_x_preferred":[
+        "Vilcabamba"
+    ],
+    "name:fre_x_preferred":[
+        "Vilcabamba"
+    ],
+    "name:ger_x_preferred":[
+        "Vilcabamba"
+    ],
+    "name:ita_x_preferred":[
+        "Vilcabamba"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30eb\u30ab\u30d0\u30f3\u30d0"
+    ],
+    "name:lit_x_preferred":[
+        "Vilkabamba"
+    ],
+    "name:que_x_preferred":[
+        "Willkapampa"
+    ],
+    "name:spa_x_preferred":[
+        "Vilcabamba"
+    ],
+    "name:swe_x_preferred":[
+        "Vilcabamba"
+    ],
+    "name:unk_x_variant":[
+        "La Victoria"
+    ],
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3650199,
+    "qs:gn_pop":0,
+    "qs:name":"Vilcabamba",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Loja",
+    "qs:photos":923,
+    "qs:photos_1k":187,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":923,
+    "qs:photos_sr":10,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1165362,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":376317,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":1392,
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670891,
+        421182159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3650199,
+        "gp:id":376317,
+        "qs:id":1165362,
+        "wd:id":"Q153528",
+        "wk:page":"Vilcabamba, Ecuador"
+    },
+    "wof:country":"EC",
+    "wof:created":1459009728,
+    "wof:geomhash":"1a942c35715af03dd5b9a4c58023de05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421182159,
+            "locality_id":421192183,
+            "region_id":85670891
+        }
+    ],
+    "wof:id":421192183,
+    "wof:lastmodified":1553816380,
+    "wof:name":"Vilcabamba",
+    "wof:parent_id":421182159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.22287,
+    -4.26233,
+    -79.22287,
+    -4.26233
+],
+  "geometry": {"coordinates":[-79.22287,-4.26233],"type":"Point"}
+}

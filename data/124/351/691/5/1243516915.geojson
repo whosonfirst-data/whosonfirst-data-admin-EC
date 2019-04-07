@@ -1,0 +1,69 @@
+{
+  "id": 1243516915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.4353,-1.39821,-78.4353,-1.39821",
+    "geom:latitude":-1.39821,
+    "geom:longitude":-78.4353,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1802.0",
+    "gn:admin3_code":"180250.0",
+    "gn:asciiname":"Pititic",
+    "gn:country_code":"EC",
+    "gn:dem":1858,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3653043,
+    "gn:latitude":-1.39821,
+    "gn:longitude":-78.4353,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Pititic",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670959,
+        1108567995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3653043
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"b0aee9318f2878650647251e471c6a44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108567995,
+            "locality_id":1243516915,
+            "region_id":85670959
+        }
+    ],
+    "wof:id":1243516915,
+    "wof:lastmodified":1536704297,
+    "wof:name":"Pititic",
+    "wof:parent_id":1108567995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.4353,
+    -1.39821,
+    -78.4353,
+    -1.39821
+],
+  "geometry": {"coordinates":[-78.4353,-1.39821],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1277161077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.73992,-2.75428,-79.73992,-2.75428",
+    "geom:latitude":-2.75428,
+    "geom:longitude":-79.73992,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"911.0",
+    "gn:admin3_code":"91150.0",
+    "gn:asciiname":"Balao Chico",
+    "gn:country_code":"EC",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3660385,
+    "gn:latitude":-2.75428,
+    "gn:longitude":-79.73992,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Balao Chico",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670917,
+        421171755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3660385
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"46052a857649609421faf57014e470e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421171755,
+            "locality_id":1277161077,
+            "region_id":85670917
+        }
+    ],
+    "wof:id":1277161077,
+    "wof:lastmodified":1536654781,
+    "wof:name":"Balao Chico",
+    "wof:parent_id":421171755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.73992,
+    -2.75428,
+    -79.73992,
+    -2.75428
+],
+  "geometry": {"coordinates":[-79.73992,-2.75428],"type":"Point"}
+}

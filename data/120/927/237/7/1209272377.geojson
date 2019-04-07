@@ -1,0 +1,63 @@
+{
+  "id": 1209272377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.3339,-0.95366,-75.3339,-0.95366",
+    "geom:latitude":-0.95366,
+    "geom:longitude":-75.3339,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"2202.0",
+    "gn:admin3_code":"220255.0",
+    "gn:asciiname":"San Luis",
+    "gn:country_code":"EC",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3651675,
+    "gn:latitude":-0.95366,
+    "gn:longitude":-75.3339,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"San Luis",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3651675
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"aa38d1c1b30fe3537cafad3f79dd842c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632261,
+            "locality_id":1209272377
+        }
+    ],
+    "wof:id":1209272377,
+    "wof:lastmodified":1536292314,
+    "wof:name":"San Luis",
+    "wof:parent_id":85632261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.3339,
+    -0.95366,
+    -75.3339,
+    -0.95366
+],
+  "geometry": {"coordinates":[-75.3339,-0.95366],"type":"Point"}
+}

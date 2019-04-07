@@ -1,0 +1,66 @@
+{
+  "id": 102543843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.967222,-2.066667,-76.967222,-2.066667",
+    "geom:latitude":-2.066667,
+    "geom:longitude":-76.967222,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"960",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":73,
+    "woe:hierarchy":{
+        "country_id":23424801,
+        "county_id":26809639,
+        "localadmin_id":26810196,
+        "planet_id":1,
+        "state_id":2345218
+    },
+    "wof:belongsto":[
+        85632261,
+        85670949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512627,
+        "icao:code":"SEMO",
+        "oa:id":"6065",
+        "wd:id":"Q20456192"
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"632966a5d0cfa8e5131a2fa5d94133e9",
+    "wof:hierarchy":[
+        {
+            "campus_id":102543843,
+            "country_id":85632261,
+            "region_id":85670949
+        }
+    ],
+    "wof:id":102543843,
+    "wof:lastmodified":1543846097,
+    "wof:name":"El Carmen Airport",
+    "wof:parent_id":85670949,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -76.967222,
+    -2.066667,
+    -76.967222,
+    -2.066667
+],
+  "geometry": {"coordinates":[-76.96722200000001,-2.066667],"type":"Point"}
+}

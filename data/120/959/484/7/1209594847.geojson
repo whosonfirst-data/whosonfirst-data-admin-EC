@@ -1,0 +1,63 @@
+{
+  "id": 1209594847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.33162,-0.87781,-79.33162,-0.87781",
+    "geom:latitude":-0.87781,
+    "geom:longitude":-79.33162,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"1211.0",
+    "gn:admin3_code":"121150.0",
+    "gn:asciiname":"El Triunfo",
+    "gn:country_code":"EC",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8471932,
+    "gn:latitude":-0.87781,
+    "gn:longitude":-79.33162,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"El Triunfo",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8471932
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"0f28ee7a2a3fe5f9d6c40fcbd2b906fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632261,
+            "locality_id":1209594847
+        }
+    ],
+    "wof:id":1209594847,
+    "wof:lastmodified":1536282358,
+    "wof:name":"El Triunfo",
+    "wof:parent_id":85632261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.33162,
+    -0.8778100000000001,
+    -79.33162,
+    -0.8778100000000001
+],
+  "geometry": {"coordinates":[-79.33162,-0.87781],"type":"Point"}
+}

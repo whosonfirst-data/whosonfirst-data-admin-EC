@@ -1,0 +1,69 @@
+{
+  "id": 1326542919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.65143,-2.78989,-78.65143,-2.78989",
+    "geom:latitude":-2.78989,
+    "geom:longitude":-78.65143,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"113.0",
+    "gn:admin3_code":"11350.0",
+    "gn:asciiname":"Pocaguso",
+    "gn:country_code":"EC",
+    "gn:dem":2465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3653004,
+    "gn:latitude":-2.78989,
+    "gn:longitude":-78.65143,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Pocaguso",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670885,
+        1108572697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3653004
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"7cacb27c652e181dd9407368bbf840be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108572697,
+            "locality_id":1326542919,
+            "region_id":85670885
+        }
+    ],
+    "wof:id":1326542919,
+    "wof:lastmodified":1536968251,
+    "wof:name":"Pocaguso",
+    "wof:parent_id":1108572697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.65143,
+    -2.78989,
+    -78.65143,
+    -2.78989
+],
+  "geometry": {"coordinates":[-78.65143,-2.78989],"type":"Point"}
+}

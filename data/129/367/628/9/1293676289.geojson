@@ -1,0 +1,70 @@
+{
+  "id": 1293676289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.16667,-4.13333,-80.16667,-4.13333",
+    "geom:latitude":-4.13333,
+    "geom:longitude":-80.16667,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1114.0",
+    "gn:admin3_code":"111453.0",
+    "gn:asciiname":"El Organo",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":682,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3658196,
+    "gn:latitude":-4.13333,
+    "gn:longitude":-80.16667,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"El \u00d3rgano",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670891,
+        1108571475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3658196
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"c217d0e83970fcc604e9f6f38c615f5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108571475,
+            "locality_id":1293676289,
+            "region_id":85670891
+        }
+    ],
+    "wof:id":1293676289,
+    "wof:lastmodified":1537011439,
+    "wof:name":"El Organo",
+    "wof:parent_id":1108571475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.16667,
+    -4.13333,
+    -80.16667,
+    -4.13333
+],
+  "geometry": {"coordinates":[-80.16667,-4.13333],"type":"Point"}
+}

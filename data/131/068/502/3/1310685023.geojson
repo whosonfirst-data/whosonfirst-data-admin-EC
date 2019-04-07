@@ -1,0 +1,69 @@
+{
+  "id": 1310685023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.76165,-2.30414,-79.76165,-2.30414",
+    "geom:latitude":-2.30414,
+    "geom:longitude":-79.76165,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"907.0",
+    "gn:admin3_code":"90750.0",
+    "gn:asciiname":"Ensenada",
+    "gn:country_code":"EC",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3658020,
+    "gn:latitude":-2.30414,
+    "gn:longitude":-79.76165,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Ensenada",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670917,
+        1108568901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3658020
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"6c31e556f959224b7cb804eb1799245b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108568901,
+            "locality_id":1310685023,
+            "region_id":85670917
+        }
+    ],
+    "wof:id":1310685023,
+    "wof:lastmodified":1536658055,
+    "wof:name":"Ensenada",
+    "wof:parent_id":1108568901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.76165,
+    -2.30414,
+    -79.76165,
+    -2.30414
+],
+  "geometry": {"coordinates":[-79.76165,-2.30414],"type":"Point"}
+}

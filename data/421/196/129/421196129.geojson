@@ -1,0 +1,88 @@
+{
+  "id": 421196129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.14752,-3.16076,-79.14752,-3.16076",
+    "geom:latitude":-3.16076,
+    "geom:longitude":-79.14752,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:que_x_preferred":[
+        "Gir\u00f3n"
+    ],
+    "name:unk_x_variant":[
+        "Jiron"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e0c\u9f8d"
+    ],
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3657794,
+    "qs:gn_pop":0,
+    "qs:name":"Giron",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Azuay",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1182315,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":26810001,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":1500,
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670885,
+        1108569491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3657794,
+        "gp:id":26810001,
+        "qs:id":1182315,
+        "wd:id":"Q5564861",
+        "wk:page":"Gir\u00f3n, Azuay"
+    },
+    "wof:country":"EC",
+    "wof:created":1459009870,
+    "wof:geomhash":"271fed63f0401288db753a773936abc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108569491,
+            "localadmin_id":421196129,
+            "region_id":85670885
+        }
+    ],
+    "wof:id":421196129,
+    "wof:lastmodified":1527716364,
+    "wof:name":"Giron",
+    "wof:parent_id":1108569491,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.14752,
+    -3.16076,
+    -79.14752,
+    -3.16076
+],
+  "geometry": {"coordinates":[-79.14752,-3.16076],"type":"Point"}
+}

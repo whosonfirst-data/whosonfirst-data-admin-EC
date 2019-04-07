@@ -1,0 +1,88 @@
+{
+  "id": 421193393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.91734,-0.79722,-78.91734,-0.79722",
+    "geom:latitude":-0.79722,
+    "geom:longitude":-78.91734,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Chugchil\u00e1n"
+    ],
+    "name:eng_x_preferred":[
+        "Chugchil\u00e1n"
+    ],
+    "name:unk_x_variant":[
+        "Chucchil\u00e1n"
+    ],
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3659087,
+    "qs:gn_pop":0,
+    "qs:name":"Chugchil\u00e1n",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Cotopaxi",
+    "qs:photos":225,
+    "qs:photos_1k":46,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":225,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":893981,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":375991,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":45,
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670915,
+        421184865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3659087,
+        "gp:id":375991,
+        "qs:id":893981,
+        "wd:id":"Q5115954",
+        "wk:page":"Chugchil\u00e1n"
+    },
+    "wof:country":"EC",
+    "wof:created":1459009769,
+    "wof:geomhash":"a1078a9e8a17808873e65fda88f6bbf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421184865,
+            "locality_id":421193393,
+            "region_id":85670915
+        }
+    ],
+    "wof:id":421193393,
+    "wof:lastmodified":1527716147,
+    "wof:name":"Chugchil\u00e1n",
+    "wof:parent_id":421184865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.91734,
+    -0.79722,
+    -78.91734,
+    -0.79722
+],
+  "geometry": {"coordinates":[-78.91734,-0.79722],"type":"Point"}
+}

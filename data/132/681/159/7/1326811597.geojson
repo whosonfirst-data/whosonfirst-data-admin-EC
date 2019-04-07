@@ -1,0 +1,70 @@
+{
+  "id": 1326811597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.1,0.31667,-78.1,0.31667",
+    "geom:latitude":0.31667,
+    "geom:longitude":-78.1,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1001.0",
+    "gn:admin3_code":"100150.0",
+    "gn:asciiname":"Hacienda Santa Rosa",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":2313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3656054,
+    "gn:latitude":0.31667,
+    "gn:longitude":-78.1,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda Santa Rosa",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670971,
+        421171745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3656054
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"da092d21b1f8ca90b148e78a39c3d0a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421171745,
+            "locality_id":1326811597,
+            "region_id":85670971
+        }
+    ],
+    "wof:id":1326811597,
+    "wof:lastmodified":1537075449,
+    "wof:name":"Hacienda Santa Rosa",
+    "wof:parent_id":421171745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.1,
+    0.31667,
+    -78.1,
+    0.31667
+],
+  "geometry": {"coordinates":[-78.09999999999999,0.31667],"type":"Point"}
+}

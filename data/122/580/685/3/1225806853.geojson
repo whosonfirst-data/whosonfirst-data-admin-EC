@@ -1,0 +1,69 @@
+{
+  "id": 1225806853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.01147,-4.52087,-79.01147,-4.52087",
+    "geom:latitude":-4.52087,
+    "geom:longitude":-79.01147,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1908.0",
+    "gn:admin3_code":"190851.0",
+    "gn:asciiname":"Loyola",
+    "gn:country_code":"EC",
+    "gn:dem":1514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3654583,
+    "gn:latitude":-4.52087,
+    "gn:longitude":-79.01147,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Loyola",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670895,
+        421183941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3654583
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"705f3596f8812eae94b0c9d793b97b5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421183941,
+            "locality_id":1225806853,
+            "region_id":85670895
+        }
+    ],
+    "wof:id":1225806853,
+    "wof:lastmodified":1537067032,
+    "wof:name":"Loyola",
+    "wof:parent_id":421183941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.01146999999997,
+    -4.52087,
+    -79.01146999999997,
+    -4.52087
+],
+  "geometry": {"coordinates":[-79.01146999999997,-4.52087],"type":"Point"}
+}

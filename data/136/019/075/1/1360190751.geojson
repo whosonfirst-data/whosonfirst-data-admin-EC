@@ -1,0 +1,69 @@
+{
+  "id": 1360190751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.96667,-2.51667,-78.96667,-2.51667",
+    "geom:latitude":-2.51667,
+    "geom:longitude":-78.96667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"305.0",
+    "gn:admin3_code":"30550.0",
+    "gn:asciiname":"Yatancocha",
+    "gn:country_code":"EC",
+    "gn:dem":2995,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3650034,
+    "gn:latitude":-2.51667,
+    "gn:longitude":-78.96667,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Yatancocha",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670909,
+        1108569245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3650034
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"9166687d6c05173adf1b0545e00d041a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108569245,
+            "locality_id":1360190751,
+            "region_id":85670909
+        }
+    ],
+    "wof:id":1360190751,
+    "wof:lastmodified":1536793475,
+    "wof:name":"Yatancocha",
+    "wof:parent_id":1108569245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.96667,
+    -2.51667,
+    -78.96667,
+    -2.51667
+],
+  "geometry": {"coordinates":[-78.96666999999999,-2.51667],"type":"Point"}
+}

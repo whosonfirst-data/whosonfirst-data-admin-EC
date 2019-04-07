@@ -1,0 +1,67 @@
+{
+  "id": 1225923433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.85304,-1.31069,-79.85304,-1.31069",
+    "geom:latitude":-1.31069,
+    "geom:longitude":-79.85304,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"San Vicente",
+    "gn:country_code":"EC",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3651280,
+    "gn:latitude":-1.31069,
+    "gn:longitude":-79.85304,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"San Vicente",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670917,
+        1108567949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3651280
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"02c87f5af879464c5636d3aa3b7609d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108567949,
+            "locality_id":1225923433,
+            "region_id":85670917
+        }
+    ],
+    "wof:id":1225923433,
+    "wof:lastmodified":1536901783,
+    "wof:name":"San Vicente",
+    "wof:parent_id":1108567949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.85304000000002,
+    -1.31069,
+    -79.85304000000002,
+    -1.31069
+],
+  "geometry": {"coordinates":[-79.85304000000002,-1.31069],"type":"Point"}
+}

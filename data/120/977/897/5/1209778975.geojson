@@ -1,0 +1,69 @@
+{
+  "id": 1209778975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.41667,-0.43333,-78.41667,-0.43333",
+    "geom:latitude":-0.43333,
+    "geom:longitude":-78.41667,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1705.0",
+    "gn:admin3_code":"170552.0",
+    "gn:asciiname":"Rumipambito",
+    "gn:country_code":"EC",
+    "gn:dem":2947,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3652220,
+    "gn:latitude":-0.43333,
+    "gn:longitude":-78.41667,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Rumipambito",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670945,
+        421168623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3652220
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"398c6d914602720dfb3e87314b40713f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421168623,
+            "locality_id":1209778975,
+            "region_id":85670945
+        }
+    ],
+    "wof:id":1209778975,
+    "wof:lastmodified":1536375780,
+    "wof:name":"Rumipambito",
+    "wof:parent_id":421168623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.41667,
+    -0.43333,
+    -78.41667,
+    -0.43333
+],
+  "geometry": {"coordinates":[-78.41667,-0.43333],"type":"Point"}
+}

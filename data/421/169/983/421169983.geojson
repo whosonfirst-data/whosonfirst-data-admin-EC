@@ -1,0 +1,79 @@
+{
+  "id": 421169983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.126281,-2.833317,-79.126281,-2.833317",
+    "geom:latitude":-2.833317,
+    "geom:longitude":-79.126281,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Sayausi",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Azuay",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":772818,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":26810526,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670885,
+        421185495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26810526,
+        "qs:id":772818,
+        "qs_pg:id":772818
+    },
+    "wof:country":"EC",
+    "wof:created":1459008832,
+    "wof:geomhash":"576c31c51f8509690b960bd21a77806f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421185495,
+            "localadmin_id":421169983,
+            "region_id":85670885
+        }
+    ],
+    "wof:id":421169983,
+    "wof:lastmodified":1497043320,
+    "wof:name":"Sayausi",
+    "wof:parent_id":421185495,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.126281,
+    -2.833317,
+    -79.126281,
+    -2.833317
+],
+  "geometry": {"coordinates":[-79.12628100000001,-2.833317],"type":"Point"}
+}

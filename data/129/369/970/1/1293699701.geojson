@@ -1,0 +1,67 @@
+{
+  "id": 1293699701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.65,-3.23333,-79.65,-3.23333",
+    "geom:latitude":-3.23333,
+    "geom:longitude":-79.65,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mollepungo",
+    "gn:country_code":"EC",
+    "gn:dem":1542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3654106,
+    "gn:latitude":-3.23333,
+    "gn:longitude":-79.65,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Mollepungo",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670887,
+        421191247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3654106
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"3f1fec40066a63d462d4b8b3e799076b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421191247,
+            "locality_id":1293699701,
+            "region_id":85670887
+        }
+    ],
+    "wof:id":1293699701,
+    "wof:lastmodified":1536977794,
+    "wof:name":"Mollepungo",
+    "wof:parent_id":421191247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.65,
+    -3.23333,
+    -79.65,
+    -3.23333
+],
+  "geometry": {"coordinates":[-79.65000000000001,-3.23333],"type":"Point"}
+}

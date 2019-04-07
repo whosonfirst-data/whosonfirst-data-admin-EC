@@ -1,0 +1,67 @@
+{
+  "id": 1327222837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.28333,-2.21667,-80.28333,-2.21667",
+    "geom:latitude":-2.21667,
+    "geom:longitude":-80.28333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Rio de Miel",
+    "gn:country_code":"EC",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3652338,
+    "gn:latitude":-2.21667,
+    "gn:longitude":-80.28333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"R\u00edo de Miel",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670979,
+        1108572401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3652338
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"ba807c85bed788dcacd320ed8fbf12b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108572401,
+            "locality_id":1327222837,
+            "region_id":85670979
+        }
+    ],
+    "wof:id":1327222837,
+    "wof:lastmodified":1536982711,
+    "wof:name":"Rio de Miel",
+    "wof:parent_id":1108572401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.28333,
+    -2.21667,
+    -80.28333,
+    -2.21667
+],
+  "geometry": {"coordinates":[-80.28333000000001,-2.21667],"type":"Point"}
+}

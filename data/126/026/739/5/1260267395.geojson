@@ -1,0 +1,69 @@
+{
+  "id": 1260267395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.50553,0.23695,-79.50553,0.23695",
+    "geom:latitude":0.23695,
+    "geom:longitude":-79.50553,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"804.0",
+    "gn:admin3_code":"80450.0",
+    "gn:asciiname":"Teraban",
+    "gn:country_code":"EC",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8470129,
+    "gn:latitude":0.23695,
+    "gn:longitude":-79.50553,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Terab\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670963,
+        1108571921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8470129
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"cfa21ca0428c8a6b9f919c3a1c3d286f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108571921,
+            "locality_id":1260267395,
+            "region_id":85670963
+        }
+    ],
+    "wof:id":1260267395,
+    "wof:lastmodified":1536733712,
+    "wof:name":"Teraban",
+    "wof:parent_id":1108571921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.50553000000002,
+    0.23695,
+    -79.50553000000002,
+    0.23695
+],
+  "geometry": {"coordinates":[-79.50553000000002,0.23695],"type":"Point"}
+}

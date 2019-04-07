@@ -1,0 +1,63 @@
+{
+  "id": 1242766723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.83333,-2.33333,-79.83333,-2.33333",
+    "geom:latitude":-2.33333,
+    "geom:longitude":-79.83333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"La Zanja",
+    "gn:country_code":"EC",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3654804,
+    "gn:latitude":-2.33333,
+    "gn:longitude":-79.83333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Zanja",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3654804
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"ba152cb9479fe9a32e62fe709f09d509",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "locality_id":1242766723,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242766723,
+    "wof:lastmodified":1536791629,
+    "wof:name":"La Zanja",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.83333,
+    -2.33333,
+    -79.83333,
+    -2.33333
+],
+  "geometry": {"coordinates":[-79.83333,-2.33333],"type":"Point"}
+}

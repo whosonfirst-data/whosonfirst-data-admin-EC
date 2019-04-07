@@ -1,0 +1,70 @@
+{
+  "id": 1259971349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.93333,-1.11667,-78.93333,-1.11667",
+    "geom:latitude":-1.11667,
+    "geom:longitude":-78.93333,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"504.0",
+    "gn:admin3_code":"50451.0",
+    "gn:asciiname":"Guambena",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":3041,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3657627,
+    "gn:latitude":-1.11667,
+    "gn:longitude":-78.93333,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Guambe\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670915,
+        421185497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3657627
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"9f2e3c9881e7f973347a85348df44ab2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421185497,
+            "locality_id":1259971349,
+            "region_id":85670915
+        }
+    ],
+    "wof:id":1259971349,
+    "wof:lastmodified":1536652536,
+    "wof:name":"Guambena",
+    "wof:parent_id":421185497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.93333,
+    -1.11667,
+    -78.93333,
+    -1.11667
+],
+  "geometry": {"coordinates":[-78.93333,-1.11667],"type":"Point"}
+}

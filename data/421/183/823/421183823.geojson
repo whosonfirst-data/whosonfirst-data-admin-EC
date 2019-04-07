@@ -1,0 +1,107 @@
+{
+  "id": 421183823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.45943,-1.44158,-79.45943,-1.44158",
+    "geom:latitude":-1.44158,
+    "geom:longitude":-79.45943,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Ventanas"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0646\u062a\u0646\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Ventanas"
+    ],
+    "name:que_x_preferred":[
+        "Ventanas"
+    ],
+    "name:ron_x_preferred":[
+        "Ventanas"
+    ],
+    "name:spa_x_preferred":[
+        "Ventanas"
+    ],
+    "name:swe_x_preferred":[
+        "Ventanas"
+    ],
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3650267,
+    "qs:gn_pop":46708,
+    "qs:name":"Ventanas",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Los Rios",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":12,
+    "qs:photos_sr":0,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1045838,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":26810623,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"quattroshapes",
+    "wd:wordcount":39,
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670923,
+        1108573237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3650267,
+        "gp:id":26810623,
+        "qs:id":1045838,
+        "qs_pg:id":1045838,
+        "wd:id":"Q931224",
+        "wk:page":"Ventanas"
+    },
+    "wof:country":"EC",
+    "wof:created":1459009388,
+    "wof:geomhash":"64e1e40073ad019213e61a00340698ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108573237,
+            "localadmin_id":421183823,
+            "region_id":85670923
+        }
+    ],
+    "wof:id":421183823,
+    "wof:lastmodified":1527717696,
+    "wof:name":"Ventanas",
+    "wof:parent_id":1108573237,
+    "wof:placetype":"localadmin",
+    "wof:population":46708,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.45943,
+    -1.44158,
+    -79.45943,
+    -1.44158
+],
+  "geometry": {"coordinates":[-79.45943,-1.44158],"type":"Point"}
+}

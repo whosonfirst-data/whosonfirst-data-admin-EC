@@ -1,0 +1,79 @@
+{
+  "id": 421169315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.359127,0.292681,-78.359127,0.292681",
+    "geom:latitude":0.292681,
+    "geom:longitude":-78.359127,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"San Jose de Quichinche",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Imbabura",
+    "qs:photos":5,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":48,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":772779,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":26810435,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670971,
+        421185493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26810435,
+        "qs:id":772779,
+        "qs_pg:id":772779
+    },
+    "wof:country":"EC",
+    "wof:created":1459008804,
+    "wof:geomhash":"7d7db5aae0e30ad0b8c5cde3534db5f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421185493,
+            "localadmin_id":421169315,
+            "region_id":85670971
+        }
+    ],
+    "wof:id":421169315,
+    "wof:lastmodified":1497043001,
+    "wof:name":"San Jose de Quichinche",
+    "wof:parent_id":421185493,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.359127,
+    0.292681,
+    -78.359127,
+    0.292681
+],
+  "geometry": {"coordinates":[-78.359127,0.292681],"type":"Point"}
+}

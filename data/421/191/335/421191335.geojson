@@ -1,0 +1,94 @@
+{
+  "id": 421191335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.04311,-1.70884,-79.04311,-1.70884",
+    "geom:latitude":-1.70884,
+    "geom:longitude":-79.04311,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "San Miguel"
+    ],
+    "name:que_x_preferred":[
+        "San Miguel"
+    ],
+    "name:swe_x_preferred":[
+        "San Miguel"
+    ],
+    "name:unk_x_variant":[
+        "San Miguel de Chimbo"
+    ],
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3651639,
+    "qs:gn_pop":12575,
+    "qs:name":"San Miguel",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Bolivar",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"6",
+    "qs:qs_id":62601,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":26810459,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":32,
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670905,
+        1108572259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3651639,
+        "gp:id":26810459,
+        "qs:id":62601,
+        "wd:id":"Q7414937",
+        "wk:page":"San Miguel, Bol\u00edvar"
+    },
+    "wof:country":"EC",
+    "wof:created":1459009688,
+    "wof:geomhash":"c92c125cbe01d5fce2f744f348e3b231",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108572259,
+            "localadmin_id":421191335,
+            "region_id":85670905
+        }
+    ],
+    "wof:id":421191335,
+    "wof:lastmodified":1527716382,
+    "wof:name":"San Miguel",
+    "wof:parent_id":1108572259,
+    "wof:placetype":"localadmin",
+    "wof:population":12575,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.04311,
+    -1.70884,
+    -79.04311,
+    -1.70884
+],
+  "geometry": {"coordinates":[-79.04311,-1.70884],"type":"Point"}
+}

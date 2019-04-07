@@ -1,0 +1,69 @@
+{
+  "id": 1326739175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.35,-2.78333,-79.35,-2.78333",
+    "geom:latitude":-2.78333,
+    "geom:longitude":-79.35,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10157.0",
+    "gn:asciiname":"Yunguilla Guarco",
+    "gn:country_code":"EC",
+    "gn:dem":2729,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3649998,
+    "gn:latitude":-2.78333,
+    "gn:longitude":-79.35,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Yunguilla Guarco",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670885,
+        421185495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3649998
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"ce6ee7d666ec8aec9e7a1e0538b7cc79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421185495,
+            "locality_id":1326739175,
+            "region_id":85670885
+        }
+    ],
+    "wof:id":1326739175,
+    "wof:lastmodified":1536685625,
+    "wof:name":"Yunguilla Guarco",
+    "wof:parent_id":421185495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.35,
+    -2.78333,
+    -79.35,
+    -2.78333
+],
+  "geometry": {"coordinates":[-79.34999999999999,-2.78333],"type":"Point"}
+}

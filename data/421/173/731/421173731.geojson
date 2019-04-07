@@ -1,0 +1,126 @@
+{
+  "id": 421173731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.59415,-2.13404,-79.59415,-2.13404",
+    "geom:latitude":-2.13404,
+    "geom:longitude":-79.59415,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Milagro"
+    ],
+    "name:ceb_x_preferred":[
+        "Milagro"
+    ],
+    "name:epo_x_preferred":[
+        "San Francisco de Milagro"
+    ],
+    "name:eus_x_preferred":[
+        "Milagro"
+    ],
+    "name:fra_x_preferred":[
+        "San Francisco de Milagro"
+    ],
+    "name:ita_x_preferred":[
+        "Milagro"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d8\u10da\u10d0\u10d2\u10e0\u10dd"
+    ],
+    "name:lit_x_preferred":[
+        "Milagras"
+    ],
+    "name:pol_x_preferred":[
+        "Milagro"
+    ],
+    "name:que_x_preferred":[
+        "Milagro"
+    ],
+    "name:ron_x_preferred":[
+        "Milagro"
+    ],
+    "name:spa_x_preferred":[
+        "Milagro"
+    ],
+    "name:swe_x_preferred":[
+        "Milagro"
+    ],
+    "name:vol_x_preferred":[
+        "Milagro"
+    ],
+    "name:zho_x_preferred":[
+        "\u7c73\u62c9\u683c\u7f85"
+    ],
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3654215,
+    "qs:gn_pop":0,
+    "qs:name":"Milagro",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Guayas",
+    "qs:photos":4,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":4,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"9",
+    "qs:qs_id":532390,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":26810188,
+    "src:geom":"quattroshapes",
+    "wd:latitude":-2.134722,
+    "wd:longitude":-79.587222,
+    "wd:wordcount":73,
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670917,
+        421191245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3654215,
+        "gp:id":26810188,
+        "qs:id":532390,
+        "wd:id":"Q773238",
+        "wk:page":"Milagro, Ecuador"
+    },
+    "wof:country":"EC",
+    "wof:created":1459009004,
+    "wof:geomhash":"5324124309540d5e0fac066f39b79be5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421191245,
+            "localadmin_id":421173731,
+            "region_id":85670917
+        }
+    ],
+    "wof:id":421173731,
+    "wof:lastmodified":1527716254,
+    "wof:name":"Milagro",
+    "wof:parent_id":421191245,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.59415,
+    -2.13404,
+    -79.59415,
+    -2.13404
+],
+  "geometry": {"coordinates":[-79.59415,-2.13404],"type":"Point"}
+}

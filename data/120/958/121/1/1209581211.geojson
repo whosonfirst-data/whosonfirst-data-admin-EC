@@ -1,0 +1,63 @@
+{
+  "id": 1209581211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.62388,-1.2616,-78.62388,-1.2616",
+    "geom:latitude":-1.2616,
+    "geom:longitude":-78.62388,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1801.0",
+    "gn:admin3_code":"180150.0",
+    "gn:asciiname":"Bellavista",
+    "gn:country_code":"EC",
+    "gn:dem":2698,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3660248,
+    "gn:latitude":-1.2616,
+    "gn:longitude":-78.62388,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Bellavista",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3660248
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"34846988239e8e9e0270fd28e3852c20",
+    "wof:hierarchy":[
+        {
+            "country_id":85632261,
+            "locality_id":1209581211
+        }
+    ],
+    "wof:id":1209581211,
+    "wof:lastmodified":1536282782,
+    "wof:name":"Bellavista",
+    "wof:parent_id":85632261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.62388,
+    -1.2616,
+    -78.62388,
+    -1.2616
+],
+  "geometry": {"coordinates":[-78.62388,-1.2616],"type":"Point"}
+}

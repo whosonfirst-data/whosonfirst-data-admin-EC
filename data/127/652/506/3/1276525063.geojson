@@ -1,0 +1,70 @@
+{
+  "id": 1276525063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.41667,-4.45,-80.41667,-4.45",
+    "geom:latitude":-4.45,
+    "geom:longitude":-80.41667,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1113.0",
+    "gn:admin3_code":"111353.0",
+    "gn:asciiname":"Hacienda Pichincha",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3656473,
+    "gn:latitude":-4.45,
+    "gn:longitude":-80.41667,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda Pichincha",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670891,
+        1108573397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3656473
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"5bf03ce81590ec4a7a87b64d81832982",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108573397,
+            "locality_id":1276525063,
+            "region_id":85670891
+        }
+    ],
+    "wof:id":1276525063,
+    "wof:lastmodified":1537018367,
+    "wof:name":"Hacienda Pichincha",
+    "wof:parent_id":1108573397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.41667,
+    -4.45,
+    -80.41667,
+    -4.45
+],
+  "geometry": {"coordinates":[-80.41667,-4.45],"type":"Point"}
+}

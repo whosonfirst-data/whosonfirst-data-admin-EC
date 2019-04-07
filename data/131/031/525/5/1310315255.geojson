@@ -1,0 +1,67 @@
+{
+  "id": 1310315255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.50613,-0.53699,-79.50613,-0.53699",
+    "geom:latitude":-0.53699,
+    "geom:longitude":-79.50613,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"La Cuarenta",
+    "gn:country_code":"EC",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8471924,
+    "gn:latitude":-0.53699,
+    "gn:longitude":-79.50613,
+    "gn:modification_date":"2013-03-06",
+    "gn:name":"La Cuarenta",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670927,
+        1108570741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8471924
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"49dc6b1e5c0f0fecd1b571826029e295",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108570741,
+            "locality_id":1310315255,
+            "region_id":85670927
+        }
+    ],
+    "wof:id":1310315255,
+    "wof:lastmodified":1536693964,
+    "wof:name":"La Cuarenta",
+    "wof:parent_id":1108570741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.50613,
+    -0.53699,
+    -79.50613,
+    -0.53699
+],
+  "geometry": {"coordinates":[-79.50613,-0.53699],"type":"Point"}
+}

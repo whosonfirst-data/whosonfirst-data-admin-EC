@@ -1,0 +1,77 @@
+{
+  "id": 1260048507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.80392,-0.70401,-77.80392,-0.70401",
+    "geom:latitude":-0.70401,
+    "geom:longitude":-77.80392,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1503.0",
+    "gn:admin3_code":"150352.0",
+    "gn:asciiname":"La Merced de Jondachi",
+    "gn:country_code":"EC",
+    "gn:dem":1215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8542030,
+    "gn:latitude":-0.70401,
+    "gn:longitude":-77.80392,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"La Merced de Jondachi",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670959,
+        1108567669,
+        85670953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8542030
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"a019225ca250bd667e49a0fe4fd12f49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108567669,
+            "locality_id":1260048507,
+            "region_id":85670959
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108567669,
+            "locality_id":1260048507,
+            "region_id":85670953
+        }
+    ],
+    "wof:id":1260048507,
+    "wof:lastmodified":1537036958,
+    "wof:name":"La Merced de Jondachi",
+    "wof:parent_id":1108567669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.80391999999998,
+    -0.70401,
+    -77.80391999999998,
+    -0.70401
+],
+  "geometry": {"coordinates":[-77.80391999999998,-0.70401],"type":"Point"}
+}

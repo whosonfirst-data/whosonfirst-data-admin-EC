@@ -1,0 +1,63 @@
+{
+  "id": 1209072443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.44138,0.2133,-78.44138,0.2133",
+    "geom:latitude":0.2133,
+    "geom:longitude":-78.44138,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1701.0",
+    "gn:admin3_code":"170181.0",
+    "gn:asciiname":"Minas Chupa",
+    "gn:country_code":"EC",
+    "gn:dem":2700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8470558,
+    "gn:latitude":0.2133,
+    "gn:longitude":-78.44138,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Minas Chupa",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8470558
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"1e5986acd87edd8a757b4e0eb7b46234",
+    "wof:hierarchy":[
+        {
+            "country_id":85632261,
+            "locality_id":1209072443
+        }
+    ],
+    "wof:id":1209072443,
+    "wof:lastmodified":1536298603,
+    "wof:name":"Minas Chupa",
+    "wof:parent_id":85632261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.44138000000002,
+    0.2133,
+    -78.44138000000002,
+    0.2133
+],
+  "geometry": {"coordinates":[-78.44138000000002,0.2133],"type":"Point"}
+}

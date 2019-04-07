@@ -1,0 +1,119 @@
+{
+  "id": 421179423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.88278,0.08472,-76.88278,0.08472",
+    "geom:latitude":0.08472,
+    "geom:longitude":-76.88278,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u041d\u0443\u044d\u0432\u0430-\u041b\u043e\u0445\u0430"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cc\u30a8\u30d0\u30fb\u30ed\u30cf"
+    ],
+    "name:kor_x_preferred":[
+        "\ub204\uc5d0\ubc14\ub85c\ud558"
+    ],
+    "name:lit_x_preferred":[
+        "Nueva Locha"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0646\u0648\u0626\u0648\u0627 \u0644\u0648\u062c\u0627"
+    ],
+    "name:que_x_preferred":[
+        "Musuq Loja"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0443\u044d\u0432\u0430-\u041b\u043e\u0445\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0443\u0435\u0432\u0430-\u041b\u043e\u0445\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Lago Agrio"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0648\u06cc\u0648\u0627 \u0644\u0648\u062e\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u6d1b\u54c8"
+    ],
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPLA",
+    "qs:gn_id":3655185,
+    "qs:gn_pop":24211,
+    "qs:name":"Nueva Loja",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Sucumbios",
+    "qs:photos":5,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":59,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"7",
+    "qs:qs_id":149688,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":26810222,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"quattroshapes",
+    "wd:wordcount":238,
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670977,
+        421177637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3655185,
+        "gp:id":26810222,
+        "qs:id":149688,
+        "qs_pg:id":149688,
+        "wd:id":"Q683938",
+        "wk:page":"Nueva Loja"
+    },
+    "wof:country":"EC",
+    "wof:created":1459009220,
+    "wof:geomhash":"ea2bcbaffd807938f0c83ed32820a7d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421177637,
+            "localadmin_id":421179423,
+            "region_id":85670977
+        }
+    ],
+    "wof:id":421179423,
+    "wof:lastmodified":1527717704,
+    "wof:name":"Nueva Loja",
+    "wof:parent_id":421177637,
+    "wof:placetype":"localadmin",
+    "wof:population":24211,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.88278,
+    0.08472,
+    -76.88278,
+    0.08472
+],
+  "geometry": {"coordinates":[-76.88278,0.08472],"type":"Point"}
+}

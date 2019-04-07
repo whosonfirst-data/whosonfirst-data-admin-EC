@@ -1,0 +1,75 @@
+{
+  "id": 421193387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.647003,-1.667609,-78.647003,-1.667609",
+    "geom:latitude":-1.667609,
+    "geom:longitude":-78.647003,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Riobamba",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Chimborazo",
+    "qs:photos":184,
+    "qs:photos_1k":37,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":862,
+    "qs:photos_sr":4,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":893651,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":26810358,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670931,
+        421185337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26810358,
+        "qs:id":893651
+    },
+    "wof:country":"EC",
+    "wof:created":1459009769,
+    "wof:geomhash":"78a48c71f5bb97b7b3ea65c3af9ba987",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421185337,
+            "localadmin_id":421193387,
+            "region_id":85670931
+        }
+    ],
+    "wof:id":421193387,
+    "wof:lastmodified":1500036613,
+    "wof:name":"Riobamba",
+    "wof:parent_id":421185337,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.647003,
+    -1.667609,
+    -78.647003,
+    -1.667609
+],
+  "geometry": {"coordinates":[-78.647003,-1.667609],"type":"Point"}
+}

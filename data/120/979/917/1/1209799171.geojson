@@ -1,0 +1,63 @@
+{
+  "id": 1209799171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.78333,-2.68333,-79.78333,-2.68333",
+    "geom:latitude":-2.68333,
+    "geom:longitude":-79.78333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Puerto San Pablo",
+    "gn:country_code":"EC",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3652701,
+    "gn:latitude":-2.68333,
+    "gn:longitude":-79.78333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Puerto San Pablo",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3652701
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"2037c8ca5aed1cbc5abe97cd5baff217",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "locality_id":1209799171,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209799171,
+    "wof:lastmodified":1536391503,
+    "wof:name":"Puerto San Pablo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.78333,
+    -2.68333,
+    -79.78333,
+    -2.68333
+],
+  "geometry": {"coordinates":[-79.78333000000001,-2.68333],"type":"Point"}
+}

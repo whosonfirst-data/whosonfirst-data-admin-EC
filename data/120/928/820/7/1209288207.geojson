@@ -1,0 +1,63 @@
+{
+  "id": 1209288207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.71719,-0.06776,-79.71719,-0.06776",
+    "geom:latitude":-0.06776,
+    "geom:longitude":-79.71719,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1303.0",
+    "gn:admin3_code":"130354.0",
+    "gn:asciiname":"San Roqu",
+    "gn:country_code":"EC",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8472333,
+    "gn:latitude":-0.06776,
+    "gn:longitude":-79.71719,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"San Roqu",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8472333
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"5a6babd88e58eeec673ac5c37d7c8622",
+    "wof:hierarchy":[
+        {
+            "country_id":85632261,
+            "locality_id":1209288207
+        }
+    ],
+    "wof:id":1209288207,
+    "wof:lastmodified":1536291786,
+    "wof:name":"San Roqu",
+    "wof:parent_id":85632261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.71719,
+    -0.06776,
+    -79.71719,
+    -0.06776
+],
+  "geometry": {"coordinates":[-79.71719,-0.06776],"type":"Point"}
+}

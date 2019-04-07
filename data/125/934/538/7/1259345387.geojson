@@ -1,0 +1,69 @@
+{
+  "id": 1259345387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.38333,-1.36667,-78.38333,-1.36667",
+    "geom:latitude":-1.36667,
+    "geom:longitude":-78.38333,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1802.0",
+    "gn:admin3_code":"180254.0",
+    "gn:asciiname":"Lligua Alto",
+    "gn:country_code":"EC",
+    "gn:dem":3010,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3654702,
+    "gn:latitude":-1.36667,
+    "gn:longitude":-78.38333,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Lligua Alto",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670959,
+        1108567995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3654702
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"dd428fc3152a336ce8b233ab2f7414df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108567995,
+            "locality_id":1259345387,
+            "region_id":85670959
+        }
+    ],
+    "wof:id":1259345387,
+    "wof:lastmodified":1537054866,
+    "wof:name":"Lligua Alto",
+    "wof:parent_id":1108567995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.38333,
+    -1.36667,
+    -78.38333,
+    -1.36667
+],
+  "geometry": {"coordinates":[-78.38333,-1.36667],"type":"Point"}
+}

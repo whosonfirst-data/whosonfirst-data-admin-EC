@@ -1,0 +1,70 @@
+{
+  "id": 1344140681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.65,-2.65,-79.65,-2.65",
+    "geom:latitude":-2.65,
+    "geom:longitude":-79.65,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"911.0",
+    "gn:admin3_code":"91150.0",
+    "gn:asciiname":"Hacienda Gloria",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3656954,
+    "gn:latitude":-2.65,
+    "gn:longitude":-79.65,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda Gloria",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670917,
+        421171755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3656954
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"452d2fb920f7d2c32e60190fda98145d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421171755,
+            "locality_id":1344140681,
+            "region_id":85670917
+        }
+    ],
+    "wof:id":1344140681,
+    "wof:lastmodified":1536760078,
+    "wof:name":"Hacienda Gloria",
+    "wof:parent_id":421171755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.65,
+    -2.65,
+    -79.65,
+    -2.65
+],
+  "geometry": {"coordinates":[-79.65000000000001,-2.65],"type":"Point"}
+}

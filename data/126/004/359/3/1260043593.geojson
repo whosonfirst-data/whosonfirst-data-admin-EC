@@ -1,0 +1,70 @@
+{
+  "id": 1260043593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.5,-1.91667,-77.5,-1.91667",
+    "geom:latitude":-1.91667,
+    "geom:longitude":-77.5,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"1601.0",
+    "gn:admin3_code":"160161.0",
+    "gn:asciiname":"Tutaguana",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3650404,
+    "gn:latitude":-1.91667,
+    "gn:longitude":-77.5,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Tutaguana",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670949,
+        421185499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3650404
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"557400ac9ab780a611869b1021df6e4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421185499,
+            "locality_id":1260043593,
+            "region_id":85670949
+        }
+    ],
+    "wof:id":1260043593,
+    "wof:lastmodified":1537043827,
+    "wof:name":"Tutaguana",
+    "wof:parent_id":421185499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.5,
+    -1.91667,
+    -77.5,
+    -1.91667
+],
+  "geometry": {"coordinates":[-77.5,-1.91667],"type":"Point"}
+}

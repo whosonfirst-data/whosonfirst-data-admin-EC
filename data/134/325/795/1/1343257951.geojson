@@ -1,0 +1,67 @@
+{
+  "id": 1343257951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.95,-2.71667,-79.95,-2.71667",
+    "geom:latitude":-2.71667,
+    "geom:longitude":-79.95,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Corralito",
+    "gn:country_code":"EC",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3658807,
+    "gn:latitude":-2.71667,
+    "gn:longitude":-79.95,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Corralito",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670917,
+        421175423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3658807
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"8e167df4b965ba15200538e5d74fd06c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421175423,
+            "locality_id":1343257951,
+            "region_id":85670917
+        }
+    ],
+    "wof:id":1343257951,
+    "wof:lastmodified":1537036938,
+    "wof:name":"Corralito",
+    "wof:parent_id":421175423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.95,
+    -2.71667,
+    -79.95,
+    -2.71667
+],
+  "geometry": {"coordinates":[-79.95,-2.71667],"type":"Point"}
+}

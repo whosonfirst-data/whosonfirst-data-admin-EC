@@ -1,0 +1,69 @@
+{
+  "id": 1327013657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.50457,-2.11291,-79.50457,-2.11291",
+    "geom:latitude":-2.11291,
+    "geom:longitude":-79.50457,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"910.0",
+    "gn:admin3_code":"91053.0",
+    "gn:asciiname":"Mariscal Sucre",
+    "gn:country_code":"EC",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3654332,
+    "gn:latitude":-2.11291,
+    "gn:longitude":-79.50457,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Mariscal Sucre",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670917,
+        421191245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3654332
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"f94e5e4f24e33d9f794e6df1b8d0dba1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421191245,
+            "locality_id":1327013657,
+            "region_id":85670917
+        }
+    ],
+    "wof:id":1327013657,
+    "wof:lastmodified":1536788030,
+    "wof:name":"Mariscal Sucre",
+    "wof:parent_id":421191245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.50457,
+    -2.11291,
+    -79.50457,
+    -2.11291
+],
+  "geometry": {"coordinates":[-79.50457,-2.11291],"type":"Point"}
+}

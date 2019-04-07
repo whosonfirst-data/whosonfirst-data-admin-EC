@@ -1,0 +1,63 @@
+{
+  "id": 1209294699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.96667,-4.05,-79.96667,-4.05",
+    "geom:latitude":-4.05,
+    "geom:longitude":-79.96667,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1109.0",
+    "gn:admin3_code":"110952.0",
+    "gn:asciiname":"Masaconsa",
+    "gn:country_code":"EC",
+    "gn:dem":1649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3654317,
+    "gn:latitude":-4.05,
+    "gn:longitude":-79.96667,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Masaconsa",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3654317
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"d76d1aab4bf81b03b2f294ff28af008f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632261,
+            "locality_id":1209294699
+        }
+    ],
+    "wof:id":1209294699,
+    "wof:lastmodified":1536291571,
+    "wof:name":"Masaconsa",
+    "wof:parent_id":85632261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.96667,
+    -4.05,
+    -79.96667,
+    -4.05
+],
+  "geometry": {"coordinates":[-79.96666999999999,-4.05],"type":"Point"}
+}

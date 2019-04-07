@@ -1,0 +1,61 @@
+{
+  "id": 1259863303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.33333,-2.71667,-80.33333,-2.71667",
+    "geom:latitude":-2.71667,
+    "geom:longitude":-80.33333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Data de Villamil",
+    "gn:country_code":"EC",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3658505,
+    "gn:latitude":-2.71667,
+    "gn:longitude":-80.33333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Data de Villamil",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3658505
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"6c79dd0d4731d0b5a6ab7074786c9cad",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1259863303,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259863303,
+    "wof:lastmodified":1536807977,
+    "wof:name":"Data de Villamil",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.33333,
+    -2.71667,
+    -80.33333,
+    -2.71667
+],
+  "geometry": {"coordinates":[-80.33333,-2.71667],"type":"Point"}
+}

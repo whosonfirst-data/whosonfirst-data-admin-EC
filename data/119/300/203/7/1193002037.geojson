@@ -1,0 +1,69 @@
+{
+  "id": 1193002037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.93333,-2.03333,-79.93333,-2.03333",
+    "geom:latitude":-2.03333,
+    "geom:longitude":-79.93333,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"906.0",
+    "gn:admin3_code":"90656.0",
+    "gn:asciiname":"Palma Sola",
+    "gn:country_code":"EC",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3653548,
+    "gn:latitude":-2.03333,
+    "gn:longitude":-79.93333,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Palma Sola",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670917,
+        421175423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3653548
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"ca7f23b19777db27ca06c67b30e79537",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421175423,
+            "locality_id":1193002037,
+            "region_id":85670917
+        }
+    ],
+    "wof:id":1193002037,
+    "wof:lastmodified":1536369479,
+    "wof:name":"Palma Sola",
+    "wof:parent_id":421175423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.93333,
+    -2.03333,
+    -79.93333,
+    -2.03333
+],
+  "geometry": {"coordinates":[-79.93333,-2.03333],"type":"Point"}
+}

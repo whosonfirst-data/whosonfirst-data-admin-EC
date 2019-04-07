@@ -1,0 +1,69 @@
+{
+  "id": 1343841505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.46287,-0.27113,-79.46287,-0.27113",
+    "geom:latitude":-0.27113,
+    "geom:longitude":-79.46287,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1304.0",
+    "gn:admin3_code":"130450.0",
+    "gn:asciiname":"El Carmen",
+    "gn:country_code":"EC",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3658336,
+    "gn:latitude":-0.27113,
+    "gn:longitude":-79.46287,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"El Carmen",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670927,
+        1108569025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3658336
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"a7132ae4705a024c7db4a3d4f8eed8e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108569025,
+            "locality_id":1343841505,
+            "region_id":85670927
+        }
+    ],
+    "wof:id":1343841505,
+    "wof:lastmodified":1536694181,
+    "wof:name":"El Carmen",
+    "wof:parent_id":1108569025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.46287,
+    -0.27113,
+    -79.46287,
+    -0.27113
+],
+  "geometry": {"coordinates":[-79.46287,-0.27113],"type":"Point"}
+}

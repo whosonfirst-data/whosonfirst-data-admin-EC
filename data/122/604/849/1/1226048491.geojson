@@ -1,0 +1,70 @@
+{
+  "id": 1226048491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.93333,-2.66667,-78.93333,-2.66667",
+    "geom:latitude":-2.66667,
+    "geom:longitude":-78.93333,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"302.0",
+    "gn:admin3_code":"30254.0",
+    "gn:asciiname":"Burgay",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":2991,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3660031,
+    "gn:latitude":-2.66667,
+    "gn:longitude":-78.93333,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Burgay",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670909,
+        421183023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3660031
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"20a167fcb86e78c0fbbcc64c2ee8adc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421183023,
+            "locality_id":1226048491,
+            "region_id":85670909
+        }
+    ],
+    "wof:id":1226048491,
+    "wof:lastmodified":1536721508,
+    "wof:name":"Burgay",
+    "wof:parent_id":421183023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.93333,
+    -2.66667,
+    -78.93333,
+    -2.66667
+],
+  "geometry": {"coordinates":[-78.93333,-2.66667],"type":"Point"}
+}

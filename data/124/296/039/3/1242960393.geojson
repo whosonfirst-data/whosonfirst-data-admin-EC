@@ -1,0 +1,69 @@
+{
+  "id": 1242960393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.28659,-4.40426,-80.28659,-4.40426",
+    "geom:latitude":-4.40426,
+    "geom:longitude":-80.28659,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1113.0",
+    "gn:admin3_code":"111350.0",
+    "gn:asciiname":"Pampa Blanca",
+    "gn:country_code":"EC",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3653505,
+    "gn:latitude":-4.40426,
+    "gn:longitude":-80.28659,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Pampa Blanca",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670891,
+        1108573397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3653505
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"51097628d99093c2889d640d6e61eb09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108573397,
+            "locality_id":1242960393,
+            "region_id":85670891
+        }
+    ],
+    "wof:id":1242960393,
+    "wof:lastmodified":1537008641,
+    "wof:name":"Pampa Blanca",
+    "wof:parent_id":1108573397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.28659,
+    -4.40426,
+    -80.28659,
+    -4.40426
+],
+  "geometry": {"coordinates":[-80.28659,-4.40426],"type":"Point"}
+}

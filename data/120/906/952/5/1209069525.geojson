@@ -1,0 +1,63 @@
+{
+  "id": 1209069525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.47534,-0.2001,-78.47534,-0.2001",
+    "geom:latitude":-0.2001,
+    "geom:longitude":-78.47534,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1701.0",
+    "gn:admin3_code":"170150.0",
+    "gn:asciiname":"Guapulo",
+    "gn:country_code":"EC",
+    "gn:dem":2664,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3657574,
+    "gn:latitude":-0.2001,
+    "gn:longitude":-78.47534,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Gu\u00e1pulo",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3657574
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"c469043584d02c425b20114ab4e4acfd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632261,
+            "locality_id":1209069525
+        }
+    ],
+    "wof:id":1209069525,
+    "wof:lastmodified":1536298692,
+    "wof:name":"Guapulo",
+    "wof:parent_id":85632261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.47534,
+    -0.2001,
+    -78.47534,
+    -0.2001
+],
+  "geometry": {"coordinates":[-78.47534,-0.2001],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209114877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.96252,-2.88761,-78.96252,-2.88761",
+    "geom:latitude":-2.88761,
+    "geom:longitude":-78.96252,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10150.0",
+    "gn:asciiname":"Quinta Chica",
+    "gn:country_code":"EC",
+    "gn:dem":2478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3652491,
+    "gn:latitude":-2.88761,
+    "gn:longitude":-78.96252,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Quinta Chica",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3652491
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"7a129d99a83ee4400b5eed3faaa2f979",
+    "wof:hierarchy":[
+        {
+            "country_id":85632261,
+            "locality_id":1209114877
+        }
+    ],
+    "wof:id":1209114877,
+    "wof:lastmodified":1536297287,
+    "wof:name":"Quinta Chica",
+    "wof:parent_id":85632261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.96252,
+    -2.88761,
+    -78.96252,
+    -2.88761
+],
+  "geometry": {"coordinates":[-78.96252,-2.88761],"type":"Point"}
+}

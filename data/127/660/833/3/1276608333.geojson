@@ -1,0 +1,69 @@
+{
+  "id": 1276608333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.25922,-0.3629,-79.25922,-0.3629",
+    "geom:latitude":-0.3629,
+    "geom:longitude":-79.25922,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"2301.0",
+    "gn:admin3_code":"230153.0",
+    "gn:asciiname":"San Andres",
+    "gn:country_code":"EC",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8472541,
+    "gn:latitude":-0.3629,
+    "gn:longitude":-79.25922,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"San Andr\u00e9s",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670983,
+        421190535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8472541
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"5be20e3e7a7e5440a49a841a5aed1e78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421190535,
+            "locality_id":1276608333,
+            "region_id":85670983
+        }
+    ],
+    "wof:id":1276608333,
+    "wof:lastmodified":1536908006,
+    "wof:name":"San Andres",
+    "wof:parent_id":421190535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.25922,
+    -0.3629,
+    -79.25922,
+    -0.3629
+],
+  "geometry": {"coordinates":[-79.25922,-0.3629],"type":"Point"}
+}

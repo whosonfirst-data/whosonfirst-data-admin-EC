@@ -1,0 +1,69 @@
+{
+  "id": 1276861173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.10838,0.35455,-79.10838,0.35455",
+    "geom:latitude":0.35455,
+    "geom:longitude":-79.10838,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"804.0",
+    "gn:admin3_code":"80453.0",
+    "gn:asciiname":"La Florida",
+    "gn:country_code":"EC",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8470042,
+    "gn:latitude":0.35455,
+    "gn:longitude":-79.10838,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"La Florida",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670963,
+        1108571921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8470042
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"b9b12488c0eb1e93789ba52ca5cb334f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108571921,
+            "locality_id":1276861173,
+            "region_id":85670963
+        }
+    ],
+    "wof:id":1276861173,
+    "wof:lastmodified":1537063377,
+    "wof:name":"La Florida",
+    "wof:parent_id":1108571921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.10838000000003,
+    0.35455,
+    -79.10838000000003,
+    0.35455
+],
+  "geometry": {"coordinates":[-79.10838000000003,0.35455],"type":"Point"}
+}

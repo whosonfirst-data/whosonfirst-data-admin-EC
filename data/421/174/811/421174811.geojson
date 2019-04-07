@@ -1,0 +1,115 @@
+{
+  "id": 421174811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.38808,-2.63199,-80.38808,-2.63199",
+    "geom:latitude":-2.63199,
+    "geom:longitude":-80.38808,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Playas"
+    ],
+    "name:chi_x_preferred":[
+        "\u666e\u62c9\u4e9e\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Playas"
+    ],
+    "name:eng_x_preferred":[
+        "Playas"
+    ],
+    "name:fra_x_preferred":[
+        "Playas"
+    ],
+    "name:fre_x_preferred":[
+        "Playas"
+    ],
+    "name:lit_x_preferred":[
+        "Plajasas"
+    ],
+    "name:que_x_preferred":[
+        "Playas"
+    ],
+    "name:spa_x_preferred":[
+        "General Villamil"
+    ],
+    "name:swe_x_preferred":[
+        "Playas"
+    ],
+    "name:unk_x_variant":[
+        "Villamil"
+    ],
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3653015,
+    "qs:gn_pop":30564,
+    "qs:name":"Playas",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Guayas",
+    "qs:photos":340,
+    "qs:photos_1k":69,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":340,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":899579,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":375759,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":192,
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670917,
+        421188127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3653015,
+        "gp:id":375759,
+        "qs:id":899579,
+        "wd:id":"Q3123278",
+        "wk:page":"Playas, Ecuador"
+    },
+    "wof:country":"EC",
+    "wof:created":1459009045,
+    "wof:geomhash":"f37b3dca7dfcb3fdc81e574af349fe7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421188127,
+            "locality_id":421174811,
+            "region_id":85670917
+        }
+    ],
+    "wof:id":421174811,
+    "wof:lastmodified":1527716224,
+    "wof:name":"Playas",
+    "wof:parent_id":421188127,
+    "wof:placetype":"locality",
+    "wof:population":30564,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.38808,
+    -2.63199,
+    -80.38808,
+    -2.63199
+],
+  "geometry": {"coordinates":[-80.38808,-2.63199],"type":"Point"}
+}

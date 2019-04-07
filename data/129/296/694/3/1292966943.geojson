@@ -1,0 +1,69 @@
+{
+  "id": 1292966943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.44137,-0.40193,-78.44137,-0.40193",
+    "geom:latitude":-0.40193,
+    "geom:longitude":-78.44137,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1705.0",
+    "gn:admin3_code":"170551.0",
+    "gn:asciiname":"El Taxo",
+    "gn:country_code":"EC",
+    "gn:dem":2857,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8522066,
+    "gn:latitude":-0.40193,
+    "gn:longitude":-78.44137,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"El Taxo",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670945,
+        421168623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8522066
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"a33f1a1840ea84f80b1a1876d0220fda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421168623,
+            "locality_id":1292966943,
+            "region_id":85670945
+        }
+    ],
+    "wof:id":1292966943,
+    "wof:lastmodified":1537038879,
+    "wof:name":"El Taxo",
+    "wof:parent_id":421168623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.44136999999998,
+    -0.40193,
+    -78.44136999999998,
+    -0.40193
+],
+  "geometry": {"coordinates":[-78.44136999999998,-0.40193],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209062501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.75612,-0.26604,-77.75612,-0.26604",
+    "geom:latitude":-0.26604,
+    "geom:longitude":-77.75612,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1504.0",
+    "gn:admin3_code":"150454.0",
+    "gn:asciiname":"Tres Cruces",
+    "gn:country_code":"EC",
+    "gn:dem":1835,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8472359,
+    "gn:latitude":-0.26604,
+    "gn:longitude":-77.75612,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Tres Cruces",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8472359
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"b7434a8081fd4ad6b4baf06408b56db8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632261,
+            "locality_id":1209062501
+        }
+    ],
+    "wof:id":1209062501,
+    "wof:lastmodified":1536298908,
+    "wof:name":"Tres Cruces",
+    "wof:parent_id":85632261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.75612,
+    -0.26604,
+    -77.75612,
+    -0.26604
+],
+  "geometry": {"coordinates":[-77.75612,-0.26604],"type":"Point"}
+}

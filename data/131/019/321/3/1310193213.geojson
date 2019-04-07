@@ -1,0 +1,69 @@
+{
+  "id": 1310193213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.00994,0.4303,-78.00994,0.4303",
+    "geom:latitude":0.4303,
+    "geom:longitude":-78.00994,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1001.0",
+    "gn:admin3_code":"100151.0",
+    "gn:asciiname":"Ambuqui",
+    "gn:country_code":"EC",
+    "gn:dem":1789,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3660683,
+    "gn:latitude":0.4303,
+    "gn:longitude":-78.00994,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Ambuqu\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670971,
+        421171745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3660683
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"4897eb856848ec1dad913a6c5424ac28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421171745,
+            "locality_id":1310193213,
+            "region_id":85670971
+        }
+    ],
+    "wof:id":1310193213,
+    "wof:lastmodified":1536868876,
+    "wof:name":"Ambuqui",
+    "wof:parent_id":421171745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.00994,
+    0.4303,
+    -78.00994,
+    0.4303
+],
+  "geometry": {"coordinates":[-78.00994,0.4303],"type":"Point"}
+}

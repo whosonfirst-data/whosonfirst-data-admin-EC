@@ -1,0 +1,63 @@
+{
+  "id": 1209301563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.81831,-4.33756,-79.81831,-4.33756",
+    "geom:latitude":-4.33756,
+    "geom:longitude":-79.81831,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1112.0",
+    "gn:admin3_code":"111250.0",
+    "gn:asciiname":"Papayai",
+    "gn:country_code":"EC",
+    "gn:dem":1181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3653442,
+    "gn:latitude":-4.33756,
+    "gn:longitude":-79.81831,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Papayai",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3653442
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"5d0f5b2d7bbf658fe16a47c3967ed003",
+    "wof:hierarchy":[
+        {
+            "country_id":85632261,
+            "locality_id":1209301563
+        }
+    ],
+    "wof:id":1209301563,
+    "wof:lastmodified":1536291340,
+    "wof:name":"Papayai",
+    "wof:parent_id":85632261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.81831,
+    -4.33756,
+    -79.81831,
+    -4.33756
+],
+  "geometry": {"coordinates":[-79.81831,-4.33756],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276509423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.5,-1.33333,-78.5,-1.33333",
+    "geom:latitude":-1.33333,
+    "geom:longitude":-78.5,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1805.0",
+    "gn:admin3_code":"180550.0",
+    "gn:asciiname":"Hacienda El Carmen",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":2158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3657087,
+    "gn:latitude":-1.33333,
+    "gn:longitude":-78.5,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda El Carmen",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670959,
+        1108571185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3657087
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"60b392d74c341c325e26cae1b7349af5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108571185,
+            "locality_id":1276509423,
+            "region_id":85670959
+        }
+    ],
+    "wof:id":1276509423,
+    "wof:lastmodified":1537038607,
+    "wof:name":"Hacienda El Carmen",
+    "wof:parent_id":1108571185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.5,
+    -1.33333,
+    -78.5,
+    -1.33333
+],
+  "geometry": {"coordinates":[-78.5,-1.33333],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327455281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.6,-0.83333,-78.6,-0.83333",
+    "geom:latitude":-0.83333,
+    "geom:longitude":-78.6,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"501.0",
+    "gn:admin3_code":"50154.0",
+    "gn:asciiname":"Hacienda San Roque",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":2901,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3656115,
+    "gn:latitude":-0.83333,
+    "gn:longitude":-78.6,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda San Roque",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670915,
+        421182157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3656115
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"6d55b9acc36ed1149d8da9e5e2c29402",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421182157,
+            "locality_id":1327455281,
+            "region_id":85670915
+        }
+    ],
+    "wof:id":1327455281,
+    "wof:lastmodified":1536647427,
+    "wof:name":"Hacienda San Roque",
+    "wof:parent_id":421182157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.6,
+    -0.83333,
+    -78.6,
+    -0.83333
+],
+  "geometry": {"coordinates":[-78.59999999999999,-0.83333],"type":"Point"}
+}

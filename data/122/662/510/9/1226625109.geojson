@@ -1,0 +1,69 @@
+{
+  "id": 1226625109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.62974,-1.37515,-80.62974,-1.37515",
+    "geom:latitude":-1.37515,
+    "geom:longitude":-80.62974,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1306.0",
+    "gn:admin3_code":"130650.0",
+    "gn:asciiname":"Joaz",
+    "gn:country_code":"EC",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3655439,
+    "gn:latitude":-1.37515,
+    "gn:longitude":-80.62974,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Joaz",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670927,
+        1108569923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3655439
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"94d7f45531cae1a3e74aff484c65b5ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108569923,
+            "locality_id":1226625109,
+            "region_id":85670927
+        }
+    ],
+    "wof:id":1226625109,
+    "wof:lastmodified":1536888863,
+    "wof:name":"Joaz",
+    "wof:parent_id":1108569923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.62974,
+    -1.37515,
+    -80.62974,
+    -1.37515
+],
+  "geometry": {"coordinates":[-80.62974,-1.37515],"type":"Point"}
+}

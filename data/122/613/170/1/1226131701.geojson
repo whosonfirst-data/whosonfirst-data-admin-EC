@@ -1,0 +1,61 @@
+{
+  "id": 1226131701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.85,-2.38333,-79.85,-2.38333",
+    "geom:latitude":-2.38333,
+    "geom:longitude":-79.85,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Segal",
+    "gn:country_code":"EC",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3651189,
+    "gn:latitude":-2.38333,
+    "gn:longitude":-79.85,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Segal",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3651189
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"50de4cab9ade6ce78f9e7bb2ab5c0d08",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226131701,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226131701,
+    "wof:lastmodified":1537094752,
+    "wof:name":"Segal",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.85,
+    -2.38333,
+    -79.85,
+    -2.38333
+],
+  "geometry": {"coordinates":[-79.84999999999999,-2.38333],"type":"Point"}
+}

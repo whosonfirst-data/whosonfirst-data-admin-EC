@@ -1,0 +1,67 @@
+{
+  "id": 1360074101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.65,-1.96667,-80.65,-1.96667",
+    "geom:latitude":-1.96667,
+    "geom:longitude":-80.65,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Rio Seco",
+    "gn:country_code":"EC",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3652328,
+    "gn:latitude":-1.96667,
+    "gn:longitude":-80.65,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"R\u00edo Seco",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670979,
+        1108572401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3652328
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"3e0227d1e99998d55cdf3efe9a377682",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108572401,
+            "locality_id":1360074101,
+            "region_id":85670979
+        }
+    ],
+    "wof:id":1360074101,
+    "wof:lastmodified":1536961438,
+    "wof:name":"Rio Seco",
+    "wof:parent_id":1108572401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.65,
+    -1.96667,
+    -80.65,
+    -1.96667
+],
+  "geometry": {"coordinates":[-80.65000000000001,-1.96667],"type":"Point"}
+}

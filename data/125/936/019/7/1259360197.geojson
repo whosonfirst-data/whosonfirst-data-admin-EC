@@ -1,0 +1,69 @@
+{
+  "id": 1259360197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.22455,-4.20521,-79.22455,-4.20521",
+    "geom:latitude":-4.20521,
+    "geom:longitude":-79.22455,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1101.0",
+    "gn:admin3_code":"110156.0",
+    "gn:asciiname":"Landangui",
+    "gn:country_code":"EC",
+    "gn:dem":1549,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3655071,
+    "gn:latitude":-4.20521,
+    "gn:longitude":-79.22455,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Landangui",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670891,
+        421182159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3655071
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"7a91b3b305e8b98713059145a0a98d0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421182159,
+            "locality_id":1259360197,
+            "region_id":85670891
+        }
+    ],
+    "wof:id":1259360197,
+    "wof:lastmodified":1537034345,
+    "wof:name":"Landangui",
+    "wof:parent_id":421182159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.22455,
+    -4.20521,
+    -79.22455,
+    -4.20521
+],
+  "geometry": {"coordinates":[-79.22454999999999,-4.20521],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276531995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.85,-2.15,-79.85,-2.15",
+    "geom:latitude":-2.15,
+    "geom:longitude":-79.85,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"La Matanza",
+    "gn:country_code":"EC",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3655106,
+    "gn:latitude":-2.15,
+    "gn:longitude":-79.85,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Matanza",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670917,
+        421189217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3655106
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"12caddca4e03cfc76f4db6b3ef2725bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421189217,
+            "locality_id":1276531995,
+            "region_id":85670917
+        }
+    ],
+    "wof:id":1276531995,
+    "wof:lastmodified":1537009105,
+    "wof:name":"La Matanza",
+    "wof:parent_id":421189217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.85,
+    -2.15,
+    -79.85,
+    -2.15
+],
+  "geometry": {"coordinates":[-79.84999999999999,-2.15],"type":"Point"}
+}

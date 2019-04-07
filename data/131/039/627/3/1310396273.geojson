@@ -1,0 +1,67 @@
+{
+  "id": 1310396273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.63333,-3.3,-79.63333,-3.3",
+    "geom:latitude":-3.3,
+    "geom:longitude":-79.63333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"La Quezada",
+    "gn:country_code":"EC",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3655016,
+    "gn:latitude":-3.3,
+    "gn:longitude":-79.63333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Quezada",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670885,
+        1108571605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3655016
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"40f2275b05d40b16a7a17c49badb347f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108571605,
+            "locality_id":1310396273,
+            "region_id":85670885
+        }
+    ],
+    "wof:id":1310396273,
+    "wof:lastmodified":1537071502,
+    "wof:name":"La Quezada",
+    "wof:parent_id":1108571605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.63333,
+    -3.3,
+    -79.63333,
+    -3.3
+],
+  "geometry": {"coordinates":[-79.63333,-3.3],"type":"Point"}
+}

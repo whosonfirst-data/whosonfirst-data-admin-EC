@@ -1,0 +1,63 @@
+{
+  "id": 1209599063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.76667,-1.75,-79.76667,-1.75",
+    "geom:latitude":-1.75,
+    "geom:longitude":-79.76667,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"919.0",
+    "gn:admin3_code":"91951.0",
+    "gn:asciiname":"Payana",
+    "gn:country_code":"EC",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3653320,
+    "gn:latitude":-1.75,
+    "gn:longitude":-79.76667,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Payana",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3653320
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"456809ec441ab956c7614576f703ab4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632261,
+            "locality_id":1209599063
+        }
+    ],
+    "wof:id":1209599063,
+    "wof:lastmodified":1536282228,
+    "wof:name":"Payana",
+    "wof:parent_id":85632261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.76666999999998,
+    -1.75,
+    -79.76666999999998,
+    -1.75
+],
+  "geometry": {"coordinates":[-79.76666999999998,-1.75],"type":"Point"}
+}

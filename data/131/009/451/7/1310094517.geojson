@@ -1,0 +1,69 @@
+{
+  "id": 1310094517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.91667,-1.23333,-79.91667,-1.23333",
+    "geom:latitude":-1.23333,
+    "geom:longitude":-79.91667,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"904.0",
+    "gn:admin3_code":"90450.0",
+    "gn:asciiname":"El Porvenir",
+    "gn:country_code":"EC",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3658154,
+    "gn:latitude":-1.23333,
+    "gn:longitude":-79.91667,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"El Porvenir",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670917,
+        1108567949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3658154
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"474ee77eba937c1b7ca1733993d54dbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108567949,
+            "locality_id":1310094517,
+            "region_id":85670917
+        }
+    ],
+    "wof:id":1310094517,
+    "wof:lastmodified":1537011643,
+    "wof:name":"El Porvenir",
+    "wof:parent_id":1108567949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.91667,
+    -1.23333,
+    -79.91667,
+    -1.23333
+],
+  "geometry": {"coordinates":[-79.91667,-1.23333],"type":"Point"}
+}

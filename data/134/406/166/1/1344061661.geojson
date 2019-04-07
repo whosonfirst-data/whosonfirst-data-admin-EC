@@ -1,0 +1,69 @@
+{
+  "id": 1344061661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.94106,0.60415,-77.94106,0.60415",
+    "geom:latitude":0.60415,
+    "geom:longitude":-77.94106,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"403.0",
+    "gn:admin3_code":"40350.0",
+    "gn:asciiname":"Hacienda Ishpingo",
+    "gn:country_code":"EC",
+    "gn:dem":3010,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3656853,
+    "gn:latitude":0.60415,
+    "gn:longitude":-77.94106,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda Ishpingo",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670967,
+        421180535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3656853
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"557049cb6223a32d38fa4d828c305ab2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421180535,
+            "locality_id":1344061661,
+            "region_id":85670967
+        }
+    ],
+    "wof:id":1344061661,
+    "wof:lastmodified":1536872789,
+    "wof:name":"Hacienda Ishpingo",
+    "wof:parent_id":421180535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.94106,
+    0.60415,
+    -77.94106,
+    0.60415
+],
+  "geometry": {"coordinates":[-77.94105999999999,0.60415],"type":"Point"}
+}

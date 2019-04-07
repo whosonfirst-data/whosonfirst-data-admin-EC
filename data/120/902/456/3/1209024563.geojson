@@ -1,0 +1,63 @@
+{
+  "id": 1209024563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.47425,-2.52143,-79.47425,-2.52143",
+    "geom:latitude":-2.52143,
+    "geom:longitude":-79.47425,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"911.0",
+    "gn:admin3_code":"91152.0",
+    "gn:asciiname":"San Carlos",
+    "gn:country_code":"EC",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3651957,
+    "gn:latitude":-2.52143,
+    "gn:longitude":-79.47425,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"San Carlos",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3651957
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"45efbbcef16e64ec446b5c748cb064d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632261,
+            "locality_id":1209024563
+        }
+    ],
+    "wof:id":1209024563,
+    "wof:lastmodified":1536300042,
+    "wof:name":"San Carlos",
+    "wof:parent_id":85632261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.47425,
+    -2.52143,
+    -79.47425,
+    -2.52143
+],
+  "geometry": {"coordinates":[-79.47425,-2.52143],"type":"Point"}
+}

@@ -1,0 +1,96 @@
+{
+  "id": 421201843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.33977,-2.42355,-79.33977,-2.42355",
+    "geom:latitude":-2.42355,
+    "geom:longitude":-79.33977,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "La Troncal"
+    ],
+    "name:que_x_preferred":[
+        "Trunkal"
+    ],
+    "name:ron_x_preferred":[
+        "La Troncal"
+    ],
+    "name:swe_x_preferred":[
+        "La Troncal"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u0679\u0631\u0648\u0646\u06a9\u0627\u0644"
+    ],
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3654853,
+    "qs:gn_pop":36353,
+    "qs:name":"La Troncal",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Canar",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":6,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":214817,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":373225,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670909,
+        421191239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3654853,
+        "gp:id":373225,
+        "qs:id":214817,
+        "wd:id":"Q6465543",
+        "wk:page":"La Troncal"
+    },
+    "wof:country":"EC",
+    "wof:created":1459010089,
+    "wof:geomhash":"a802b9458618af0354e8f50e2e0f1377",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421191239,
+            "locality_id":421201843,
+            "region_id":85670909
+        }
+    ],
+    "wof:id":421201843,
+    "wof:lastmodified":1505340774,
+    "wof:name":"La Troncal",
+    "wof:parent_id":421191239,
+    "wof:placetype":"locality",
+    "wof:population":36353,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.33977,
+    -2.42355,
+    -79.33977,
+    -2.42355
+],
+  "geometry": {"coordinates":[-79.33977,-2.42355],"type":"Point"}
+}

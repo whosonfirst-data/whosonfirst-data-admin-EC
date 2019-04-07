@@ -1,0 +1,69 @@
+{
+  "id": 1259560703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.17824,-3.97921,-79.17824,-3.97921",
+    "geom:latitude":-3.97921,
+    "geom:longitude":-79.17824,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1101.0",
+    "gn:admin3_code":"110150.0",
+    "gn:asciiname":"Yanacocha",
+    "gn:country_code":"EC",
+    "gn:dem":2221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3650095,
+    "gn:latitude":-3.97921,
+    "gn:longitude":-79.17824,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Yanacocha",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670891,
+        421182159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3650095
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"333cbfe6ce9a734af3dafd5c365c17a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421182159,
+            "locality_id":1259560703,
+            "region_id":85670891
+        }
+    ],
+    "wof:id":1259560703,
+    "wof:lastmodified":1536747531,
+    "wof:name":"Yanacocha",
+    "wof:parent_id":421182159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.17824,
+    -3.97921,
+    -79.17824,
+    -3.97921
+],
+  "geometry": {"coordinates":[-79.17824,-3.97921],"type":"Point"}
+}

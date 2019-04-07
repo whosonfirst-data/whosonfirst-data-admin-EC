@@ -1,0 +1,79 @@
+{
+  "id": 421189239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.921166,-2.217997,-80.921166,-2.217997",
+    "geom:latitude":-2.217997,
+    "geom:longitude":-80.921166,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"La Libertad",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Santa Elena",
+    "qs:photos":4,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":261,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1110348,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":26810097,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670979,
+        421203481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26810097,
+        "qs:id":1110348,
+        "qs_pg:id":1110348
+    },
+    "wof:country":"EC",
+    "wof:created":1459009614,
+    "wof:geomhash":"6b33360e42661b2d261c1483e8654283",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421203481,
+            "localadmin_id":421189239,
+            "region_id":85670979
+        }
+    ],
+    "wof:id":421189239,
+    "wof:lastmodified":1497044488,
+    "wof:name":"La Libertad",
+    "wof:parent_id":421203481,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.921166,
+    -2.217997,
+    -80.921166,
+    -2.217997
+],
+  "geometry": {"coordinates":[-80.921166,-2.217997],"type":"Point"}
+}

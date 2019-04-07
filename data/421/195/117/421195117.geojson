@@ -1,0 +1,80 @@
+{
+  "id": 421195117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.20868,-1.3957,-80.20868,-1.3957",
+    "geom:latitude":-1.3957,
+    "geom:longitude":-80.20868,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3653735,
+    "qs:gn_pop":0,
+    "qs:name":"Olmedo",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Manabi",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"7",
+    "qs:qs_id":576628,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":26810228,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670927,
+        421194445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3653735,
+        "gp:id":26810228,
+        "qs:id":576628,
+        "qs_pg:id":576628
+    },
+    "wof:country":"EC",
+    "wof:created":1459009832,
+    "wof:geomhash":"b1a48ce582e3bd80269573c89f3a3791",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421194445,
+            "localadmin_id":421195117,
+            "region_id":85670927
+        }
+    ],
+    "wof:id":421195117,
+    "wof:lastmodified":1497042383,
+    "wof:name":"Olmedo",
+    "wof:parent_id":421194445,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.20868,
+    -1.3957,
+    -80.20868,
+    -1.3957
+],
+  "geometry": {"coordinates":[-80.20868,-1.3957],"type":"Point"}
+}

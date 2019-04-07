@@ -1,0 +1,69 @@
+{
+  "id": 1259547037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.21667,-1.25,-77.21667,-1.25",
+    "geom:latitude":-1.25,
+    "geom:longitude":-77.21667,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"1604.0",
+    "gn:admin3_code":"160451.0",
+    "gn:asciiname":"Tihuano",
+    "gn:country_code":"EC",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3650674,
+    "gn:latitude":-1.25,
+    "gn:longitude":-77.21667,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Tihuano",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670949,
+        421185499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3650674
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"e57c63807057c7152667dd7825675982",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421185499,
+            "locality_id":1259547037,
+            "region_id":85670949
+        }
+    ],
+    "wof:id":1259547037,
+    "wof:lastmodified":1536767944,
+    "wof:name":"Tihuano",
+    "wof:parent_id":421185499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.21667,
+    -1.25,
+    -77.21667,
+    -1.25
+],
+  "geometry": {"coordinates":[-77.21666999999999,-1.25],"type":"Point"}
+}

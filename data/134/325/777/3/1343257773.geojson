@@ -1,0 +1,67 @@
+{
+  "id": 1343257773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.7,-1.825,-80.7,-1.825",
+    "geom:latitude":-1.825,
+    "geom:longitude":-80.7,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Pajisa",
+    "gn:country_code":"EC",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3746154,
+    "gn:latitude":-1.825,
+    "gn:longitude":-80.7,
+    "gn:modification_date":"1996-04-02",
+    "gn:name":"Pajisa",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670979,
+        1108572401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3746154
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"c78fb3f6236e0a1fb6873ff3588f2b3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108572401,
+            "locality_id":1343257773,
+            "region_id":85670979
+        }
+    ],
+    "wof:id":1343257773,
+    "wof:lastmodified":1537037175,
+    "wof:name":"Pajisa",
+    "wof:parent_id":1108572401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.7,
+    -1.825,
+    -80.7,
+    -1.825
+],
+  "geometry": {"coordinates":[-80.7,-1.825],"type":"Point"}
+}

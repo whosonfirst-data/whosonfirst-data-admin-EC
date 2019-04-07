@@ -1,0 +1,67 @@
+{
+  "id": 1293022183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.31667,-0.91667,-79.31667,-0.91667",
+    "geom:latitude":-0.91667,
+    "geom:longitude":-79.31667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Naranjal",
+    "gn:country_code":"EC",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3653884,
+    "gn:latitude":-0.91667,
+    "gn:longitude":-79.31667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Naranjal",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670923,
+        421189215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3653884
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"9918603319c20084b4363dc4fba2650d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421189215,
+            "locality_id":1293022183,
+            "region_id":85670923
+        }
+    ],
+    "wof:id":1293022183,
+    "wof:lastmodified":1536960833,
+    "wof:name":"Naranjal",
+    "wof:parent_id":421189215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.31667,
+    -0.91667,
+    -79.31667,
+    -0.91667
+],
+  "geometry": {"coordinates":[-79.31667,-0.91667],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 421184631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.23542,-3.4813135,-80.23542,-3.4813135",
+    "geom:latitude":-3.481314,
+    "geom:longitude":-80.23542,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Huaquillas",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"El Oro",
+    "qs:photos":3,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":66,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1002640,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":26810045,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670887,
+        1108569819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26810045,
+        "qs:id":1002640,
+        "qs_pg:id":1002640
+    },
+    "wof:country":"EC",
+    "wof:created":1459009417,
+    "wof:geomhash":"e69099c95eb0c59217f0b9723364ada4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108569819,
+            "localadmin_id":421184631,
+            "region_id":85670887
+        }
+    ],
+    "wof:id":421184631,
+    "wof:lastmodified":1497047942,
+    "wof:name":"Huaquillas",
+    "wof:parent_id":1108569819,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.23542,
+    -3.4813135,
+    -80.23542,
+    -3.4813135
+],
+  "geometry": {"coordinates":[-80.23542,-3.4813135],"type":"Point"}
+}

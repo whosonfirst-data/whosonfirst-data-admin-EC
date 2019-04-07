@@ -1,0 +1,68 @@
+{
+  "id": 1225844203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.18333,0.96667,-78.18333,0.96667",
+    "geom:latitude":0.96667,
+    "geom:longitude":-78.18333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Puellamal",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":1340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3652778,
+    "gn:latitude":0.96667,
+    "gn:longitude":-78.18333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Puellamal",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        421180457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3652778
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"8392ac293851be63021a0e04a97dd3b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421180457,
+            "locality_id":1225844203,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1225844203,
+    "wof:lastmodified":1537015181,
+    "wof:name":"Puellamal",
+    "wof:parent_id":421180457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.18333,
+    0.96667,
+    -78.18333,
+    0.96667
+],
+  "geometry": {"coordinates":[-78.18333,0.96667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293603771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.48913,-0.53157,-79.48913,-0.53157",
+    "geom:latitude":-0.53157,
+    "geom:longitude":-79.48913,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Amazonas",
+    "gn:country_code":"EC",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8471925,
+    "gn:latitude":-0.53157,
+    "gn:longitude":-79.48913,
+    "gn:modification_date":"2013-03-06",
+    "gn:name":"Amazonas",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670927,
+        1108570741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8471925
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"b8254bda35c430bc2766951b584a406b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108570741,
+            "locality_id":1293603771,
+            "region_id":85670927
+        }
+    ],
+    "wof:id":1293603771,
+    "wof:lastmodified":1536617203,
+    "wof:name":"Amazonas",
+    "wof:parent_id":1108570741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.48913,
+    -0.53157,
+    -79.48913,
+    -0.53157
+],
+  "geometry": {"coordinates":[-79.48913,-0.53157],"type":"Point"}
+}

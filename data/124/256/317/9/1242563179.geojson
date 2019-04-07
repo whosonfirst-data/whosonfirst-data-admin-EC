@@ -1,0 +1,69 @@
+{
+  "id": 1242563179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.83322,-3.5914,-79.83322,-3.5914",
+    "geom:latitude":-3.5914,
+    "geom:longitude":-79.83322,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"712.0",
+    "gn:admin3_code":"71255.0",
+    "gn:asciiname":"Satayan",
+    "gn:country_code":"EC",
+    "gn:dem":500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3651227,
+    "gn:latitude":-3.5914,
+    "gn:longitude":-79.83322,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Satay\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670887,
+        1108572519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3651227
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"7abf8944695e2fbb22d98a24caaf0fa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108572519,
+            "locality_id":1242563179,
+            "region_id":85670887
+        }
+    ],
+    "wof:id":1242563179,
+    "wof:lastmodified":1537081319,
+    "wof:name":"Satayan",
+    "wof:parent_id":1108572519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.83322,
+    -3.5914,
+    -79.83322,
+    -3.5914
+],
+  "geometry": {"coordinates":[-79.83322,-3.5914],"type":"Point"}
+}

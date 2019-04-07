@@ -1,0 +1,63 @@
+{
+  "id": 1209093325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.21342,-4.02714,-79.21342,-4.02714",
+    "geom:latitude":-4.02714,
+    "geom:longitude":-79.21342,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1101.0",
+    "gn:admin3_code":"110150.0",
+    "gn:asciiname":"Punsara",
+    "gn:country_code":"EC",
+    "gn:dem":2190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3652635,
+    "gn:latitude":-4.02714,
+    "gn:longitude":-79.21342,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Punsara",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3652635
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"71b12e9c2ab9cc2f9c531bd6ccb08652",
+    "wof:hierarchy":[
+        {
+            "country_id":85632261,
+            "locality_id":1209093325
+        }
+    ],
+    "wof:id":1209093325,
+    "wof:lastmodified":1536297967,
+    "wof:name":"Punsara",
+    "wof:parent_id":85632261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.21342,
+    -4.02714,
+    -79.21342,
+    -4.02714
+],
+  "geometry": {"coordinates":[-79.21342,-4.02714],"type":"Point"}
+}

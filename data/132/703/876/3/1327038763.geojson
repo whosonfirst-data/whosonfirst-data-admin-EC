@@ -1,0 +1,69 @@
+{
+  "id": 1327038763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.73333,-2.73333,-78.73333,-2.73333",
+    "geom:latitude":-2.73333,
+    "geom:longitude":-78.73333,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"105.0",
+    "gn:admin3_code":"10562.0",
+    "gn:asciiname":"Chapeguaico",
+    "gn:country_code":"EC",
+    "gn:dem":2736,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3659407,
+    "gn:latitude":-2.73333,
+    "gn:longitude":-78.73333,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Chapeguaico",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670885,
+        421193503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3659407
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"f0380d48251e8bb9b9b838e37b9a9497",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421193503,
+            "locality_id":1327038763,
+            "region_id":85670885
+        }
+    ],
+    "wof:id":1327038763,
+    "wof:lastmodified":1536751061,
+    "wof:name":"Chapeguaico",
+    "wof:parent_id":421193503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.73333000000002,
+    -2.73333,
+    -78.73333000000002,
+    -2.73333
+],
+  "geometry": {"coordinates":[-78.73333000000002,-2.73333],"type":"Point"}
+}

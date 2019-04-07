@@ -1,0 +1,69 @@
+{
+  "id": 1309805263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.06631,-1.94366,-79.06631,-1.94366",
+    "geom:latitude":-1.94366,
+    "geom:longitude":-79.06631,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"202.0",
+    "gn:admin3_code":"20250.0",
+    "gn:asciiname":"Chillanes",
+    "gn:country_code":"EC",
+    "gn:dem":2346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3659256,
+    "gn:latitude":-1.94366,
+    "gn:longitude":-79.06631,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Chillanes",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670905,
+        1108568577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3659256
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"c4dbdc3ba8f93528b8268027337f1db6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108568577,
+            "locality_id":1309805263,
+            "region_id":85670905
+        }
+    ],
+    "wof:id":1309805263,
+    "wof:lastmodified":1536932556,
+    "wof:name":"Chillanes",
+    "wof:parent_id":1108568577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.06631,
+    -1.94366,
+    -79.06631,
+    -1.94366
+],
+  "geometry": {"coordinates":[-79.06631,-1.94366],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1243234113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.48278,-3.57111,-78.48278,-3.57111",
+    "geom:latitude":-3.57111,
+    "geom:longitude":-78.48278,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Proveduria",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":795,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3652890,
+    "gn:latitude":-3.57111,
+    "gn:longitude":-78.48278,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Provedur\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670895,
+        1108569209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3652890
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"efe56b50b15c68d012cd03853f72f7aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108569209,
+            "locality_id":1243234113,
+            "region_id":85670895
+        }
+    ],
+    "wof:id":1243234113,
+    "wof:lastmodified":1536612265,
+    "wof:name":"Proveduria",
+    "wof:parent_id":1108569209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.48278,
+    -3.57111,
+    -78.48278,
+    -3.57111
+],
+  "geometry": {"coordinates":[-78.48278000000001,-3.57111],"type":"Point"}
+}

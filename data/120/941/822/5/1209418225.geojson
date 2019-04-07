@@ -1,0 +1,61 @@
+{
+  "id": 1209418225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.9,-2.83333,-78.9,-2.83333",
+    "geom:latitude":-2.83333,
+    "geom:longitude":-78.9,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"La Quinta",
+    "gn:country_code":"EC",
+    "gn:dem":2440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3655012,
+    "gn:latitude":-2.83333,
+    "gn:longitude":-78.9,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Quinta",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3655012
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"3f56fcd1e0102f0746394cbee8061e3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632261,
+            "locality_id":1209418225
+        }
+    ],
+    "wof:id":1209418225,
+    "wof:lastmodified":1536287616,
+    "wof:name":"La Quinta",
+    "wof:parent_id":85632261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.9,
+    -2.83333,
+    -78.9,
+    -2.83333
+],
+  "geometry": {"coordinates":[-78.90000000000001,-2.83333],"type":"Point"}
+}

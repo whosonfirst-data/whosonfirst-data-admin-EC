@@ -1,0 +1,69 @@
+{
+  "id": 1326603777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.6578,-0.59775,-79.6578,-0.59775",
+    "geom:latitude":-0.59775,
+    "geom:longitude":-79.6578,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1303.0",
+    "gn:admin3_code":"130350.0",
+    "gn:asciiname":"El Aguila",
+    "gn:country_code":"EC",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8472266,
+    "gn:latitude":-0.59775,
+    "gn:longitude":-79.6578,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"El Aguila",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670927,
+        421189211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8472266
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"6e6e90994dc3f35d6aa483489543da47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421189211,
+            "locality_id":1326603777,
+            "region_id":85670927
+        }
+    ],
+    "wof:id":1326603777,
+    "wof:lastmodified":1536880229,
+    "wof:name":"El Aguila",
+    "wof:parent_id":421189211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.6578,
+    -0.59775,
+    -79.6578,
+    -0.59775
+],
+  "geometry": {"coordinates":[-79.65779999999999,-0.59775],"type":"Point"}
+}

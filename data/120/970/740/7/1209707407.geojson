@@ -1,0 +1,69 @@
+{
+  "id": 1209707407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.71811,-0.98204,-78.71811,-0.98204",
+    "geom:latitude":-0.98204,
+    "geom:longitude":-78.71811,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"504.0",
+    "gn:admin3_code":"50450.0",
+    "gn:asciiname":"Hacienda Isinche",
+    "gn:country_code":"EC",
+    "gn:dem":3019,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3656850,
+    "gn:latitude":-0.98204,
+    "gn:longitude":-78.71811,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda Isinche",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670915,
+        421185497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3656850
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"4765e64c691217256a6753d40486c2fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421185497,
+            "locality_id":1209707407,
+            "region_id":85670915
+        }
+    ],
+    "wof:id":1209707407,
+    "wof:lastmodified":1536392237,
+    "wof:name":"Hacienda Isinche",
+    "wof:parent_id":421185497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.71811,
+    -0.98204,
+    -78.71811,
+    -0.98204
+],
+  "geometry": {"coordinates":[-78.71811,-0.98204],"type":"Point"}
+}

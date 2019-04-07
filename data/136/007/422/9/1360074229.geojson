@@ -1,0 +1,67 @@
+{
+  "id": 1360074229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.78333,-1.71667,-80.78333,-1.71667",
+    "geom:latitude":-1.71667,
+    "geom:longitude":-80.78333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"San Juanito",
+    "gn:country_code":"EC",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3746153,
+    "gn:latitude":-1.71667,
+    "gn:longitude":-80.78333,
+    "gn:modification_date":"1996-04-02",
+    "gn:name":"San Juanito",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670979,
+        1108572401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3746153
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"5b2edc66b7f5e8753004067150239a78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108572401,
+            "locality_id":1360074229,
+            "region_id":85670979
+        }
+    ],
+    "wof:id":1360074229,
+    "wof:lastmodified":1536961265,
+    "wof:name":"San Juanito",
+    "wof:parent_id":1108572401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.78333,
+    -1.71667,
+    -80.78333,
+    -1.71667
+],
+  "geometry": {"coordinates":[-80.78333000000001,-1.71667],"type":"Point"}
+}

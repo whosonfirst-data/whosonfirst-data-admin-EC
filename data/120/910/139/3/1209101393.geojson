@@ -1,0 +1,61 @@
+{
+  "id": 1209101393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.15,-3.01667,-80.15,-3.01667",
+    "geom:latitude":-3.01667,
+    "geom:longitude":-80.15,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Algarrobal",
+    "gn:country_code":"EC",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3660772,
+    "gn:latitude":-3.01667,
+    "gn:longitude":-80.15,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Algarrobal",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3660772
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"ae90aa161baa027ee96801548112f611",
+    "wof:hierarchy":[
+        {
+            "country_id":85632261,
+            "locality_id":1209101393
+        }
+    ],
+    "wof:id":1209101393,
+    "wof:lastmodified":1536297721,
+    "wof:name":"Algarrobal",
+    "wof:parent_id":85632261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.15,
+    -3.01667,
+    -80.15,
+    -3.01667
+],
+  "geometry": {"coordinates":[-80.15000000000001,-3.01667],"type":"Point"}
+}

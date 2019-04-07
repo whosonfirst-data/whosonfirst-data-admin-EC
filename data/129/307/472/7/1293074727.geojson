@@ -1,0 +1,69 @@
+{
+  "id": 1293074727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.53135,-1.43349,-80.53135,-1.43349",
+    "geom:latitude":-1.43349,
+    "geom:longitude":-80.53135,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1306.0",
+    "gn:admin3_code":"130651.0",
+    "gn:asciiname":"America",
+    "gn:country_code":"EC",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3660679,
+    "gn:latitude":-1.43349,
+    "gn:longitude":-80.53135,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Am\u00e9rica",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670927,
+        1108569923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3660679
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"bbedb1025ca17f4d4f42ae9564008136",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108569923,
+            "locality_id":1293074727,
+            "region_id":85670927
+        }
+    ],
+    "wof:id":1293074727,
+    "wof:lastmodified":1536884697,
+    "wof:name":"America",
+    "wof:parent_id":1108569923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.53135,
+    -1.43349,
+    -80.53135,
+    -1.43349
+],
+  "geometry": {"coordinates":[-80.53135,-1.43349],"type":"Point"}
+}

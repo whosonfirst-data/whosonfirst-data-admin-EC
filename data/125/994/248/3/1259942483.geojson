@@ -1,0 +1,70 @@
+{
+  "id": 1259942483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.61667,-1.26667,-78.61667,-1.26667",
+    "geom:latitude":-1.26667,
+    "geom:longitude":-78.61667,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1801.0",
+    "gn:admin3_code":"180150.0",
+    "gn:asciiname":"Hacienda Huachi de Cobo",
+    "gn:cc2":"EC",
+    "gn:country_code":"EC",
+    "gn:dem":2674,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3656889,
+    "gn:latitude":-1.26667,
+    "gn:longitude":-78.61667,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda Huachi de Cobo",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670959,
+        1108567603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3656889
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"644b8833488dc0b0ad6442228f0c4892",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108567603,
+            "locality_id":1259942483,
+            "region_id":85670959
+        }
+    ],
+    "wof:id":1259942483,
+    "wof:lastmodified":1536694514,
+    "wof:name":"Hacienda Huachi de Cobo",
+    "wof:parent_id":1108567603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.61667,
+    -1.26667,
+    -78.61667,
+    -1.26667
+],
+  "geometry": {"coordinates":[-78.61667,-1.26667],"type":"Point"}
+}

@@ -1,0 +1,120 @@
+{
+  "id": 421192177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.14264,-0.37692,-78.14264,-0.37692",
+    "geom:latitude":-0.37692,
+    "geom:longitude":-78.14264,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Papallacta"
+    ],
+    "name:deu_x_preferred":[
+        "Papallacta"
+    ],
+    "name:dut_x_preferred":[
+        "Papallacta"
+    ],
+    "name:eng_x_preferred":[
+        "Papallacta"
+    ],
+    "name:fre_x_preferred":[
+        "Papallacta"
+    ],
+    "name:ger_x_preferred":[
+        "Papallacta"
+    ],
+    "name:nld_x_preferred":[
+        "Papallacta"
+    ],
+    "name:pol_x_preferred":[
+        "Papallacta"
+    ],
+    "name:que_x_preferred":[
+        "Papallakta kitilli"
+    ],
+    "name:spa_x_preferred":[
+        "Papallacta"
+    ],
+    "name:swe_x_preferred":[
+        "Papallacta"
+    ],
+    "qs:gn_country":"EC",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3653450,
+    "qs:gn_pop":0,
+    "qs:name":"Papallacta",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Napo",
+    "qs:photos":275,
+    "qs:photos_1k":56,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":275,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1165360,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":376162,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":300,
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670959,
+        1108571837,
+        85670953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3653450,
+        "gp:id":376162,
+        "qs:id":1165360,
+        "wd:id":"Q1001966",
+        "wk:page":"Papallacta"
+    },
+    "wof:country":"EC",
+    "wof:created":1459009728,
+    "wof:geomhash":"b94d2aaa1ed234440ed108d00037b719",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108571837,
+            "locality_id":421192177,
+            "region_id":85670959
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108571837,
+            "locality_id":421192177,
+            "region_id":85670953
+        }
+    ],
+    "wof:id":421192177,
+    "wof:lastmodified":1527716116,
+    "wof:name":"Papallacta",
+    "wof:parent_id":1108571837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.14264,
+    -0.37692,
+    -78.14264,
+    -0.37692
+],
+  "geometry": {"coordinates":[-78.14264,-0.37692],"type":"Point"}
+}

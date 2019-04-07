@@ -1,0 +1,67 @@
+{
+  "id": 1326914675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.39096,-0.06856,-79.39096,-0.06856",
+    "geom:latitude":-0.06856,
+    "geom:longitude":-79.39096,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Plan Piloto",
+    "gn:country_code":"EC",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8472353,
+    "gn:latitude":-0.06856,
+    "gn:longitude":-79.39096,
+    "gn:modification_date":"2013-03-06",
+    "gn:name":"Plan Piloto",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670983,
+        1108570759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8472353
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"c90ecad83b96a61deca25ed0762a902c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108570759,
+            "locality_id":1326914675,
+            "region_id":85670983
+        }
+    ],
+    "wof:id":1326914675,
+    "wof:lastmodified":1536930862,
+    "wof:name":"Plan Piloto",
+    "wof:parent_id":1108570759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.39095999999998,
+    -0.06856,
+    -79.39095999999998,
+    -0.06856
+],
+  "geometry": {"coordinates":[-79.39095999999998,-0.06856],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1327214973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.93251,0.38382,-77.93251,0.38382",
+    "geom:latitude":0.38382,
+    "geom:longitude":-77.93251,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"1005.0",
+    "gn:admin3_code":"100550.0",
+    "gn:asciiname":"Hacienda Pinandro",
+    "gn:country_code":"EC",
+    "gn:dem":2075,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3656466,
+    "gn:latitude":0.38382,
+    "gn:longitude":-77.93251,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Hacienda Pinandro",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670971,
+        1108571433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3656466
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"13b399980420b9ba7cbe8607525f88fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108571433,
+            "locality_id":1327214973,
+            "region_id":85670971
+        }
+    ],
+    "wof:id":1327214973,
+    "wof:lastmodified":1536993997,
+    "wof:name":"Hacienda Pinandro",
+    "wof:parent_id":1108571433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.93251,
+    0.38382,
+    -77.93251,
+    0.38382
+],
+  "geometry": {"coordinates":[-77.93250999999999,0.38382],"type":"Point"}
+}

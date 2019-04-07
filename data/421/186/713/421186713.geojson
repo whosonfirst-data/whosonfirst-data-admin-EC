@@ -1,0 +1,75 @@
+{
+  "id": 421186713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.373167,-0.49777,-76.373167,-0.49777",
+    "geom:latitude":-0.49777,
+    "geom:longitude":-76.373167,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Garzacocha",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Sucumbios",
+    "qs:photos":629,
+    "qs:photos_1k":127,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":629,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1075722,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":376049,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670977,
+        1108572739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":376049,
+        "qs:id":1075722
+    },
+    "wof:country":"EC",
+    "wof:created":1459009489,
+    "wof:geomhash":"94e042f87dd6ed67a68f8914e3094525",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":1108572739,
+            "locality_id":421186713,
+            "region_id":85670977
+        }
+    ],
+    "wof:id":421186713,
+    "wof:lastmodified":1500036687,
+    "wof:name":"Garzacocha",
+    "wof:parent_id":1108572739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.373167,
+    -0.49777,
+    -76.373167,
+    -0.49777
+],
+  "geometry": {"coordinates":[-76.373167,-0.49777],"type":"Point"}
+}

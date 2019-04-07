@@ -1,0 +1,75 @@
+{
+  "id": 421202625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.259649,-0.658478,-78.259649,-0.658478",
+    "geom:latitude":-0.658478,
+    "geom:longitude":-78.259649,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Archidona",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Napo",
+    "qs:photos":124,
+    "qs:photos_1k":25,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":349,
+    "qs:photos_sr":3,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":224868,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":26809492,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":419,
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26809492,
+        "qs:id":224868,
+        "wd:id":"Q920126"
+    },
+    "wof:country":"EC",
+    "wof:created":1459010124,
+    "wof:geomhash":"931c502b940d5971b6334088844cb5dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421202625,
+            "region_id":85670959
+        }
+    ],
+    "wof:id":421202625,
+    "wof:lastmodified":1527716210,
+    "wof:name":"Archidona",
+    "wof:parent_id":85670959,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.259649,
+    -0.658478,
+    -78.259649,
+    -0.658478
+],
+  "geometry": {"coordinates":[-78.259649,-0.658478],"type":"Point"}
+}

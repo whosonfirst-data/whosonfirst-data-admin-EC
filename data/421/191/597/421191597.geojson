@@ -1,0 +1,79 @@
+{
+  "id": 421191597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.206863,0.174064,-78.206863,0.174064",
+    "geom:latitude":0.174064,
+    "geom:longitude":-78.206863,
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Gonzalez Suarez",
+    "qs:name_adm0":"Ecuador",
+    "qs:name_adm1":"Imbabura",
+    "qs:photos":12,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":12,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":61279,
+    "qs:woe_adm0":23424801,
+    "qs:woe_id":26810003,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670971,
+        421171751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26810003,
+        "qs:id":61279,
+        "qs_pg:id":61279
+    },
+    "wof:country":"EC",
+    "wof:created":1459009698,
+    "wof:geomhash":"403897e13b78eeda1d8612e3635e4c8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421171751,
+            "localadmin_id":421191597,
+            "region_id":85670971
+        }
+    ],
+    "wof:id":421191597,
+    "wof:lastmodified":1497046108,
+    "wof:name":"Gonzalez Suarez",
+    "wof:parent_id":421171751,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.206863,
+    0.174064,
+    -78.206863,
+    0.174064
+],
+  "geometry": {"coordinates":[-78.206863,0.174064],"type":"Point"}
+}

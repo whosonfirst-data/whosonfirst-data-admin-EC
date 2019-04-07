@@ -1,0 +1,63 @@
+{
+  "id": 1209371617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.26113,-0.27419,-79.26113,-0.27419",
+    "geom:latitude":-0.27419,
+    "geom:longitude":-79.26113,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"2301.0",
+    "gn:admin3_code":"230152.0",
+    "gn:asciiname":"El Poste",
+    "gn:country_code":"EC",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8472581,
+    "gn:latitude":-0.27419,
+    "gn:longitude":-79.26113,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"El Poste",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
+    "iso:country":"EC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8472581
+    },
+    "wof:country":"EC",
+    "wof:geomhash":"2956b60e308da3c6a48757b35b412a9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632261,
+            "locality_id":1209371617
+        }
+    ],
+    "wof:id":1209371617,
+    "wof:lastmodified":1536289087,
+    "wof:name":"El Poste",
+    "wof:parent_id":85632261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ec",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.26113000000002,
+    -0.27419,
+    -79.26113000000002,
+    -0.27419
+],
+  "geometry": {"coordinates":[-79.26113000000002,-0.27419],"type":"Point"}
+}
