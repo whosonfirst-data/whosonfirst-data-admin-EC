@@ -10,6 +10,12 @@
     "geom:latitude":-0.639752,
     "geom:longitude":-76.76771,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Orellana Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":-0.7228,
     "lbl:longitude":-76.832853,
     "meso:admin_1":"Orellana",
@@ -210,7 +216,7 @@
         }
     ],
     "wof:id":421185491,
-    "wof:lastmodified":1536616031,
+    "wof:lastmodified":1553717440,
     "wof:name":"Orellana",
     "wof:parent_id":85670941,
     "wof:placetype":"county",

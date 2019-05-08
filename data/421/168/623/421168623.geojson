@@ -10,6 +10,15 @@
     "geom:latitude":-0.399134,
     "geom:longitude":-78.44149,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Rumi\u00f1ahui Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Rumi\u00f1ahui"
+    ],
     "lbl:latitude":-0.396952,
     "lbl:longitude":-78.437888,
     "meso:admin_1":"Pichincha",
@@ -49,6 +58,9 @@
         "Rumi\u00f1awi"
     ],
     "name:spa_x_preferred":[
+        "Rumi\u00f1ahui"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Rumi\u00f1ahui"
     ],
     "name:swe_x_preferred":[
@@ -116,7 +128,7 @@
         }
     ],
     "wof:id":421168623,
-    "wof:lastmodified":1536615896,
+    "wof:lastmodified":1555047454,
     "wof:name":"Rumi\u00f1ahui",
     "wof:parent_id":85670945,
     "wof:placetype":"county",

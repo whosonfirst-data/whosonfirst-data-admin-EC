@@ -10,6 +10,15 @@
     "geom:latitude":-2.155779,
     "geom:longitude":-79.201152,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "General Antonio Elizalde Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n General Antonio Elizalde"
+    ],
     "lbl:latitude":-2.161318,
     "lbl:longitude":-79.21995,
     "meso:admin_1":"Guayas",
@@ -48,6 +57,9 @@
         "Bucay kiti"
     ],
     "name:spa_x_preferred":[
+        "General Antonio Elizalde"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n General Antonio Elizalde"
     ],
     "src:geom":"meso",
@@ -86,7 +98,7 @@
         }
     ],
     "wof:id":1108569443,
-    "wof:lastmodified":1536615230,
+    "wof:lastmodified":1555047460,
     "wof:name":"General Antonio Elizalde",
     "wof:parent_id":85670917,
     "wof:placetype":"county",

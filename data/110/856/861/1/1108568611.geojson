@@ -10,6 +10,15 @@
     "geom:latitude":-1.670951,
     "geom:longitude":-79.142349,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Chimbo Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Chimbo"
+    ],
     "lbl:latitude":-1.66897,
     "lbl:longitude":-79.152022,
     "meso:admin_1":"Bolivar",
@@ -48,6 +57,9 @@
         "Chimpu kiti"
     ],
     "name:spa_x_preferred":[
+        "Chimbo"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Chimbo"
     ],
     "name:swe_x_preferred":[
@@ -89,7 +101,7 @@
         }
     ],
     "wof:id":1108568611,
-    "wof:lastmodified":1536615229,
+    "wof:lastmodified":1555047459,
     "wof:name":"Chimbo",
     "wof:parent_id":85670905,
     "wof:placetype":"county",

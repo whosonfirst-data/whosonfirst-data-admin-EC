@@ -10,6 +10,15 @@
     "geom:latitude":-0.249126,
     "geom:longitude":-77.670371,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "El Chaco Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n El Chaco"
+    ],
     "lbl:latitude":-0.25706,
     "lbl:longitude":-77.670462,
     "meso:admin_1":"Napo",
@@ -51,6 +60,9 @@
         "\u042d\u043b\u044c-\u0427\u0430\u043a\u043e"
     ],
     "name:spa_x_preferred":[
+        "El Chaco"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n El Chaco"
     ],
     "name:xmf_x_preferred":[
@@ -92,7 +104,7 @@
         }
     ],
     "wof:id":1108569057,
-    "wof:lastmodified":1536615230,
+    "wof:lastmodified":1555047460,
     "wof:name":"El Chaco",
     "wof:parent_id":85670953,
     "wof:placetype":"county",

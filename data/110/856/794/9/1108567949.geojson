@@ -10,6 +10,15 @@
     "geom:latitude":-1.287742,
     "geom:longitude":-79.906617,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Balzar Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Balzar"
+    ],
     "lbl:latitude":-1.286932,
     "lbl:longitude":-79.906788,
     "meso:admin_1":"Guayas",
@@ -51,6 +60,9 @@
         "Balzar Canton"
     ],
     "name:spa_x_preferred":[
+        "Balzar"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Balzar"
     ],
     "name:swe_x_preferred":[
@@ -92,7 +104,7 @@
         }
     ],
     "wof:id":1108567949,
-    "wof:lastmodified":1536615229,
+    "wof:lastmodified":1555047459,
     "wof:name":"Balzar",
     "wof:parent_id":85670917,
     "wof:placetype":"county",

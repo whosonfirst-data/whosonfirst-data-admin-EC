@@ -10,6 +10,15 @@
     "geom:latitude":-1.71728,
     "geom:longitude":-78.634856,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Riobamba Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Riobamba"
+    ],
     "lbl:latitude":-1.701712,
     "lbl:longitude":-78.67297,
     "meso:admin_1":"Chimborazo",
@@ -52,6 +61,9 @@
         "Rispampa kiti"
     ],
     "name:spa_x_preferred":[
+        "Riobamba"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Riobamba"
     ],
     "name:swe_x_preferred":[
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":421185337,
-    "wof:lastmodified":1536616029,
+    "wof:lastmodified":1555047456,
     "wof:name":"Riobamba",
     "wof:parent_id":85670931,
     "wof:placetype":"county",

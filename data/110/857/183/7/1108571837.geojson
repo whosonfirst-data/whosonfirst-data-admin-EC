@@ -10,6 +10,15 @@
     "geom:latitude":-0.466589,
     "geom:longitude":-77.972819,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Quijos Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Quijos"
+    ],
     "lbl:latitude":-0.484765,
     "lbl:longitude":-78.025721,
     "meso:admin_1":"Napo",
@@ -48,6 +57,9 @@
         "\u041a\u0438\u0445\u043e\u0441"
     ],
     "name:spa_x_preferred":[
+        "Quijos"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Quijos"
     ],
     "name:swe_x_preferred":[
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":1108571837,
-    "wof:lastmodified":1536615232,
+    "wof:lastmodified":1555047462,
     "wof:name":"Quijos",
     "wof:parent_id":-1,
     "wof:placetype":"county",

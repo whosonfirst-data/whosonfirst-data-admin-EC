@@ -10,6 +10,15 @@
     "geom:latitude":-1.848071,
     "geom:longitude":-80.287429,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Pedro Carbo Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Pedro Carbo"
+    ],
     "lbl:latitude":-1.826689,
     "lbl:longitude":-80.289876,
     "meso:admin_1":"Guayas",
@@ -48,6 +57,9 @@
         "Pedro Carbo kiti"
     ],
     "name:spa_x_preferred":[
+        "Pedro Carbo"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Pedro Carbo"
     ],
     "src:geom":"meso",
@@ -86,7 +98,7 @@
         }
     ],
     "wof:id":1108571289,
-    "wof:lastmodified":1536615232,
+    "wof:lastmodified":1555047462,
     "wof:name":"Pedro Carbo",
     "wof:parent_id":85670917,
     "wof:placetype":"county",

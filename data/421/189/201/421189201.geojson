@@ -10,6 +10,12 @@
     "geom:latitude":-2.237776,
     "geom:longitude":-80.890467,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "La Libertad Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":-2.235297,
     "lbl:longitude":-80.892634,
     "meso:admin_1":"Santa Elena",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":421189201,
-    "wof:lastmodified":1536616075,
+    "wof:lastmodified":1553717484,
     "wof:name":"La Libertad",
     "wof:parent_id":85670979,
     "wof:placetype":"county",

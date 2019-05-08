@@ -10,6 +10,12 @@
     "geom:latitude":-0.640614,
     "geom:longitude":-77.34938,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Loreto Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":-0.649732,
     "lbl:longitude":-77.330232,
     "meso:admin_1":"Orellana",
@@ -180,7 +186,7 @@
         }
     ],
     "wof:id":421184851,
-    "wof:lastmodified":1536616024,
+    "wof:lastmodified":1553717432,
     "wof:name":"Loreto",
     "wof:parent_id":85670941,
     "wof:placetype":"county",

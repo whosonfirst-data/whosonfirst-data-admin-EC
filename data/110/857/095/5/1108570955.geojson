@@ -10,6 +10,15 @@
     "geom:latitude":-1.635019,
     "geom:longitude":-79.917927,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Palestina Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Palestina"
+    ],
     "lbl:latitude":-1.640373,
     "lbl:longitude":-79.919181,
     "meso:admin_1":"Guayas",
@@ -51,6 +60,9 @@
         "Palestina Canton"
     ],
     "name:spa_x_preferred":[
+        "Palestina"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Palestina"
     ],
     "src:geom":"meso",
@@ -89,7 +101,7 @@
         }
     ],
     "wof:id":1108570955,
-    "wof:lastmodified":1536615232,
+    "wof:lastmodified":1555047462,
     "wof:name":"Palestina",
     "wof:parent_id":85670917,
     "wof:placetype":"county",

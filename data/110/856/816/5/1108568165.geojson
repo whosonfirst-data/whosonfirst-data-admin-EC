@@ -10,6 +10,12 @@
     "geom:latitude":-0.718106,
     "geom:longitude":-79.478629,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Buena F\u00e9 Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":-0.773921,
     "lbl:longitude":-79.520964,
     "meso:admin_1":"Los Rios",
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1108568165,
-    "wof:lastmodified":1536615229,
+    "wof:lastmodified":1553718173,
     "wof:name":"Buena F\u00e9",
     "wof:parent_id":85670923,
     "wof:placetype":"county",

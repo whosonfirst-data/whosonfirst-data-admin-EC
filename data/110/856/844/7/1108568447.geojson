@@ -10,6 +10,15 @@
     "geom:latitude":-1.348089,
     "geom:longitude":-78.608865,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Cevallos Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Cevallos"
+    ],
     "lbl:latitude":-1.350513,
     "lbl:longitude":-78.608387,
     "meso:admin_1":"Tungurahua",
@@ -45,6 +54,9 @@
         "Cevallos kiti"
     ],
     "name:spa_x_preferred":[
+        "Cevallos"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Cevallos"
     ],
     "name:xmf_x_preferred":[
@@ -86,7 +98,7 @@
         }
     ],
     "wof:id":1108568447,
-    "wof:lastmodified":1536615229,
+    "wof:lastmodified":1555047459,
     "wof:name":"Cevallos",
     "wof:parent_id":85670959,
     "wof:placetype":"county",

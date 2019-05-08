@@ -10,6 +10,15 @@
     "geom:latitude":-3.744167,
     "geom:longitude":-78.661948,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Yanzatza Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Yantzaza"
+    ],
     "lbl:latitude":-3.772807,
     "lbl:longitude":-78.717887,
     "meso:admin_1":"Zamora Chinchipe",
@@ -39,6 +48,9 @@
         "Yantzaza kiti"
     ],
     "name:spa_x_preferred":[
+        "Yantzaza"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Yantzaza"
     ],
     "name:swe_x_preferred":[
@@ -83,7 +95,7 @@
         }
     ],
     "wof:id":1108573331,
-    "wof:lastmodified":1536615234,
+    "wof:lastmodified":1555047464,
     "wof:name":"Yanzatza",
     "wof:parent_id":85670895,
     "wof:placetype":"county",

@@ -10,6 +10,15 @@
     "geom:latitude":-1.096883,
     "geom:longitude":-79.148081,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Pangua Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Pangua"
+    ],
     "lbl:latitude":-1.074639,
     "lbl:longitude":-79.192551,
     "meso:admin_1":"Cotopaxi",
@@ -48,6 +57,9 @@
         "Panwa kiti"
     ],
     "name:spa_x_preferred":[
+        "Pangua"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Pangua"
     ],
     "name:swe_x_preferred":[
@@ -89,7 +101,7 @@
         }
     ],
     "wof:id":1108571101,
-    "wof:lastmodified":1536615232,
+    "wof:lastmodified":1555047462,
     "wof:name":"Pangua",
     "wof:parent_id":85670915,
     "wof:placetype":"county",

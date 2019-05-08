@@ -10,6 +10,15 @@
     "geom:latitude":-3.61963,
     "geom:longitude":-78.535596,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "El Pangui Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n El Pangui"
+    ],
     "lbl:latitude":-3.62186,
     "lbl:longitude":-78.515843,
     "meso:admin_1":"Zamora Chinchipe",
@@ -45,6 +54,9 @@
         "Panki kiti"
     ],
     "name:spa_x_preferred":[
+        "El Pangui"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n El Pangui"
     ],
     "name:xmf_x_preferred":[
@@ -86,7 +98,7 @@
         }
     ],
     "wof:id":1108569209,
-    "wof:lastmodified":1536615230,
+    "wof:lastmodified":1555047460,
     "wof:name":"El Pangui",
     "wof:parent_id":85670895,
     "wof:placetype":"county",

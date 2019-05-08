@@ -10,6 +10,15 @@
     "geom:latitude":-2.291474,
     "geom:longitude":-78.74029,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Alaus\u00ed Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Alaus\u00ed"
+    ],
     "lbl:latitude":-2.294813,
     "lbl:longitude":-78.710211,
     "meso:admin_1":"Chimborazo",
@@ -55,6 +64,9 @@
         "Alawsi kiti"
     ],
     "name:spa_x_preferred":[
+        "Alaus\u00ed"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Alaus\u00ed"
     ],
     "name:swe_x_preferred":[
@@ -120,7 +132,7 @@
         }
     ],
     "wof:id":421196577,
-    "wof:lastmodified":1536616122,
+    "wof:lastmodified":1555047458,
     "wof:name":"Alaus\u00ed",
     "wof:parent_id":85670931,
     "wof:placetype":"county",

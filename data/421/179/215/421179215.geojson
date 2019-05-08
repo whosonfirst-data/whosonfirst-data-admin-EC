@@ -10,6 +10,15 @@
     "geom:latitude":-2.330366,
     "geom:longitude":-78.905118,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Chunchi Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Chunchi"
+    ],
     "lbl:latitude":-2.328481,
     "lbl:longitude":-78.895126,
     "meso:admin_1":"Chimborazo",
@@ -49,6 +58,9 @@
         "Chunchi kiti"
     ],
     "name:spa_x_preferred":[
+        "Chunchi"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Chunchi"
     ],
     "name:swe_x_preferred":[
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":421179215,
-    "wof:lastmodified":1536615964,
+    "wof:lastmodified":1555047455,
     "wof:name":"Chunchi",
     "wof:parent_id":85670931,
     "wof:placetype":"county",

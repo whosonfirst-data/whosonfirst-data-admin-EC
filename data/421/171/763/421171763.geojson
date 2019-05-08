@@ -10,6 +10,12 @@
     "geom:latitude":0.997285,
     "geom:longitude":-78.676543,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "San Lorenzo Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":0.989265,
     "lbl:longitude":-78.678034,
     "meso:admin_1":"Esmeraldas",
@@ -186,7 +192,7 @@
         }
     ],
     "wof:id":421171763,
-    "wof:lastmodified":1536615933,
+    "wof:lastmodified":1553717331,
     "wof:name":"San Lorenzo",
     "wof:parent_id":85670963,
     "wof:placetype":"county",

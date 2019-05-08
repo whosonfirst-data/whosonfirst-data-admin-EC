@@ -10,6 +10,12 @@
     "geom:latitude":-1.546776,
     "geom:longitude":-79.542566,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Pueblo Viejo Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":-1.541036,
     "lbl:longitude":-79.543623,
     "meso:admin_1":"Los Rios",
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1108571631,
-    "wof:lastmodified":1536615232,
+    "wof:lastmodified":1553718176,
     "wof:name":"Pueblo Viejo",
     "wof:parent_id":85670923,
     "wof:placetype":"county",

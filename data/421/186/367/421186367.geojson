@@ -10,6 +10,15 @@
     "geom:latitude":-3.328213,
     "geom:longitude":-79.117671,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Nab\u00f3n Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Nab\u00f3n"
+    ],
     "lbl:latitude":-3.334481,
     "lbl:longitude":-79.089543,
     "meso:admin_1":"Azuay",
@@ -55,6 +64,9 @@
         "Nab\u00f3n kiti"
     ],
     "name:spa_x_preferred":[
+        "Nab\u00f3n"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Nab\u00f3n"
     ],
     "name:swe_x_preferred":[
@@ -122,7 +134,7 @@
         }
     ],
     "wof:id":421186367,
-    "wof:lastmodified":1536616035,
+    "wof:lastmodified":1555047456,
     "wof:name":"Nab\u00f3n",
     "wof:parent_id":85670885,
     "wof:placetype":"county",

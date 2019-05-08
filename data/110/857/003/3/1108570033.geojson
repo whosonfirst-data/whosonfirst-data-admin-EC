@@ -10,6 +10,15 @@
     "geom:latitude":-1.284734,
     "geom:longitude":-79.289398,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Las Naves Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Las Naves"
+    ],
     "lbl:latitude":-1.29056,
     "lbl:longitude":-79.287916,
     "meso:admin_1":"Bolivar",
@@ -51,6 +60,9 @@
         "Wampukuna kiti"
     ],
     "name:spa_x_preferred":[
+        "Las Naves"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Las Naves"
     ],
     "name:urd_x_preferred":[
@@ -92,7 +104,7 @@
         }
     ],
     "wof:id":1108570033,
-    "wof:lastmodified":1536615231,
+    "wof:lastmodified":1555047461,
     "wof:name":"Las Naves",
     "wof:parent_id":85670905,
     "wof:placetype":"county",

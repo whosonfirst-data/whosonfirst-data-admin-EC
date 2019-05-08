@@ -10,6 +10,15 @@
     "geom:latitude":0.337775,
     "geom:longitude":-78.197465,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Antonio Ante Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Antonio Ante"
+    ],
     "lbl:latitude":0.344926,
     "lbl:longitude":-78.205944,
     "meso:admin_1":"Imbabura",
@@ -52,6 +61,9 @@
         "Hatuntaki kiti"
     ],
     "name:spa_x_preferred":[
+        "Antonio Ante"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Antonio Ante"
     ],
     "name:swe_x_preferred":[
@@ -120,7 +132,7 @@
         }
     ],
     "wof:id":421169627,
-    "wof:lastmodified":1536615901,
+    "wof:lastmodified":1555047454,
     "wof:name":"Antonio Ante",
     "wof:parent_id":85670971,
     "wof:placetype":"county",

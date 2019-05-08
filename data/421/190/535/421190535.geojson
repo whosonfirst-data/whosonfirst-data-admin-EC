@@ -10,6 +10,15 @@
     "geom:latitude":-0.32731,
     "geom:longitude":-79.168885,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Santo Domingo de los Colorados County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Santo Domingo de los Colorados"
+    ],
     "lbl:latitude":-0.310412,
     "lbl:longitude":-79.175133,
     "meso:admin_1":"Santo Domingo de los Ts\u00e1chilas",
@@ -24,6 +33,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Santo Domingo de los Colorados"
+    ],
+    "name:spa_x_preferred":[
+        "Santo Domingo de los Colorados"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -70,7 +85,7 @@
         }
     ],
     "wof:id":421190535,
-    "wof:lastmodified":1536616081,
+    "wof:lastmodified":1555092024,
     "wof:name":"Santo Domingo de los Colorados",
     "wof:parent_id":85670983,
     "wof:placetype":"county",

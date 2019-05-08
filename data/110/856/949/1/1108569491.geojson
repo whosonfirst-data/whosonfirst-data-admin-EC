@@ -10,6 +10,15 @@
     "geom:latitude":-3.176621,
     "geom:longitude":-79.158295,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Gir\u00f3n Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Gir\u00f3n"
+    ],
     "lbl:latitude":-3.167975,
     "lbl:longitude":-79.148411,
     "meso:admin_1":"Azuay",
@@ -51,6 +60,9 @@
         "Gir\u00f3n kiti"
     ],
     "name:spa_x_preferred":[
+        "Gir\u00f3n"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Gir\u00f3n"
     ],
     "name:swe_x_preferred":[
@@ -92,7 +104,7 @@
         }
     ],
     "wof:id":1108569491,
-    "wof:lastmodified":1536615230,
+    "wof:lastmodified":1555047460,
     "wof:name":"Gir\u00f3n",
     "wof:parent_id":85670885,
     "wof:placetype":"county",

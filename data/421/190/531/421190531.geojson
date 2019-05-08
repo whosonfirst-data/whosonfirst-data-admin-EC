@@ -10,6 +10,15 @@
     "geom:latitude":0.048828,
     "geom:longitude":-79.046738,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "San Miguel de los Bancos Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n San Miguel de los Bancos"
+    ],
     "lbl:latitude":-0.032136,
     "lbl:longitude":-78.901302,
     "meso:admin_1":"Pichincha",
@@ -25,6 +34,9 @@
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
+        "San Miguel de los Bancos"
+    ],
+    "name:spa_x_preferred":[
         "San Miguel de los Bancos"
     ],
     "qs:gn_country":null,
@@ -85,7 +97,7 @@
         }
     ],
     "wof:id":421190531,
-    "wof:lastmodified":1536616081,
+    "wof:lastmodified":1555047457,
     "wof:name":"San Miguel de los Bancos",
     "wof:parent_id":85670945,
     "wof:placetype":"county",

@@ -10,6 +10,15 @@
     "geom:latitude":-4.328422,
     "geom:longitude":-79.920499,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Macar\u00e1 Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Macar\u00e1"
+    ],
     "lbl:latitude":-4.303052,
     "lbl:longitude":-79.933855,
     "meso:admin_1":"Loja",
@@ -46,6 +55,9 @@
         "Makara kiti"
     ],
     "name:spa_x_preferred":[
+        "Macar\u00e1"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Macar\u00e1"
     ],
     "name:swe_x_preferred":[
@@ -113,7 +125,7 @@
         }
     ],
     "wof:id":421191233,
-    "wof:lastmodified":1536616088,
+    "wof:lastmodified":1555047457,
     "wof:name":"Macar\u00e1",
     "wof:parent_id":85670891,
     "wof:placetype":"county",

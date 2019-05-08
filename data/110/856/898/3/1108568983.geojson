@@ -10,6 +10,15 @@
     "geom:latitude":-1.453606,
     "geom:longitude":-79.258428,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Echeand\u00eda Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Echeand\u00eda"
+    ],
     "lbl:latitude":-1.459596,
     "lbl:longitude":-79.265412,
     "meso:admin_1":"Bolivar",
@@ -48,6 +57,9 @@
         "Echeand\u00eda kiti"
     ],
     "name:spa_x_preferred":[
+        "Echeand\u00eda"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Echeand\u00eda"
     ],
     "src:geom":"meso",
@@ -86,7 +98,7 @@
         }
     ],
     "wof:id":1108568983,
-    "wof:lastmodified":1536615230,
+    "wof:lastmodified":1555047459,
     "wof:name":"Echeand\u00eda",
     "wof:parent_id":85670905,
     "wof:placetype":"county",

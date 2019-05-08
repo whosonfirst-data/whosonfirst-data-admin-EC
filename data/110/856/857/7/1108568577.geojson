@@ -10,6 +10,15 @@
     "geom:latitude":-2.009235,
     "geom:longitude":-79.119397,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Chillanes Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Chillanes"
+    ],
     "lbl:latitude":-2.003597,
     "lbl:longitude":-79.121923,
     "meso:admin_1":"Bolivar",
@@ -48,6 +57,9 @@
         "Chillanes kiti"
     ],
     "name:spa_x_preferred":[
+        "Chillanes"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Chillanes"
     ],
     "name:swe_x_preferred":[
@@ -89,7 +101,7 @@
         }
     ],
     "wof:id":1108568577,
-    "wof:lastmodified":1536615229,
+    "wof:lastmodified":1555047459,
     "wof:name":"Chillanes",
     "wof:parent_id":85670905,
     "wof:placetype":"county",

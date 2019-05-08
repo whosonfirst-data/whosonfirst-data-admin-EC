@@ -10,6 +10,15 @@
     "geom:latitude":-3.80337,
     "geom:longitude":-80.06514,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Las Lajas Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Las Lajas"
+    ],
     "lbl:latitude":-3.803698,
     "lbl:longitude":-80.056215,
     "meso:admin_1":"El Oro",
@@ -51,6 +60,9 @@
         "Lajas kiti"
     ],
     "name:spa_x_preferred":[
+        "Las Lajas"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Las Lajas"
     ],
     "name:urd_x_preferred":[
@@ -92,7 +104,7 @@
         }
     ],
     "wof:id":1108570011,
-    "wof:lastmodified":1536615231,
+    "wof:lastmodified":1555047461,
     "wof:name":"Las Lajas",
     "wof:parent_id":85670887,
     "wof:placetype":"county",

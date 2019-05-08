@@ -10,6 +10,15 @@
     "geom:latitude":-3.127851,
     "geom:longitude":-78.854731,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Sigsig Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n S\u00edgsig"
+    ],
     "lbl:latitude":-3.135045,
     "lbl:longitude":-78.852009,
     "meso:admin_1":"Azuay",
@@ -48,6 +57,9 @@
         "Siksik kiti"
     ],
     "name:spa_x_preferred":[
+        "S\u00edgsig"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n S\u00edgsig"
     ],
     "name:swe_x_preferred":[
@@ -89,7 +101,7 @@
         }
     ],
     "wof:id":1108572789,
-    "wof:lastmodified":1536615233,
+    "wof:lastmodified":1555047463,
     "wof:name":"Sigsig",
     "wof:parent_id":85670885,
     "wof:placetype":"county",

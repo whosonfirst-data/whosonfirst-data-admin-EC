@@ -10,6 +10,12 @@
     "geom:latitude":-1.057744,
     "geom:longitude":-78.612807,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Salcedo Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":-1.106027,
     "lbl:longitude":-78.668629,
     "meso:admin_1":"Cotopaxi",
@@ -144,7 +150,7 @@
         }
     ],
     "wof:id":421171759,
-    "wof:lastmodified":1536615933,
+    "wof:lastmodified":1553717332,
     "wof:name":"Salcedo",
     "wof:parent_id":85670915,
     "wof:placetype":"county",

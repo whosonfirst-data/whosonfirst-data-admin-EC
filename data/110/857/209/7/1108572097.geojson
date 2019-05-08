@@ -10,6 +10,15 @@
     "geom:latitude":-3.261372,
     "geom:longitude":-78.381818,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "San Juan Bosco Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n San Juan Bosco"
+    ],
     "lbl:latitude":-3.242725,
     "lbl:longitude":-78.444383,
     "meso:admin_1":"Morona Santiago",
@@ -45,6 +54,9 @@
         "San Juan Bosco kiti"
     ],
     "name:spa_x_preferred":[
+        "San Juan Bosco"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n San Juan Bosco"
     ],
     "name:xmf_x_preferred":[
@@ -86,7 +98,7 @@
         }
     ],
     "wof:id":1108572097,
-    "wof:lastmodified":1536615232,
+    "wof:lastmodified":1555047462,
     "wof:name":"San Juan Bosco",
     "wof:parent_id":85670935,
     "wof:placetype":"county",

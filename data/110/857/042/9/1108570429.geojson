@@ -10,6 +10,15 @@
     "geom:latitude":-1.803174,
     "geom:longitude":-79.315303,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Montalvo Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Montalvo"
+    ],
     "lbl:latitude":-1.812928,
     "lbl:longitude":-79.313267,
     "meso:admin_1":"Los Rios",
@@ -48,6 +57,9 @@
         "Montalvo Llaqta"
     ],
     "name:spa_x_preferred":[
+        "Montalvo"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Montalvo"
     ],
     "src:geom":"meso",
@@ -86,7 +98,7 @@
         }
     ],
     "wof:id":1108570429,
-    "wof:lastmodified":1536615231,
+    "wof:lastmodified":1555047461,
     "wof:name":"Montalvo",
     "wof:parent_id":85670923,
     "wof:placetype":"county",

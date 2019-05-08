@@ -10,6 +10,15 @@
     "geom:latitude":-3.738775,
     "geom:longitude":-79.501059,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Portovelo Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Portovelo"
+    ],
     "lbl:latitude":-3.744035,
     "lbl:longitude":-79.466547,
     "meso:admin_1":"El Oro",
@@ -49,6 +58,9 @@
         "Portovelo kiti"
     ],
     "name:spa_x_preferred":[
+        "Portovelo"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Portovelo"
     ],
     "name:swe_x_preferred":[
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":421189213,
-    "wof:lastmodified":1536616075,
+    "wof:lastmodified":1555047456,
     "wof:name":"Portovelo",
     "wof:parent_id":85670887,
     "wof:placetype":"county",

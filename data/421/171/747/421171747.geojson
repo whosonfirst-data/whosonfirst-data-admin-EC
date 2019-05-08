@@ -10,6 +10,12 @@
     "geom:latitude":0.079067,
     "geom:longitude":-77.5805,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Gonzalo Pizarro Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":0.082578,
     "lbl:longitude":-77.544822,
     "meso:admin_1":"Sucumbios",
@@ -162,7 +168,7 @@
         }
     ],
     "wof:id":421171747,
-    "wof:lastmodified":1536615933,
+    "wof:lastmodified":1553717332,
     "wof:name":"Gonzalo Pizarro",
     "wof:parent_id":85670977,
     "wof:placetype":"county",

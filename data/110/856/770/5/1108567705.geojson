@@ -10,6 +10,15 @@
     "geom:latitude":-3.599601,
     "geom:longitude":-80.08963,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Arenillas Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Arenillas"
+    ],
     "lbl:latitude":-3.618197,
     "lbl:longitude":-80.091782,
     "meso:admin_1":"El Oro",
@@ -51,6 +60,9 @@
         "Arinillas kiti"
     ],
     "name:spa_x_preferred":[
+        "Arenillas"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Arenillas"
     ],
     "name:swe_x_preferred":[
@@ -92,7 +104,7 @@
         }
     ],
     "wof:id":1108567705,
-    "wof:lastmodified":1536615229,
+    "wof:lastmodified":1555047458,
     "wof:name":"Arenillas",
     "wof:parent_id":85670887,
     "wof:placetype":"county",

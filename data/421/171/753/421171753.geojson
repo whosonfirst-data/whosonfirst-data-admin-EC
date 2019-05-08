@@ -10,6 +10,15 @@
     "geom:latitude":0.05367,
     "geom:longitude":-78.274507,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Pedro Moncayo Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Pedro Moncayo"
+    ],
     "lbl:latitude":0.058822,
     "lbl:longitude":-78.272626,
     "meso:admin_1":"Pichincha",
@@ -49,6 +58,9 @@
         "Pedro Moncayo kiti"
     ],
     "name:spa_x_preferred":[
+        "Pedro Moncayo"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Pedro Moncayo"
     ],
     "name:swe_x_preferred":[
@@ -120,7 +132,7 @@
         }
     ],
     "wof:id":421171753,
-    "wof:lastmodified":1536615933,
+    "wof:lastmodified":1555047454,
     "wof:name":"Pedro Moncayo",
     "wof:parent_id":85670945,
     "wof:placetype":"county",

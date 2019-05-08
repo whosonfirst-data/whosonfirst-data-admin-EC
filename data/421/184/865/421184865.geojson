@@ -10,6 +10,15 @@
     "geom:latitude":-0.641526,
     "geom:longitude":-78.916668,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Sigchos Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Sigchos"
+    ],
     "lbl:latitude":-0.620164,
     "lbl:longitude":-78.903546,
     "meso:admin_1":"Cotopaxi",
@@ -49,6 +58,9 @@
         "Sikchus kiti"
     ],
     "name:spa_x_preferred":[
+        "Sigchos"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Sigchos"
     ],
     "name:swe_x_preferred":[
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":421184865,
-    "wof:lastmodified":1536616024,
+    "wof:lastmodified":1555047456,
     "wof:name":"Sigchos",
     "wof:parent_id":85670915,
     "wof:placetype":"county",

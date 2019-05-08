@@ -10,6 +10,12 @@
     "geom:latitude":0.473429,
     "geom:longitude":-77.908728,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Bol\u00edvar Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":0.501779,
     "lbl:longitude":-77.93293,
     "meso:admin_1":"Carchi",
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1108568073,
-    "wof:lastmodified":1536615229,
+    "wof:lastmodified":1553718174,
     "wof:name":"Bol\u00edvar",
     "wof:parent_id":85670967,
     "wof:placetype":"county",

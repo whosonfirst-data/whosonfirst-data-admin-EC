@@ -10,6 +10,15 @@
     "geom:latitude":-2.752623,
     "geom:longitude":-78.735081,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Paute Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Paute"
+    ],
     "lbl:latitude":-2.750507,
     "lbl:longitude":-78.73305,
     "meso:admin_1":"Azuay",
@@ -49,6 +58,9 @@
         "Pawti kiti"
     ],
     "name:spa_x_preferred":[
+        "Paute"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Paute"
     ],
     "name:swe_x_preferred":[
@@ -113,7 +125,7 @@
         }
     ],
     "wof:id":421193503,
-    "wof:lastmodified":1536616108,
+    "wof:lastmodified":1555047457,
     "wof:name":"Paute",
     "wof:parent_id":85670885,
     "wof:placetype":"county",

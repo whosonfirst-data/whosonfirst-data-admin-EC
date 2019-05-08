@@ -10,6 +10,12 @@
     "geom:latitude":-0.002503,
     "geom:longitude":-78.071374,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Cayambe Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":-0.006504,
     "lbl:longitude":-78.051751,
     "meso:admin_1":"Pichincha",
@@ -132,7 +138,7 @@
         }
     ],
     "wof:id":421197049,
-    "wof:lastmodified":1536616123,
+    "wof:lastmodified":1553717539,
     "wof:name":"Cayambe",
     "wof:parent_id":85670945,
     "wof:placetype":"county",

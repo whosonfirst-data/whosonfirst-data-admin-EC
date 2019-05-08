@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.299512,
-    "geom:area_square_m":3703427942.634582,
+    "geom:area_square_m":3703427942.634808,
     "geom:bbox":"-79.8251356027,0.0689363960796,-78.8214407606,0.685700649242",
     "geom:latitude":0.394056,
     "geom:longitude":-79.427662,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Quinind\u00e9 Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":0.377477,
     "lbl:longitude":-79.503826,
     "meso:admin_1":"Esmeraldas",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1108571921,
-    "wof:lastmodified":1553816453,
+    "wof:lastmodified":1555037624,
     "wof:name":"Quinind\u00e9",
     "wof:parent_id":85670963,
     "wof:placetype":"county",

@@ -10,6 +10,15 @@
     "geom:latitude":-0.439826,
     "geom:longitude":-80.314393,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Sucre Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Sucre"
+    ],
     "lbl:latitude":-0.322179,
     "lbl:longitude":-80.273212,
     "meso:admin_1":"Manabi",
@@ -48,6 +57,9 @@
         "Sucre kiti"
     ],
     "name:spa_x_preferred":[
+        "Sucre"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Sucre"
     ],
     "name:swe_x_preferred":[
@@ -92,7 +104,7 @@
         }
     ],
     "wof:id":1108572865,
-    "wof:lastmodified":1536615233,
+    "wof:lastmodified":1555047463,
     "wof:name":"Sucre",
     "wof:parent_id":85670927,
     "wof:placetype":"county",

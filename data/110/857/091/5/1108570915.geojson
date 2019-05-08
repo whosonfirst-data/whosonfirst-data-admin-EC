@@ -10,6 +10,15 @@
     "geom:latitude":-1.329432,
     "geom:longitude":-79.713384,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Palenque Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Palenque"
+    ],
     "lbl:latitude":-1.31996,
     "lbl:longitude":-79.715406,
     "meso:admin_1":"Los Rios",
@@ -48,6 +57,9 @@
         "Palenque kiti"
     ],
     "name:spa_x_preferred":[
+        "Palenque"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Palenque"
     ],
     "src:geom":"meso",
@@ -86,7 +98,7 @@
         }
     ],
     "wof:id":1108570915,
-    "wof:lastmodified":1536615231,
+    "wof:lastmodified":1555047461,
     "wof:name":"Palenque",
     "wof:parent_id":85670923,
     "wof:placetype":"county",

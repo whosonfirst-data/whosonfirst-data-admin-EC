@@ -10,6 +10,15 @@
     "geom:latitude":-1.895544,
     "geom:longitude":-79.943608,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Daule Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Daule"
+    ],
     "lbl:latitude":-1.896683,
     "lbl:longitude":-79.926093,
     "meso:admin_1":"Guayas",
@@ -49,6 +58,9 @@
         "Daule kiti"
     ],
     "name:spa_x_preferred":[
+        "Daule"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Daule"
     ],
     "name:swe_x_preferred":[
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":421201111,
-    "wof:lastmodified":1536616139,
+    "wof:lastmodified":1555047458,
     "wof:name":"Daule",
     "wof:parent_id":85670917,
     "wof:placetype":"county",

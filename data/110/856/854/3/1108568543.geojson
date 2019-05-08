@@ -10,6 +10,15 @@
     "geom:latitude":-3.438842,
     "geom:longitude":-79.626518,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Chilla Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Chilla"
+    ],
     "lbl:latitude":-3.436856,
     "lbl:longitude":-79.628496,
     "meso:admin_1":"El Oro",
@@ -51,6 +60,9 @@
         "Chilla kiti"
     ],
     "name:spa_x_preferred":[
+        "Chilla"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Chilla"
     ],
     "src:geom":"meso",
@@ -89,7 +101,7 @@
         }
     ],
     "wof:id":1108568543,
-    "wof:lastmodified":1536615229,
+    "wof:lastmodified":1555047459,
     "wof:name":"Chilla",
     "wof:parent_id":85670887,
     "wof:placetype":"county",

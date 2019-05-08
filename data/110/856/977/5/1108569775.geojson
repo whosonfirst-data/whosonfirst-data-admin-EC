@@ -10,6 +10,15 @@
     "geom:latitude":-1.894533,
     "geom:longitude":-78.170022,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Huamboya Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Huamboya"
+    ],
     "lbl:latitude":-1.884387,
     "lbl:longitude":-78.283679,
     "meso:admin_1":"Morona Santiago",
@@ -45,6 +54,9 @@
         "Wampuya kiti"
     ],
     "name:spa_x_preferred":[
+        "Huamboya"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Huamboya"
     ],
     "name:xmf_x_preferred":[
@@ -86,7 +98,7 @@
         }
     ],
     "wof:id":1108569775,
-    "wof:lastmodified":1536615231,
+    "wof:lastmodified":1555047461,
     "wof:name":"Huamboya",
     "wof:parent_id":85670935,
     "wof:placetype":"county",

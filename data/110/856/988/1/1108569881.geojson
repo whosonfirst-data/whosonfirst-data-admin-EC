@@ -10,6 +10,15 @@
     "geom:latitude":-0.536158,
     "geom:longitude":-91.224946,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Isabela Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Isabela"
+    ],
     "lbl:latitude":-0.85538,
     "lbl:longitude":-91.212585,
     "meso:admin_1":"Gal\u00e1pagos",
@@ -39,6 +48,9 @@
         "Isabela"
     ],
     "name:spa_x_preferred":[
+        "Isabela"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Isabela"
     ],
     "name:swe_x_preferred":[
@@ -80,7 +92,7 @@
         }
     ],
     "wof:id":1108569881,
-    "wof:lastmodified":1536615231,
+    "wof:lastmodified":1555047461,
     "wof:name":"Isabela",
     "wof:parent_id":85670899,
     "wof:placetype":"county",

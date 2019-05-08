@@ -10,6 +10,12 @@
     "geom:latitude":-1.720078,
     "geom:longitude":-76.841316,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Pastaza Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":-1.794158,
     "lbl:longitude":-76.756544,
     "meso:admin_1":"Pastaza",
@@ -132,7 +138,7 @@
         }
     ],
     "wof:id":421185499,
-    "wof:lastmodified":1536616032,
+    "wof:lastmodified":1553717440,
     "wof:name":"Pastaza",
     "wof:parent_id":85670949,
     "wof:placetype":"county",

@@ -10,6 +10,15 @@
     "geom:latitude":-4.223093,
     "geom:longitude":-80.323963,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Zapotillo Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Zapotillo"
+    ],
     "lbl:latitude":-4.103487,
     "lbl:longitude":-80.355984,
     "meso:admin_1":"Loja",
@@ -42,6 +51,9 @@
         "Zapotillo kiti"
     ],
     "name:spa_x_preferred":[
+        "Zapotillo"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Zapotillo"
     ],
     "src:geom":"meso",
@@ -80,7 +92,7 @@
         }
     ],
     "wof:id":1108573397,
-    "wof:lastmodified":1536615234,
+    "wof:lastmodified":1555047464,
     "wof:name":"Zapotillo",
     "wof:parent_id":85670891,
     "wof:placetype":"county",

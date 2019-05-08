@@ -10,6 +10,15 @@
     "geom:latitude":-1.658107,
     "geom:longitude":-80.395889,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Paj\u00e1n Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Paj\u00e1n"
+    ],
     "lbl:latitude":-1.639932,
     "lbl:longitude":-80.40941,
     "meso:admin_1":"Manabi",
@@ -25,6 +34,9 @@
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
+        "Paj\u00e1n"
+    ],
+    "name:spa_x_preferred":[
         "Paj\u00e1n"
     ],
     "qs:gn_country":null,
@@ -87,7 +99,7 @@
         }
     ],
     "wof:id":421184203,
-    "wof:lastmodified":1536616018,
+    "wof:lastmodified":1555047455,
     "wof:name":"Paj\u00e1n",
     "wof:parent_id":85670927,
     "wof:placetype":"county",

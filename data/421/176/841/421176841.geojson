@@ -10,6 +10,15 @@
     "geom:latitude":-1.559109,
     "geom:longitude":-80.748637,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Puerto L\u00f3pez Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Puerto L\u00f3pez"
+    ],
     "lbl:latitude":-1.58216,
     "lbl:longitude":-80.747227,
     "meso:admin_1":"Manabi",
@@ -46,6 +55,9 @@
         "Puerto L\u00f3pez kiti"
     ],
     "name:spa_x_preferred":[
+        "Puerto L\u00f3pez"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Puerto L\u00f3pez"
     ],
     "name:xmf_x_preferred":[
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":421176841,
-    "wof:lastmodified":1536615956,
+    "wof:lastmodified":1555047455,
     "wof:name":"Puerto L\u00f3pez",
     "wof:parent_id":85670927,
     "wof:placetype":"county",

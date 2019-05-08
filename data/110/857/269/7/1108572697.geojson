@@ -10,6 +10,15 @@
     "geom:latitude":-2.675892,
     "geom:longitude":-78.560671,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Sevilla de Oro Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Sevilla de Oro"
+    ],
     "lbl:latitude":-2.652704,
     "lbl:longitude":-78.572413,
     "meso:admin_1":"Azuay",
@@ -54,6 +63,9 @@
         "Sevilla de Oro kiti"
     ],
     "name:spa_x_preferred":[
+        "Sevilla de Oro"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Sevilla de Oro"
     ],
     "src:geom":"meso",
@@ -92,7 +104,7 @@
         }
     ],
     "wof:id":1108572697,
-    "wof:lastmodified":1536615233,
+    "wof:lastmodified":1555047463,
     "wof:name":"Sevilla de Oro",
     "wof:parent_id":85670885,
     "wof:placetype":"county",

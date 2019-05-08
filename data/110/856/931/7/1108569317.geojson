@@ -10,6 +10,15 @@
     "geom:latitude":0.823952,
     "geom:longitude":-79.471461,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Esmeraldas Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Esmeraldas"
+    ],
     "lbl:latitude":0.835359,
     "lbl:longitude":-79.464664,
     "meso:admin_1":"Esmeraldas",
@@ -60,6 +69,9 @@
         "Esmeraldas Canton"
     ],
     "name:spa_x_preferred":[
+        "Esmeraldas"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Esmeraldas"
     ],
     "name:swe_x_preferred":[
@@ -101,7 +113,7 @@
         }
     ],
     "wof:id":1108569317,
-    "wof:lastmodified":1536615230,
+    "wof:lastmodified":1555047460,
     "wof:name":"Esmeraldas",
     "wof:parent_id":85670963,
     "wof:placetype":"county",

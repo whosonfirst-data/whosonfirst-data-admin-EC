@@ -10,6 +10,15 @@
     "geom:latitude":0.139246,
     "geom:longitude":-77.217466,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Cascales Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Cascales"
+    ],
     "lbl:latitude":0.130116,
     "lbl:longitude":-77.190601,
     "meso:admin_1":"Sucumbios",
@@ -51,6 +60,9 @@
         "\u041a\u0430\u0441\u043a\u0430\u043b\u0435\u0441"
     ],
     "name:spa_x_preferred":[
+        "Cascales"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Cascales"
     ],
     "name:xmf_x_preferred":[
@@ -92,7 +104,7 @@
         }
     ],
     "wof:id":1108568283,
-    "wof:lastmodified":1536615229,
+    "wof:lastmodified":1555047459,
     "wof:name":"Cascales",
     "wof:parent_id":85670977,
     "wof:placetype":"county",

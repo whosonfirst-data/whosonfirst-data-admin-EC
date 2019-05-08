@@ -10,6 +10,12 @@
     "geom:latitude":0.505603,
     "geom:longitude":-78.170365,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Ibarra Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":0.362341,
     "lbl:longitude":-78.061489,
     "meso:admin_1":"Imbabura",
@@ -123,7 +129,7 @@
         }
     ],
     "wof:id":421171745,
-    "wof:lastmodified":1536615933,
+    "wof:lastmodified":1553717331,
     "wof:name":"Ibarra",
     "wof:parent_id":85670971,
     "wof:placetype":"county",

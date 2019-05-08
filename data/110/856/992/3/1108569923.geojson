@@ -10,6 +10,15 @@
     "geom:latitude":-1.438559,
     "geom:longitude":-80.588774,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Jipijapa Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Jipijapa"
+    ],
     "lbl:latitude":-1.406186,
     "lbl:longitude":-80.57091,
     "meso:admin_1":"Manabi",
@@ -45,6 +54,9 @@
         "Jipijapa kiti"
     ],
     "name:spa_x_preferred":[
+        "Jipijapa"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Jipijapa"
     ],
     "name:swe_x_preferred":[
@@ -89,7 +101,7 @@
         }
     ],
     "wof:id":1108569923,
-    "wof:lastmodified":1536615231,
+    "wof:lastmodified":1555047461,
     "wof:name":"Jipijapa",
     "wof:parent_id":85670927,
     "wof:placetype":"county",

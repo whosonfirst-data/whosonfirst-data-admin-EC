@@ -10,6 +10,15 @@
     "geom:latitude":-0.775265,
     "geom:longitude":-80.270742,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Tosagua Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Tosagua"
+    ],
     "lbl:latitude":-0.774179,
     "lbl:longitude":-80.269018,
     "meso:admin_1":"Manabi",
@@ -45,6 +54,9 @@
         "Tosagua kiti"
     ],
     "name:spa_x_preferred":[
+        "Tosagua"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Tosagua"
     ],
     "name:xmf_x_preferred":[
@@ -86,7 +98,7 @@
         }
     ],
     "wof:id":1108573061,
-    "wof:lastmodified":1536615233,
+    "wof:lastmodified":1555047463,
     "wof:name":"Tosagua",
     "wof:parent_id":85670927,
     "wof:placetype":"county",

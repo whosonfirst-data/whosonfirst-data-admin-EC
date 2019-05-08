@@ -10,6 +10,12 @@
     "geom:latitude":-2.257744,
     "geom:longitude":-80.917971,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Salinas Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":-2.290904,
     "lbl:longitude":-80.886237,
     "meso:admin_1":"Santa Elena",
@@ -183,7 +189,7 @@
         }
     ],
     "wof:id":421203481,
-    "wof:lastmodified":1536616158,
+    "wof:lastmodified":1553717571,
     "wof:name":"Salinas",
     "wof:parent_id":85670979,
     "wof:placetype":"county",

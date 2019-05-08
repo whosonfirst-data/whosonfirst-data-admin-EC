@@ -10,6 +10,12 @@
     "geom:latitude":-0.488552,
     "geom:longitude":-78.627875,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Mej\u00eda Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":-0.479832,
     "lbl:longitude":-78.62297,
     "meso:admin_1":"Pichincha",
@@ -123,7 +129,7 @@
         }
     ],
     "wof:id":421175413,
-    "wof:lastmodified":1536615952,
+    "wof:lastmodified":1553717359,
     "wof:name":"Mej\u00eda",
     "wof:parent_id":85670945,
     "wof:placetype":"county",

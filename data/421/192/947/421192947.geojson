@@ -10,6 +10,12 @@
     "geom:latitude":-3.553874,
     "geom:longitude":-79.713621,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Atahualpa Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":-3.529216,
     "lbl:longitude":-79.733411,
     "meso:admin_1":"El Oro",
@@ -234,7 +240,7 @@
         }
     ],
     "wof:id":421192947,
-    "wof:lastmodified":1536616104,
+    "wof:lastmodified":1553717516,
     "wof:name":"Atahualpa",
     "wof:parent_id":85670887,
     "wof:placetype":"county",

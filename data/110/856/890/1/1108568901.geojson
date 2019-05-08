@@ -10,6 +10,15 @@
     "geom:latitude":-2.223068,
     "geom:longitude":-79.784512,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Dur\u00e1n Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Dur\u00e1n"
+    ],
     "lbl:latitude":-2.218871,
     "lbl:longitude":-79.774399,
     "meso:admin_1":"Guayas",
@@ -54,6 +63,9 @@
         "Dur\u00e1n Canton"
     ],
     "name:spa_x_preferred":[
+        "Dur\u00e1n"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Dur\u00e1n"
     ],
     "src:geom":"meso",
@@ -92,7 +104,7 @@
         }
     ],
     "wof:id":1108568901,
-    "wof:lastmodified":1536615230,
+    "wof:lastmodified":1555047459,
     "wof:name":"Dur\u00e1n",
     "wof:parent_id":85670917,
     "wof:placetype":"county",

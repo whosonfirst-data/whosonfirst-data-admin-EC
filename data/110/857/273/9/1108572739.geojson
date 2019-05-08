@@ -10,6 +10,15 @@
     "geom:latitude":-0.312624,
     "geom:longitude":-76.414226,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Shushufindi Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Shushufindi"
+    ],
     "lbl:latitude":-0.226529,
     "lbl:longitude":-76.623645,
     "meso:admin_1":"Sucumbios",
@@ -48,6 +57,9 @@
         "\u0428\u0443\u0448\u0443\u0444\u0438\u043d\u0434\u0438"
     ],
     "name:spa_x_preferred":[
+        "Shushufindi"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Shushufindi"
     ],
     "name:xmf_x_preferred":[
@@ -89,7 +101,7 @@
         }
     ],
     "wof:id":1108572739,
-    "wof:lastmodified":1536615233,
+    "wof:lastmodified":1555047463,
     "wof:name":"Shushufindi",
     "wof:parent_id":85670977,
     "wof:placetype":"county",

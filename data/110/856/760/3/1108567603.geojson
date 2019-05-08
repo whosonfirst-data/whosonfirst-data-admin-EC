@@ -10,6 +10,15 @@
     "geom:latitude":-1.276341,
     "geom:longitude":-78.748775,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Ambato Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Ambato"
+    ],
     "lbl:latitude":-1.264933,
     "lbl:longitude":-78.768561,
     "meso:admin_1":"Tungurahua",
@@ -48,6 +57,9 @@
         "Ampatu kiti"
     ],
     "name:spa_x_preferred":[
+        "Ambato"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Ambato"
     ],
     "name:swe_x_preferred":[
@@ -92,7 +104,7 @@
         }
     ],
     "wof:id":1108567603,
-    "wof:lastmodified":1536615228,
+    "wof:lastmodified":1555047458,
     "wof:name":"Ambato",
     "wof:parent_id":85670959,
     "wof:placetype":"county",

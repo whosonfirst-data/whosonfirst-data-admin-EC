@@ -10,6 +10,12 @@
     "geom:latitude":-2.556032,
     "geom:longitude":-79.615589,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Naranjal Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":-2.56604,
     "lbl:longitude":-79.611146,
     "meso:admin_1":"Guayas",
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":421171755,
-    "wof:lastmodified":1536615933,
+    "wof:lastmodified":1553717332,
     "wof:name":"Naranjal",
     "wof:parent_id":85670917,
     "wof:placetype":"county",

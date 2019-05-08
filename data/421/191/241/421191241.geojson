@@ -10,6 +10,12 @@
     "geom:latitude":-2.536861,
     "geom:longitude":-77.775113,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Morona Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":-2.484846,
     "lbl:longitude":-77.581235,
     "meso:admin_1":"Morona Santiago",
@@ -132,7 +138,7 @@
         }
     ],
     "wof:id":421191241,
-    "wof:lastmodified":1536616088,
+    "wof:lastmodified":1553717498,
     "wof:name":"Morona",
     "wof:parent_id":85670935,
     "wof:placetype":"county",

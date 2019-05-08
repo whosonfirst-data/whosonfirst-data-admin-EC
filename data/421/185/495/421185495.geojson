@@ -10,6 +10,12 @@
     "geom:latitude":-2.869583,
     "geom:longitude":-79.211658,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Cuenca Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":-2.884379,
     "lbl:longitude":-79.236975,
     "meso:admin_1":"Azuay",
@@ -215,7 +221,7 @@
         }
     ],
     "wof:id":421185495,
-    "wof:lastmodified":1536616031,
+    "wof:lastmodified":1553717438,
     "wof:name":"Cuenca",
     "wof:parent_id":85670885,
     "wof:placetype":"county",

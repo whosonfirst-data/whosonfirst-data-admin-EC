@@ -10,6 +10,12 @@
     "geom:latitude":-2.55702,
     "geom:longitude":-80.434295,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Playas Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":-2.553756,
     "lbl:longitude":-80.432213,
     "meso:admin_1":"Guayas",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":421188127,
-    "wof:lastmodified":1536616049,
+    "wof:lastmodified":1553717463,
     "wof:name":"Playas",
     "wof:parent_id":85670917,
     "wof:placetype":"county",

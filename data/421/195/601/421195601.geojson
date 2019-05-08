@@ -10,6 +10,15 @@
     "geom:latitude":-1.838315,
     "geom:longitude":-79.430424,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Babahoyo Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Babahoyo"
+    ],
     "lbl:latitude":-1.783751,
     "lbl:longitude":-79.534357,
     "meso:admin_1":"Los Rios",
@@ -46,6 +55,9 @@
         "Babahoyo kiti"
     ],
     "name:spa_x_preferred":[
+        "Babahoyo"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Babahoyo"
     ],
     "name:swe_x_preferred":[
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":421195601,
-    "wof:lastmodified":1536616121,
+    "wof:lastmodified":1555047457,
     "wof:name":"Babahoyo",
     "wof:parent_id":85670923,
     "wof:placetype":"county",

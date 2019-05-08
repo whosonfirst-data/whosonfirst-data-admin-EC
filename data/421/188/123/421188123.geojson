@@ -10,6 +10,15 @@
     "geom:latitude":-0.27534,
     "geom:longitude":-75.87817,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Cuyabeno Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Cuyabeno"
+    ],
     "lbl:latitude":-0.28306,
     "lbl:longitude":-75.778918,
     "meso:admin_1":"Sucumbios",
@@ -49,6 +58,9 @@
         "\u041a\u0443\u0439\u0430\u0431\u0435\u043d\u043e"
     ],
     "name:spa_x_preferred":[
+        "Cuyabeno"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Cuyabeno"
     ],
     "name:xmf_x_preferred":[
@@ -113,7 +125,7 @@
         }
     ],
     "wof:id":421188123,
-    "wof:lastmodified":1536616049,
+    "wof:lastmodified":1555047456,
     "wof:name":"Cuyabeno",
     "wof:parent_id":85670977,
     "wof:placetype":"county",

@@ -10,6 +10,15 @@
     "geom:latitude":-1.66775,
     "geom:longitude":-78.110465,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Palora Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Palora"
+    ],
     "lbl:latitude":-1.596073,
     "lbl:longitude":-78.158711,
     "meso:admin_1":"Morona Santiago",
@@ -46,6 +55,9 @@
         "Palura kiti"
     ],
     "name:spa_x_preferred":[
+        "Palora"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Palora"
     ],
     "name:swe_x_preferred":[
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":421201631,
-    "wof:lastmodified":1536616141,
+    "wof:lastmodified":1555047458,
     "wof:name":"Palora",
     "wof:parent_id":85670935,
     "wof:placetype":"county",

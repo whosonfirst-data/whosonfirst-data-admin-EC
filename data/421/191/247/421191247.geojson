@@ -10,6 +10,15 @@
     "geom:latitude":-3.326392,
     "geom:longitude":-79.731133,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Pasaje Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Pasaje"
+    ],
     "lbl:latitude":-3.34158,
     "lbl:longitude":-79.75143,
     "meso:admin_1":"El Oro",
@@ -52,6 +61,9 @@
         "Pasaje kiti"
     ],
     "name:spa_x_preferred":[
+        "Pasaje"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Pasaje"
     ],
     "name:swe_x_preferred":[
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":421191247,
-    "wof:lastmodified":1536616089,
+    "wof:lastmodified":1555047457,
     "wof:name":"Pasaje",
     "wof:parent_id":85670887,
     "wof:placetype":"county",

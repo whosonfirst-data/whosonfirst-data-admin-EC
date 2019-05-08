@@ -10,6 +10,15 @@
     "geom:latitude":-0.999455,
     "geom:longitude":-77.805212,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Tena Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Tena"
+    ],
     "lbl:latitude":-1.045979,
     "lbl:longitude":-77.921077,
     "meso:admin_1":"Napo",
@@ -51,6 +60,9 @@
         "\u0422\u0435\u043d\u0430"
     ],
     "name:spa_x_preferred":[
+        "Tena"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Tena"
     ],
     "name:swe_x_preferred":[
@@ -95,7 +107,7 @@
         }
     ],
     "wof:id":1108572985,
-    "wof:lastmodified":1536615233,
+    "wof:lastmodified":1555047463,
     "wof:name":"Tena",
     "wof:parent_id":85670953,
     "wof:placetype":"county",

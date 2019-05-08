@@ -10,6 +10,15 @@
     "geom:latitude":-2.76288,
     "geom:longitude":-78.936755,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "D\u00e9leg Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n D\u00e9leg"
+    ],
     "lbl:latitude":-2.757779,
     "lbl:longitude":-78.927532,
     "meso:admin_1":"Ca\u00f1ar",
@@ -48,6 +57,9 @@
         "D\u00e9leg kiti"
     ],
     "name:spa_x_preferred":[
+        "D\u00e9leg"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n D\u00e9leg"
     ],
     "src:geom":"meso",
@@ -86,7 +98,7 @@
         }
     ],
     "wof:id":1108568939,
-    "wof:lastmodified":1536615230,
+    "wof:lastmodified":1555047459,
     "wof:name":"D\u00e9leg",
     "wof:parent_id":85670909,
     "wof:placetype":"county",

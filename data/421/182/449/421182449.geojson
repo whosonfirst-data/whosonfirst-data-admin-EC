@@ -10,6 +10,15 @@
     "geom:latitude":-3.986456,
     "geom:longitude":-78.912821,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Zamora Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Zamora"
+    ],
     "lbl:latitude":-4.000761,
     "lbl:longitude":-78.948265,
     "meso:admin_1":"Zamora Chinchipe",
@@ -46,6 +55,9 @@
         "Zamora kiti"
     ],
     "name:spa_x_preferred":[
+        "Zamora"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Zamora"
     ],
     "name:swe_x_preferred":[
@@ -113,7 +125,7 @@
         }
     ],
     "wof:id":421182449,
-    "wof:lastmodified":1536615987,
+    "wof:lastmodified":1555047455,
     "wof:name":"Zamora",
     "wof:parent_id":85670895,
     "wof:placetype":"county",

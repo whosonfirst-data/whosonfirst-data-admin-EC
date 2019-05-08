@@ -10,6 +10,15 @@
     "geom:latitude":-0.885299,
     "geom:longitude":-79.841116,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Pichincha Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Pichincha"
+    ],
     "lbl:latitude":-0.827167,
     "lbl:longitude":-79.807104,
     "meso:admin_1":"Manabi",
@@ -48,6 +57,9 @@
         "Pichincha kiti"
     ],
     "name:spa_x_preferred":[
+        "Pichincha"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Pichincha"
     ],
     "name:xmf_x_preferred":[
@@ -89,7 +101,7 @@
         }
     ],
     "wof:id":1108571403,
-    "wof:lastmodified":1536615232,
+    "wof:lastmodified":1555047462,
     "wof:name":"Pichincha",
     "wof:parent_id":85670927,
     "wof:placetype":"county",

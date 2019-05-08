@@ -10,6 +10,15 @@
     "geom:latitude":-1.334696,
     "geom:longitude":-78.272646,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Ba\u00f1os Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Ba\u00f1os"
+    ],
     "lbl:latitude":-1.345248,
     "lbl:longitude":-78.250857,
     "meso:admin_1":"Tungurahua",
@@ -51,6 +60,9 @@
         "Ba\u00f1os kiti"
     ],
     "name:spa_x_preferred":[
+        "Ba\u00f1os"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Ba\u00f1os"
     ],
     "name:swe_x_preferred":[
@@ -95,7 +107,7 @@
         }
     ],
     "wof:id":1108567995,
-    "wof:lastmodified":1536615229,
+    "wof:lastmodified":1555047459,
     "wof:name":"Ba\u00f1os",
     "wof:parent_id":85670959,
     "wof:placetype":"county",

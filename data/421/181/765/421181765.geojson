@@ -10,6 +10,15 @@
     "geom:latitude":-0.848314,
     "geom:longitude":-89.468327,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "San Crist\u00f3bal Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n San Crist\u00f3bal"
+    ],
     "lbl:latitude":-0.849153,
     "lbl:longitude":-89.433353,
     "meso:admin_1":"Gal\u00e1pagos",
@@ -40,6 +49,9 @@
         "San Crist\u00f3bal"
     ],
     "name:spa_x_preferred":[
+        "San Crist\u00f3bal"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n San Crist\u00f3bal"
     ],
     "name:swe_x_preferred":[
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":421181765,
-    "wof:lastmodified":1536615969,
+    "wof:lastmodified":1555047455,
     "wof:name":"San Crist\u00f3bal",
     "wof:parent_id":85670899,
     "wof:placetype":"county",

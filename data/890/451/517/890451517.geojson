@@ -13,6 +13,15 @@
     "gn:fcode":"ADM2",
     "gn:pop":5000,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "San Fernando Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n San Fernando"
+    ],
     "lbl:latitude":-3.118289,
     "lbl:longitude":-79.278613,
     "meso:admin_1":"Azuay",
@@ -54,6 +63,9 @@
         "San Fernando kiti"
     ],
     "name:spa_x_preferred":[
+        "San Fernando"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n San Fernando"
     ],
     "name:swe_x_preferred":[
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":890451517,
-    "wof:lastmodified":1536617385,
+    "wof:lastmodified":1555047458,
     "wof:name":"San Fernando",
     "wof:parent_id":85670885,
     "wof:placetype":"county",

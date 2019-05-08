@@ -10,6 +10,15 @@
     "geom:latitude":-1.106535,
     "geom:longitude":-80.684102,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Montecristi Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Montecristi"
+    ],
     "lbl:latitude":-1.105944,
     "lbl:longitude":-80.671644,
     "meso:admin_1":"Manabi",
@@ -51,6 +60,9 @@
         "kanton Montecristi"
     ],
     "name:spa_x_preferred":[
+        "Montecristi"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Montecristi"
     ],
     "name:swe_x_preferred":[
@@ -95,7 +107,7 @@
         }
     ],
     "wof:id":1108570471,
-    "wof:lastmodified":1536615231,
+    "wof:lastmodified":1555047461,
     "wof:name":"Montecristi",
     "wof:parent_id":85670927,
     "wof:placetype":"county",

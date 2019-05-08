@@ -10,6 +10,15 @@
     "geom:latitude":-2.487993,
     "geom:longitude":-80.08713,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Guayaquil Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Guayaquil"
+    ],
     "lbl:latitude":-2.230825,
     "lbl:longitude":-80.105739,
     "meso:admin_1":"Guayas",
@@ -58,6 +67,9 @@
         "Guayaquil Canton"
     ],
     "name:spa_x_preferred":[
+        "Guayaquil"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Guayaquil"
     ],
     "name:swe_x_preferred":[
@@ -122,7 +134,7 @@
         }
     ],
     "wof:id":421175423,
-    "wof:lastmodified":1536615952,
+    "wof:lastmodified":1555047454,
     "wof:name":"Guayaquil",
     "wof:parent_id":85670917,
     "wof:placetype":"county",

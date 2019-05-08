@@ -10,6 +10,15 @@
     "geom:latitude":-4.279787,
     "geom:longitude":-79.779007,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Sozoranga Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Sozoranga"
+    ],
     "lbl:latitude":-4.19434,
     "lbl:longitude":-79.795882,
     "meso:admin_1":"Loja",
@@ -42,6 +51,9 @@
         "Sozoranga kiti"
     ],
     "name:spa_x_preferred":[
+        "Sozoranga"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Sozoranga"
     ],
     "name:swe_x_preferred":[
@@ -83,7 +95,7 @@
         }
     ],
     "wof:id":1108572851,
-    "wof:lastmodified":1536615233,
+    "wof:lastmodified":1555047463,
     "wof:name":"Sozoranga",
     "wof:parent_id":85670891,
     "wof:placetype":"county",

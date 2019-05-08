@@ -10,6 +10,15 @@
     "geom:latitude":-4.664015,
     "geom:longitude":-79.116851,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Chinchipe Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Chinchipe"
+    ],
     "lbl:latitude":-4.722868,
     "lbl:longitude":-79.136095,
     "meso:admin_1":"Zamora Chinchipe",
@@ -49,6 +58,9 @@
         "Chinchipi kiti"
     ],
     "name:spa_x_preferred":[
+        "Chinchipe"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Chinchipe"
     ],
     "name:swe_x_preferred":[
@@ -116,7 +128,7 @@
         }
     ],
     "wof:id":421183941,
-    "wof:lastmodified":1536616015,
+    "wof:lastmodified":1555047455,
     "wof:name":"Chinchipe",
     "wof:parent_id":85670895,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-0.9443,
     "geom:longitude":-79.402838,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Quevedo Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":-0.804229,
     "lbl:longitude":-79.344641,
     "meso:admin_1":"Los Rios",
@@ -132,7 +138,7 @@
         }
     ],
     "wof:id":421189215,
-    "wof:lastmodified":1536616075,
+    "wof:lastmodified":1553717486,
     "wof:name":"Quevedo",
     "wof:parent_id":85670923,
     "wof:placetype":"county",

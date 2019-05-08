@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015621,
-    "geom:area_square_m":193108396.547563,
+    "geom:area_square_m":193108396.547593,
     "geom:bbox":"-78.5978332043,-1.47993304786,-78.4612002755,-1.23063697483",
     "geom:latitude":-1.355524,
     "geom:longitude":-78.532743,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "San Pedro de Pelileo Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Pelileo"
+    ],
     "lbl:latitude":-1.358593,
     "lbl:longitude":-78.537378,
     "meso:admin_1":"Tungurahua",
@@ -45,6 +54,9 @@
         "Pelileo kiti"
     ],
     "name:spa_x_preferred":[
+        "Pelileo"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Pelileo"
     ],
     "name:swe_x_preferred":[
@@ -88,7 +100,7 @@
         }
     ],
     "wof:id":1108572289,
-    "wof:lastmodified":1513956299,
+    "wof:lastmodified":1555047463,
     "wof:name":"San Pedro de Pelileo",
     "wof:parent_id":85670959,
     "wof:placetype":"county",

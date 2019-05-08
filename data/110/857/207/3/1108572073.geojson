@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040894,
-    "geom:area_square_m":505314673.426266,
+    "geom:area_square_m":505314673.426096,
     "geom:bbox":"-79.8201178947,-2.31025113741,-79.5120376279,-1.92929324735",
     "geom:latitude":-2.139053,
     "geom:longitude":-79.680259,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "San Jacinto de Yaguac Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Yaguachi"
+    ],
     "lbl:latitude":-2.089833,
     "lbl:longitude":-79.716461,
     "meso:admin_1":"Guayas",
@@ -45,6 +54,9 @@
         "Yawachi kiti"
     ],
     "name:spa_x_preferred":[
+        "Yaguachi"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Yaguachi"
     ],
     "name:swe_x_preferred":[
@@ -88,7 +100,7 @@
         }
     ],
     "wof:id":1108572073,
-    "wof:lastmodified":1513956297,
+    "wof:lastmodified":1555047462,
     "wof:name":"San Jacinto de Yaguac",
     "wof:parent_id":85670917,
     "wof:placetype":"county",

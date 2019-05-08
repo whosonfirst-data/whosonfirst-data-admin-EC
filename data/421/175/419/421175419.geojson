@@ -10,6 +10,15 @@
     "geom:latitude":-1.382244,
     "geom:longitude":-80.373596,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Veinticuatro de Mayo Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Veinticuatro de Mayo"
+    ],
     "lbl:latitude":-1.397323,
     "lbl:longitude":-80.351292,
     "meso:admin_1":"Manabi",
@@ -58,6 +67,9 @@
         "Veinticuatro de Mayo kiti"
     ],
     "name:spa_x_preferred":[
+        "Veinticuatro de Mayo"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Veinticuatro de Mayo"
     ],
     "name:swe_x_preferred":[
@@ -129,7 +141,7 @@
         }
     ],
     "wof:id":421175419,
-    "wof:lastmodified":1536615952,
+    "wof:lastmodified":1555047454,
     "wof:name":"Veinticuatro de Mayo",
     "wof:parent_id":85670927,
     "wof:placetype":"county",

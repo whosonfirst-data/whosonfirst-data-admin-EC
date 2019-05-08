@@ -10,6 +10,15 @@
     "geom:latitude":-2.669351,
     "geom:longitude":-78.959957,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Bibli\u00e1n Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Bibli\u00e1n"
+    ],
     "lbl:latitude":-2.661926,
     "lbl:longitude":-78.948348,
     "meso:admin_1":"Ca\u00f1ar",
@@ -58,6 +67,9 @@
         "Bibli\u00e1n kiti"
     ],
     "name:spa_x_preferred":[
+        "Bibli\u00e1n"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Bibli\u00e1n"
     ],
     "name:swe_x_preferred":[
@@ -125,7 +137,7 @@
         }
     ],
     "wof:id":421183023,
-    "wof:lastmodified":1536616007,
+    "wof:lastmodified":1555047455,
     "wof:name":"Bibli\u00e1n",
     "wof:parent_id":85670909,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-1.540758,
     "geom:longitude":-78.660265,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Guano Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":-1.57009,
     "lbl:longitude":-78.648849,
     "meso:admin_1":"Chimborazo",
@@ -258,7 +264,7 @@
         }
     ],
     "wof:id":421201625,
-    "wof:lastmodified":1536616141,
+    "wof:lastmodified":1553717556,
     "wof:name":"Guano",
     "wof:parent_id":85670931,
     "wof:placetype":"county",

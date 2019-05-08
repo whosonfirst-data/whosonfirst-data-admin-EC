@@ -10,6 +10,12 @@
     "geom:latitude":-2.115234,
     "geom:longitude":-79.559424,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Milagro Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":-2.112631,
     "lbl:longitude":-79.557702,
     "meso:admin_1":"Guayas",
@@ -138,7 +144,7 @@
         }
     ],
     "wof:id":421191245,
-    "wof:lastmodified":1536616089,
+    "wof:lastmodified":1553717497,
     "wof:name":"Milagro",
     "wof:parent_id":85670917,
     "wof:placetype":"county",

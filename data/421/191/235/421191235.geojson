@@ -10,6 +10,15 @@
     "geom:latitude":-2.039099,
     "geom:longitude":-78.634234,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Guamote Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Guamote"
+    ],
     "lbl:latitude":-2.029686,
     "lbl:longitude":-78.615122,
     "meso:admin_1":"Chimborazo",
@@ -49,6 +58,9 @@
         "Wamuti kiti"
     ],
     "name:spa_x_preferred":[
+        "Guamote"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Guamote"
     ],
     "name:swe_x_preferred":[
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":421191235,
-    "wof:lastmodified":1536616088,
+    "wof:lastmodified":1555047457,
     "wof:name":"Guamote",
     "wof:parent_id":85670931,
     "wof:placetype":"county",

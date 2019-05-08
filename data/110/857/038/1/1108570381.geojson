@@ -10,6 +10,15 @@
     "geom:latitude":-1.415104,
     "geom:longitude":-78.694582,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Mocha Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Mocha"
+    ],
     "lbl:latitude":-1.424508,
     "lbl:longitude":-78.721864,
     "meso:admin_1":"Tungurahua",
@@ -48,6 +57,9 @@
         "Mocha kiti"
     ],
     "name:spa_x_preferred":[
+        "Mocha"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Mocha"
     ],
     "name:xmf_x_preferred":[
@@ -89,7 +101,7 @@
         }
     ],
     "wof:id":1108570381,
-    "wof:lastmodified":1536615231,
+    "wof:lastmodified":1555047461,
     "wof:name":"Mocha",
     "wof:parent_id":85670959,
     "wof:placetype":"county",

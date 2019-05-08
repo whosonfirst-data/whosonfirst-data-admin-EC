@@ -10,6 +10,12 @@
     "geom:latitude":-0.908739,
     "geom:longitude":-80.029297,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Bol\u00edvar Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":-0.913244,
     "lbl:longitude":-80.011359,
     "meso:admin_1":"Manabi",
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1108568121,
-    "wof:lastmodified":1536615229,
+    "wof:lastmodified":1553718173,
     "wof:name":"Bol\u00edvar",
     "wof:parent_id":85670927,
     "wof:placetype":"county",

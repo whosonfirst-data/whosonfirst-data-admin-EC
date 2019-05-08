@@ -10,6 +10,15 @@
     "geom:latitude":0.088137,
     "geom:longitude":-79.902367,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Pedernales Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Pedernales"
+    ],
     "lbl:latitude":0.137223,
     "lbl:longitude":-79.823895,
     "meso:admin_1":"Manabi",
@@ -48,6 +57,9 @@
         "Pedernales kiti"
     ],
     "name:spa_x_preferred":[
+        "Pedernales"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Pedernales"
     ],
     "name:xmf_x_preferred":[
@@ -89,7 +101,7 @@
         }
     ],
     "wof:id":1108571251,
-    "wof:lastmodified":1536615232,
+    "wof:lastmodified":1555047462,
     "wof:name":"Pedernales",
     "wof:parent_id":85670927,
     "wof:placetype":"county",

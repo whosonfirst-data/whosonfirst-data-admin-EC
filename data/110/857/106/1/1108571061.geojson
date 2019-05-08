@@ -10,6 +10,15 @@
     "geom:latitude":-4.004092,
     "geom:longitude":-79.74399,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Paltas Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Paltas"
+    ],
     "lbl:latitude":-4.031836,
     "lbl:longitude":-79.748655,
     "meso:admin_1":"Loja",
@@ -42,6 +51,9 @@
         "Paltas kiti"
     ],
     "name:spa_x_preferred":[
+        "Paltas"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Paltas"
     ],
     "name:swe_x_preferred":[
@@ -83,7 +95,7 @@
         }
     ],
     "wof:id":1108571061,
-    "wof:lastmodified":1536615232,
+    "wof:lastmodified":1555047462,
     "wof:name":"Paltas",
     "wof:parent_id":85670891,
     "wof:placetype":"county",

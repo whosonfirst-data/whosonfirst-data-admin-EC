@@ -10,6 +10,15 @@
     "geom:latitude":-4.156997,
     "geom:longitude":-79.454359,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Gonzanam\u00e1 Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Gonzanam\u00e1"
+    ],
     "lbl:latitude":-4.148609,
     "lbl:longitude":-79.454277,
     "meso:admin_1":"Loja",
@@ -45,6 +54,9 @@
         "Gonzanam\u00e1 kiti"
     ],
     "name:spa_x_preferred":[
+        "Gonzanam\u00e1"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Gonzanam\u00e1"
     ],
     "name:swe_x_preferred":[
@@ -86,7 +98,7 @@
         }
     ],
     "wof:id":1108569565,
-    "wof:lastmodified":1536615230,
+    "wof:lastmodified":1555047460,
     "wof:name":"Gonzanam\u00e1",
     "wof:parent_id":85670891,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-4.060607,
     "geom:longitude":-79.249608,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Loja Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":-4.245687,
     "lbl:longitude":-79.227671,
     "meso:admin_1":"Loja",
@@ -156,7 +162,7 @@
         }
     ],
     "wof:id":421182159,
-    "wof:lastmodified":1536615980,
+    "wof:lastmodified":1553717382,
     "wof:name":"Loja",
     "wof:parent_id":85670891,
     "wof:placetype":"county",

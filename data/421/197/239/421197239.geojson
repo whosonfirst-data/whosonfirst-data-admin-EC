@@ -10,6 +10,15 @@
     "geom:latitude":0.563316,
     "geom:longitude":-77.799848,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Mont\u00fafar Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Mont\u00fafar"
+    ],
     "lbl:latitude":0.554042,
     "lbl:longitude":-77.801943,
     "meso:admin_1":"Carchi",
@@ -49,6 +58,9 @@
         "Mont\u00fafar kiti"
     ],
     "name:spa_x_preferred":[
+        "Mont\u00fafar"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Mont\u00fafar"
     ],
     "name:swe_x_preferred":[
@@ -113,7 +125,7 @@
         }
     ],
     "wof:id":421197239,
-    "wof:lastmodified":1536616124,
+    "wof:lastmodified":1555047458,
     "wof:name":"Mont\u00fafar",
     "wof:parent_id":85670967,
     "wof:placetype":"county",

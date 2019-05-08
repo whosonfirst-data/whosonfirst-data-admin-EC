@@ -10,6 +10,12 @@
     "geom:latitude":-2.983493,
     "geom:longitude":-78.737736,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Chordeleg Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":-2.997365,
     "lbl:longitude":-78.733472,
     "meso:admin_1":"Azuay",
@@ -113,7 +119,7 @@
         }
     ],
     "wof:id":421188121,
-    "wof:lastmodified":1536616049,
+    "wof:lastmodified":1553717463,
     "wof:name":"Chordeleg",
     "wof:parent_id":85670885,
     "wof:placetype":"county",

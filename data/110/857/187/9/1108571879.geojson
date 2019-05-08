@@ -10,6 +10,15 @@
     "geom:latitude":-4.340345,
     "geom:longitude":-79.37991,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Quilanga Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Quilanga"
+    ],
     "lbl:latitude":-4.337839,
     "lbl:longitude":-79.37859,
     "meso:admin_1":"Loja",
@@ -42,6 +51,9 @@
         "Kilanka kiti"
     ],
     "name:spa_x_preferred":[
+        "Quilanga"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Quilanga"
     ],
     "src:geom":"meso",
@@ -80,7 +92,7 @@
         }
     ],
     "wof:id":1108571879,
-    "wof:lastmodified":1536615232,
+    "wof:lastmodified":1555047462,
     "wof:name":"Quilanga",
     "wof:parent_id":85670891,
     "wof:placetype":"county",

@@ -10,6 +10,15 @@
     "geom:latitude":-3.765213,
     "geom:longitude":-79.837816,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Balsas Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Balsas"
+    ],
     "lbl:latitude":-3.762977,
     "lbl:longitude":-79.828039,
     "meso:admin_1":"El Oro",
@@ -48,6 +57,9 @@
         "Balsas kiti"
     ],
     "name:spa_x_preferred":[
+        "Balsas"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Balsas"
     ],
     "src:geom":"meso",
@@ -86,7 +98,7 @@
         }
     ],
     "wof:id":1108567915,
-    "wof:lastmodified":1536615229,
+    "wof:lastmodified":1555047459,
     "wof:name":"Balsas",
     "wof:parent_id":85670887,
     "wof:placetype":"county",

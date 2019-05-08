@@ -10,6 +10,15 @@
     "geom:latitude":-2.623483,
     "geom:longitude":-78.743281,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Azogues Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Azogues"
+    ],
     "lbl:latitude":-2.585818,
     "lbl:longitude":-78.696694,
     "meso:admin_1":"Ca\u00f1ar",
@@ -49,6 +58,9 @@
         "Asuwi kiti"
     ],
     "name:spa_x_preferred":[
+        "Azogues"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Azogues"
     ],
     "name:swe_x_preferred":[
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":421195039,
-    "wof:lastmodified":1536616120,
+    "wof:lastmodified":1555047457,
     "wof:name":"Azogues",
     "wof:parent_id":85670909,
     "wof:placetype":"county",

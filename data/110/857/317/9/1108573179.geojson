@@ -10,6 +10,12 @@
     "geom:latitude":-1.563529,
     "geom:longitude":-79.386216,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Urdaneta Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":-1.556067,
     "lbl:longitude":-79.384247,
     "meso:admin_1":"Los Rios",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1108573179,
-    "wof:lastmodified":1536615233,
+    "wof:lastmodified":1553718179,
     "wof:name":"Urdaneta",
     "wof:parent_id":85670923,
     "wof:placetype":"county",

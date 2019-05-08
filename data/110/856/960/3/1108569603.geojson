@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029754,
-    "geom:area_square_m":367438096.478155,
+    "geom:area_square_m":367438096.478281,
     "geom:bbox":"-78.9148486991,-3.0262978116,-78.6273728672,-2.80615849365",
     "geom:latitude":-2.919974,
     "geom:longitude":-78.771982,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Gualaceo Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Gualaceo"
+    ],
     "lbl:latitude":-2.911533,
     "lbl:longitude":-78.834076,
     "meso:admin_1":"Azuay",
@@ -48,6 +57,9 @@
         "Walasiyu kiti"
     ],
     "name:spa_x_preferred":[
+        "Gualaceo"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Gualaceo"
     ],
     "name:swe_x_preferred":[
@@ -89,7 +101,7 @@
         }
     ],
     "wof:id":1108569603,
-    "wof:lastmodified":1553816453,
+    "wof:lastmodified":1555047460,
     "wof:name":"Gualaceo",
     "wof:parent_id":85670885,
     "wof:placetype":"county",

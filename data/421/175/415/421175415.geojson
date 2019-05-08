@@ -10,6 +10,12 @@
     "geom:latitude":-1.414932,
     "geom:longitude":-78.044737,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Mera Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":-1.33084,
     "lbl:longitude":-78.057363,
     "meso:admin_1":"Pastaza",
@@ -168,7 +174,7 @@
         }
     ],
     "wof:id":421175415,
-    "wof:lastmodified":1536615952,
+    "wof:lastmodified":1553717360,
     "wof:name":"Mera",
     "wof:parent_id":85670949,
     "wof:placetype":"county",

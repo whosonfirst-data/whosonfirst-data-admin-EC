@@ -10,6 +10,15 @@
     "geom:latitude":-2.151173,
     "geom:longitude":-79.395891,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Naranjito Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Naranjito"
+    ],
     "lbl:latitude":-2.135915,
     "lbl:longitude":-79.377148,
     "meso:admin_1":"Guayas",
@@ -48,6 +57,9 @@
         "Naranjito Canton"
     ],
     "name:spa_x_preferred":[
+        "Naranjito"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Naranjito"
     ],
     "src:geom":"meso",
@@ -86,7 +98,7 @@
         }
     ],
     "wof:id":1108570687,
-    "wof:lastmodified":1536615231,
+    "wof:lastmodified":1555047461,
     "wof:name":"Naranjito",
     "wof:parent_id":85670917,
     "wof:placetype":"county",

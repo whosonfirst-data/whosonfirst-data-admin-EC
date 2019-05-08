@@ -10,6 +10,15 @@
     "geom:latitude":-1.364203,
     "geom:longitude":-78.670765,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Tisaleo Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Tisaleo"
+    ],
     "lbl:latitude":-1.365438,
     "lbl:longitude":-78.670771,
     "meso:admin_1":"Tungurahua",
@@ -45,6 +54,9 @@
         "Tisaleo kiti"
     ],
     "name:spa_x_preferred":[
+        "Tisaleo"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Tisaleo"
     ],
     "name:xmf_x_preferred":[
@@ -86,7 +98,7 @@
         }
     ],
     "wof:id":1108573021,
-    "wof:lastmodified":1536615233,
+    "wof:lastmodified":1555047463,
     "wof:name":"Tisaleo",
     "wof:parent_id":85670959,
     "wof:placetype":"county",

@@ -10,6 +10,15 @@
     "geom:latitude":-1.264489,
     "geom:longitude":-78.423565,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Patate Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Patate"
+    ],
     "lbl:latitude":-1.262133,
     "lbl:longitude":-78.413822,
     "meso:admin_1":"Tungurahua",
@@ -48,6 +57,9 @@
         "Patate kiti"
     ],
     "name:spa_x_preferred":[
+        "Patate"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Patate"
     ],
     "name:swe_x_preferred":[
@@ -92,7 +104,7 @@
         }
     ],
     "wof:id":1108571185,
-    "wof:lastmodified":1536615232,
+    "wof:lastmodified":1555047462,
     "wof:name":"Patate",
     "wof:parent_id":85670959,
     "wof:placetype":"county",

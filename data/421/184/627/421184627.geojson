@@ -10,6 +10,15 @@
     "geom:latitude":-3.535994,
     "geom:longitude":-79.305867,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Saraguro Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Saraguro"
+    ],
     "lbl:latitude":-3.565277,
     "lbl:longitude":-79.302766,
     "meso:admin_1":"Loja",
@@ -49,6 +58,9 @@
         "Sarakuru llaqta"
     ],
     "name:spa_x_preferred":[
+        "Saraguro"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Saraguro"
     ],
     "name:swe_x_preferred":[
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":421184627,
-    "wof:lastmodified":1536616022,
+    "wof:lastmodified":1555047456,
     "wof:name":"Saraguro",
     "wof:parent_id":85670891,
     "wof:placetype":"county",

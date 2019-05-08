@@ -10,6 +10,12 @@
     "geom:latitude":-3.702263,
     "geom:longitude":-79.779816,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Pi\u00f1as Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":-3.689042,
     "lbl:longitude":-79.742397,
     "meso:admin_1":"El Oro",
@@ -186,7 +192,7 @@
         }
     ],
     "wof:id":421195605,
-    "wof:lastmodified":1536616121,
+    "wof:lastmodified":1553717535,
     "wof:name":"Pi\u00f1as",
     "wof:parent_id":85670887,
     "wof:placetype":"county",

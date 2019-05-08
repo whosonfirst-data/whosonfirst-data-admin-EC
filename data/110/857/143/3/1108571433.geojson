@@ -10,6 +10,15 @@
     "geom:latitude":0.287217,
     "geom:longitude":-77.918761,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Pimampiro Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Pimampiro"
+    ],
     "lbl:latitude":0.287909,
     "lbl:longitude":-77.910367,
     "meso:admin_1":"Imbabura",
@@ -45,6 +54,9 @@
         "Pimampiru kiti"
     ],
     "name:spa_x_preferred":[
+        "Pimampiro"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Pimampiro"
     ],
     "name:swe_x_preferred":[
@@ -86,7 +98,7 @@
         }
     ],
     "wof:id":1108571433,
-    "wof:lastmodified":1536615232,
+    "wof:lastmodified":1555047462,
     "wof:name":"Pimampiro",
     "wof:parent_id":85670971,
     "wof:placetype":"county",

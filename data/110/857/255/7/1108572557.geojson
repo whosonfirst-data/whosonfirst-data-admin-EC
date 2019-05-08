@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035419,
-    "geom:area_square_m":437878334.106064,
+    "geom:area_square_m":437878334.106052,
     "geom:bbox":"-78.5723344908,-1.241240723,-78.3211071637,-0.979784632536",
     "geom:latitude":-1.118899,
     "geom:longitude":-78.450873,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Santiago de Pillaro Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n P\u00edllaro"
+    ],
     "lbl:latitude":-1.139177,
     "lbl:longitude":-78.461364,
     "meso:admin_1":"Tungurahua",
@@ -48,6 +57,9 @@
         "Pillaru kiti"
     ],
     "name:spa_x_preferred":[
+        "P\u00edllaro"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n P\u00edllaro"
     ],
     "name:swe_x_preferred":[
@@ -91,7 +103,7 @@
         }
     ],
     "wof:id":1108572557,
-    "wof:lastmodified":1513956307,
+    "wof:lastmodified":1555047463,
     "wof:name":"Santiago de Pillaro",
     "wof:parent_id":85670959,
     "wof:placetype":"county",

@@ -10,6 +10,15 @@
     "geom:latitude":-2.894096,
     "geom:longitude":-79.711392,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Balao Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Balao"
+    ],
     "lbl:latitude":-2.893759,
     "lbl:longitude":-79.713956,
     "meso:admin_1":"Guayas",
@@ -54,6 +63,9 @@
         "Balao Canton"
     ],
     "name:spa_x_preferred":[
+        "Balao"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Balao"
     ],
     "src:geom":"meso",
@@ -92,7 +104,7 @@
         }
     ],
     "wof:id":1108567875,
-    "wof:lastmodified":1536615229,
+    "wof:lastmodified":1555047459,
     "wof:name":"Balao",
     "wof:parent_id":85670917,
     "wof:placetype":"county",

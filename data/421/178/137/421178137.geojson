@@ -10,6 +10,15 @@
     "geom:latitude":-0.277713,
     "geom:longitude":-76.889712,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Joya de los Sachas Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Joya de los Sachas"
+    ],
     "lbl:latitude":-0.283576,
     "lbl:longitude":-76.893833,
     "meso:admin_1":"Orellana",
@@ -25,6 +34,9 @@
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
+        "Joya de los Sachas"
+    ],
+    "name:spa_x_preferred":[
         "Joya de los Sachas"
     ],
     "qs:gn_country":null,
@@ -87,7 +99,7 @@
         }
     ],
     "wof:id":421178137,
-    "wof:lastmodified":1536615962,
+    "wof:lastmodified":1555047455,
     "wof:name":"Joya de los Sachas",
     "wof:parent_id":85670941,
     "wof:placetype":"county",

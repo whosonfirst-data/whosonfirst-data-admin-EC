@@ -10,6 +10,15 @@
     "geom:latitude":-3.150514,
     "geom:longitude":-79.3996,
     "iso:country":"EC",
+    "label:eng_x_preferred_longname":[
+        "Santa Isabel Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Cant\u00f3n Santa Isabel"
+    ],
     "lbl:latitude":-3.261748,
     "lbl:longitude":-79.350669,
     "meso:admin_1":"Azuay",
@@ -52,6 +61,9 @@
         "Santa Isabel kiti"
     ],
     "name:spa_x_preferred":[
+        "Santa Isabel"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n Santa Isabel"
     ],
     "name:swe_x_preferred":[
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":421189221,
-    "wof:lastmodified":1536616075,
+    "wof:lastmodified":1555047456,
     "wof:name":"Santa Isabel",
     "wof:parent_id":85670885,
     "wof:placetype":"county",
