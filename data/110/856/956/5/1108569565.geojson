@@ -32,23 +32,20 @@
     "mps:longitude":-79.454277,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u8ca2\u85a9\u7d0d\u99ac\u7e23"
-    ],
-    "name:dut_x_preferred":[
-        "Gonzanam\u00e1 Canton"
-    ],
     "name:eng_x_preferred":[
         "Gonzanam\u00e1"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Gonzanam\u00e1"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10dd\u10dc\u10e1\u10d0\u10dc\u10d0\u10db\u10d8\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
     ],
     "name:ita_x_preferred":[
         "Cantone di Gonzanam\u00e1"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10dd\u10dc\u10e1\u10d0\u10dc\u10d0\u10db\u10d8\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Gonzanam\u00e1 Canton"
     ],
     "name:que_x_preferred":[
         "Gonzanam\u00e1 kiti"
@@ -61,6 +58,9 @@
     ],
     "name:swe_x_preferred":[
         "Cant\u00f3n Gonzanam\u00e1"
+    ],
+    "name:zho_x_preferred":[
+        "\u8ca2\u85a9\u7d0d\u99ac\u7e23"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":1108569565,
-    "wof:lastmodified":1555047460,
+    "wof:lastmodified":1561792413,
     "wof:name":"Gonzanam\u00e1",
     "wof:parent_id":85670891,
     "wof:placetype":"county",

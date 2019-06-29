@@ -42,17 +42,11 @@
     "name:ceb_x_preferred":[
         "Cuenca"
     ],
-    "name:chi_x_preferred":[
-        "\u5eab\u6069\u5361\u7e23"
-    ],
     "name:dan_x_preferred":[
         "Cuenca"
     ],
     "name:deu_x_preferred":[
         "Cuenca"
-    ],
-    "name:dut_x_preferred":[
-        "Cuenca Canton"
     ],
     "name:ell_x_preferred":[
         "\u039a\u03bf\u03c5\u03ad\u03bd\u03ba\u03b1"
@@ -69,17 +63,14 @@
     "name:fas_x_preferred":[
         "\u06a9\u0648\u0626\u0646\u06a9\u0627"
     ],
+    "name:fas_x_variant":[
+        "\u06a9\u0648\u0626\u0646\u06a9\u0627\u060c \u0627\u06a9\u0648\u0627\u062f\u0648\u0631"
+    ],
     "name:fin_x_preferred":[
         "Cuenca"
     ],
     "name:fra_x_preferred":[
         "Cuenca"
-    ],
-    "name:fre_x_preferred":[
-        "Cuenca"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10e3\u10d4\u10dc\u10d9\u10d8\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
     ],
     "name:gla_x_preferred":[
         "Cuenca"
@@ -102,6 +93,9 @@
     "name:kat_x_preferred":[
         "\u10d9\u10e3\u10d4\u10dc\u10d9\u10d0"
     ],
+    "name:kat_x_variant":[
+        "\u10d9\u10e3\u10d4\u10dc\u10d9\u10d8\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ucfe0\uc5e5\uce74"
     ],
@@ -114,11 +108,11 @@
     "name:nld_x_preferred":[
         "Cuenca"
     ],
+    "name:nld_x_variant":[
+        "Cuenca Canton"
+    ],
     "name:nor_x_preferred":[
         "Cuenca"
-    ],
-    "name:per_x_preferred":[
-        "\u06a9\u0648\u0626\u0646\u06a9\u0627\u060c \u0627\u06a9\u0648\u0627\u062f\u0648\u0631"
     ],
     "name:pol_x_preferred":[
         "Cuenca"
@@ -161,6 +155,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6606\u5361"
+    ],
+    "name:zho_x_variant":[
+        "\u5eab\u6069\u5361\u7e23"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -221,7 +218,7 @@
         }
     ],
     "wof:id":421185495,
-    "wof:lastmodified":1553717438,
+    "wof:lastmodified":1561792438,
     "wof:name":"Cuenca",
     "wof:parent_id":85670885,
     "wof:placetype":"county",

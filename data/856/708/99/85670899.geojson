@@ -47,17 +47,14 @@
     "name:ceb_x_preferred":[
         "Provincia de Gal\u00e1pagos"
     ],
-    "name:chi_x_preferred":[
-        "\u52a0\u62c9\u5e15\u6208\u65af\u7701"
-    ],
     "name:dan_x_preferred":[
         "Gal\u00e1pagos Province"
     ],
     "name:deu_x_preferred":[
         "Provinz Gal\u00e1pagos"
     ],
-    "name:dut_x_preferred":[
-        "Gal\u00e1pagos"
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03b1\u03bb\u03b1\u03c0\u03ac\u03b3\u03ba\u03bf\u03c2"
     ],
     "name:eng_x_preferred":[
         "Gal\u00e1pagos"
@@ -71,17 +68,8 @@
     "name:fra_x_preferred":[
         "Province de Gal\u00e1pagos"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "province de Gal\u00e1pagos"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10d0\u10da\u10d0\u10de\u10d0\u10d2\u10dd\u10e1\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Gal\u00e1pagos"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03ba\u03b1\u03bb\u03b1\u03c0\u03ac\u03b3\u03ba\u03bf\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0abe\u0ab2\u0abe\u0aaa\u0abe\u0a97\u0acb\u0ab8 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -101,6 +89,9 @@
     "name:kan_x_preferred":[
         "\u0c97\u0ccd\u0caf\u0cbe\u0cb2\u0caa\u0c97\u0ccb\u0cb8\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d0\u10da\u10d0\u10de\u10d0\u10d2\u10dd\u10e1\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\uac08\ub77c\ud30c\uace0\uc2a4 \uc81c\ub3c4"
     ],
@@ -113,14 +104,14 @@
     "name:mar_x_preferred":[
         "\u0917\u0945\u0932\u093e\u092a\u093e\u0917\u094b\u0938 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Pentadbiran Gal\u00e1pagos"
+    ],
+    "name:nld_x_preferred":[
+        "Gal\u00e1pagos"
     ],
     "name:nob_x_preferred":[
         "Galapagos provins"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u06af\u0627\u0644\u0627\u067e\u0627\u06af\u0648\u0633"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u06af\u0627\u0644\u0627\u067e\u0627\u06af\u0648\u0633"
@@ -131,7 +122,7 @@
     "name:por_x_preferred":[
         "Gal\u00e1pagos"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Gal\u00e1pagos"
     ],
     "name:rus_x_preferred":[
@@ -182,6 +173,9 @@
     ],
     "name:war_x_preferred":[
         "Gal\u00e1pagos"
+    ],
+    "name:zho_x_preferred":[
+        "\u52a0\u62c9\u5e15\u6208\u65af\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"ECU",
@@ -309,7 +303,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1553550466,
+    "wof:lastmodified":1561792360,
     "wof:name":"Gal\u00e1pagos",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

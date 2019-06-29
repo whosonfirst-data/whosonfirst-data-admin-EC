@@ -41,14 +41,14 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia d'Orellana"
     ],
-    "name:chi_x_preferred":[
-        "\u5965\u96f7\u4e9a\u7eb3\u7701"
-    ],
     "name:dan_x_preferred":[
         "Orellana Province"
     ],
-    "name:dut_x_preferred":[
-        "Orellana"
+    "name:deu_x_preferred":[
+        "Provinz Orellana"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c1\u03b5\u03b3\u03b9\u03ac\u03bd\u03b1"
     ],
     "name:eng_x_preferred":[
         "Orellana"
@@ -59,17 +59,8 @@
     "name:fin_x_preferred":[
         "Orellana"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Orellana"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dd\u10e0\u10d4\u10da\u10d8\u10d0\u10dc\u10d0\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Orellana"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03c1\u03b5\u03b3\u03b9\u03ac\u03bd\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a93\u0ab0\u0ac7\u0ab2\u0aa8\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -92,6 +83,9 @@
     "name:kan_x_preferred":[
         "\u0c93\u0cb0\u0cc6\u0cb2\u0ccd\u0cb2\u0cbe\u0ca8\u0cbe \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10dd\u10e0\u10d4\u10da\u10d8\u10d0\u10dc\u10d0\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\uc624\ub808\uc57c\ub098 \uc8fc"
     ],
@@ -104,8 +98,11 @@
     "name:mar_x_preferred":[
         "\u0913\u0930\u0947\u0932\u094d\u092f\u093e\u0928\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Pentadbiran Orellana"
+    ],
+    "name:nld_x_preferred":[
+        "Orellana"
     ],
     "name:nno_x_preferred":[
         "Orellanaprovinsen"
@@ -173,6 +170,9 @@
     ],
     "name:war_x_preferred":[
         "Orellana"
+    ],
+    "name:zho_x_preferred":[
+        "\u5965\u96f7\u4e9a\u7eb3\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"ECU",
@@ -299,7 +299,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1553550385,
+    "wof:lastmodified":1561792363,
     "wof:name":"Orellana",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

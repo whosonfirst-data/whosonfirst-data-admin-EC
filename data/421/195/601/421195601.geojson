@@ -33,23 +33,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u5df4\u5df4\u5967\u7d04\u7e23"
-    ],
-    "name:dut_x_preferred":[
-        "Babahoyo Canton"
-    ],
     "name:eng_x_preferred":[
         "Babahoyo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Babahoyo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d0\u10d1\u10d0\u10dd\u10d8\u10dd\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
     ],
     "name:ita_x_preferred":[
         "Cantone di Babahoyo"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10d1\u10d0\u10dd\u10d8\u10dd\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Babahoyo Canton"
     ],
     "name:que_x_preferred":[
         "Babahoyo kiti"
@@ -62,6 +59,9 @@
     ],
     "name:swe_x_preferred":[
         "Cant\u00f3n Babahoyo"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u5df4\u5967\u7d04\u7e23"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -123,7 +123,7 @@
         }
     ],
     "wof:id":421195601,
-    "wof:lastmodified":1555047457,
+    "wof:lastmodified":1561792425,
     "wof:name":"Babahoyo",
     "wof:parent_id":85670923,
     "wof:placetype":"county",

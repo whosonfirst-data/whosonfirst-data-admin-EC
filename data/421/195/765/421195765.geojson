@@ -16,10 +16,10 @@
     "name:ceb_x_preferred":[
         "Ba\u00f1os"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Ba\u00f1os"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Ba\u00f1os"
     ],
     "name:que_x_preferred":[
@@ -78,7 +78,7 @@
         }
     ],
     "wof:id":421195765,
-    "wof:lastmodified":1527716117,
+    "wof:lastmodified":1561792424,
     "wof:name":"Ba\u00f1os",
     "wof:parent_id":421185495,
     "wof:placetype":"locality",

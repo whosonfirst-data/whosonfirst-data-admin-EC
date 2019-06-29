@@ -16,16 +16,10 @@
     "name:ceb_x_preferred":[
         "Montecristi"
     ],
-    "name:chi_x_preferred":[
-        "\u8499\u7279\u514b\u91cc\u65af\u8482"
-    ],
     "name:dan_x_preferred":[
         "Montecristi"
     ],
     "name:deu_x_preferred":[
-        "Montecristi"
-    ],
-    "name:dut_x_preferred":[
         "Montecristi"
     ],
     "name:eng_x_preferred":[
@@ -34,17 +28,14 @@
     "name:fra_x_preferred":[
         "Montecristi"
     ],
-    "name:fre_x_preferred":[
-        "Montecristi"
-    ],
-    "name:ger_x_preferred":[
-        "Montecristi"
-    ],
     "name:ita_x_preferred":[
         "Montecristi"
     ],
     "name:lit_x_preferred":[
         "Montekristis"
+    ],
+    "name:nld_x_preferred":[
+        "Montecristi"
     ],
     "name:por_x_preferred":[
         "Montecristi"
@@ -60,6 +51,9 @@
     ],
     "name:swe_x_preferred":[
         "Montecristi"
+    ],
+    "name:zho_x_preferred":[
+        "\u8499\u7279\u514b\u91cc\u65af\u8482"
     ],
     "qs:gn_country":"EC",
     "qs:gn_fcode":"PPL",
@@ -109,7 +103,7 @@
         }
     ],
     "wof:id":421202915,
-    "wof:lastmodified":1527716208,
+    "wof:lastmodified":1561792427,
     "wof:name":"Montecristi",
     "wof:parent_id":1108570471,
     "wof:placetype":"locality",

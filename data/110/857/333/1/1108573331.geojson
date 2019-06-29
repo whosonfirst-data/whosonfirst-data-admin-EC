@@ -32,16 +32,13 @@
     "mps:longitude":-78.717887,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u63da\u7279\u85a9\u85a9\u7e23"
-    ],
     "name:eng_x_preferred":[
         "Yantzaza"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Yantzaza"
     ],
-    "name:geo_x_preferred":[
+    "name:kat_x_preferred":[
         "\u10d8\u10d0\u10dc\u10e2\u10e1\u10d0\u10e1\u10d8\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
     ],
     "name:que_x_preferred":[
@@ -58,6 +55,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10d8\u10d0\u10dc\u10e2\u10e1\u10d0\u10e1\u10d0\u10e8 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u63da\u7279\u85a9\u85a9\u7e23"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":1108573331,
-    "wof:lastmodified":1555047464,
+    "wof:lastmodified":1561792407,
     "wof:name":"Yanzatza",
     "wof:parent_id":85670895,
     "wof:placetype":"county",

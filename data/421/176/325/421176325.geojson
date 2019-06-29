@@ -20,25 +20,13 @@
     "name:ceb_x_preferred":[
         "Zamora"
     ],
-    "name:chi_x_preferred":[
-        "\u85a9\u83ab\u62c9"
-    ],
     "name:deu_x_preferred":[
-        "Zamora"
-    ],
-    "name:dut_x_preferred":[
         "Zamora"
     ],
     "name:eng_x_preferred":[
         "Zamora"
     ],
     "name:fra_x_preferred":[
-        "Zamora"
-    ],
-    "name:fre_x_preferred":[
-        "Zamora"
-    ],
-    "name:ger_x_preferred":[
         "Zamora"
     ],
     "name:ita_x_preferred":[
@@ -69,9 +57,6 @@
         "Zamora llaqta"
     ],
     "name:slk_x_preferred":[
-        "Zamora"
-    ],
-    "name:slo_x_preferred":[
         "Zamora"
     ],
     "name:spa_x_preferred":[
@@ -229,7 +214,7 @@
         }
     ],
     "wof:id":421176325,
-    "wof:lastmodified":1553816366,
+    "wof:lastmodified":1561792436,
     "wof:name":"Zamora",
     "wof:parent_id":421182449,
     "wof:placetype":"locality",

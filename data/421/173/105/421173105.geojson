@@ -19,16 +19,13 @@
     "name:deu_x_preferred":[
         "Pujil\u00ed"
     ],
-    "name:dut_x_preferred":[
-        "Pujil\u00ed"
-    ],
     "name:eng_x_preferred":[
         "Pujil\u00ed"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Pujili"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Pujil\u00ed"
     ],
     "name:que_x_preferred":[
@@ -90,7 +87,7 @@
         }
     ],
     "wof:id":421173105,
-    "wof:lastmodified":1513956286,
+    "wof:lastmodified":1561792428,
     "wof:name":"Pujil\u00ed",
     "wof:parent_id":421185497,
     "wof:placetype":"locality",

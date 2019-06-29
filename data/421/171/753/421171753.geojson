@@ -33,26 +33,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u4f69\u5fb7\u7f85\u8499\u5361\u7d04\u7e23"
-    ],
     "name:eng_x_preferred":[
         "Pedro Moncayo"
     ],
-    "name:fre_x_preferred":[
-        "Pedro Moncayo"
+    "name:fas_x_preferred":[
+        "\u067e\u062f\u0631\u0648 \u0645\u0648\u0646\u06a9\u0627\u06cc\u0648"
     ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d4\u10d3\u10e0\u10dd-\u10db\u10dd\u10dc\u10d9\u10d0\u10d8\u10dd\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
+    "name:fra_x_preferred":[
+        "Pedro Moncayo"
     ],
     "name:ita_x_preferred":[
         "Cantone di Pedro Moncayo"
     ],
     "name:kat_x_preferred":[
         "\u10de\u10d4\u10d3\u10e0\u10dd-\u10db\u10dd\u10dc\u10d9\u10d0\u10d8\u10dd\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
-    ],
-    "name:per_x_preferred":[
-        "\u067e\u062f\u0631\u0648 \u0645\u0648\u0646\u06a9\u0627\u06cc\u0648"
     ],
     "name:que_x_preferred":[
         "Pedro Moncayo kiti"
@@ -132,7 +126,7 @@
         }
     ],
     "wof:id":421171753,
-    "wof:lastmodified":1555047454,
+    "wof:lastmodified":1561792437,
     "wof:name":"Pedro Moncayo",
     "wof:parent_id":85670945,
     "wof:placetype":"county",

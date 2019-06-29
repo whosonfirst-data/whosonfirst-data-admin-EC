@@ -29,17 +29,14 @@
     "name:ceb_x_preferred":[
         "Babahoyo"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u5df4\u5967\u7d04"
-    ],
     "name:dan_x_preferred":[
         "Babahoyo"
     ],
     "name:deu_x_preferred":[
         "Babahoyo"
     ],
-    "name:dut_x_preferred":[
-        "Babahoyo"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03bc\u03c0\u03b1\u03cc\u03b3\u03b9\u03bf"
     ],
     "name:eng_x_preferred":[
         "Babahoyo"
@@ -49,15 +46,6 @@
     ],
     "name:fra_x_preferred":[
         "Babahoyo"
-    ],
-    "name:fre_x_preferred":[
-        "Babahoyo"
-    ],
-    "name:ger_x_preferred":[
-        "Babahoyo"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b1\u03bc\u03c0\u03b1\u03cc\u03b3\u03b9\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0abe\u0aac\u0abe\u0ab9\u0acb\u0aaf\u0acb"
@@ -89,7 +77,7 @@
     "name:mar_x_preferred":[
         "\u092c\u093e\u092c\u093e\u0939\u094b\u092f\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Babahoyo"
     ],
     "name:nld_x_preferred":[
@@ -113,9 +101,6 @@
     "name:ron_x_preferred":[
         "Babahoyo"
     ],
-    "name:rum_x_preferred":[
-        "Babahoyo"
-    ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u0431\u0430\u043e\u0439\u043e"
     ],
@@ -123,9 +108,6 @@
         "\u0db6\u0db6\u0dcf\u0dc4\u0ddc\u0dba\u0ddd"
     ],
     "name:slk_x_preferred":[
-        "Babahoyo"
-    ],
-    "name:slo_x_preferred":[
         "Babahoyo"
     ],
     "name:spa_x_preferred":[
@@ -306,7 +288,7 @@
         }
     ],
     "wof:id":421176343,
-    "wof:lastmodified":1513956128,
+    "wof:lastmodified":1561792437,
     "wof:name":"Babahoyo",
     "wof:parent_id":421195601,
     "wof:placetype":"locality",

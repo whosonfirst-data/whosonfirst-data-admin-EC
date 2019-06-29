@@ -32,23 +32,20 @@
     "mps:longitude":-79.716461,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4e9e\u74dc\u5947\u7e23"
-    ],
-    "name:dut_x_preferred":[
-        "Yaguachi Canton"
-    ],
     "name:eng_x_preferred":[
         "Yaguachi"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Yaguachi"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d8\u10d0\u10d2\u10e3\u10d0\u10e9\u10d8\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
     ],
     "name:ita_x_preferred":[
         "Cantone di Yaguachi"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10d0\u10d2\u10e3\u10d0\u10e9\u10d8\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Yaguachi Canton"
     ],
     "name:que_x_preferred":[
         "Yawachi kiti"
@@ -64,6 +61,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06cc\u06af\u0627\u0686\u06cc \u06a9\u06cc\u0646\u0679\u0646"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e9e\u74dc\u5947\u7e23"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":1108572073,
-    "wof:lastmodified":1555047462,
+    "wof:lastmodified":1561792408,
     "wof:name":"San Jacinto de Yaguac",
     "wof:parent_id":85670917,
     "wof:placetype":"county",

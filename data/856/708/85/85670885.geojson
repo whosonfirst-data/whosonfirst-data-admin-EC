@@ -41,14 +41,14 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia d'Azuay"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u82cf\u827e\u7701"
-    ],
     "name:dan_x_preferred":[
         "Azuay"
     ],
-    "name:dut_x_preferred":[
-        "Azuay"
+    "name:deu_x_preferred":[
+        "Provinz Azuay"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c3\u03bf\u03c5\u03ac\u03b9"
     ],
     "name:eng_x_preferred":[
         "Azuay"
@@ -56,20 +56,14 @@
     "name:epo_x_preferred":[
         "Azuay"
     ],
+    "name:fas_x_preferred":[
+        "\u0622\u0632\u0648\u0627\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Azuay"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Azuay"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10e1\u10e3\u10d0\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Azuay"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03c3\u03bf\u03c5\u03ac\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0a8f\u0a9d\u0acd\u0aaf\u0ac1\u0a8f \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -95,6 +89,9 @@
     "name:kan_x_preferred":[
         "\u0c85\u0c9d\u0cc2 \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e1\u10e3\u10d0\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\uc544\uc218\uc544\uc774 \uc8fc"
     ],
@@ -104,20 +101,20 @@
     "name:lit_x_preferred":[
         "Asuajaus provincija"
     ],
-    "name:mac_x_preferred":[
-        "\u0410\u0437\u0443\u0430\u0458"
-    ],
     "name:mar_x_preferred":[
         "\u0905\u091d\u0942\u092f \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0410\u0437\u0443\u0430\u0458"
+    ],
+    "name:msa_x_preferred":[
         "Pentadbiran Azuay"
+    ],
+    "name:nld_x_preferred":[
+        "Azuay"
     ],
     "name:nob_x_preferred":[
         "Azuay"
-    ],
-    "name:per_x_preferred":[
-        "\u0622\u0632\u0648\u0627\u06cc"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0627\u0632\u0648\u0622\u06cc\u06d2"
@@ -175,6 +172,9 @@
     ],
     "name:war_x_preferred":[
         "Azuay"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u82cf\u827e\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"ECU",
@@ -301,7 +301,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1553550372,
+    "wof:lastmodified":1561792360,
     "wof:name":"Azuay",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

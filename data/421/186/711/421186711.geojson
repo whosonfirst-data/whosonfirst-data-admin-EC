@@ -24,16 +24,7 @@
     "name:ces_x_preferred":[
         "Puerto Baquerizo Moreno"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u514b\u91cc\u7d22\u83ab\u96f7\u8afe\u6e2f"
-    ],
-    "name:cze_x_preferred":[
-        "Puerto Baquerizo Moreno"
-    ],
     "name:deu_x_preferred":[
-        "Puerto Baquerizo Moreno"
-    ],
-    "name:dut_x_preferred":[
         "Puerto Baquerizo Moreno"
     ],
     "name:eng_x_preferred":[
@@ -43,12 +34,6 @@
         "Puerto Baquerizo Moreno"
     ],
     "name:fra_x_preferred":[
-        "Puerto Baquerizo Moreno"
-    ],
-    "name:fre_x_preferred":[
-        "Puerto Baquerizo Moreno"
-    ],
-    "name:ger_x_preferred":[
         "Puerto Baquerizo Moreno"
     ],
     "name:glg_x_preferred":[
@@ -106,9 +91,6 @@
         "Puerto Baquerizo Moreno"
     ],
     "name:slk_x_preferred":[
-        "Puerto Baquerizo Moreno"
-    ],
-    "name:slo_x_preferred":[
         "Puerto Baquerizo Moreno"
     ],
     "name:spa_x_preferred":[
@@ -177,7 +159,7 @@
         }
     ],
     "wof:id":421186711,
-    "wof:lastmodified":1534379289,
+    "wof:lastmodified":1561792430,
     "wof:name":"Puerto Baquerizo Moreno",
     "wof:parent_id":421181765,
     "wof:placetype":"locality",

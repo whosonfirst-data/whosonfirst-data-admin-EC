@@ -32,26 +32,23 @@
     "mps:longitude":-80.273212,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u8607\u514b\u96f7\u7e23"
-    ],
-    "name:dut_x_preferred":[
-        "Sucre Canton"
-    ],
     "name:eng_x_preferred":[
         "Sucre"
     ],
-    "name:fre_x_preferred":[
-        "Sucre"
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u06a9\u0631\u0647\u060c \u0627\u06a9\u0648\u0627\u062f\u0648\u0631"
     ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10e3\u10d9\u10e0\u10d4\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
+    "name:fra_x_preferred":[
+        "Sucre"
     ],
     "name:ita_x_preferred":[
         "Cantone di Sucre"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0648\u06a9\u0631\u0647\u060c \u0627\u06a9\u0648\u0627\u062f\u0648\u0631"
+    "name:kat_x_preferred":[
+        "\u10e1\u10e3\u10d9\u10e0\u10d4\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Sucre Canton"
     ],
     "name:que_x_preferred":[
         "Sucre kiti"
@@ -67,6 +64,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10e1\u10e3\u10d9\u10e0\u10d4\u10e8 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u8607\u514b\u96f7\u7e23"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -104,7 +104,7 @@
         }
     ],
     "wof:id":1108572865,
-    "wof:lastmodified":1555047463,
+    "wof:lastmodified":1561792405,
     "wof:name":"Sucre",
     "wof:parent_id":85670927,
     "wof:placetype":"county",

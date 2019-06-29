@@ -32,23 +32,20 @@
     "mps:longitude":-78.944787,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4e9e\u5eab\u5b89\u6bd4\u7e23"
-    ],
-    "name:dut_x_preferred":[
-        "Yacuambi Canton"
-    ],
     "name:eng_x_preferred":[
         "Yacuambi"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Yacuambi"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d8\u10d0\u10d9\u10e3\u10d0\u10db\u10d1\u10d8\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
     ],
     "name:ita_x_preferred":[
         "Cantone di Yacuambi"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10d0\u10d9\u10e3\u10d0\u10db\u10d1\u10d8\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Yacuambi Canton"
     ],
     "name:que_x_preferred":[
         "Yakuampi kiti"
@@ -67,6 +64,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10d8\u10d0\u10d9\u10e3\u10d0\u10db\u10d1\u10d8\u10e8 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e9e\u5eab\u5b89\u6bd4\u7e23"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -104,7 +104,7 @@
         }
     ],
     "wof:id":1108573293,
-    "wof:lastmodified":1555047464,
+    "wof:lastmodified":1561792409,
     "wof:name":"Yacuambi",
     "wof:parent_id":85670895,
     "wof:placetype":"county",

@@ -41,14 +41,14 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia d'El Oro"
     ],
-    "name:chi_x_preferred":[
-        "\u57c3\u723e\u5967\u7f85\u7701"
-    ],
     "name:dan_x_preferred":[
         "El Oro Province"
     ],
-    "name:dut_x_preferred":[
-        "El Oro"
+    "name:deu_x_preferred":[
+        "Provinz El Oro"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03bb \u038c\u03c1\u03bf"
     ],
     "name:eng_x_preferred":[
         "El Oro"
@@ -56,20 +56,14 @@
     "name:epo_x_preferred":[
         "El Oro"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0644 \u0627\u0648\u0631\u0648"
+    ],
     "name:fin_x_preferred":[
         "El Oro"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "El Oro"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d4\u10da-\u10dd\u10e0\u10dd\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz El Oro"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03bb \u038c\u03c1\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0ab2 \u0a93\u0ab0\u0acb \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -92,6 +86,9 @@
     "name:kan_x_preferred":[
         "\u0c8e\u0cb2\u0ccd \u0c93\u0cb0\u0cca \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10da-\u10dd\u10e0\u10dd\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\uc5d8\uc624\ub85c \uc8fc"
     ],
@@ -104,14 +101,14 @@
     "name:mar_x_preferred":[
         "\u090f\u0932 \u0913\u0930\u094b \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Pentadbiran El Oro"
+    ],
+    "name:nld_x_preferred":[
+        "El Oro"
     ],
     "name:nob_x_preferred":[
         "El Oro"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0644 \u0627\u0648\u0631\u0648"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0627\u06cc\u0644 \u0627\u0648\u0631\u0648"
@@ -169,6 +166,9 @@
     ],
     "name:war_x_preferred":[
         "El Oro"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u5967\u7f85\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"ECU",
@@ -295,7 +295,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1553550424,
+    "wof:lastmodified":1561792359,
     "wof:name":"El Oro",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

@@ -148,9 +148,6 @@
     "name:cym_x_preferred":[
         "Ecwador"
     ],
-    "name:cze_x_preferred":[
-        "Ekv\u00e1dor"
-    ],
     "name:dan_x_preferred":[
         "Ecuador"
     ],
@@ -770,8 +767,7 @@
         "\u5384\u74dc\u591a\u5c14"
     ],
     "name:zho_x_variant":[
-        "\u5384\u74dc\u591a",
-        "\u5384\u74dc\u591a\u5c14"
+        "\u5384\u74dc\u591a"
     ],
     "name:zho_yue_x_preferred":[
         "\u5384\u74dc\u591a\u723e"
@@ -928,7 +924,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1544059188,
+    "wof:lastmodified":1561792365,
     "wof:name":"Ecuador",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

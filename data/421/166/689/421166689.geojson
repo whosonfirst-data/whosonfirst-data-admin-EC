@@ -26,17 +26,14 @@
     "name:ceb_x_preferred":[
         "Puyo"
     ],
-    "name:chi_x_preferred":[
-        "\u666e\u7d04"
-    ],
     "name:dan_x_preferred":[
         "Puyo"
     ],
     "name:deu_x_preferred":[
         "Puyo"
     ],
-    "name:dut_x_preferred":[
-        "Puyo"
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03cd\u03b3\u03b9\u03bf"
     ],
     "name:eng_x_preferred":[
         "Puyo"
@@ -46,15 +43,6 @@
     ],
     "name:fra_x_preferred":[
         "Puyo"
-    ],
-    "name:fre_x_preferred":[
-        "Puyo"
-    ],
-    "name:ger_x_preferred":[
-        "Puyo"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03bf\u03cd\u03b3\u03b9\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0ac1\u0a93"
@@ -86,7 +74,7 @@
     "name:mar_x_preferred":[
         "\u092a\u0941\u092f\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Puyo"
     ],
     "name:nah_x_preferred":[
@@ -120,9 +108,6 @@
         "\u0db4\u0dd4\u0dba\u0ddd \u0db4\u0dc3\u0dca\u0da7\u0dcf\u0dc3\u0dcf"
     ],
     "name:slk_x_preferred":[
-        "Puyo"
-    ],
-    "name:slo_x_preferred":[
         "Puyo"
     ],
     "name:spa_x_preferred":[
@@ -301,7 +286,7 @@
         }
     ],
     "wof:id":421166689,
-    "wof:lastmodified":1553816354,
+    "wof:lastmodified":1561792423,
     "wof:name":"Puyo",
     "wof:parent_id":421185499,
     "wof:placetype":"locality",

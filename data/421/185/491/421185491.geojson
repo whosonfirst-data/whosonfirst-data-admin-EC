@@ -45,17 +45,11 @@
     "name:ces_x_preferred":[
         "Francisco de Orellana"
     ],
-    "name:chi_x_preferred":[
-        "\u5f17\u862d\u897f\u65af\u79d1\u5fb7\u5967\u96f7\u5229\u4e9e\u7d0d\u7e23"
-    ],
     "name:cym_x_preferred":[
         "Francisco de Orellana"
     ],
     "name:deu_x_preferred":[
         "Francisco de Orellana"
-    ],
-    "name:dut_x_preferred":[
-        "Francisco de Orellana Canton"
     ],
     "name:ell_x_preferred":[
         "\u03a6\u03c1\u03b1\u03bd\u03b8\u03af\u03c3\u03ba\u03bf \u03bd\u03c4\u03b5 \u039f\u03c1\u03b5\u03b3\u03b9\u03ac\u03bd\u03b1"
@@ -75,17 +69,14 @@
     "name:ext_x_preferred":[
         "Francisco de Orellana"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0627\u0646\u0633\u06cc\u0633\u06a9\u0648 \u062f \u0627\u0631\u0644\u0644\u0646\u0627"
+    ],
     "name:fin_x_preferred":[
         "Francisco de Orellana"
     ],
     "name:fra_x_preferred":[
         "Francisco de Orellana"
-    ],
-    "name:fre_x_preferred":[
-        "Francisco de Orellana"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e4\u10e0\u10d0\u10dc\u10e1\u10d8\u10e1\u10d9\u10dd-\u10d3\u10d4-\u10dd\u10e0\u10d4\u10da\u10d8\u10d0\u10dc\u10d0\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
     ],
     "name:hrv_x_preferred":[
         "Francisco de Orellana"
@@ -105,17 +96,20 @@
     "name:kat_x_preferred":[
         "\u10e4\u10e0\u10d0\u10dc\u10e1\u10d8\u10e1\u10d9\u10dd \u10d3\u10d4 \u10dd\u10e0\u10d4\u10da\u10d8\u10d0\u10dc\u10d0"
     ],
+    "name:kat_x_variant":[
+        "\u10e4\u10e0\u10d0\u10dc\u10e1\u10d8\u10e1\u10d9\u10dd-\u10d3\u10d4-\u10dd\u10e0\u10d4\u10da\u10d8\u10d0\u10dc\u10d0\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
+    ],
     "name:lit_x_preferred":[
         "Francisco de Orellana"
     ],
     "name:nld_x_preferred":[
         "Francisco de Orellana"
     ],
+    "name:nld_x_variant":[
+        "Francisco de Orellana Canton"
+    ],
     "name:nor_x_preferred":[
         "Francisco de Orellana"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0627\u0646\u0633\u06cc\u0633\u06a9\u0648 \u062f \u0627\u0631\u0644\u0644\u0646\u0627"
     ],
     "name:pol_x_preferred":[
         "Francisco de Orellana"
@@ -155,6 +149,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6cd5\u862d\u897f\u65af\u79d1\u00b7\u5fb7\u00b7\u5967\u96f7\u4e9e\u7d0d"
+    ],
+    "name:zho_x_variant":[
+        "\u5f17\u862d\u897f\u65af\u79d1\u5fb7\u5967\u96f7\u5229\u4e9e\u7d0d\u7e23"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -216,7 +213,7 @@
         }
     ],
     "wof:id":421185491,
-    "wof:lastmodified":1553717440,
+    "wof:lastmodified":1561792438,
     "wof:name":"Orellana",
     "wof:parent_id":85670941,
     "wof:placetype":"county",
