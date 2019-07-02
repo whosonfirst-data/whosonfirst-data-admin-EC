@@ -33,26 +33,23 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u5967\u5854\u74e6\u6d1b\u7e23"
-    ],
-    "name:dut_x_preferred":[
-        "Otavalo Canton"
-    ],
     "name:eng_x_preferred":[
         "Otavalo"
     ],
-    "name:fre_x_preferred":[
-        "Otavalo"
+    "name:fas_x_preferred":[
+        "\u0627\u062a\u0627\u0648\u0627\u0644\u0648"
     ],
-    "name:geo_x_preferred":[
-        "\u10dd\u10e2\u10d0\u10d5\u10d0\u10da\u10dd\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
+    "name:fra_x_preferred":[
+        "Otavalo"
     ],
     "name:ita_x_preferred":[
         "Cantone di Otavalo"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u062a\u0627\u0648\u0627\u0644\u0648"
+    "name:kat_x_preferred":[
+        "\u10dd\u10e2\u10d0\u10d5\u10d0\u10da\u10dd\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Otavalo Canton"
     ],
     "name:que_x_preferred":[
         "Utawalu kiti"
@@ -65,6 +62,9 @@
     ],
     "name:swe_x_preferred":[
         "Cant\u00f3n Otavalo"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u5854\u74e6\u6d1b\u7e23"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -125,7 +125,7 @@
         }
     ],
     "wof:id":421171751,
-    "wof:lastmodified":1555047454,
+    "wof:lastmodified":1561792437,
     "wof:name":"Otavalo",
     "wof:parent_id":85670971,
     "wof:placetype":"county",

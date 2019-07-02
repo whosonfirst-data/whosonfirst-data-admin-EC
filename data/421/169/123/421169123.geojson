@@ -20,13 +20,7 @@
     "name:ceb_x_preferred":[
         "Cayambe"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u63a6\u8c9d"
-    ],
     "name:deu_x_preferred":[
-        "Cayambe"
-    ],
-    "name:dut_x_preferred":[
         "Cayambe"
     ],
     "name:eng_x_preferred":[
@@ -35,17 +29,14 @@
     "name:fra_x_preferred":[
         "Cayambe"
     ],
-    "name:fre_x_preferred":[
-        "Cayambe"
-    ],
-    "name:ger_x_preferred":[
-        "Cayambe"
-    ],
     "name:ita_x_preferred":[
         "Cayambe"
     ],
     "name:lit_x_preferred":[
         "Kajamb\u0117"
+    ],
+    "name:nld_x_preferred":[
+        "Cayambe"
     ],
     "name:por_x_preferred":[
         "Cayambe"
@@ -61,6 +52,9 @@
     ],
     "name:swe_x_preferred":[
         "Cayambe"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u63a6\u8c9d"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Ecuador",
@@ -202,7 +196,7 @@
         }
     ],
     "wof:id":421169123,
-    "wof:lastmodified":1553816356,
+    "wof:lastmodified":1561792427,
     "wof:name":"Cayambe",
     "wof:parent_id":421197049,
     "wof:placetype":"locality",

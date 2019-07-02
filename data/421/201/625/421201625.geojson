@@ -54,17 +54,11 @@
     "name:ces_x_preferred":[
         "Gu\u00e1no"
     ],
-    "name:chi_x_preferred":[
-        "\u74dc\u8afe\u7e23"
-    ],
     "name:dan_x_preferred":[
         "Guano"
     ],
     "name:deu_x_preferred":[
         "Guano"
-    ],
-    "name:dut_x_preferred":[
-        "Guano Canton"
     ],
     "name:ell_x_preferred":[
         "\u0393\u03ba\u03bf\u03c5\u03b1\u03bd\u03cc"
@@ -90,12 +84,6 @@
     "name:fra_x_preferred":[
         "Guano"
     ],
-    "name:fre_x_preferred":[
-        "Guano"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10e3\u10d0\u10dc\u10dd\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
-    ],
     "name:gle_x_preferred":[
         "Guan\u00f3"
     ],
@@ -120,6 +108,9 @@
     "name:jpn_x_preferred":[
         "\u30b0\u30a2\u30ce"
     ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10e3\u10d0\u10dc\u10dd\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uad6c\uc544\ub178"
     ],
@@ -143,6 +134,9 @@
     ],
     "name:nld_x_preferred":[
         "Guano"
+    ],
+    "name:nld_x_variant":[
+        "Guano Canton"
     ],
     "name:nno_x_preferred":[
         "Guano"
@@ -204,6 +198,9 @@
     "name:zho_x_preferred":[
         "\u6d77\u9e1f\u7caa"
     ],
+    "name:zho_x_variant":[
+        "\u74dc\u8afe\u7e23"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -264,7 +261,7 @@
         }
     ],
     "wof:id":421201625,
-    "wof:lastmodified":1553717556,
+    "wof:lastmodified":1561792433,
     "wof:name":"Guano",
     "wof:parent_id":85670931,
     "wof:placetype":"county",

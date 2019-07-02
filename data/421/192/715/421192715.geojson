@@ -19,13 +19,7 @@
     "name:cat_x_preferred":[
         "Otavalo"
     ],
-    "name:chi_x_preferred":[
-        "\u5967\u5854\u74e6\u6d1b"
-    ],
     "name:deu_x_preferred":[
-        "Otavalo"
-    ],
-    "name:dut_x_preferred":[
         "Otavalo"
     ],
     "name:eng_x_preferred":[
@@ -38,12 +32,6 @@
         "Otavalo"
     ],
     "name:fra_x_preferred":[
-        "Otavalo"
-    ],
-    "name:fre_x_preferred":[
-        "Otavalo"
-    ],
-    "name:ger_x_preferred":[
         "Otavalo"
     ],
     "name:ita_x_preferred":[
@@ -64,7 +52,7 @@
     "name:que_x_preferred":[
         "Utawalu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Otavalo"
     ],
     "name:rus_x_preferred":[
@@ -132,7 +120,7 @@
         }
     ],
     "wof:id":421192715,
-    "wof:lastmodified":1513956267,
+    "wof:lastmodified":1561792424,
     "wof:name":"Otavalo",
     "wof:parent_id":421171751,
     "wof:placetype":"locality",

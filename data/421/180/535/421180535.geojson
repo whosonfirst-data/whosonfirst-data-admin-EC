@@ -33,14 +33,8 @@
     "name:ceb_x_preferred":[
         "Espejo"
     ],
-    "name:chi_x_preferred":[
-        "\u57c3\u65af\u4f69\u970d\u7e23"
-    ],
     "name:deu_x_preferred":[
         "Espejo"
-    ],
-    "name:dut_x_preferred":[
-        "Espejo Canton"
     ],
     "name:eng_x_preferred":[
         "Espejo"
@@ -48,14 +42,14 @@
     "name:fra_x_preferred":[
         "Espejo"
     ],
-    "name:fre_x_preferred":[
-        "Espejo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d4\u10e1\u10de\u10d4\u10ee\u10dd\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
-    ],
     "name:ita_x_preferred":[
         "Cantone di Espejo"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10e1\u10de\u10d4\u10ee\u10dd\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Espejo Canton"
     ],
     "name:por_x_preferred":[
         "Espejo"
@@ -71,6 +65,9 @@
     ],
     "name:swe_x_preferred":[
         "Cant\u00f3n Espejo"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u65af\u4f69\u970d\u7e23"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -132,7 +129,7 @@
         }
     ],
     "wof:id":421180535,
-    "wof:lastmodified":1553717376,
+    "wof:lastmodified":1561792428,
     "wof:name":"Espejo",
     "wof:parent_id":85670967,
     "wof:placetype":"county",

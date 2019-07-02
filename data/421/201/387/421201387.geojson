@@ -26,17 +26,14 @@
     "name:ceb_x_preferred":[
         "Machala"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u67e5\u62c9"
-    ],
     "name:dan_x_preferred":[
         "Machala"
     ],
     "name:deu_x_preferred":[
         "Machala"
     ],
-    "name:dut_x_preferred":[
-        "Machala"
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03c4\u03c3\u03ac\u03bb\u03b1"
     ],
     "name:eng_x_preferred":[
         "Machala"
@@ -52,18 +49,6 @@
     ],
     "name:fra_x_preferred":[
         "Machala"
-    ],
-    "name:fre_x_preferred":[
-        "Machala"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10e9\u10d0\u10da\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Machala"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03c4\u03c3\u03ac\u03bb\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0a9a\u0abe\u0ab2\u0abe"
@@ -107,9 +92,6 @@
     "name:mar_x_preferred":[
         "\u092e\u093e\u091a\u093e\u0932\u093e"
     ],
-    "name:may_x_preferred":[
-        "Machala"
-    ],
     "name:msa_x_preferred":[
         "Machala"
     ],
@@ -128,9 +110,6 @@
     "name:nob_x_preferred":[
         "Machala"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0627\u0686\u0627\u0644\u0627"
-    ],
     "name:pnb_x_preferred":[
         "\u0645\u0686\u0627\u0644\u0627"
     ],
@@ -146,9 +125,6 @@
     "name:ron_x_preferred":[
         "Machala"
     ],
-    "name:rum_x_preferred":[
-        "Machala"
-    ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u0447\u0430\u043b\u0430"
     ],
@@ -156,9 +132,6 @@
         "\u0db8\u0da0\u0dcf\u0dbd\u0dcf"
     ],
     "name:slk_x_preferred":[
-        "Machala"
-    ],
-    "name:slo_x_preferred":[
         "Machala"
     ],
     "name:spa_x_preferred":[
@@ -337,7 +310,7 @@
         }
     ],
     "wof:id":421201387,
-    "wof:lastmodified":1527716442,
+    "wof:lastmodified":1561792434,
     "wof:name":"Machala",
     "wof:parent_id":1108570217,
     "wof:placetype":"locality",

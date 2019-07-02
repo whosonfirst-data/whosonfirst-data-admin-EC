@@ -23,9 +23,6 @@
     "name:fra_x_preferred":[
         "Pi\u00f1as"
     ],
-    "name:fre_x_preferred":[
-        "Pi\u00f1as"
-    ],
     "name:ita_x_preferred":[
         "Cantone di Pi\u00f1as"
     ],
@@ -185,7 +182,7 @@
         }
     ],
     "wof:id":421169111,
-    "wof:lastmodified":1513956283,
+    "wof:lastmodified":1561792426,
     "wof:name":"Pi\u00f1as",
     "wof:parent_id":421195605,
     "wof:placetype":"locality",

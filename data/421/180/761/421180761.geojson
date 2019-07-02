@@ -25,14 +25,14 @@
     "name:ceb_x_preferred":[
         "Santa Elena"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u57c3\u502b\u5a1c"
-    ],
     "name:dan_x_preferred":[
         "Santa Elena"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Santa Elena"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03bd\u03c4\u03b1 \u0388\u03bb\u03b5\u03bd\u03b1"
     ],
     "name:eng_x_preferred":[
         "Santa Elena"
@@ -48,15 +48,6 @@
     ],
     "name:fra_x_preferred":[
         "Santa Elena"
-    ],
-    "name:fre_x_preferred":[
-        "Santa Elena"
-    ],
-    "name:ger_x_preferred":[
-        "Santa Elena"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03ac\u03bd\u03c4\u03b1 \u0388\u03bb\u03b5\u03bd\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0aa8\u0acd\u0aa4\u0abe \u0a8f\u0ab2\u0ac7\u0aa8\u0abe"
@@ -85,26 +76,23 @@
     "name:lit_x_preferred":[
         "Santa Elena"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0430\u043d\u0442\u0430 \u0415\u043b\u0435\u043d\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u0938\u093e\u0902\u0924\u093e \u090f\u0932\u0947\u0928\u093e"
     ],
-    "name:may_x_preferred":[
-        "Santa Elena"
-    ],
     "name:mkd_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430 \u0415\u043b\u0435\u043d\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Santa Elena"
+    ],
+    "name:nld_x_preferred":[
+        "Santa Elena"
     ],
     "name:nob_x_preferred":[
         "Santa Elena"
     ],
     "name:oci_x_preferred":[
         "Santa Elena"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u0627\u0646\u062a\u0627 \u0627\u0644\u0646\u0627"
     ],
     "name:pnb_x_preferred":[
         "\u0633\u0627\u0646\u062a\u0627 \u0627\u06cc\u0644\u06cc\u0646\u0627"
@@ -208,7 +196,7 @@
         }
     ],
     "wof:id":421180761,
-    "wof:lastmodified":1553816369,
+    "wof:lastmodified":1561792428,
     "wof:name":"Santa Elena",
     "wof:parent_id":1108572401,
     "wof:placetype":"locality",

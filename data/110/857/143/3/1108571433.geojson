@@ -32,23 +32,20 @@
     "mps:longitude":-77.910367,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u76ae\u66fc\u76ae\u7f85\u7e23"
-    ],
-    "name:dut_x_preferred":[
-        "Pimampiro Canton"
-    ],
     "name:eng_x_preferred":[
         "Pimampiro"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Pimampiro"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d8\u10db\u10d0\u10db\u10de\u10d8\u10e0\u10dd\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
     ],
     "name:ita_x_preferred":[
         "Cantone di Pimampiro"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d8\u10db\u10d0\u10db\u10de\u10d8\u10e0\u10dd\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Pimampiro Canton"
     ],
     "name:que_x_preferred":[
         "Pimampiru kiti"
@@ -61,6 +58,9 @@
     ],
     "name:swe_x_preferred":[
         "Cant\u00f3n Pimampiro"
+    ],
+    "name:zho_x_preferred":[
+        "\u76ae\u66fc\u76ae\u7f85\u7e23"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":1108571433,
-    "wof:lastmodified":1555047462,
+    "wof:lastmodified":1561792406,
     "wof:name":"Pimampiro",
     "wof:parent_id":85670971,
     "wof:placetype":"county",

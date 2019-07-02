@@ -36,26 +36,23 @@
     "name:ceb_x_preferred":[
         "Samborond\u00f3n"
     ],
-    "name:chi_x_preferred":[
-        "\u6851\u535a\u9f8d\u6771\u7e23"
-    ],
     "name:deu_x_preferred":[
-        "Samborond\u00f3n"
-    ],
-    "name:dut_x_preferred":[
         "Samborond\u00f3n"
     ],
     "name:eng_x_preferred":[
         "Samborond\u00f3n"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Samborond\u00f3n"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10db\u10d1\u10dd\u10e0\u10dd\u10dc\u10d3\u10dd\u10dc\u10d8\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
     ],
     "name:ita_x_preferred":[
         "Cantone di Samborond\u00f3n"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10db\u10d1\u10dd\u10e0\u10dd\u10dc\u10d3\u10dd\u10dc\u10d8\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Samborond\u00f3n"
     ],
     "name:que_x_preferred":[
         "Samborond\u00f3n"
@@ -68,6 +65,9 @@
     ],
     "name:swe_x_preferred":[
         "Samborond\u00f3n"
+    ],
+    "name:zho_x_preferred":[
+        "\u6851\u535a\u9f8d\u6771\u7e23"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -129,7 +129,7 @@
         }
     ],
     "wof:id":421189217,
-    "wof:lastmodified":1555047456,
+    "wof:lastmodified":1561792429,
     "wof:name":"Samborond\u00f3n",
     "wof:parent_id":85670917,
     "wof:placetype":"county",

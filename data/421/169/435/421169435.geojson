@@ -33,26 +33,23 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u7a46\u4f0a\u65af\u5167\u7e23"
+    "name:deu_x_preferred":[
+        "Cant\u00f3n Muisne"
     ],
     "name:eng_x_preferred":[
         "Muisne"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Muisne"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10e3\u10d8\u10e1\u10dc\u10d4\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Cant\u00f3n Muisne"
     ],
     "name:hun_x_preferred":[
         "Muisne kanton"
     ],
     "name:ita_x_preferred":[
         "Cantone di Muisne"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10e3\u10d8\u10e1\u10dc\u10d4\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
     ],
     "name:nds_x_preferred":[
         "Cant\u00f3n Muisne"
@@ -71,6 +68,9 @@
     ],
     "name:swe_x_preferred":[
         "Cant\u00f3n Muisne"
+    ],
+    "name:zho_x_preferred":[
+        "\u7a46\u4f0a\u65af\u5167\u7e23"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -132,7 +132,7 @@
         }
     ],
     "wof:id":421169435,
-    "wof:lastmodified":1555047454,
+    "wof:lastmodified":1561792426,
     "wof:name":"Muisne",
     "wof:parent_id":85670963,
     "wof:placetype":"county",

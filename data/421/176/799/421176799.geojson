@@ -16,9 +16,6 @@
     "name:ceb_x_preferred":[
         "Saquisil\u00ed"
     ],
-    "name:dut_x_preferred":[
-        "Saquisil\u00ed"
-    ],
     "name:eng_x_preferred":[
         "Saquisil\u00ed"
     ],
@@ -81,7 +78,7 @@
         }
     ],
     "wof:id":421176799,
-    "wof:lastmodified":1513956310,
+    "wof:lastmodified":1561792436,
     "wof:name":"Saquisil\u00ed",
     "wof:parent_id":421184855,
     "wof:placetype":"locality",

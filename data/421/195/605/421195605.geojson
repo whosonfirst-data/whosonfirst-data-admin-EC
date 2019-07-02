@@ -42,12 +42,6 @@
     "name:ceb_x_preferred":[
         "Pinas"
     ],
-    "name:chi_x_preferred":[
-        "\u76ae\u5c3c\u4e9e\u65af\u7e23"
-    ],
-    "name:dut_x_preferred":[
-        "Pi\u00f1as Canton"
-    ],
     "name:eng_x_preferred":[
         "Pi\u00f1as"
     ],
@@ -57,11 +51,8 @@
     "name:fra_x_preferred":[
         "Pinas"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Pi\u00f1as"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d8\u10dc\u10d8\u10d0\u10e1\u10d8\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
     ],
     "name:hun_x_preferred":[
         "Pinas"
@@ -72,6 +63,9 @@
     "name:ita_x_preferred":[
         "Pinas"
     ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d8\u10dc\u10d8\u10d0\u10e1\u10d8\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
+    ],
     "name:lat_x_preferred":[
         "Pinas"
     ],
@@ -80,6 +74,9 @@
     ],
     "name:nld_x_preferred":[
         "Pinas"
+    ],
+    "name:nld_x_variant":[
+        "Pi\u00f1as Canton"
     ],
     "name:nor_x_preferred":[
         "Pinas"
@@ -131,6 +128,9 @@
     ],
     "name:zho_x_preferred":[
         "\u76ae\u7eb3"
+    ],
+    "name:zho_x_variant":[
+        "\u76ae\u5c3c\u4e9e\u65af\u7e23"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -192,7 +192,7 @@
         }
     ],
     "wof:id":421195605,
-    "wof:lastmodified":1553717535,
+    "wof:lastmodified":1561792424,
     "wof:name":"Pi\u00f1as",
     "wof:parent_id":85670887,
     "wof:placetype":"county",

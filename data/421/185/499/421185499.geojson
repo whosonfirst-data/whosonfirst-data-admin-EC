@@ -33,32 +33,26 @@
     "name:bel_x_preferred":[
         "\u041f\u0430\u0441\u0442\u0430\u0441\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u5e15\u65af\u5854\u85a9\u7e23"
-    ],
-    "name:dut_x_preferred":[
-        "Pastaza Canton"
-    ],
     "name:eng_x_preferred":[
         "Pastaza"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0633\u062a\u0627\u0632\u0627"
     ],
     "name:fra_x_preferred":[
         "Pastaza"
     ],
-    "name:fre_x_preferred":[
-        "Pastaza"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d0\u10e1\u10e2\u10d0\u10e1\u10d8\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
-    ],
     "name:ita_x_preferred":[
         "Cantone di Pastaza"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d0\u10e1\u10e2\u10d0\u10e1\u10d8\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
     ],
     "name:nld_x_preferred":[
         "Pastaza"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0627\u0633\u062a\u0627\u0632\u0627"
+    "name:nld_x_variant":[
+        "Pastaza Canton"
     ],
     "name:que_x_preferred":[
         "Pastasa kiti"
@@ -77,6 +71,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10de\u10d0\u10e1\u10e2\u10d0\u10e1\u10d0\u10e8 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u65af\u5854\u85a9\u7e23"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -138,7 +135,7 @@
         }
     ],
     "wof:id":421185499,
-    "wof:lastmodified":1553717440,
+    "wof:lastmodified":1561792438,
     "wof:name":"Pastaza",
     "wof:parent_id":85670949,
     "wof:placetype":"county",

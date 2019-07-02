@@ -25,13 +25,7 @@
     "name:ces_x_preferred":[
         "Baeza"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u57c3\u85a9"
-    ],
     "name:deu_x_preferred":[
-        "Baeza"
-    ],
-    "name:dut_x_preferred":[
         "Baeza"
     ],
     "name:eng_x_preferred":[
@@ -151,6 +145,9 @@
     "name:zho_x_preferred":[
         "\u62dc\u8428"
     ],
+    "name:zho_x_variant":[
+        "\u5df4\u57c3\u85a9"
+    ],
     "qs:gn_country":"EC",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3660407,
@@ -205,7 +202,7 @@
         }
     ],
     "wof:id":421173807,
-    "wof:lastmodified":1553816364,
+    "wof:lastmodified":1561792429,
     "wof:name":"Baeza",
     "wof:parent_id":1108571837,
     "wof:placetype":"locality",

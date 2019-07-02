@@ -36,35 +36,29 @@
     "name:ceb_x_preferred":[
         "Canar"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u5c3c\u4e9e\u723e\u7e23"
-    ],
     "name:deu_x_preferred":[
         "Canar"
-    ],
-    "name:dut_x_preferred":[
-        "Ca\u00f1ar Canton"
     ],
     "name:eng_x_preferred":[
         "Ca\u00f1ar"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0646\u0631\u060c \u0627\u06a9\u0648\u0627\u062f\u0648\u0631"
+    ],
     "name:fra_x_preferred":[
         "Ca\u00f1ar"
-    ],
-    "name:fre_x_preferred":[
-        "Ca\u00f1ar"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d0\u10dc\u10d8\u10d0\u10e0\u10d8\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
     ],
     "name:ita_x_preferred":[
         "Cantone di Ca\u00f1ar"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10dc\u10d8\u10d0\u10e0\u10d8\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
+    ],
     "name:nld_x_preferred":[
         "Canar"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0646\u0631\u060c \u0627\u06a9\u0648\u0627\u062f\u0648\u0631"
+    "name:nld_x_variant":[
+        "Ca\u00f1ar Canton"
     ],
     "name:por_x_preferred":[
         "Ca\u00f1ar"
@@ -83,6 +77,9 @@
     ],
     "name:swe_x_preferred":[
         "Cant\u00f3n Ca\u00f1ar"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u5c3c\u4e9e\u723e\u7e23"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -144,7 +141,7 @@
         }
     ],
     "wof:id":421195597,
-    "wof:lastmodified":1555047457,
+    "wof:lastmodified":1561792424,
     "wof:name":"Ca\u00f1ar",
     "wof:parent_id":85670909,
     "wof:placetype":"county",

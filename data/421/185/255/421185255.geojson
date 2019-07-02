@@ -19,14 +19,14 @@
     "name:ceb_x_preferred":[
         "Zumbagua"
     ],
-    "name:dut_x_preferred":[
-        "Zumbahua"
-    ],
     "name:eng_x_preferred":[
         "Zumbahua"
     ],
     "name:lit_x_preferred":[
         "Sumbahva"
+    ],
+    "name:nld_x_preferred":[
+        "Zumbahua"
     ],
     "name:que_x_preferred":[
         "Sumpawa"
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":421185255,
-    "wof:lastmodified":1527726511,
+    "wof:lastmodified":1561792438,
     "wof:name":"Zumbahua",
     "wof:parent_id":421185497,
     "wof:placetype":"locality",

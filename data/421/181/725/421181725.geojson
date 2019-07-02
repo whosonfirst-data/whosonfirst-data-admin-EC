@@ -25,9 +25,6 @@
     "name:bam_x_preferred":[
         "Vinces"
     ],
-    "name:baq_x_preferred":[
-        "Vinces"
-    ],
     "name:bar_x_preferred":[
         "Vinces"
     ],
@@ -40,19 +37,19 @@
     "name:ceb_x_preferred":[
         "Vinces"
     ],
-    "name:chi_x_preferred":[
-        "\u8cd3\u585e\u65af"
+    "name:ces_x_preferred":[
+        "Vinces"
     ],
     "name:cos_x_preferred":[
         "Vinces"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Vinces"
     ],
     "name:dan_x_preferred":[
         "Vinces"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Vinces"
     ],
     "name:eng_x_preferred":[
@@ -64,22 +61,22 @@
     "name:est_x_preferred":[
         "Vinces"
     ],
+    "name:eus_x_preferred":[
+        "Vinces"
+    ],
     "name:fin_x_preferred":[
         "Vinces"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_preferred":[
         "Vinces"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "Vinces"
     ],
     "name:frp_x_preferred":[
         "Vinces"
     ],
     "name:fur_x_preferred":[
-        "Vinces"
-    ],
-    "name:ger_x_preferred":[
         "Vinces"
     ],
     "name:gla_x_preferred":[
@@ -139,19 +136,22 @@
     "name:ltz_x_preferred":[
         "Vinces"
     ],
-    "name:may_x_preferred":[
-        "Vinces"
-    ],
     "name:min_x_preferred":[
         "Vinces"
     ],
     "name:mlg_x_preferred":[
         "Vinces"
     ],
+    "name:msa_x_preferred":[
+        "Vinces"
+    ],
     "name:nap_x_preferred":[
         "Vinces"
     ],
     "name:nds_x_preferred":[
+        "Vinces"
+    ],
+    "name:nld_x_preferred":[
         "Vinces"
     ],
     "name:nno_x_preferred":[
@@ -193,7 +193,7 @@
     "name:roh_x_preferred":[
         "Vinces"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Vinces"
     ],
     "name:scn_x_preferred":[
@@ -202,7 +202,7 @@
     "name:sco_x_preferred":[
         "Vinces"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Vinces"
     ],
     "name:spa_x_preferred":[
@@ -235,14 +235,14 @@
     "name:vol_x_preferred":[
         "Vinces"
     ],
-    "name:wel_x_preferred":[
-        "Vinces"
-    ],
     "name:wln_x_preferred":[
         "Vinces"
     ],
     "name:wol_x_preferred":[
         "Vinces"
+    ],
+    "name:zho_x_preferred":[
+        "\u8cd3\u585e\u65af"
     ],
     "name:zul_x_preferred":[
         "Vinces"
@@ -294,7 +294,7 @@
         }
     ],
     "wof:id":421181725,
-    "wof:lastmodified":1513956331,
+    "wof:lastmodified":1561792430,
     "wof:name":"Vinces",
     "wof:parent_id":421173271,
     "wof:placetype":"locality",

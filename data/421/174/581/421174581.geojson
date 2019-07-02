@@ -26,17 +26,14 @@
     "name:ceb_x_preferred":[
         "Azogues"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u7d22\u683c\u65af"
-    ],
     "name:dan_x_preferred":[
         "Azogues"
     ],
     "name:deu_x_preferred":[
         "Azogues"
     ],
-    "name:dut_x_preferred":[
-        "Azogues"
+    "name:ell_x_preferred":[
+        "\u0391\u03c3\u03cc\u03b3\u03ba\u03b5\u03c2"
     ],
     "name:eng_x_preferred":[
         "Azogues"
@@ -46,15 +43,6 @@
     ],
     "name:fra_x_preferred":[
         "Azogues"
-    ],
-    "name:fre_x_preferred":[
-        "Azogues"
-    ],
-    "name:ger_x_preferred":[
-        "Azogues"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03c3\u03cc\u03b3\u03ba\u03b5\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0a86\u0a9d\u0acb\u0a97\u0ac1\u0a8f\u0ab8"
@@ -92,7 +80,7 @@
     "name:mar_x_preferred":[
         "\u0905\u091d\u094b\u0917\u0941\u090f\u0938"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Azogues"
     ],
     "name:nld_x_preferred":[
@@ -116,9 +104,6 @@
     "name:ron_x_preferred":[
         "Azogues"
     ],
-    "name:rum_x_preferred":[
-        "Azogues"
-    ],
     "name:rus_x_preferred":[
         "\u0410\u0441\u043e\u0433\u0435\u0441"
     ],
@@ -126,9 +111,6 @@
         "\u0d85\u0dc3\u0ddc\u0d9c\u0dd4\u0dc3\u0dca"
     ],
     "name:slk_x_preferred":[
-        "Azogues"
-    ],
-    "name:slo_x_preferred":[
         "Azogues"
     ],
     "name:spa_x_preferred":[
@@ -306,7 +288,7 @@
         }
     ],
     "wof:id":421174581,
-    "wof:lastmodified":1513956122,
+    "wof:lastmodified":1561792428,
     "wof:name":"Azogues",
     "wof:parent_id":421195039,
     "wof:placetype":"locality",

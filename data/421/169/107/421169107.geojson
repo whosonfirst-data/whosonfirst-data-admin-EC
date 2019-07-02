@@ -29,10 +29,7 @@
     "name:ceb_x_preferred":[
         "Riobamba"
     ],
-    "name:chi_x_preferred":[
-        "\u91cc\u5967\u73ed\u5df4"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Riobamba"
     ],
     "name:dan_x_preferred":[
@@ -41,8 +38,8 @@
     "name:deu_x_preferred":[
         "Riobamba"
     ],
-    "name:dut_x_preferred":[
-        "Riobamba"
+    "name:ell_x_preferred":[
+        "\u03a1\u03b9\u03bf\u03bc\u03c0\u03ac\u03bc\u03c0\u03b1"
     ],
     "name:eng_x_preferred":[
         "Riobamba"
@@ -50,23 +47,14 @@
     "name:epo_x_preferred":[
         "Riobamba"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u06cc\u0648\u0628\u0627\u0645\u0628\u0627"
+    ],
     "name:fin_x_preferred":[
         "Riobamba"
     ],
     "name:fra_x_preferred":[
         "Riobamba"
-    ],
-    "name:fre_x_preferred":[
-        "Riobamba"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e0\u10d8\u10dd\u10d1\u10d0\u10db\u10d1\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Riobamba"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a1\u03b9\u03bf\u03bc\u03c0\u03ac\u03bc\u03c0\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab0\u0abf\u0aaf\u0acb\u0aac\u0abe\u0aae\u0acd\u0aac\u0abe"
@@ -113,7 +101,7 @@
     "name:mar_x_preferred":[
         "\u0930\u093f\u0913\u092c\u093e\u092e\u094d\u092c\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Riobamba"
     ],
     "name:nld_x_preferred":[
@@ -124,9 +112,6 @@
     ],
     "name:nob_x_preferred":[
         "Riobamba"
-    ],
-    "name:per_x_preferred":[
-        "\u0631\u06cc\u0648\u0628\u0627\u0645\u0628\u0627"
     ],
     "name:pnb_x_preferred":[
         "\u0631\u06cc\u0624\u0628\u0627\u0645\u0628\u0627"
@@ -143,9 +128,6 @@
     "name:ron_x_preferred":[
         "Riobamba"
     ],
-    "name:rum_x_preferred":[
-        "Riobamba"
-    ],
     "name:rus_x_preferred":[
         "\u0420\u0438\u043e\u0431\u0430\u043c\u0431\u0430"
     ],
@@ -153,9 +135,6 @@
         "\u0dbb\u0dd2\u0dba\u0ddd\u0db6\u0db8\u0dca\u0db6\u0dcf"
     ],
     "name:slk_x_preferred":[
-        "Riobamba"
-    ],
-    "name:slo_x_preferred":[
         "Riobamba"
     ],
     "name:spa_x_preferred":[
@@ -333,7 +312,7 @@
         }
     ],
     "wof:id":421169107,
-    "wof:lastmodified":1513956294,
+    "wof:lastmodified":1561792426,
     "wof:name":"Riobamba",
     "wof:parent_id":421185337,
     "wof:placetype":"locality",

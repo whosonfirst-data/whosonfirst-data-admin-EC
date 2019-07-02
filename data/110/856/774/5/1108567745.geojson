@@ -32,23 +32,20 @@
     "mps:longitude":-79.863686,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u963f\u5854\u5361\u6885\u65af\u7e23"
-    ],
     "name:eng_x_preferred":[
         "Atacames"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Atacames"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10e2\u10d0\u10d9\u10d0\u10db\u10d4\u10e1\u10d8\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
     ],
     "name:hun_x_preferred":[
         "Atacames kanton"
     ],
     "name:ita_x_preferred":[
         "Cantone di Atacames"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e2\u10d0\u10d9\u10d0\u10db\u10d4\u10e1\u10d8\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
     ],
     "name:por_x_preferred":[
         "Atacames"
@@ -61,6 +58,9 @@
     ],
     "name:spa_x_variant":[
         "Cant\u00f3n Atacames"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u5854\u5361\u6885\u65af\u7e23"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":1108567745,
-    "wof:lastmodified":1555047458,
+    "wof:lastmodified":1561792415,
     "wof:name":"Atacames",
     "wof:parent_id":85670963,
     "wof:placetype":"county",
