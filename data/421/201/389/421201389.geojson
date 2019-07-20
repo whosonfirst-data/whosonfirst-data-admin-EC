@@ -19,6 +19,9 @@
     "name:deu_x_preferred":[
         "La Libertad"
     ],
+    "name:eng_x_preferred":[
+        "La Libertad"
+    ],
     "name:fra_x_preferred":[
         "La Libertad"
     ],
@@ -27,6 +30,9 @@
     ],
     "name:lit_x_preferred":[
         "La Libertadas"
+    ],
+    "name:nld_x_preferred":[
+        "La Libertad"
     ],
     "name:pol_x_preferred":[
         "La Libertad"
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":421201389,
-    "wof:lastmodified":1527716441,
+    "wof:lastmodified":1563584763,
     "wof:name":"La Libertad",
     "wof:parent_id":421189201,
     "wof:placetype":"locality",

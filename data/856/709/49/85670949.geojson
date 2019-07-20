@@ -56,8 +56,17 @@
     "name:eng_x_preferred":[
         "Pastaza"
     ],
+    "name:eng_x_variant":[
+        "Pastaza Province"
+    ],
     "name:epo_x_preferred":[
         "Pastaza"
+    ],
+    "name:epo_x_variant":[
+        "Pastazo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u067e\u0627\u0633\u062a\u0627\u0633\u0627"
     ],
     "name:fin_x_preferred":[
         "Pastaza"
@@ -65,11 +74,17 @@
     "name:fra_x_preferred":[
         "Pastaza"
     ],
+    "name:frr_x_preferred":[
+        "Pastaza"
+    ],
     "name:guj_x_preferred":[
         "\u0aaa\u0abe\u0ab8\u0acd\u0a9f\u0abe\u0a9d\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
     ],
     "name:hin_x_preferred":[
         "\u092a\u093e\u0938\u0924\u093e\u091c\u093c\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0561\u057d\u057f\u0561\u057d\u0561"
     ],
     "name:ind_x_preferred":[
         "Provinsi Pastaza"
@@ -89,6 +104,12 @@
     "name:kor_x_preferred":[
         "\ud30c\uc2a4\ud0c0\uc0ac \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ud30c\uc2a4\ud0c0\uc0ac\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Pastaza"
+    ],
     "name:lav_x_preferred":[
         "Pastasas province"
     ],
@@ -100,6 +121,9 @@
     ],
     "name:msa_x_preferred":[
         "Pentadbiran Pastaza"
+    ],
+    "name:nan_x_preferred":[
+        "Pastaza S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Pastaza"
@@ -298,7 +322,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1561792364,
+    "wof:lastmodified":1563583679,
     "wof:name":"Pastaza",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

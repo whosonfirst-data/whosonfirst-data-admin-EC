@@ -35,6 +35,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09cd\u09af\u09be\u09a8\u09cd\u099f\u09be \u098f\u09b2\u09c7\u09a8\u09be \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
+    "name:ben_x_variant":[
+        "\u09b8\u09be\u09a8\u09cd\u09a4\u09be \u098f\u09b2\u09c7\u09a8\u09be \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u0432\u0435\u0442\u0430 \u0415\u043b\u0435\u043d\u0430"
     ],
@@ -50,6 +53,9 @@
     "name:eng_x_preferred":[
         "Santa Elena"
     ],
+    "name:eng_x_variant":[
+        "Santa Elena Province"
+    ],
     "name:epo_x_preferred":[
         "Santa Elena"
     ],
@@ -60,6 +66,9 @@
         "Santa Elena"
     ],
     "name:fra_x_preferred":[
+        "Santa Elena"
+    ],
+    "name:frr_x_preferred":[
         "Santa Elena"
     ],
     "name:guj_x_preferred":[
@@ -86,6 +95,12 @@
     "name:kor_x_preferred":[
         "\uc0b0\ud0c0\uc5d8\ub808\ub098 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc0b0\ud0c0\uc5d8\ub808\ub098\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Santa Elena"
+    ],
     "name:lav_x_preferred":[
         "Santaelenas province"
     ],
@@ -101,11 +116,17 @@
     "name:msa_x_preferred":[
         "Santa Elena Province"
     ],
+    "name:nan_x_preferred":[
+        "Santa Elena S\u00e9ng"
+    ],
     "name:nld_x_preferred":[
         "Santa Elena"
     ],
     "name:nob_x_preferred":[
         "Santa Elena provins"
+    ],
+    "name:nob_x_variant":[
+        "Santa Elena"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0633\u0627\u0646\u062a\u0627 \u0627\u06cc\u0644\u06cc\u0646\u0627"
@@ -148,6 +169,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e0b\u0e32\u0e19\u0e15\u0e32 \u0e40\u0e2d\u0e40\u0e25\u0e19\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e0b\u0e32\u0e19\u0e15\u0e32\u0e40\u0e2d\u0e40\u0e25\u0e19\u0e32"
     ],
     "name:tur_x_preferred":[
         "Santa Elena Province"
@@ -292,7 +316,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1561792363,
+    "wof:lastmodified":1563583672,
     "wof:name":"Santa Elena",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

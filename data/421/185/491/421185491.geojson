@@ -42,6 +42,9 @@
     "name:cat_x_preferred":[
         "Francisco de Orellana"
     ],
+    "name:ceb_x_preferred":[
+        "Cant\u00f3n Urellana"
+    ],
     "name:ces_x_preferred":[
         "Francisco de Orellana"
     ],
@@ -126,6 +129,9 @@
     "name:rus_x_preferred":[
         "\u041e\u0440\u0435\u043b\u044c\u044f\u043d\u0430"
     ],
+    "name:rus_x_variant":[
+        "\u0424\u0440\u0430\u043d\u0441\u0438\u0441\u043a\u043e-\u0434\u0435-\u041e\u0440\u0435\u043b\u044c\u044f\u043d\u0430"
+    ],
     "name:slk_x_preferred":[
         "Francisco de Orellana"
     ],
@@ -137,6 +143,9 @@
     ],
     "name:swe_x_preferred":[
         "Francisco de Orellana"
+    ],
+    "name:swe_x_variant":[
+        "Cant\u00f3n Urellana"
     ],
     "name:tur_x_preferred":[
         "Francisco de Orellana"
@@ -213,7 +222,7 @@
         }
     ],
     "wof:id":421185491,
-    "wof:lastmodified":1561792438,
+    "wof:lastmodified":1563584808,
     "wof:name":"Orellana",
     "wof:parent_id":85670941,
     "wof:placetype":"county",

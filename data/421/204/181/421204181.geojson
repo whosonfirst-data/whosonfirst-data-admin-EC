@@ -16,6 +16,9 @@
     "name:deu_x_preferred":[
         "San Antonio de Pichincha"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30a2\u30f3\u30c8\u30cb\u30aa\u30fb\u30c7\u30fb\u30d4\u30c1\u30f3\u30c1\u30e3"
+    ],
     "name:lit_x_preferred":[
         "San Antonio de Pi\u010din\u010da"
     ],
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":421204181,
-    "wof:lastmodified":1527716182,
+    "wof:lastmodified":1563584667,
     "wof:name":"San Antonio",
     "wof:parent_id":421188131,
     "wof:placetype":"locality",

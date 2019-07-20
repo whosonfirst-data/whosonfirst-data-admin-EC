@@ -32,8 +32,17 @@
     "mps:longitude":-79.121923,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u0646\u062a\u0648\u0646 \u0634\u064a\u0644\u0627\u0646\u0633"
+    ],
+    "name:ceb_x_preferred":[
+        "Cant\u00f3n Chillanes"
+    ],
     "name:eng_x_preferred":[
         "Chillanes"
+    ],
+    "name:eng_x_variant":[
+        "Chillanes Canton"
     ],
     "name:fra_x_preferred":[
         "Chillanes"
@@ -46,6 +55,9 @@
     ],
     "name:nld_x_preferred":[
         "Chillanes Canton"
+    ],
+    "name:pol_x_preferred":[
+        "Chillanes"
     ],
     "name:por_x_preferred":[
         "Chillanes"
@@ -101,7 +113,7 @@
         }
     ],
     "wof:id":1108568577,
-    "wof:lastmodified":1561792411,
+    "wof:lastmodified":1563584372,
     "wof:name":"Chillanes",
     "wof:parent_id":85670905,
     "wof:placetype":"county",

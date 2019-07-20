@@ -32,14 +32,29 @@
     "mps:longitude":-80.534305,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Santa Elena"
+    ],
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u0646\u062a\u0648\u0646 \u0633\u0627\u0646\u062a\u0627 \u0625\u064a\u0644\u064a\u0646\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "Cant\u00f3n Santa Elena"
+    ],
     "name:deu_x_preferred":[
         "Santa Elena"
     ],
     "name:eng_x_preferred":[
         "Santa Elena"
     ],
+    "name:eng_x_variant":[
+        "Santa Elena Canton"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u0627\u0646\u062a\u0627 \u0627\u0644\u0646\u0627\u060c \u0627\u06a9\u0648\u0627\u062f\u0648\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0627\u0646\u062a\u0627 \u0627\u0644\u0646\u0627"
     ],
     "name:fra_x_preferred":[
         "Santa Elena"
@@ -52,6 +67,12 @@
     ],
     "name:nld_x_preferred":[
         "Santa Elena Canton"
+    ],
+    "name:nld_x_variant":[
+        "Santa Elena"
+    ],
+    "name:pol_x_preferred":[
+        "Santa Elena"
     ],
     "name:que_x_preferred":[
         "Santa Elena kiti"
@@ -104,7 +125,7 @@
         }
     ],
     "wof:id":1108572401,
-    "wof:lastmodified":1561792408,
+    "wof:lastmodified":1563584355,
     "wof:name":"Santa Elena",
     "wof:parent_id":85670979,
     "wof:placetype":"county",

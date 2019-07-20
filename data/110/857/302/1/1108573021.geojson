@@ -35,6 +35,9 @@
     "name:eng_x_preferred":[
         "Tisaleo"
     ],
+    "name:eng_x_variant":[
+        "Tisaleo Canton"
+    ],
     "name:fra_x_preferred":[
         "Tisaleo"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:nld_x_preferred":[
         "Tisaleo Canton"
+    ],
+    "name:pol_x_preferred":[
+        "Tisaleo"
     ],
     "name:que_x_preferred":[
         "Tisaleo kiti"
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":1108573021,
-    "wof:lastmodified":1561792407,
+    "wof:lastmodified":1563584352,
     "wof:name":"Tisaleo",
     "wof:parent_id":85670959,
     "wof:placetype":"county",

@@ -42,8 +42,14 @@
     "name:ceb_x_preferred":[
         "Pinas"
     ],
+    "name:ceb_x_variant":[
+        "Cant\u00f3n Pi\u00f1as"
+    ],
     "name:eng_x_preferred":[
         "Pi\u00f1as"
+    ],
+    "name:eng_x_variant":[
+        "Pi\u00f1as Canton"
     ],
     "name:eus_x_preferred":[
         "Pinas"
@@ -90,8 +96,14 @@
     "name:pol_x_preferred":[
         "Pinas"
     ],
+    "name:pol_x_variant":[
+        "Pi\u00f1as"
+    ],
     "name:por_x_preferred":[
         "Pinas"
+    ],
+    "name:por_x_variant":[
+        "Pi\u00f1as"
     ],
     "name:que_x_preferred":[
         "Pi\u00f1as kiti"
@@ -108,8 +120,14 @@
     "name:spa_x_preferred":[
         "Pinas"
     ],
+    "name:spa_x_variant":[
+        "Cant\u00f3n Pi\u00f1as"
+    ],
     "name:swe_x_preferred":[
         "Pinas"
+    ],
+    "name:swe_x_variant":[
+        "Cant\u00f3n Pi\u00f1as"
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0456\u043d\u0430\u0441"
@@ -192,7 +210,7 @@
         }
     ],
     "wof:id":421195605,
-    "wof:lastmodified":1561792424,
+    "wof:lastmodified":1563584638,
     "wof:name":"Pi\u00f1as",
     "wof:parent_id":85670887,
     "wof:placetype":"county",

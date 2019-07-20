@@ -47,6 +47,9 @@
     "name:epo_x_preferred":[
         "Riobamba"
     ],
+    "name:epo_x_variant":[
+        "Riobambo"
+    ],
     "name:fas_x_preferred":[
         "\u0631\u06cc\u0648\u0628\u0627\u0645\u0628\u0627"
     ],
@@ -113,6 +116,9 @@
     "name:nob_x_preferred":[
         "Riobamba"
     ],
+    "name:oci_x_preferred":[
+        "Riobamba"
+    ],
     "name:pnb_x_preferred":[
         "\u0631\u06cc\u0624\u0628\u0627\u0645\u0628\u0627"
     ],
@@ -151,6 +157,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e23\u0e35\u0e42\u0e2d\u0e1a\u0e31\u0e21\u0e1a\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e23\u0e34\u0e42\u0e2d\u0e1a\u0e31\u0e21\u0e1a\u0e32"
     ],
     "name:tur_x_preferred":[
         "Riobamba"
@@ -312,7 +321,7 @@
         }
     ],
     "wof:id":421169107,
-    "wof:lastmodified":1561792426,
+    "wof:lastmodified":1563584661,
     "wof:name":"Riobamba",
     "wof:parent_id":421185337,
     "wof:placetype":"locality",

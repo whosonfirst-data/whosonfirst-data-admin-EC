@@ -22,6 +22,9 @@
     "name:fra_x_preferred":[
         "Puerto Francisco de Orellana"
     ],
+    "name:hin_x_preferred":[
+        "\u092a\u094d\u0935\u0947\u0930\u094d\u0924\u094b \u092b\u094d\u0930\u093e\u0902\u0938\u093f\u0938\u094d\u0915\u094b \u0926\u0947 \u0913\u0930\u0947\u0932\u093e\u0928\u093e"
+    ],
     "name:ita_x_preferred":[
         "Puerto Francisco de Orellana"
     ],
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":421181115,
-    "wof:lastmodified":1561792430,
+    "wof:lastmodified":1563584729,
     "wof:name":"Puerto Francisco de Orellana",
     "wof:parent_id":421185491,
     "wof:placetype":"locality",

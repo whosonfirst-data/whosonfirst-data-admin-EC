@@ -39,6 +39,9 @@
     "name:eng_x_preferred":[
         "Nab\u00f3n"
     ],
+    "name:eng_x_variant":[
+        "Nab\u00f3n Canton"
+    ],
     "name:fra_x_preferred":[
         "Nab\u00f3n"
     ],
@@ -50,6 +53,9 @@
     ],
     "name:nld_x_preferred":[
         "Nab\u00f3n Canton"
+    ],
+    "name:pol_x_preferred":[
+        "Nab\u00f3n"
     ],
     "name:por_x_preferred":[
         "Nab\u00f3n"
@@ -128,7 +134,7 @@
         }
     ],
     "wof:id":421186367,
-    "wof:lastmodified":1561792430,
+    "wof:lastmodified":1563584722,
     "wof:name":"Nab\u00f3n",
     "wof:parent_id":85670885,
     "wof:placetype":"county",

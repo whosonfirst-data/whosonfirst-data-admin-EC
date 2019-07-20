@@ -35,6 +35,9 @@
     "name:eng_x_preferred":[
         "Huamboya"
     ],
+    "name:eng_x_variant":[
+        "Huamboya Canton"
+    ],
     "name:fra_x_preferred":[
         "Huamboya"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:nld_x_preferred":[
         "Huamboya Canton"
+    ],
+    "name:pol_x_preferred":[
+        "Huamboya"
     ],
     "name:que_x_preferred":[
         "Wampuya kiti"
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":1108569775,
-    "wof:lastmodified":1561792411,
+    "wof:lastmodified":1563584373,
     "wof:name":"Huamboya",
     "wof:parent_id":85670935,
     "wof:placetype":"county",

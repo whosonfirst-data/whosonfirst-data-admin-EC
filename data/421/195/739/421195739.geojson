@@ -34,6 +34,9 @@
     "name:swe_x_preferred":[
         "Posorja"
     ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u7d22\u5c14\u54c8"
+    ],
     "qs:gn_country":"EC",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3652928,
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":421195739,
-    "wof:lastmodified":1561792424,
+    "wof:lastmodified":1563584637,
     "wof:name":"Posorja",
     "wof:parent_id":421175423,
     "wof:placetype":"locality",

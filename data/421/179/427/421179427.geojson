@@ -16,6 +16,12 @@
     "name:cat_x_preferred":[
         "Cotacachi"
     ],
+    "name:ceb_x_preferred":[
+        "Cotacachi"
+    ],
+    "name:dan_x_preferred":[
+        "Cotacachi"
+    ],
     "name:deu_x_preferred":[
         "Cotacachi"
     ],
@@ -24,6 +30,9 @@
     ],
     "name:epo_x_preferred":[
         "Kotaka\u0109i"
+    ],
+    "name:epo_x_variant":[
+        "Kotaka\u0109o"
     ],
     "name:fra_x_preferred":[
         "Cotacachi"
@@ -35,6 +44,9 @@
         "Kotaka\u010dis"
     ],
     "name:nld_x_preferred":[
+        "Cotacachi"
+    ],
+    "name:pol_x_preferred":[
         "Cotacachi"
     ],
     "name:que_x_preferred":[
@@ -96,7 +108,7 @@
         }
     ],
     "wof:id":421179427,
-    "wof:lastmodified":1561792435,
+    "wof:lastmodified":1563584789,
     "wof:name":"Cotacachi",
     "wof:parent_id":421185493,
     "wof:placetype":"locality",

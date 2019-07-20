@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Puerto Ayora"
     ],
+    "name:fin_x_preferred":[
+        "Puerto Ayora"
+    ],
     "name:fra_x_preferred":[
         "Puerto Isidro Ayora"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d7\u30a8\u30eb\u30c8\u30fb\u30a2\u30e8\u30e9"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10e3\u10d4\u10e0\u10e2\u10dd-\u10d0\u10d8\u10dd\u10e0\u10d0"
     ],
     "name:kor_x_preferred":[
         "\ud478\uc5d0\ub974\ud1a0\uc544\uc694\ub77c"
@@ -133,7 +139,7 @@
         }
     ],
     "wof:id":421174579,
-    "wof:lastmodified":1561792428,
+    "wof:lastmodified":1563584681,
     "wof:name":"Puerto Ayora",
     "wof:parent_id":421183483,
     "wof:placetype":"locality",

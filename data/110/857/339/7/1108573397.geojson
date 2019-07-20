@@ -35,6 +35,9 @@
     "name:eng_x_preferred":[
         "Zapotillo"
     ],
+    "name:eng_x_variant":[
+        "Zapotillo Canton"
+    ],
     "name:fra_x_preferred":[
         "Zapotillo"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:nld_x_preferred":[
         "Zapotillo Canton"
+    ],
+    "name:pol_x_preferred":[
+        "Zapotillo"
     ],
     "name:que_x_preferred":[
         "Zapotillo kiti"
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1108573397,
-    "wof:lastmodified":1561792404,
+    "wof:lastmodified":1563584334,
     "wof:name":"Zapotillo",
     "wof:parent_id":85670891,
     "wof:placetype":"county",

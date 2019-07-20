@@ -25,6 +25,9 @@
     "name:que_x_preferred":[
         "Sirkay kitilli"
     ],
+    "name:spa_x_preferred":[
+        "Sidcay"
+    ],
     "name:swe_x_preferred":[
         "Sidcay"
     ],
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":421181723,
-    "wof:lastmodified":1561792430,
+    "wof:lastmodified":1563584727,
     "wof:name":"Sidcay",
     "wof:parent_id":421185495,
     "wof:placetype":"locality",

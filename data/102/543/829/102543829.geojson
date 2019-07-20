@@ -12,6 +12,15 @@
     "iso:country":"EC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Hacienda La Julia Airport"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Hacienda La Julia"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Hacienda La Julia"
+    ],
     "oa:elevation_ft":"50",
     "oa:type":"small_airport",
     "src:geom":"wikidata",
@@ -44,7 +53,7 @@
         }
     ],
     "wof:id":102543829,
-    "wof:lastmodified":1543846097,
+    "wof:lastmodified":1563583471,
     "wof:name":"Hacienda la Julia Airport",
     "wof:parent_id":85670923,
     "wof:placetype":"campus",

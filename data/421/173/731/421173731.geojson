@@ -13,10 +13,25 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u0644\u0627\u063a\u0631\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09bf\u09b2\u09be\u0997\u09cd\u09b0\u09cb"
+    ],
     "name:cat_x_preferred":[
         "Milagro"
     ],
     "name:ceb_x_preferred":[
+        "Milagro"
+    ],
+    "name:dan_x_preferred":[
+        "Milagro"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b9\u03bb\u03ac\u03b3\u03ba\u03c1\u03bf"
+    ],
+    "name:eng_x_preferred":[
         "Milagro"
     ],
     "name:epo_x_preferred":[
@@ -25,19 +40,58 @@
     "name:eus_x_preferred":[
         "Milagro"
     ],
+    "name:fin_x_preferred":[
+        "Milagro"
+    ],
     "name:fra_x_preferred":[
         "San Francisco de Milagro"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aae\u0abf\u0ab2\u0abe\u0a97\u0acd\u0ab0\u0acb"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u093f\u0932\u093e\u0917\u094d\u0930\u094b"
+    ],
+    "name:ind_x_preferred":[
+        "Milagro"
     ],
     "name:ita_x_preferred":[
         "Milagro"
     ],
+    "name:jpn_x_preferred":[
+        "\u30df\u30e9\u30b0\u30ed"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cae\u0cbf\u0cb2\u0cbe\u0c97\u0ccd\u0cb0\u0cca"
+    ],
     "name:kat_x_preferred":[
         "\u10db\u10d8\u10da\u10d0\u10d2\u10e0\u10dd"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc00\ub77c\uadf8\ub85c"
+    ],
+    "name:lav_x_preferred":[
+        "Milagro"
     ],
     "name:lit_x_preferred":[
         "Milagras"
     ],
+    "name:mar_x_preferred":[
+        "\u092e\u093f\u0932\u0917\u094d\u0930\u094b"
+    ],
+    "name:msa_x_preferred":[
+        "Milagro"
+    ],
+    "name:nld_x_preferred":[
+        "Milagro"
+    ],
+    "name:nob_x_preferred":[
+        "Milagro"
+    ],
     "name:pol_x_preferred":[
+        "Milagro"
+    ],
+    "name:por_x_preferred":[
         "Milagro"
     ],
     "name:que_x_preferred":[
@@ -46,13 +100,43 @@
     "name:ron_x_preferred":[
         "Milagro"
     ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u043b\u0430\u0433\u0440\u043e"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db8\u0dd2\u0dbd\u0dcf\u0d9c\u0dca\u0dbb\u0ddd"
+    ],
     "name:spa_x_preferred":[
         "Milagro"
     ],
     "name:swe_x_preferred":[
         "Milagro"
     ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bbf\u0bb3\u0b95\u0bbf\u0bb1\u0bcb"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2e\u0c3f\u0c32\u0c3e\u0c17\u0c4d\u0c30\u0c4b"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e21\u0e34\u0e25\u0e32\u0e42\u0e01\u0e23"
+    ],
+    "name:tur_x_preferred":[
+        "Milagro"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u043b\u0430\u0433\u0440\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u0644\u0627\u062c\u0631\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Milagro"
+    ],
     "name:vol_x_preferred":[
+        "Milagro"
+    ],
+    "name:war_x_preferred":[
         "Milagro"
     ],
     "name:zho_x_preferred":[
@@ -107,7 +191,7 @@
         }
     ],
     "wof:id":421173731,
-    "wof:lastmodified":1527716254,
+    "wof:lastmodified":1563584685,
     "wof:name":"Milagro",
     "wof:parent_id":421191245,
     "wof:placetype":"localadmin",

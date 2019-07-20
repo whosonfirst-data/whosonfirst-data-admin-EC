@@ -22,6 +22,9 @@
     "name:que_x_preferred":[
         "Ricaurte kitilli"
     ],
+    "name:spa_x_preferred":[
+        "Ricaurte"
+    ],
     "qs:gn_country":"EC",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3652361,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":421181719,
-    "wof:lastmodified":1561792431,
+    "wof:lastmodified":1563584729,
     "wof:name":"Ricaurte",
     "wof:parent_id":421185495,
     "wof:placetype":"locality",

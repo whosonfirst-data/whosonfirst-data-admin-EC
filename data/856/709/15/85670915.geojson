@@ -53,6 +53,9 @@
     "name:eng_x_preferred":[
         "Cotopaxi"
     ],
+    "name:eng_x_variant":[
+        "Cotopaxi Province"
+    ],
     "name:epo_x_preferred":[
         "Cotopaxi"
     ],
@@ -65,6 +68,9 @@
     "name:fra_x_preferred":[
         "Cotopaxi"
     ],
+    "name:frr_x_preferred":[
+        "Cotopaxi"
+    ],
     "name:guj_x_preferred":[
         "\u0a95\u0acb\u0a9f\u0acb\u0aaa\u0ac7\u0a95\u0acd\u0ab8\u0abf \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
     ],
@@ -73,6 +79,9 @@
     ],
     "name:hun_x_preferred":[
         "Cotopaxi tartom\u00e1ny"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u057f\u0578\u057a\u0561\u056d\u056b"
     ],
     "name:ind_x_preferred":[
         "Provinsi Cotopaxi"
@@ -92,6 +101,12 @@
     "name:kor_x_preferred":[
         "\ucf54\ud1a0\ud30d\uc2dc \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ucf54\ud1a0\ud30d\uc2dc\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Cotopaxi"
+    ],
     "name:lav_x_preferred":[
         "Kotopaksi province"
     ],
@@ -103,6 +118,9 @@
     ],
     "name:msa_x_preferred":[
         "Pentadbiran Cotopaxi"
+    ],
+    "name:nan_x_preferred":[
+        "Cotopaxi S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Cotopaxi"
@@ -148,6 +166,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e42\u0e04\u0e42\u0e15\u0e1e\u0e2d\u0e01\u0e0b\u0e35\u0e48"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e42\u0e01\u0e42\u0e15\u0e1b\u0e31\u0e01\u0e0b\u0e34"
     ],
     "name:tur_x_preferred":[
         "Cotopaxi Province"
@@ -295,7 +316,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1561792364,
+    "wof:lastmodified":1563583677,
     "wof:name":"Cotopaxi",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

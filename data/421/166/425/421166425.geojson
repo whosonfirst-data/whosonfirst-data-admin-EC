@@ -16,8 +16,14 @@
     "name:bel_x_preferred":[
         "\u041b\u0430\u0441\u043e"
     ],
+    "name:bre_x_preferred":[
+        "Las-bann"
+    ],
     "name:bul_x_preferred":[
         "\u041b\u0430\u0441\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "Lla\u00e7 escorredor"
     ],
     "name:ces_x_preferred":[
         "Laso"
@@ -28,8 +34,14 @@
     "name:deu_x_preferred":[
         "Lasso"
     ],
+    "name:eng_x_preferred":[
+        "lasso"
+    ],
     "name:epo_x_preferred":[
         "Lazo"
+    ],
+    "name:epo_x_variant":[
+        "lazo"
     ],
     "name:fas_x_preferred":[
         "\u06a9\u0645\u0646\u062f"
@@ -40,8 +52,14 @@
     "name:fra_x_preferred":[
         "Lasso"
     ],
+    "name:fra_x_variant":[
+        "lasso"
+    ],
     "name:glg_x_preferred":[
         "Lazo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d0\u05e1\u05d5"
     ],
     "name:ido_x_preferred":[
         "Lazo"
@@ -52,6 +70,9 @@
     "name:ita_x_preferred":[
         "Lazo"
     ],
+    "name:jpn_x_preferred":[
+        "\u6295\u3052\u306a\u308f"
+    ],
     "name:kat_x_preferred":[
         "\u10e5\u10d0\u10db\u10d0\u10dc\u10d3\u10d8"
     ],
@@ -60,6 +81,15 @@
     ],
     "name:nld_x_preferred":[
         "Lasso"
+    ],
+    "name:nld_x_variant":[
+        "lasso"
+    ],
+    "name:nno_x_preferred":[
+        "Lasso"
+    ],
+    "name:nob_x_preferred":[
+        "lasso"
     ],
     "name:nor_x_preferred":[
         "Lasso"
@@ -75,6 +105,9 @@
     ],
     "name:spa_x_preferred":[
         "Lazo"
+    ],
+    "name:spa_x_variant":[
+        "lazo"
     ],
     "name:swe_x_preferred":[
         "Lasso"
@@ -134,7 +167,7 @@
         }
     ],
     "wof:id":421166425,
-    "wof:lastmodified":1527716102,
+    "wof:lastmodified":1563584626,
     "wof:name":"Lasso",
     "wof:parent_id":421182157,
     "wof:placetype":"locality",

@@ -35,6 +35,9 @@
     "name:eng_x_preferred":[
         "Nangaritza"
     ],
+    "name:eng_x_variant":[
+        "Nangaritza Canton"
+    ],
     "name:fra_x_preferred":[
         "Nangaritza"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:nld_x_preferred":[
         "Nangaritza Canton"
+    ],
+    "name:pol_x_preferred":[
+        "Nangaritza"
     ],
     "name:que_x_preferred":[
         "Nangaritza kiti"
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":1108570627,
-    "wof:lastmodified":1561792406,
+    "wof:lastmodified":1563584341,
     "wof:name":"Nangaritza",
     "wof:parent_id":85670895,
     "wof:placetype":"county",

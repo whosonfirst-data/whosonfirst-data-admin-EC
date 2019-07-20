@@ -38,6 +38,9 @@
     "name:eng_x_preferred":[
         "Cascales"
     ],
+    "name:eng_x_variant":[
+        "Cascales Canton"
+    ],
     "name:fra_x_preferred":[
         "Cascales"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:nld_x_preferred":[
         "Cascales Canton"
+    ],
+    "name:pol_x_preferred":[
+        "Cascales"
     ],
     "name:que_x_preferred":[
         "Cascales kiti"
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":1108568283,
-    "wof:lastmodified":1561792410,
+    "wof:lastmodified":1563584369,
     "wof:name":"Cascales",
     "wof:parent_id":85670977,
     "wof:placetype":"county",

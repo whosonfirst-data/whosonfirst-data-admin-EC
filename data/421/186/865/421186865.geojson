@@ -13,6 +13,27 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "coca leaf"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05e7\u05d4"
+    ],
+    "name:ind_x_preferred":[
+        "Koka"
+    ],
+    "name:rus_x_preferred":[
+        "\u043a\u043e\u043a\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Coca"
+    ],
+    "name:tel_x_preferred":[
+        "coca"
+    ],
+    "name:vie_x_preferred":[
+        "C\u00f4ca"
+    ],
     "name:zho_x_preferred":[
         "\u53e4\u67ef"
     ],
@@ -61,7 +82,7 @@
         }
     ],
     "wof:id":421186865,
-    "wof:lastmodified":1527716318,
+    "wof:lastmodified":1563584723,
     "wof:name":"Coca",
     "wof:parent_id":421185491,
     "wof:placetype":"locality",

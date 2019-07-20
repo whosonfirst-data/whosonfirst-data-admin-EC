@@ -13,11 +13,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Ventanas"
+    ],
     "name:ceb_x_preferred":[
+        "Ventanas"
+    ],
+    "name:eng_x_preferred":[
         "Ventanas"
     ],
     "name:fas_x_preferred":[
         "\u0648\u0646\u062a\u0646\u0633"
+    ],
+    "name:glg_x_preferred":[
+        "Ventanas"
     ],
     "name:pol_x_preferred":[
         "Ventanas"
@@ -86,7 +95,7 @@
         }
     ],
     "wof:id":421183823,
-    "wof:lastmodified":1527717696,
+    "wof:lastmodified":1563584784,
     "wof:name":"Ventanas",
     "wof:parent_id":1108573237,
     "wof:placetype":"localadmin",

@@ -16,7 +16,13 @@
     "name:ceb_x_preferred":[
         "Rocafuerte"
     ],
+    "name:eng_x_preferred":[
+        "Rocafuerte"
+    ],
     "name:fra_x_preferred":[
+        "Rocafuerte"
+    ],
+    "name:nld_x_preferred":[
         "Rocafuerte"
     ],
     "name:pol_x_preferred":[
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":421194129,
-    "wof:lastmodified":1505340739,
+    "wof:lastmodified":1563584645,
     "wof:name":"Rocafuerte",
     "wof:parent_id":421172549,
     "wof:placetype":"localadmin",

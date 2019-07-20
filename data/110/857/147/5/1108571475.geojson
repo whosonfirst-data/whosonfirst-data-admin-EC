@@ -35,14 +35,23 @@
     "name:eng_x_preferred":[
         "Pindal"
     ],
+    "name:eng_x_variant":[
+        "Pindal Canton"
+    ],
     "name:fra_x_preferred":[
         "Pindal"
     ],
     "name:ita_x_preferred":[
         "Cantone di Pindal"
     ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d8\u10dc\u10d3\u10d0\u10da\u10d8\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
+    ],
     "name:nld_x_preferred":[
         "Pindal Canton"
+    ],
+    "name:pol_x_preferred":[
+        "Pindal"
     ],
     "name:que_x_preferred":[
         "Pindal kiti"
@@ -92,7 +101,7 @@
         }
     ],
     "wof:id":1108571475,
-    "wof:lastmodified":1561792409,
+    "wof:lastmodified":1563584364,
     "wof:name":"Pindal",
     "wof:parent_id":85670891,
     "wof:placetype":"county",

@@ -35,6 +35,9 @@
     "name:eng_x_preferred":[
         "General Antonio Elizalde"
     ],
+    "name:eng_x_variant":[
+        "General Antonio Elizalde Canton"
+    ],
     "name:fra_x_preferred":[
         "General Antonio Elizalde"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:nld_x_preferred":[
         "General Antonio Elizalde Canton"
+    ],
+    "name:pol_x_preferred":[
+        "General Antonio Elizalde"
     ],
     "name:que_x_preferred":[
         "Bucay kiti"
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":1108569443,
-    "wof:lastmodified":1561792415,
+    "wof:lastmodified":1563584387,
     "wof:name":"General Antonio Elizalde",
     "wof:parent_id":85670917,
     "wof:placetype":"county",

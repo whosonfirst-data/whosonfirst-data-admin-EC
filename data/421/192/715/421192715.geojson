@@ -19,6 +19,9 @@
     "name:cat_x_preferred":[
         "Otavalo"
     ],
+    "name:ceb_x_preferred":[
+        "Otavalo"
+    ],
     "name:deu_x_preferred":[
         "Otavalo"
     ],
@@ -44,6 +47,9 @@
         "Otavalo"
     ],
     "name:nld_x_preferred":[
+        "Otavalo"
+    ],
+    "name:pol_x_preferred":[
         "Otavalo"
     ],
     "name:por_x_preferred":[
@@ -120,7 +126,7 @@
         }
     ],
     "wof:id":421192715,
-    "wof:lastmodified":1561792424,
+    "wof:lastmodified":1563584632,
     "wof:name":"Otavalo",
     "wof:parent_id":421171751,
     "wof:placetype":"locality",

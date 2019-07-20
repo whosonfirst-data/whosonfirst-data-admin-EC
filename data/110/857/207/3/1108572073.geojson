@@ -32,8 +32,14 @@
     "mps:longitude":-79.716461,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Cant\u00f3n Yaguachi"
+    ],
     "name:eng_x_preferred":[
         "Yaguachi"
+    ],
+    "name:eng_x_variant":[
+        "Yaguachi Canton"
     ],
     "name:fra_x_preferred":[
         "Yaguachi"
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":1108572073,
-    "wof:lastmodified":1561792408,
+    "wof:lastmodified":1563584359,
     "wof:name":"San Jacinto de Yaguac",
     "wof:parent_id":85670917,
     "wof:placetype":"county",

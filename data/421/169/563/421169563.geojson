@@ -17,16 +17,25 @@
     "name:ara_x_preferred":[
         "\u0644\u0648\u064a\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0644\u0648\u062e\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u09b2\u09cb\u099c\u09be"
     ],
     "name:bos_x_preferred":[
         "Loja"
     ],
+    "name:bre_x_preferred":[
+        "Loja"
+    ],
     "name:cat_x_preferred":[
         "Loja"
     ],
     "name:ceb_x_preferred":[
+        "Loja"
+    ],
+    "name:cym_x_preferred":[
         "Loja"
     ],
     "name:dan_x_preferred":[
@@ -44,6 +53,9 @@
     "name:epo_x_preferred":[
         "Loja"
     ],
+    "name:epo_x_variant":[
+        "Lo\u0125o"
+    ],
     "name:fin_x_preferred":[
         "Loja"
     ],
@@ -57,6 +69,9 @@
         "\u0ab2\u0acb\u0a9c\u0abe"
     ],
     "name:hrv_x_preferred":[
+        "Loja"
+    ],
+    "name:hun_x_preferred":[
         "Loja"
     ],
     "name:ind_x_preferred":[
@@ -137,6 +152,9 @@
     "name:tha_x_preferred":[
         "\u0e42\u0e25\u0e04\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e42\u0e25\u0e06\u0e32"
+    ],
     "name:tur_x_preferred":[
         "Lova"
     ],
@@ -145,6 +163,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0644\u0648\u062e\u0627\u060c \u0627\u06cc\u06a9\u0648\u0627\u0688\u0648\u0631"
+    ],
+    "name:urd_x_variant":[
+        "\u0644\u0648\u062e\u0627"
     ],
     "name:vie_x_preferred":[
         "Loja"
@@ -299,7 +320,7 @@
         }
     ],
     "wof:id":421169563,
-    "wof:lastmodified":1561792426,
+    "wof:lastmodified":1563584662,
     "wof:name":"Loja",
     "wof:parent_id":421182159,
     "wof:placetype":"locality",

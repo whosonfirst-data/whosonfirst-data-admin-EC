@@ -14,6 +14,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":5.6,
     "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Cuenca"
+    ],
     "name:ara_x_preferred":[
         "\u0643\u0648\u064a\u0646\u0643\u0627"
     ],
@@ -22,6 +25,12 @@
     ],
     "name:bel_x_variant":[
         "\u041a\u0443\u044d\u043d\u043a\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09c1\u09af\u09bc\u09c7\u09a8\u0995\u09be"
+    ],
+    "name:bos_x_preferred":[
+        "Cuenca"
     ],
     "name:cat_x_preferred":[
         "Cuenca"
@@ -38,11 +47,17 @@
     "name:deu_x_preferred":[
         "Cuenca"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c5\u03ad\u03bd\u03ba\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Cuenca"
     ],
     "name:epo_x_preferred":[
         "Cuenca"
+    ],
+    "name:epo_x_variant":[
+        "Kuenko"
     ],
     "name:eus_x_preferred":[
         "Cuenca"
@@ -59,11 +74,17 @@
     "name:glg_x_preferred":[
         "Cuenca"
     ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0ac1\u0a8f\u0aa8\u0acd\u0a95\u0abe"
+    ],
     "name:hbs_x_preferred":[
         "Cuenca"
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05d5\u05d0\u05e0\u05e7\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u094d\u0935\u0947\u0902\u0915\u093e"
     ],
     "name:hrv_x_preferred":[
         "Cuenca"
@@ -74,11 +95,17 @@
     "name:hye_x_preferred":[
         "\u053f\u0578\u0582\u0565\u0576\u056f\u0561"
     ],
+    "name:ind_x_preferred":[
+        "Cuenca"
+    ],
     "name:ita_x_preferred":[
         "Cuenca"
     ],
     "name:jpn_x_preferred":[
         "\u30af\u30a8\u30f3\u30ab"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0cc1\u0ca8\u0cc6\u0c95\u0cbe"
     ],
     "name:kat_x_preferred":[
         "\u10d9\u10e3\u10d4\u10dc\u10d9\u10d0"
@@ -89,10 +116,22 @@
     "name:kor_x_preferred":[
         "\ucfe0\uc5e5\uce74"
     ],
+    "name:lav_x_preferred":[
+        "Kuenka"
+    ],
     "name:lit_x_preferred":[
         "Kuenka"
     ],
+    "name:mar_x_preferred":[
+        "\u0915\u090f\u0902\u0915\u093e"
+    ],
     "name:mri_x_preferred":[
+        "Cuenca"
+    ],
+    "name:msa_x_preferred":[
+        "Cuenca"
+    ],
+    "name:nah_x_preferred":[
         "Cuenca"
     ],
     "name:nau_x_preferred":[
@@ -104,7 +143,13 @@
     "name:nno_x_preferred":[
         "Cuenca"
     ],
+    "name:nob_x_preferred":[
+        "Cuenca"
+    ],
     "name:nor_x_preferred":[
+        "Cuenca"
+    ],
+    "name:oci_x_preferred":[
         "Cuenca"
     ],
     "name:oss_x_preferred":[
@@ -131,6 +176,9 @@
     "name:sco_x_preferred":[
         "Cuenca"
     ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0dca\u0dba\u0dd4\u0d91\u0db1\u0dca\u0dc3\u0dcf"
+    ],
     "name:slk_x_preferred":[
         "Cuenca"
     ],
@@ -143,8 +191,23 @@
     "name:swe_x_preferred":[
         "Cuenca"
     ],
+    "name:szl_x_preferred":[
+        "Cuenca"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bc1\u0bb5\u0bc7\u0ba9\u0bcd\u0b95\u0bcd\u0b95\u0bbe"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0432\u0435\u043d\u043a\u0430"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c15\u0c4d\u0c2f\u0c42\u0c28\u0c4d \u0c15\u0c3e"
+    ],
     "name:tha_x_preferred":[
         "\u0e40\u0e01\u0e27\u0e07\u0e01\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e01\u0e39\u0e40\u0e2d\u0e07\u0e01\u0e32"
     ],
     "name:tur_x_preferred":[
         "Cuenca"
@@ -157,6 +220,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06a9\u0648\u0626\u0646\u06a9\u0627\u060c \u0627\u06cc\u06a9\u0648\u0627\u0688\u0648\u0631"
+    ],
+    "name:urd_x_variant":[
+        "\u06a9\u0648\u0626\u0646\u06a9\u0627"
     ],
     "name:vie_x_preferred":[
         "Cuenca"
@@ -313,7 +379,7 @@
         }
     ],
     "wof:id":421169119,
-    "wof:lastmodified":1527716170,
+    "wof:lastmodified":1563584658,
     "wof:name":"Cuenca",
     "wof:parent_id":421185495,
     "wof:placetype":"locality",

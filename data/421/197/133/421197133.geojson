@@ -36,6 +36,9 @@
     "name:eng_x_preferred":[
         "Nobol"
     ],
+    "name:eng_x_variant":[
+        "Nobol Canton"
+    ],
     "name:fra_x_preferred":[
         "Nobol"
     ],
@@ -48,11 +51,17 @@
     "name:nld_x_preferred":[
         "Nobol Canton"
     ],
+    "name:pol_x_preferred":[
+        "Nobol"
+    ],
     "name:por_x_preferred":[
         "Nobol"
     ],
     "name:que_x_preferred":[
         "Nobol"
+    ],
+    "name:que_x_variant":[
+        "Nobol kiti"
     ],
     "name:spa_x_preferred":[
         "Nobol"
@@ -123,7 +132,7 @@
         }
     ],
     "wof:id":421197133,
-    "wof:lastmodified":1561792432,
+    "wof:lastmodified":1563584749,
     "wof:name":"Nobol",
     "wof:parent_id":85670917,
     "wof:placetype":"county",

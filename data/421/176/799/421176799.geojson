@@ -22,6 +22,9 @@
     "name:nld_x_preferred":[
         "Saquisil\u00ed"
     ],
+    "name:pol_x_preferred":[
+        "Saquisil\u00ed"
+    ],
     "name:que_x_preferred":[
         "Sakisili"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":421176799,
-    "wof:lastmodified":1561792436,
+    "wof:lastmodified":1563584795,
     "wof:name":"Saquisil\u00ed",
     "wof:parent_id":421184855,
     "wof:placetype":"locality",

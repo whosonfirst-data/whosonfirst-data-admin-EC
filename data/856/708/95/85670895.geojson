@@ -53,6 +53,9 @@
     "name:eng_x_preferred":[
         "Zamora Chinchipe"
     ],
+    "name:eng_x_variant":[
+        "Zamora-Chinchipe Province"
+    ],
     "name:epo_x_preferred":[
         "Zamora-Chinchipe"
     ],
@@ -64,6 +67,9 @@
     ],
     "name:fra_x_preferred":[
         "Zamora-Chinchipe"
+    ],
+    "name:frr_x_preferred":[
+        "Zamora Chinchipe"
     ],
     "name:guj_x_preferred":[
         "\u0a9d\u0abe\u0aae\u0acb\u0ab0\u0abe-\u0a9a\u0abf\u0a82\u0aa8\u0a9a\u0abf\u0aaa\u0ac0 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -89,6 +95,12 @@
     "name:kor_x_preferred":[
         "\uc0ac\ubaa8\ub77c\uce5c\uce58\ud398 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc0ac\ubaa8\ub77c\uce5c\uce58\ud398\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Zamora Chinchipe"
+    ],
     "name:lav_x_preferred":[
         "Samoras \u010cin\u010dipes province"
     ],
@@ -100,6 +112,9 @@
     ],
     "name:msa_x_preferred":[
         "Zamora-Chinchipe Province"
+    ],
+    "name:nan_x_preferred":[
+        "Zamora-Chinchipe S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Zamora-Chinchipe"
@@ -146,6 +161,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e0b\u0e32\u0e42\u0e21\u0e23\u0e32-\u0e0a\u0e34\u0e19\u0e0a\u0e35\u0e1b\u0e35\u0e49"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e0b\u0e32\u0e42\u0e21\u0e23\u0e32\u0e0a\u0e34\u0e19\u0e0a\u0e34\u0e40\u0e1b"
     ],
     "name:tur_x_preferred":[
         "Zamora-Chinchip Province"
@@ -293,7 +311,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1561792358,
+    "wof:lastmodified":1563583655,
     "wof:name":"Zamora Chinchipe",
     "wof:parent_id":85632261,
     "wof:placetype":"region",
