@@ -35,6 +35,9 @@
     "name:eng_x_preferred":[
         "Shushufindi"
     ],
+    "name:eng_x_variant":[
+        "Shushufindi Canton"
+    ],
     "name:fra_x_preferred":[
         "Shushufindi"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:nld_x_preferred":[
         "Shushufindi Canton"
+    ],
+    "name:pol_x_preferred":[
+        "Shushufindi"
     ],
     "name:que_x_preferred":[
         "Shushufindi kiti"
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":1108572739,
-    "wof:lastmodified":1561792405,
+    "wof:lastmodified":1563584335,
     "wof:name":"Shushufindi",
     "wof:parent_id":85670977,
     "wof:placetype":"county",

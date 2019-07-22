@@ -19,6 +19,9 @@
     "name:ceb_x_preferred":[
         "Cant\u00f3n Alaus\u00ed"
     ],
+    "name:ceb_x_variant":[
+        "Alaus\u00ed"
+    ],
     "name:eng_x_preferred":[
         "Alaus\u00ed"
     ],
@@ -30,6 +33,12 @@
     ],
     "name:ita_x_preferred":[
         "Cantone di Alaus\u00ed"
+    ],
+    "name:ita_x_variant":[
+        "Alaus\u00ed"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30e9\u30a6\u30b7"
     ],
     "name:kat_x_preferred":[
         "\u10d0\u10da\u10d0\u10e3\u10e1\u10d8\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
@@ -46,6 +55,9 @@
     "name:que_x_preferred":[
         "Alawsi kiti"
     ],
+    "name:que_x_variant":[
+        "Alawsi"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u043b\u0430\u0443\u0441\u0438"
     ],
@@ -54,6 +66,9 @@
     ],
     "name:swe_x_preferred":[
         "Cant\u00f3n Alaus\u00ed"
+    ],
+    "name:swe_x_variant":[
+        "Alaus\u00ed"
     ],
     "name:unk_x_variant":[
         "Nariz del Diablo"
@@ -106,7 +121,7 @@
         }
     ],
     "wof:id":421201379,
-    "wof:lastmodified":1561792433,
+    "wof:lastmodified":1563584757,
     "wof:name":"Pistish\u00ed",
     "wof:parent_id":421196577,
     "wof:placetype":"locality",

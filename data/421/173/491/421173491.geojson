@@ -55,6 +55,9 @@
     "name:que_x_preferred":[
         "Dur\u00e1n"
     ],
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u0440\u0430\u043d"
+    ],
     "name:spa_x_preferred":[
         "Dur\u00e1n"
     ],
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":421173491,
-    "wof:lastmodified":1561792428,
+    "wof:lastmodified":1563584690,
     "wof:name":"Eloy Alfaro",
     "wof:parent_id":1108568901,
     "wof:placetype":"locality",

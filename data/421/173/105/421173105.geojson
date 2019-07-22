@@ -28,6 +28,9 @@
     "name:nld_x_preferred":[
         "Pujil\u00ed"
     ],
+    "name:pol_x_preferred":[
+        "Pujil\u00ed"
+    ],
     "name:que_x_preferred":[
         "Puhili"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":421173105,
-    "wof:lastmodified":1561792428,
+    "wof:lastmodified":1563584685,
     "wof:name":"Pujil\u00ed",
     "wof:parent_id":421185497,
     "wof:placetype":"locality",

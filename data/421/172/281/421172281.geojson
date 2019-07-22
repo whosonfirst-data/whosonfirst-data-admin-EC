@@ -16,7 +16,16 @@
     "name:ceb_x_preferred":[
         "Tosagua"
     ],
+    "name:eng_x_preferred":[
+        "Tosagua"
+    ],
     "name:fra_x_preferred":[
+        "Tosagua"
+    ],
+    "name:nld_x_preferred":[
+        "Tosagua"
+    ],
+    "name:pol_x_preferred":[
         "Tosagua"
     ],
     "name:que_x_preferred":[
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":421172281,
-    "wof:lastmodified":1527716301,
+    "wof:lastmodified":1563584714,
     "wof:name":"Tosagua",
     "wof:parent_id":1108573061,
     "wof:placetype":"localadmin",

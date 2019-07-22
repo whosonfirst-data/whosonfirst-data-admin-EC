@@ -13,26 +13,128 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0646\u0648\u064a\u0641\u0627 \u0644\u0648\u062e\u0627"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041d\u0443\u044d\u0432\u0430-\u041b\u043e\u0445\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u041d\u0443\u044d\u0432\u0430-\u041b\u043e\u0445\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a8\u09c1\u09af\u09bc\u09c7\u09ac\u09be \u09b2\u09cb\u09b9\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Nueva Loja"
+    ],
+    "name:dan_x_preferred":[
+        "Nueva Loja"
+    ],
+    "name:deu_x_preferred":[
+        "Nueva Loja"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03bf\u03c5\u03ad\u03b2\u03b1 \u039b\u03cc\u03c7\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Nueva Loja"
+    ],
+    "name:epo_x_preferred":[
+        "Nova Lo\u0125o"
+    ],
+    "name:fin_x_preferred":[
+        "Nueva Loja"
+    ],
+    "name:fra_x_preferred":[
+        "Nueva Loja"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aa8\u0ac1\u0a8f\u0ab5\u0abe \u0ab2\u0acb\u0a9c\u0abe"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d5\u05d0\u05d1\u05d4 \u05dc\u05d5\u05d7\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0928\u0941\u090f\u0935\u093e \u0932\u094b\u0915\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Nueva Loja"
+    ],
+    "name:ita_x_preferred":[
+        "Nueva Loja"
     ],
     "name:jpn_x_preferred":[
         "\u30cc\u30a8\u30d0\u30fb\u30ed\u30cf"
     ],
+    "name:kan_x_preferred":[
+        "\u0ca8\u0cc1\u0cb5\u0cbe \u0cb2\u0ccb\u0c9c\u0cbe"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041d\u0443\u044d\u0432\u0430-\u041b\u043e\u0445\u0430"
+    ],
     "name:kor_x_preferred":[
         "\ub204\uc5d0\ubc14\ub85c\ud558"
+    ],
+    "name:lav_x_preferred":[
+        "Nuevaloha"
     ],
     "name:lit_x_preferred":[
         "Nueva Locha"
     ],
+    "name:mar_x_preferred":[
+        "\u0928\u094d\u092f\u0941\u0935\u0947 \u0932\u094b\u091c\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Nueva Loja"
+    ],
+    "name:nld_x_preferred":[
+        "Nueva Loja"
+    ],
+    "name:nob_x_preferred":[
+        "Nueva Loja"
+    ],
     "name:pnb_x_preferred":[
         "\u0646\u0648\u0626\u0648\u0627 \u0644\u0648\u062c\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Nueva Loja"
+    ],
+    "name:por_x_preferred":[
+        "Nueva Loja"
     ],
     "name:que_x_preferred":[
         "Musuq Loja"
     ],
+    "name:ron_x_preferred":[
+        "Nueva Loja"
+    ],
     "name:rus_x_preferred":[
         "\u041d\u0443\u044d\u0432\u0430-\u041b\u043e\u0445\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db1\u0dd4\u0d91\u0dc0\u0dcf \u0dbd\u0ddc\u0da2\u0dcf"
+    ],
+    "name:slk_x_preferred":[
+        "Nueva Loja"
+    ],
+    "name:spa_x_preferred":[
+        "Nueva Loja"
+    ],
+    "name:swe_x_preferred":[
+        "Nueva Loja"
+    ],
+    "name:tam_x_preferred":[
+        "\u0ba8\u0bc1\u0bb5\u0bc7\u0bb5\u0bbe  \u0bb2\u0bcb\u0b9c\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c28\u0c41\u0c2f\u0c47\u0c35\u0c3e \u0c32\u0c4b\u0c1c"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e19\u0e39\u0e40\u0e2d\u0e1a\u0e32\u0e42\u0e25\u0e06\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Nueva Loja"
     ],
     "name:ukr_x_preferred":[
         "\u041d\u0443\u0435\u0432\u0430-\u041b\u043e\u0445\u0430"
@@ -42,6 +144,12 @@
     ],
     "name:urd_x_preferred":[
         "\u0646\u0648\u06cc\u0648\u0627 \u0644\u0648\u062e\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Nueva Loja"
+    ],
+    "name:war_x_preferred":[
+        "Nueva Loja"
     ],
     "name:zho_x_preferred":[
         "\u65b0\u6d1b\u54c8"
@@ -98,7 +206,7 @@
         }
     ],
     "wof:id":421179423,
-    "wof:lastmodified":1527717704,
+    "wof:lastmodified":1563584787,
     "wof:name":"Nueva Loja",
     "wof:parent_id":421177637,
     "wof:placetype":"localadmin",

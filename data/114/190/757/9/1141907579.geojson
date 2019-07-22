@@ -24,6 +24,9 @@
     "name:ben_x_preferred":[
         "\u09ae\u09be\u0995\u09be\u09b8"
     ],
+    "name:ceb_x_preferred":[
+        "Macas"
+    ],
     "name:dan_x_preferred":[
         "Macas"
     ],
@@ -35,6 +38,9 @@
     ],
     "name:eng_x_preferred":[
         "Macas"
+    ],
+    "name:epo_x_preferred":[
+        "Makaso"
     ],
     "name:fin_x_preferred":[
         "Macas"
@@ -116,6 +122,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e21\u0e32\u0e04\u0e32\u0e2a"
+    ],
+    "name:tha_x_variant":[
+        "\u0e21\u0e32\u0e01\u0e31\u0e2a"
     ],
     "name:tur_x_preferred":[
         "Macas"
@@ -268,7 +277,7 @@
         }
     ],
     "wof:id":1141907579,
-    "wof:lastmodified":1561792472,
+    "wof:lastmodified":1563585260,
     "wof:name":"Macas",
     "wof:parent_id":421191241,
     "wof:placetype":"locality",

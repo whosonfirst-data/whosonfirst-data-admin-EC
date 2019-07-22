@@ -53,6 +53,9 @@
     "name:eng_x_preferred":[
         "Imbabura"
     ],
+    "name:eng_x_variant":[
+        "Imbabura Province"
+    ],
     "name:epo_x_preferred":[
         "Imbabura"
     ],
@@ -63,6 +66,9 @@
         "Imbabura"
     ],
     "name:fra_x_preferred":[
+        "Imbabura"
+    ],
+    "name:frr_x_preferred":[
         "Imbabura"
     ],
     "name:guj_x_preferred":[
@@ -76,6 +82,9 @@
     ],
     "name:hun_x_preferred":[
         "Imbabura tartom\u00e1ny"
+    ],
+    "name:hye_x_preferred":[
+        "\u053b\u0574\u0562\u0561\u0562\u0578\u0582\u0580\u0561"
     ],
     "name:ind_x_preferred":[
         "Provinsi Imbabura"
@@ -95,6 +104,12 @@
     "name:kor_x_preferred":[
         "\uc784\ubc14\ubd80\ub77c \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc784\ubc14\ubd80\ub77c\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Imbabura"
+    ],
     "name:lav_x_preferred":[
         "Imbaburas province"
     ],
@@ -106,6 +121,9 @@
     ],
     "name:msa_x_preferred":[
         "Pentadbiran Imbabura"
+    ],
+    "name:nan_x_preferred":[
+        "Imbabura S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Imbabura"
@@ -137,6 +155,9 @@
     "name:sme_x_preferred":[
         "Imbabura"
     ],
+    "name:snd_x_preferred":[
+        "\u0627\u0645\u0628\u0627\u0628\u0648\u0631\u0627 \u0635\u0648\u0628\u0648"
+    ],
     "name:spa_x_preferred":[
         "Imbabura"
     ],
@@ -151,6 +172,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e34\u0e21\u0e1a\u0e32\u0e1a\u0e39\u0e23\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2d\u0e34\u0e21\u0e1a\u0e32\u0e1a\u0e39\u0e23\u0e32"
     ],
     "name:tur_x_preferred":[
         "Imbabura Province"
@@ -298,7 +322,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1561792364,
+    "wof:lastmodified":1563583678,
     "wof:name":"Imbabura",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

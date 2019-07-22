@@ -30,8 +30,149 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062a\u0648\u0644\u0643\u0627\u0646"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0422\u0443\u043b\u044c\u043a\u0430\u043d"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a4\u09c1\u09b2\u0995\u09be\u09a8"
+    ],
+    "name:cat_x_preferred":[
+        "Tulc\u00e1n"
+    ],
+    "name:ceb_x_preferred":[
+        "Tulc\u00e1n"
+    ],
+    "name:dan_x_preferred":[
+        "Tulc\u00e1n"
+    ],
+    "name:deu_x_preferred":[
+        "Tulc\u00e1n"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03bf\u03cd\u03bb\u03ba\u03b1\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Tulc\u00e1n"
+    ],
+    "name:epo_x_preferred":[
+        "Tulkano"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0644\u06a9\u0627\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Tulc\u00e1n"
+    ],
+    "name:fra_x_preferred":[
+        "Tulc\u00e1n"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aa4\u0ac1\u0ab2\u0a95\u0abe\u0aa8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0924\u0941\u0932\u0915\u0947\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "Tulc\u00e1n"
+    ],
+    "name:ind_x_preferred":[
+        "Tulc\u00e1n"
+    ],
+    "name:ita_x_preferred":[
+        "Tulc\u00e1n"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30a5\u30eb\u30ab\u30f3"
+    ],
+    "name:kan_x_preferred":[
+        "\u0ca4\u0cc1\u0cb2\u0ccd\u0c95\u0cbe\u0ca8\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ud234\uce78"
+    ],
+    "name:lav_x_preferred":[
+        "Tulkana"
+    ],
+    "name:lit_x_preferred":[
+        "Tulkanas"
+    ],
+    "name:mar_x_preferred":[
+        "\u091f\u0941\u0932\u0915\u0945\u0928"
+    ],
+    "name:msa_x_preferred":[
+        "Tulcan"
+    ],
+    "name:nah_x_preferred":[
+        "Tulc\u00e1n"
+    ],
+    "name:nld_x_preferred":[
+        "Tulc\u00e1n"
+    ],
+    "name:nob_x_preferred":[
+        "Tulcan"
+    ],
+    "name:pnb_x_preferred":[
+        "\u062a\u0648\u0644\u06a9\u0627\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Tulc\u00e1n"
+    ],
+    "name:por_x_preferred":[
+        "Tulc\u00e1n"
+    ],
+    "name:que_x_preferred":[
+        "Tulkan"
+    ],
+    "name:ron_x_preferred":[
+        "Tulc\u00e1n"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u043b\u044c\u043a\u0430\u043d"
+    ],
+    "name:sin_x_preferred":[
+        "\u0da7\u0dbd\u0dca\u0d9a\u0db1\u0dca"
+    ],
+    "name:slk_x_preferred":[
+        "Tulc\u00e1n"
+    ],
+    "name:spa_x_preferred":[
+        "Tulc\u00e1n"
+    ],
+    "name:swe_x_preferred":[
+        "Tulc\u00e1n"
+    ],
+    "name:tam_x_preferred":[
+        "\u0ba4\u0bc1\u0bb2\u0bcd\u0b95\u0bbe\u0ba9\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c24\u0c41\u0c32\u0c4d\u0c15\u0c3e\u0c28\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e15\u0e38\u0e25\u0e01\u0e31\u0e19"
+    ],
+    "name:tur_x_preferred":[
+        "Tulcan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0443\u043b\u044c\u043a\u0430\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0648\u0644\u06a9\u0627\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Tulcan"
+    ],
+    "name:vol_x_preferred":[
+        "Tulc\u00e1n"
+    ],
+    "name:war_x_preferred":[
+        "Tulc\u00e1n"
+    ],
+    "name:zho_x_preferred":[
+        "\u5716\u723e\u574e"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -93,7 +234,7 @@
         }
     ],
     "wof:id":421204303,
-    "wof:lastmodified":1553717580,
+    "wof:lastmodified":1563584668,
     "wof:name":"Tulc\u00e1n",
     "wof:parent_id":85670967,
     "wof:placetype":"county",

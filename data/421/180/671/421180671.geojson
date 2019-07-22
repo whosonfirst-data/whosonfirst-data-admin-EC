@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Puerto Bolivar"
     ],
+    "name:eng_x_variant":[
+        "Puerto Bol\u00edvar"
+    ],
     "name:fra_x_preferred":[
         "Puerto Bol\u00edvar"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421180671,
-    "wof:lastmodified":1561792428,
+    "wof:lastmodified":1563584684,
     "wof:name":"Puerto Bol\u00edvar",
     "wof:parent_id":1108570217,
     "wof:placetype":"locality",

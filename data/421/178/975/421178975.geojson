@@ -19,6 +19,9 @@
     "name:que_x_preferred":[
         "Cumbay\u00e1 kitilli"
     ],
+    "name:spa_x_preferred":[
+        "Cumbay\u00e1"
+    ],
     "qs:gn_country":"EC",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3658625,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":421178975,
-    "wof:lastmodified":1527726422,
+    "wof:lastmodified":1563584791,
     "wof:name":"Cumbay\u00e1",
     "wof:parent_id":421188131,
     "wof:placetype":"locality",

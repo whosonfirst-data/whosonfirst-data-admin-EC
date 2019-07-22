@@ -44,6 +44,9 @@
     "name:eng_x_preferred":[
         "Guaranda"
     ],
+    "name:epo_x_preferred":[
+        "Guaranda"
+    ],
     "name:fin_x_preferred":[
         "Guaranda"
     ],
@@ -130,6 +133,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e01\u0e31\u0e27\u0e23\u0e32\u0e19\u0e14\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e01\u0e31\u0e27\u0e23\u0e31\u0e19\u0e14\u0e32"
     ],
     "name:tur_x_preferred":[
         "Guaranda"
@@ -288,7 +294,7 @@
         }
     ],
     "wof:id":421169117,
-    "wof:lastmodified":1561792426,
+    "wof:lastmodified":1563584658,
     "wof:name":"Guaranda",
     "wof:parent_id":421171743,
     "wof:placetype":"locality",

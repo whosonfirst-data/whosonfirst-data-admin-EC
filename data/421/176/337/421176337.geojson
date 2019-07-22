@@ -16,7 +16,19 @@
     "name:ceb_x_preferred":[
         "Balzar"
     ],
+    "name:eng_x_preferred":[
+        "Balzar"
+    ],
+    "name:nld_x_preferred":[
+        "Balzar"
+    ],
+    "name:pol_x_preferred":[
+        "Balzar"
+    ],
     "name:que_x_preferred":[
+        "Balzar"
+    ],
+    "name:spa_x_preferred":[
         "Balzar"
     ],
     "name:swe_x_preferred":[
@@ -73,7 +85,7 @@
         }
     ],
     "wof:id":421176337,
-    "wof:lastmodified":1527726468,
+    "wof:lastmodified":1563584795,
     "wof:name":"Balzar",
     "wof:parent_id":1108567949,
     "wof:placetype":"localadmin",

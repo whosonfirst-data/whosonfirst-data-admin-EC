@@ -32,8 +32,17 @@
     "mps:longitude":-80.671644,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u0646\u062a\u0648\u0646 \u0645\u0648\u0646\u062a\u0643\u0631\u064a\u0633\u062a\u064a"
+    ],
+    "name:ceb_x_preferred":[
+        "Cant\u00f3n Montecristi"
+    ],
     "name:eng_x_preferred":[
         "Montecristi"
+    ],
+    "name:eng_x_variant":[
+        "Montecristi Canton"
     ],
     "name:fra_x_preferred":[
         "Montecristi"
@@ -46,6 +55,9 @@
     ],
     "name:nld_x_preferred":[
         "Montecristi Canton"
+    ],
+    "name:pol_x_preferred":[
+        "Montecristi"
     ],
     "name:que_x_preferred":[
         "Montecristi kiti"
@@ -107,7 +119,7 @@
         }
     ],
     "wof:id":1108570471,
-    "wof:lastmodified":1561792405,
+    "wof:lastmodified":1563584339,
     "wof:name":"Montecristi",
     "wof:parent_id":85670927,
     "wof:placetype":"county",

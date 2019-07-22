@@ -32,8 +32,17 @@
     "mps:longitude":-80.207183,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u0646\u062a\u0648\u0646 \u062c\u0648\u0646\u064a\u0646"
+    ],
+    "name:ceb_x_preferred":[
+        "Cant\u00f3n Jun\u00edn"
+    ],
     "name:eng_x_preferred":[
         "Jun\u00edn"
+    ],
+    "name:eng_x_variant":[
+        "Jun\u00edn Canton"
     ],
     "name:fas_x_preferred":[
         "\u062c\u0648\u0646\u06cc\u0646"
@@ -49,6 +58,9 @@
     ],
     "name:nld_x_preferred":[
         "Jun\u00edn Canton"
+    ],
+    "name:pol_x_preferred":[
+        "Jun\u00edn"
     ],
     "name:que_x_preferred":[
         "Hunin kiti"
@@ -104,7 +116,7 @@
         }
     ],
     "wof:id":1108569983,
-    "wof:lastmodified":1561792410,
+    "wof:lastmodified":1563584367,
     "wof:name":"Jun\u00edn",
     "wof:parent_id":85670927,
     "wof:placetype":"county",

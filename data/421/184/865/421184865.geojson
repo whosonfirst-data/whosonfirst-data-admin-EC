@@ -33,8 +33,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Cant\u00f3n Sigchos"
+    ],
     "name:eng_x_preferred":[
         "Sigchos"
+    ],
+    "name:eng_x_variant":[
+        "Sigchos Canton"
     ],
     "name:fra_x_preferred":[
         "Sigchos"
@@ -126,7 +132,7 @@
         }
     ],
     "wof:id":421184865,
-    "wof:lastmodified":1561792434,
+    "wof:lastmodified":1563584773,
     "wof:name":"Sigchos",
     "wof:parent_id":85670915,
     "wof:placetype":"county",

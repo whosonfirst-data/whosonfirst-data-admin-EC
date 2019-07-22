@@ -35,8 +35,14 @@
     "name:cat_x_preferred":[
         "Salitre"
     ],
+    "name:ceb_x_preferred":[
+        "Cant\u00f3n Urbina Jado"
+    ],
     "name:eng_x_preferred":[
         "Salitre"
+    ],
+    "name:eng_x_variant":[
+        "Salitre Canton"
     ],
     "name:fas_x_preferred":[
         "\u0633\u0627\u0644\u06cc\u062a\u0631\u0647"
@@ -53,6 +59,9 @@
     "name:nld_x_preferred":[
         "Salitre Canton"
     ],
+    "name:pol_x_preferred":[
+        "Salitre"
+    ],
     "name:que_x_preferred":[
         "Salitre kiti"
     ],
@@ -61,6 +70,9 @@
     ],
     "name:spa_x_variant":[
         "Cant\u00f3n Salitre"
+    ],
+    "name:swe_x_preferred":[
+        "Cant\u00f3n Urbina Jado"
     ],
     "name:zho_x_preferred":[
         "\u85a9\u5229\u7279\u96f7\u7e23"
@@ -100,7 +112,7 @@
         }
     ],
     "wof:id":1108573139,
-    "wof:lastmodified":1561792407,
+    "wof:lastmodified":1563584350,
     "wof:name":"Urbina Jado",
     "wof:parent_id":85670917,
     "wof:placetype":"county",

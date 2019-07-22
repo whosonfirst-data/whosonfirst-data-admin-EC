@@ -32,8 +32,14 @@
     "mps:longitude":-79.454277,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Cant\u00f3n Gonzanam\u00e1"
+    ],
     "name:eng_x_preferred":[
         "Gonzanam\u00e1"
+    ],
+    "name:eng_x_variant":[
+        "Gonzanam\u00e1 Canton"
     ],
     "name:fra_x_preferred":[
         "Gonzanam\u00e1"
@@ -46,6 +52,9 @@
     ],
     "name:nld_x_preferred":[
         "Gonzanam\u00e1 Canton"
+    ],
+    "name:pol_x_preferred":[
+        "Gonzanam\u00e1"
     ],
     "name:que_x_preferred":[
         "Gonzanam\u00e1 kiti"
@@ -98,7 +107,7 @@
         }
     ],
     "wof:id":1108569565,
-    "wof:lastmodified":1561792413,
+    "wof:lastmodified":1563584379,
     "wof:name":"Gonzanam\u00e1",
     "wof:parent_id":85670891,
     "wof:placetype":"county",

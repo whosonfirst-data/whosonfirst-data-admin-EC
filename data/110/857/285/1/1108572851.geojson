@@ -32,8 +32,14 @@
     "mps:longitude":-79.795882,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Cant\u00f3n Sozoranga"
+    ],
     "name:eng_x_preferred":[
         "Sozoranga"
+    ],
+    "name:eng_x_variant":[
+        "Sozoranga Canton"
     ],
     "name:fra_x_preferred":[
         "Sozoranga"
@@ -41,8 +47,17 @@
     "name:ita_x_preferred":[
         "Cantone di Sozoranga"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10dd\u10e1\u10dd\u10e0\u10d0\u10dc\u10d2\u10d8\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
+    ],
+    "name:lad_x_preferred":[
+        "Sozoranga"
+    ],
     "name:nld_x_preferred":[
         "Sozoranga Canton"
+    ],
+    "name:pol_x_preferred":[
+        "Sozoranga"
     ],
     "name:que_x_preferred":[
         "Sozoranga kiti"
@@ -95,7 +110,7 @@
         }
     ],
     "wof:id":1108572851,
-    "wof:lastmodified":1561792408,
+    "wof:lastmodified":1563584356,
     "wof:name":"Sozoranga",
     "wof:parent_id":85670891,
     "wof:placetype":"county",

@@ -16,14 +16,38 @@
     "name:ceb_x_preferred":[
         "Catamayo"
     ],
+    "name:eng_x_preferred":[
+        "Catamayo"
+    ],
+    "name:fra_x_preferred":[
+        "Catamayo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30bf\u30de\u30e8"
+    ],
+    "name:nld_x_preferred":[
+        "Catamayo"
+    ],
+    "name:pol_x_preferred":[
+        "Catamayo"
+    ],
     "name:que_x_preferred":[
         "Katamayu"
+    ],
+    "name:que_x_variant":[
+        "Katamayu llaqta"
+    ],
+    "name:spa_x_preferred":[
+        "Catamayo"
     ],
     "name:swe_x_preferred":[
         "Catamayo"
     ],
     "name:unk_x_variant":[
         "La Toma"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u5854\u99ac\u7d04"
     ],
     "qs:gn_country":"EC",
     "qs:gn_fcode":"PPL",
@@ -73,7 +97,7 @@
         }
     ],
     "wof:id":421203193,
-    "wof:lastmodified":1527716189,
+    "wof:lastmodified":1563584670,
     "wof:name":"Catamayo",
     "wof:parent_id":1108568325,
     "wof:placetype":"localadmin",

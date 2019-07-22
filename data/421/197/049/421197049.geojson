@@ -30,11 +30,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Cant\u00f3n Cayambe"
+    ],
     "name:deu_x_preferred":[
         "Cayambe"
     ],
     "name:eng_x_preferred":[
         "Cayambe"
+    ],
+    "name:eng_x_variant":[
+        "Cayambe Canton"
     ],
     "name:fra_x_preferred":[
         "Cayambe"
@@ -68,6 +74,9 @@
     ],
     "name:spa_x_preferred":[
         "Cayambe"
+    ],
+    "name:spa_x_variant":[
+        "Cant\u00f3n Cayambe"
     ],
     "name:swe_x_preferred":[
         "Cant\u00f3n Cayambe"
@@ -138,7 +147,7 @@
         }
     ],
     "wof:id":421197049,
-    "wof:lastmodified":1561792432,
+    "wof:lastmodified":1563584750,
     "wof:name":"Cayambe",
     "wof:parent_id":85670945,
     "wof:placetype":"county",

@@ -29,6 +29,9 @@
     "name:ceb_x_preferred":[
         "Babahoyo"
     ],
+    "name:ces_x_preferred":[
+        "Babahoyo"
+    ],
     "name:dan_x_preferred":[
         "Babahoyo"
     ],
@@ -39,6 +42,9 @@
         "\u039c\u03c0\u03b1\u03bc\u03c0\u03b1\u03cc\u03b3\u03b9\u03bf"
     ],
     "name:eng_x_preferred":[
+        "Babahoyo"
+    ],
+    "name:epo_x_preferred":[
         "Babahoyo"
     ],
     "name:fin_x_preferred":[
@@ -124,6 +130,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1a\u0e32\u0e1a\u0e32\u0e42\u0e2e\u0e42\u0e22"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e32\u0e1a\u0e32\u0e42\u0e2d\u0e42\u0e22"
     ],
     "name:tur_x_preferred":[
         "Babahoyo"
@@ -288,7 +297,7 @@
         }
     ],
     "wof:id":421176343,
-    "wof:lastmodified":1561792437,
+    "wof:lastmodified":1563584800,
     "wof:name":"Babahoyo",
     "wof:parent_id":421195601,
     "wof:placetype":"locality",

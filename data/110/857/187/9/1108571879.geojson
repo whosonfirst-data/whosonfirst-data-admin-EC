@@ -35,14 +35,23 @@
     "name:eng_x_preferred":[
         "Quilanga"
     ],
+    "name:eng_x_variant":[
+        "Quilanga Canton"
+    ],
     "name:fra_x_preferred":[
         "Quilanga"
     ],
     "name:ita_x_preferred":[
         "Cantone di Quilanga"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d8\u10da\u10d0\u10dc\u10d2\u10d8\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
+    ],
     "name:nld_x_preferred":[
         "Quilanga Canton"
+    ],
+    "name:pol_x_preferred":[
+        "Quilanga"
     ],
     "name:que_x_preferred":[
         "Kilanka kiti"
@@ -92,7 +101,7 @@
         }
     ],
     "wof:id":1108571879,
-    "wof:lastmodified":1561792406,
+    "wof:lastmodified":1563584348,
     "wof:name":"Quilanga",
     "wof:parent_id":85670891,
     "wof:placetype":"county",

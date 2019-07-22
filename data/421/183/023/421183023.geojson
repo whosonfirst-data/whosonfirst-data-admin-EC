@@ -39,6 +39,9 @@
     "name:eng_x_preferred":[
         "Bibli\u00e1n"
     ],
+    "name:eng_x_variant":[
+        "Bibli\u00e1n Canton"
+    ],
     "name:fra_x_preferred":[
         "Bibli\u00e1n"
     ],
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":421183023,
-    "wof:lastmodified":1561792435,
+    "wof:lastmodified":1563584781,
     "wof:name":"Bibli\u00e1n",
     "wof:parent_id":85670909,
     "wof:placetype":"county",

@@ -20,7 +20,13 @@
     "name:ceb_x_preferred":[
         "Puerto Villamil"
     ],
+    "name:deu_x_preferred":[
+        "Puerto Villamil"
+    ],
     "name:eng_x_preferred":[
+        "Puerto Villamil"
+    ],
+    "name:fin_x_preferred":[
         "Puerto Villamil"
     ],
     "name:fra_x_preferred":[
@@ -58,6 +64,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041f\u0443\u044d\u0440\u0442\u043e-\u0412\u0438\u043b\u044c\u044f\u043c\u0438\u043b\u044c"
+    ],
+    "name:rus_x_variant":[
+        "\u041f\u0443\u044d\u0440\u0442\u043e-\u0412\u0438\u043b\u043b\u0430\u043c\u0438\u043b"
     ],
     "name:spa_x_preferred":[
         "Puerto Villamil"
@@ -217,7 +226,7 @@
         }
     ],
     "wof:id":421174813,
-    "wof:lastmodified":1561792428,
+    "wof:lastmodified":1563584681,
     "wof:name":"Puerto Villamil",
     "wof:parent_id":1108569881,
     "wof:placetype":"locality",

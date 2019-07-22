@@ -68,6 +68,9 @@
     "name:hin_x_preferred":[
         "\u0938\u0948\u0902\u091f\u094b \u0921\u094b\u092e\u093f\u0902\u0917\u094b \u0921\u0940 \u0932\u094b\u0938 \u0938\u0948\u0915\u093f\u0932\u093e\u0938 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0576\u057f\u0561 \u0534\u0578\u0574\u056b\u0576\u0563\u0578 \u0564\u0565 \u056c\u0578\u057d \u054f\u057d\u0561\u0579\u056b\u056c\u0561\u057d"
+    ],
     "name:ind_x_preferred":[
         "Provinsi Santo Domingo de los Ts\u00e1chilas"
     ],
@@ -294,7 +297,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1561792363,
+    "wof:lastmodified":1563583674,
     "wof:name":"Santo Domingo de los Ts\u00e1chilas",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

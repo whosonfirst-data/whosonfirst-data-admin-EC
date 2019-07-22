@@ -59,17 +59,30 @@
     "name:eng_x_preferred":[
         "Gal\u00e1pagos"
     ],
+    "name:eng_x_variant":[
+        "Gal\u00e1pagos Province"
+    ],
+    "name:epo_x_preferred":[
+        "Provinco Galapagoj"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u06af\u0627\u0644\u0627\u067e\u0627\u06af\u0648\u0633"
     ],
     "name:fin_x_preferred":[
         "Gal\u00e1pagosin l\u00e4\u00e4ni"
     ],
+    "name:fin_x_variant":[
+        "Gal\u00e1pagosin maakunta"
+    ],
     "name:fra_x_preferred":[
         "Province de Gal\u00e1pagos"
     ],
     "name:fra_x_variant":[
-        "province de Gal\u00e1pagos"
+        "province de Gal\u00e1pagos",
+        "Gal\u00e1pagos"
+    ],
+    "name:frr_x_preferred":[
+        "Gal\u00e1pagos"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0abe\u0ab2\u0abe\u0aaa\u0abe\u0a97\u0acb\u0ab8 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -95,6 +108,12 @@
     "name:kor_x_preferred":[
         "\uac08\ub77c\ud30c\uace0\uc2a4 \uc81c\ub3c4"
     ],
+    "name:kor_x_variant":[
+        "\uac08\ub77c\ud30c\uace0\uc2a4\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Gal\u00e1pagos"
+    ],
     "name:lav_x_preferred":[
         "Galapagu province"
     ],
@@ -107,11 +126,17 @@
     "name:msa_x_preferred":[
         "Pentadbiran Gal\u00e1pagos"
     ],
+    "name:nan_x_preferred":[
+        "Gal\u00e1pagos S\u00e9ng"
+    ],
     "name:nld_x_preferred":[
         "Gal\u00e1pagos"
     ],
     "name:nob_x_preferred":[
         "Galapagos provins"
+    ],
+    "name:nob_x_variant":[
+        "Gal\u00e1pagos"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u06af\u0627\u0644\u0627\u067e\u0627\u06af\u0648\u0633"
@@ -303,7 +328,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1561792360,
+    "wof:lastmodified":1563583659,
     "wof:name":"Gal\u00e1pagos",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

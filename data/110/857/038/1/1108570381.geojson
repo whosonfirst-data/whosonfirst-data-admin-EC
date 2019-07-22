@@ -35,8 +35,14 @@
     "name:eng_x_preferred":[
         "Mocha"
     ],
+    "name:eng_x_variant":[
+        "Mocha Canton"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u0648\u06a9\u0627\u060c \u0627\u06a9\u0648\u0627\u062f\u0648\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u0648\u06a9\u0627"
     ],
     "name:fra_x_preferred":[
         "Mocha"
@@ -49,6 +55,9 @@
     ],
     "name:nld_x_preferred":[
         "Mocha Canton"
+    ],
+    "name:pol_x_preferred":[
+        "Mocha"
     ],
     "name:que_x_preferred":[
         "Mocha kiti"
@@ -101,7 +110,7 @@
         }
     ],
     "wof:id":1108570381,
-    "wof:lastmodified":1561792406,
+    "wof:lastmodified":1563584341,
     "wof:name":"Mocha",
     "wof:parent_id":85670959,
     "wof:placetype":"county",

@@ -16,6 +16,12 @@
     "name:ceb_x_preferred":[
         "Rosa Zarate"
     ],
+    "name:eng_x_preferred":[
+        "Quinind\u00e9 Canton"
+    ],
+    "name:fra_x_preferred":[
+        "Quinind\u00e9"
+    ],
     "name:hun_x_preferred":[
         "Quinind\u00e9 kanton"
     ],
@@ -24,6 +30,12 @@
     ],
     "name:kat_x_preferred":[
         "\u10d9\u10d8\u10dc\u10d8\u10dc\u10d3\u10d4\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Quinind\u00e9 Canton"
+    ],
+    "name:pol_x_preferred":[
+        "Quinind\u00e9"
     ],
     "name:por_x_preferred":[
         "Quinind\u00e9"
@@ -91,7 +103,7 @@
         }
     ],
     "wof:id":421194127,
-    "wof:lastmodified":1527716132,
+    "wof:lastmodified":1563584645,
     "wof:name":"Rosa Zarate",
     "wof:parent_id":1108571921,
     "wof:placetype":"localadmin",

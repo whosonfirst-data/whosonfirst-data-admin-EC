@@ -33,6 +33,9 @@
     "name:eng_x_preferred":[
         "Chordeleg"
     ],
+    "name:eng_x_variant":[
+        "Chordeleg Canton"
+    ],
     "name:fra_x_preferred":[
         "Chordeleg"
     ],
@@ -45,6 +48,9 @@
     "name:nld_x_preferred":[
         "Chordeleg Canton"
     ],
+    "name:pol_x_preferred":[
+        "Chordeleg"
+    ],
     "name:por_x_preferred":[
         "Chordeleg"
     ],
@@ -53,6 +59,9 @@
     ],
     "name:spa_x_preferred":[
         "Chordeleg"
+    ],
+    "name:spa_x_variant":[
+        "Cant\u00f3n Chordeleg"
     ],
     "name:zho_x_preferred":[
         "\u55ac\u723e\u5fb7\u840a\u683c\u7e23"
@@ -119,7 +128,7 @@
         }
     ],
     "wof:id":421188121,
-    "wof:lastmodified":1561792429,
+    "wof:lastmodified":1563584706,
     "wof:name":"Chordeleg",
     "wof:parent_id":85670885,
     "wof:placetype":"county",

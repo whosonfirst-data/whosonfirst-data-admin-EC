@@ -33,11 +33,17 @@
     "name:ceb_x_preferred":[
         "Espejo"
     ],
+    "name:ceb_x_variant":[
+        "Cant\u00f3n Espejo"
+    ],
     "name:deu_x_preferred":[
         "Espejo"
     ],
     "name:eng_x_preferred":[
         "Espejo"
+    ],
+    "name:eng_x_variant":[
+        "Espejo Canton"
     ],
     "name:fra_x_preferred":[
         "Espejo"
@@ -51,6 +57,9 @@
     "name:nld_x_preferred":[
         "Espejo Canton"
     ],
+    "name:pol_x_preferred":[
+        "Espejo"
+    ],
     "name:por_x_preferred":[
         "Espejo"
     ],
@@ -62,6 +71,9 @@
     ],
     "name:spa_x_preferred":[
         "Espejo"
+    ],
+    "name:spa_x_variant":[
+        "Cant\u00f3n Espejo"
     ],
     "name:swe_x_preferred":[
         "Cant\u00f3n Espejo"
@@ -129,7 +141,7 @@
         }
     ],
     "wof:id":421180535,
-    "wof:lastmodified":1561792428,
+    "wof:lastmodified":1563584682,
     "wof:name":"Espejo",
     "wof:parent_id":85670967,
     "wof:placetype":"county",

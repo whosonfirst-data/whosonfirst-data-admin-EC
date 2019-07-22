@@ -43,8 +43,14 @@
     "name:pol_x_preferred":[
         "Port lotniczy General Ulpiano Paez"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul General Ulpiano Paez"
+    ],
     "name:spa_x_preferred":[
         "Aeropuerto General Ulpiano Paez"
+    ],
+    "name:spa_x_variant":[
+        "Aeropuerto General Ulpiano Paez - Salinas"
     ],
     "name:swe_x_preferred":[
         "General Ulpiano Paez Airport"
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":102543875,
-    "wof:lastmodified":1561792340,
+    "wof:lastmodified":1563583472,
     "wof:name":"General Ulpiano Paez Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

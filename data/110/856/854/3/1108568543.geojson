@@ -35,6 +35,9 @@
     "name:eng_x_preferred":[
         "Chilla"
     ],
+    "name:eng_x_variant":[
+        "Chilla Canton"
+    ],
     "name:fas_x_preferred":[
         "\u0686\u06cc\u0644\u0627"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:nld_x_preferred":[
         "Chilla Canton"
+    ],
+    "name:pol_x_preferred":[
+        "Chilla"
     ],
     "name:por_x_preferred":[
         "Chilla"
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":1108568543,
-    "wof:lastmodified":1561792414,
+    "wof:lastmodified":1563584384,
     "wof:name":"Chilla",
     "wof:parent_id":85670887,
     "wof:placetype":"county",

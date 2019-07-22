@@ -35,6 +35,9 @@
     "name:eng_x_preferred":[
         "Pallatanga"
     ],
+    "name:eng_x_variant":[
+        "Pallatanga Canton"
+    ],
     "name:fra_x_preferred":[
         "Pallatanga"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:nld_x_preferred":[
         "Pallatanga Canton"
+    ],
+    "name:pol_x_preferred":[
+        "Pallatanga"
     ],
     "name:por_x_preferred":[
         "Pallatanga"
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":1108571001,
-    "wof:lastmodified":1561792407,
+    "wof:lastmodified":1563584351,
     "wof:name":"Pallatanga",
     "wof:parent_id":85670931,
     "wof:placetype":"county",

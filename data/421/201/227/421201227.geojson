@@ -39,6 +39,9 @@
     "name:eng_x_preferred":[
         "Chambo"
     ],
+    "name:eng_x_variant":[
+        "Chambo Canton"
+    ],
     "name:fra_x_preferred":[
         "Chambo"
     ],
@@ -54,11 +57,17 @@
     "name:nld_x_preferred":[
         "Chambo Canton"
     ],
+    "name:pol_x_preferred":[
+        "Chambo"
+    ],
     "name:por_x_preferred":[
         "Chambo"
     ],
     "name:que_x_preferred":[
         "Champu"
+    ],
+    "name:que_x_variant":[
+        "Champu kiti"
     ],
     "name:rus_x_preferred":[
         "\u0427\u0430\u043c\u0431\u043e"
@@ -132,7 +141,7 @@
         }
     ],
     "wof:id":421201227,
-    "wof:lastmodified":1561792433,
+    "wof:lastmodified":1563584756,
     "wof:name":"Chambo",
     "wof:parent_id":85670931,
     "wof:placetype":"county",

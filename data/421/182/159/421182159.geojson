@@ -30,11 +30,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Cant\u00f3n Loja"
+    ],
     "name:deu_x_preferred":[
         "Loja"
     ],
     "name:eng_x_preferred":[
         "Loja"
+    ],
+    "name:eng_x_variant":[
+        "Loja Canton"
     ],
     "name:est_x_preferred":[
         "Loja"
@@ -60,6 +66,9 @@
     "name:jpn_x_preferred":[
         "\u30ed\u30cf"
     ],
+    "name:jpn_x_variant":[
+        "\u30ed\u30cf\u90e1"
+    ],
     "name:kaz_x_preferred":[
         "\u041b\u043e\u0445\u0430"
     ],
@@ -73,6 +82,9 @@
         "Loja Canton"
     ],
     "name:nor_x_preferred":[
+        "Loja"
+    ],
+    "name:pol_x_preferred":[
         "Loja"
     ],
     "name:por_x_preferred":[
@@ -89,6 +101,9 @@
     ],
     "name:spa_x_preferred":[
         "Loja"
+    ],
+    "name:spa_x_variant":[
+        "Cant\u00f3n Loja"
     ],
     "name:swe_x_preferred":[
         "Cant\u00f3n Loja"
@@ -159,7 +174,7 @@
         }
     ],
     "wof:id":421182159,
-    "wof:lastmodified":1561792436,
+    "wof:lastmodified":1563584792,
     "wof:name":"Loja",
     "wof:parent_id":85670891,
     "wof:placetype":"county",

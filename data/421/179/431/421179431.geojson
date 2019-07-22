@@ -19,11 +19,20 @@
     "name:deu_x_preferred":[
         "Calceta"
     ],
+    "name:eng_x_preferred":[
+        "Calceta"
+    ],
     "name:fra_x_preferred":[
         "Calceta"
     ],
     "name:lit_x_preferred":[
         "Kalseta"
+    ],
+    "name:nld_x_preferred":[
+        "Calceta"
+    ],
+    "name:pol_x_preferred":[
+        "Calceta"
     ],
     "name:que_x_preferred":[
         "Calceta"
@@ -89,7 +98,7 @@
         }
     ],
     "wof:id":421179431,
-    "wof:lastmodified":1527717705,
+    "wof:lastmodified":1563584787,
     "wof:name":"Calceta",
     "wof:parent_id":1108568121,
     "wof:placetype":"localadmin",

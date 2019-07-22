@@ -34,6 +34,9 @@
     "name:ben_x_preferred":[
         "\u0997\u09c1\u09af\u09bc\u09be\u0995\u09c1\u0987\u09b2"
     ],
+    "name:ben_x_variant":[
+        "\u0997\u09c1\u09af\u09bc\u09be\u0987\u09af\u09bc\u09be\u0995\u09bf\u09b2"
+    ],
     "name:bos_x_preferred":[
         "Guayaquil"
     ],
@@ -44,6 +47,9 @@
         "\u0413\u0443\u0430\u044f\u043a\u0438\u043b"
     ],
     "name:cat_x_preferred":[
+        "Guayaquil"
+    ],
+    "name:ceb_x_preferred":[
         "Guayaquil"
     ],
     "name:ces_x_preferred":[
@@ -244,11 +250,17 @@
     "name:tam_x_preferred":[
         "\u0b89\u0bb5\u0baf\u0bbe\u0b95\u0bbf\u0bb2\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u0413\u0443\u0430\u044f\u043a\u0438\u043b"
+    ],
     "name:tel_x_preferred":[
         "\u0c17\u0c4d\u0c35\u0c3e\u0c2f\u0c3e\u0c15\u0c4d\u0c35\u0c3f\u0c32\u0c4d"
     ],
     "name:tha_x_preferred":[
         "\u0e01\u0e27\u0e32\u0e22\u0e32\u0e01\u0e34\u0e25"
+    ],
+    "name:tha_x_variant":[
+        "\u0e01\u0e31\u0e27\u0e22\u0e32\u0e01\u0e34\u0e25"
     ],
     "name:tur_x_preferred":[
         "Guayaquil"
@@ -270,6 +282,12 @@
     ],
     "name:war_x_preferred":[
         "Guayaquil"
+    ],
+    "name:wuu_x_preferred":[
+        "\u74dc\u4e9a\u57fa\u5c14"
+    ],
+    "name:xho_x_preferred":[
+        "e-Guayaquil"
     ],
     "name:yor_x_preferred":[
         "Guayaquil"
@@ -330,7 +348,7 @@
         }
     ],
     "wof:id":421186705,
-    "wof:lastmodified":1561792430,
+    "wof:lastmodified":1563584722,
     "wof:name":"Guayaquil",
     "wof:parent_id":421175423,
     "wof:placetype":"locality",

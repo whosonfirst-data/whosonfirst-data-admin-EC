@@ -31,6 +31,9 @@
     "name:que_x_preferred":[
         "Pasaje"
     ],
+    "name:spa_x_preferred":[
+        "Pasaje"
+    ],
     "name:swe_x_preferred":[
         "Pasaje"
     ],
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":421202747,
-    "wof:lastmodified":1561792427,
+    "wof:lastmodified":1563584677,
     "wof:name":"Pasaje",
     "wof:parent_id":421191247,
     "wof:placetype":"locality",

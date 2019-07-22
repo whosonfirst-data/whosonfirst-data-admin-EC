@@ -22,11 +22,17 @@
     "name:deu_x_preferred":[
         "Ingapirca"
     ],
+    "name:eng_x_preferred":[
+        "Ingapirca"
+    ],
     "name:fra_x_preferred":[
         "Ingapirca"
     ],
     "name:glg_x_preferred":[
         "Ingapirca"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30f3\u30ac\u30d4\u30eb\u30ab"
     ],
     "name:kat_x_preferred":[
         "\u10d8\u10dc\u10d2\u10d0\u10de\u10d8\u10e0\u10d9\u10d0"
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":421197117,
-    "wof:lastmodified":1527716404,
+    "wof:lastmodified":1563584751,
     "wof:name":"Ingapirca",
     "wof:parent_id":421195597,
     "wof:placetype":"localadmin",

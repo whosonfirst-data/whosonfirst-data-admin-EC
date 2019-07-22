@@ -16,7 +16,19 @@
     "name:ceb_x_preferred":[
         "San Miguel"
     ],
+    "name:eng_x_preferred":[
+        "San Miguel"
+    ],
+    "name:nld_x_preferred":[
+        "San Miguel"
+    ],
+    "name:pol_x_preferred":[
+        "San Miguel"
+    ],
     "name:que_x_preferred":[
+        "San Miguel"
+    ],
+    "name:spa_x_preferred":[
         "San Miguel"
     ],
     "name:swe_x_preferred":[
@@ -73,7 +85,7 @@
         }
     ],
     "wof:id":421191335,
-    "wof:lastmodified":1527716382,
+    "wof:lastmodified":1563584745,
     "wof:name":"San Miguel",
     "wof:parent_id":1108572259,
     "wof:placetype":"localadmin",

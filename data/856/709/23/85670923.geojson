@@ -39,6 +39,9 @@
     "name:ben_x_preferred":[
         "\u09b2\u09b8 \u09b0\u09bf\u0993\u09b8 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
+    "name:ben_x_variant":[
+        "\u09b2\u09cb\u09b8 \u09b0\u09bf\u0993\u09b8 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
     "name:bul_x_preferred":[
         "\u041b\u043e\u0441 \u0420\u0438\u043e\u0441"
     ],
@@ -60,6 +63,9 @@
     "name:eng_x_preferred":[
         "Los Rios"
     ],
+    "name:eng_x_variant":[
+        "Los R\u00edos Province"
+    ],
     "name:epo_x_preferred":[
         "Los R\u00edos"
     ],
@@ -72,6 +78,9 @@
     "name:fra_x_preferred":[
         "Los R\u00edos"
     ],
+    "name:frr_x_preferred":[
+        "Los R\u00edos"
+    ],
     "name:guj_x_preferred":[
         "\u0ab2\u0acb\u0ab8 \u0ab0\u0abf\u0aaf\u0acb\u0ab8 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
     ],
@@ -80,6 +89,9 @@
     ],
     "name:hun_x_preferred":[
         "Los R\u00edos tartom\u00e1ny"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0578\u057d \u054c\u056b\u0578"
     ],
     "name:ind_x_preferred":[
         "Provinsi Los R\u00edos"
@@ -99,6 +111,12 @@
     "name:kor_x_preferred":[
         "\ub85c\uc2a4\ub9ac\uc624\uc2a4 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ub85c\uc2a4\ub9ac\uc624\uc2a4\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Los R\u00edos"
+    ],
     "name:lav_x_preferred":[
         "Losriosas province"
     ],
@@ -110,6 +128,9 @@
     ],
     "name:msa_x_preferred":[
         "Pentadbiran Los R\u00edos"
+    ],
+    "name:nan_x_preferred":[
+        "Los R\u00edos S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Los R\u00edos"
@@ -145,6 +166,9 @@
         "Los Rios",
         "Provincia de Los R\u00edos"
     ],
+    "name:spa_x_variant":[
+        "Los R\u00edos"
+    ],
     "name:swe_x_preferred":[
         "Los R\u00edos"
     ],
@@ -156,6 +180,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e01\u0e32\u0e40\u0e0b\u0e35\u0e22\u0e19\u0e40\u0e15\u0e1b"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e42\u0e25\u0e2a\u0e23\u0e34\u0e42\u0e2d\u0e2a"
     ],
     "name:tur_x_preferred":[
         "Los Rios Province"
@@ -301,7 +328,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1561792364,
+    "wof:lastmodified":1563583676,
     "wof:name":"Los Rios",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

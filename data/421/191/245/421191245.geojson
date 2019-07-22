@@ -39,11 +39,17 @@
     "name:ceb_x_preferred":[
         "Milagro"
     ],
+    "name:ceb_x_variant":[
+        "Cant\u00f3n Milagro"
+    ],
     "name:deu_x_preferred":[
         "Milagro"
     ],
     "name:eng_x_preferred":[
         "Milagro"
+    ],
+    "name:eng_x_variant":[
+        "Milagro Canton"
     ],
     "name:fra_x_preferred":[
         "Milagro"
@@ -60,6 +66,9 @@
     "name:nld_x_preferred":[
         "Milagro Canton"
     ],
+    "name:pol_x_preferred":[
+        "Milagro"
+    ],
     "name:por_x_preferred":[
         "Milagro"
     ],
@@ -72,8 +81,14 @@
     "name:spa_x_preferred":[
         "Milagro"
     ],
+    "name:spa_x_variant":[
+        "Cant\u00f3n Milagro"
+    ],
     "name:swe_x_preferred":[
         "Milagro"
+    ],
+    "name:swe_x_variant":[
+        "Cant\u00f3n Milagro"
     ],
     "name:ukr_x_preferred":[
         "Milagro"
@@ -141,7 +156,7 @@
         }
     ],
     "wof:id":421191245,
-    "wof:lastmodified":1561792432,
+    "wof:lastmodified":1563584743,
     "wof:name":"Milagro",
     "wof:parent_id":85670917,
     "wof:placetype":"county",

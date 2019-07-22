@@ -22,10 +22,16 @@
     "name:fra_x_preferred":[
         "Playas"
     ],
+    "name:hye_x_preferred":[
+        "\u054a\u056c\u0565\u0575\u0561\u057d"
+    ],
     "name:lit_x_preferred":[
         "Plajasas"
     ],
     "name:nld_x_preferred":[
+        "Playas"
+    ],
+    "name:pol_x_preferred":[
         "Playas"
     ],
     "name:que_x_preferred":[
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421174811,
-    "wof:lastmodified":1561792428,
+    "wof:lastmodified":1563584679,
     "wof:name":"Playas",
     "wof:parent_id":421188127,
     "wof:placetype":"locality",

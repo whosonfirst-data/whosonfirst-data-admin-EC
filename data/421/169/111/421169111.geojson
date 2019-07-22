@@ -17,6 +17,9 @@
     "name:ceb_x_preferred":[
         "Cant\u00f3n Pi\u00f1as"
     ],
+    "name:ceb_x_variant":[
+        "Pi\u00f1as"
+    ],
     "name:eng_x_preferred":[
         "Pi\u00f1as"
     ],
@@ -29,17 +32,29 @@
     "name:kat_x_preferred":[
         "\u10de\u10d8\u10dc\u10d8\u10d0\u10e1\u10d8\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
     ],
+    "name:pol_x_preferred":[
+        "Pi\u00f1as"
+    ],
     "name:por_x_preferred":[
         "Pi\u00f1as"
     ],
     "name:que_x_preferred":[
         "Pi\u00f1as kiti"
     ],
+    "name:que_x_variant":[
+        "Pi\u00f1as"
+    ],
     "name:spa_x_preferred":[
         "Cant\u00f3n Pi\u00f1as"
     ],
+    "name:spa_x_variant":[
+        "Pi\u00f1as"
+    ],
     "name:swe_x_preferred":[
         "Cant\u00f3n Pi\u00f1as"
+    ],
+    "name:swe_x_variant":[
+        "Pi\u00f1as"
     ],
     "name:zho_x_preferred":[
         "\u76ae\u5c3c\u4e9e\u65af\u7e23"
@@ -182,7 +197,7 @@
         }
     ],
     "wof:id":421169111,
-    "wof:lastmodified":1561792426,
+    "wof:lastmodified":1563584655,
     "wof:name":"Pi\u00f1as",
     "wof:parent_id":421195605,
     "wof:placetype":"locality",

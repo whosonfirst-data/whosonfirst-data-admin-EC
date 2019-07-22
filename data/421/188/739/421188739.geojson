@@ -19,8 +19,17 @@
     "name:deu_x_preferred":[
         "Daule"
     ],
+    "name:eng_x_preferred":[
+        "Daule"
+    ],
+    "name:fra_x_preferred":[
+        "Daule"
+    ],
     "name:lit_x_preferred":[
         "Daul\u0117"
+    ],
+    "name:nld_x_preferred":[
+        "Daule"
     ],
     "name:pol_x_preferred":[
         "Daule"
@@ -36,6 +45,9 @@
     ],
     "name:swe_x_preferred":[
         "Daule"
+    ],
+    "name:zho_x_preferred":[
+        "\u9053\u840a"
     ],
     "qs:gn_country":"EC",
     "qs:gn_fcode":"PPL",
@@ -88,7 +100,7 @@
         }
     ],
     "wof:id":421188739,
-    "wof:lastmodified":1527716274,
+    "wof:lastmodified":1563584703,
     "wof:name":"Daule",
     "wof:parent_id":421201111,
     "wof:placetype":"localadmin",

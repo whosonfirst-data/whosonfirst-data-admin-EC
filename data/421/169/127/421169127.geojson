@@ -29,6 +29,9 @@
     "name:ita_x_preferred":[
         "Alaus\u00ed"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30e9\u30a6\u30b7"
+    ],
     "name:lit_x_preferred":[
         "Alausi"
     ],
@@ -183,7 +186,7 @@
         }
     ],
     "wof:id":421169127,
-    "wof:lastmodified":1561792426,
+    "wof:lastmodified":1563584656,
     "wof:name":"Alaus\u00ed",
     "wof:parent_id":421196577,
     "wof:placetype":"locality",

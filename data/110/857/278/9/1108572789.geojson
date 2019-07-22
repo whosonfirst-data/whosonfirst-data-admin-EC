@@ -32,8 +32,14 @@
     "mps:longitude":-78.852009,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Cant\u00f3n Sigsig"
+    ],
     "name:eng_x_preferred":[
         "Sigsig"
+    ],
+    "name:eng_x_variant":[
+        "Sigsig Canton"
     ],
     "name:fra_x_preferred":[
         "S\u00edgsig"
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":1108572789,
-    "wof:lastmodified":1561792408,
+    "wof:lastmodified":1563584354,
     "wof:name":"Sigsig",
     "wof:parent_id":85670885,
     "wof:placetype":"county",

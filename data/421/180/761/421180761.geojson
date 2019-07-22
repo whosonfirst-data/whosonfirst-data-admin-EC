@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Santa Elena"
+    ],
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u062a\u0627 \u0625\u064a\u0644\u064a\u0646\u0627"
     ],
@@ -130,6 +133,9 @@
     "name:tha_x_preferred":[
         "\u0e0b\u0e32\u0e19\u0e15\u0e32 \u0e40\u0e2d\u0e40\u0e25\u0e19\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e0b\u0e32\u0e19\u0e15\u0e32\u0e40\u0e2d\u0e40\u0e25\u0e19\u0e32"
+    ],
     "name:tur_x_preferred":[
         "Santa Elena"
     ],
@@ -138,6 +144,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0646\u062a\u0627 \u0627\u0644\u06cc\u0646\u0627\u060c \u0627\u06cc\u06a9\u0648\u0627\u0688\u0648\u0631"
+    ],
+    "name:urd_x_variant":[
+        "\u0633\u0627\u0646\u062a\u0627 \u0627\u0644\u06cc\u0646\u0627"
     ],
     "name:vie_x_preferred":[
         "Santa Elena"
@@ -196,7 +205,7 @@
         }
     ],
     "wof:id":421180761,
-    "wof:lastmodified":1561792428,
+    "wof:lastmodified":1563584684,
     "wof:name":"Santa Elena",
     "wof:parent_id":1108572401,
     "wof:placetype":"locality",
