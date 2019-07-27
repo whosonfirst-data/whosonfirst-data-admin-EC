@@ -27,6 +27,18 @@
     "iso:country":"EC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Costa Azul"
+    ],
+    "name:deu_x_preferred":[
+        "Costa Azul"
+    ],
+    "name:nor_x_preferred":[
+        "Costa Azul"
+    ],
+    "name:spa_x_preferred":[
+        "Costa Azul"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1277032885,
-    "wof:lastmodified":1536835036,
+    "wof:lastmodified":1564204137,
     "wof:name":"Costa Azul",
     "wof:parent_id":1108572985,
     "wof:placetype":"locality",

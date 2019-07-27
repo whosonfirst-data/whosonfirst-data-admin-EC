@@ -19,6 +19,9 @@
     "name:pol_x_preferred":[
         "Canoa"
     ],
+    "name:zho_x_preferred":[
+        "\u5361\u8bfa\u963f"
+    ],
     "qs:gn_country":"EC",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3659801,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":421172283,
-    "wof:lastmodified":1527716305,
+    "wof:lastmodified":1564204793,
     "wof:name":"Canoa",
     "wof:parent_id":1108572865,
     "wof:placetype":"locality",

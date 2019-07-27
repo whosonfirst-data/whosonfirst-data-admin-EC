@@ -27,6 +27,15 @@
     "iso:country":"EC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Llacao"
+    ],
+    "name:que_x_preferred":[
+        "Llakaw kitilli"
+    ],
+    "name:swe_x_preferred":[
+        "Llacao"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1360097789,
-    "wof:lastmodified":1536927975,
+    "wof:lastmodified":1564204651,
     "wof:name":"Llacao",
     "wof:parent_id":421185495,
     "wof:placetype":"locality",

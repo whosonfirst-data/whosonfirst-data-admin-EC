@@ -27,6 +27,30 @@
     "iso:country":"EC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Las Cruces"
+    ],
+    "name:bre_x_preferred":[
+        "Cruces"
+    ],
+    "name:ceb_x_preferred":[
+        "Las Cruces"
+    ],
+    "name:fra_x_preferred":[
+        "Las Cruces"
+    ],
+    "name:ita_x_preferred":[
+        "Las Cruces"
+    ],
+    "name:sco_x_preferred":[
+        "Las Cruces"
+    ],
+    "name:spa_x_preferred":[
+        "Cruces"
+    ],
+    "name:swe_x_preferred":[
+        "Las Cruces"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +74,7 @@
         }
     ],
     "wof:id":1343645337,
-    "wof:lastmodified":1536976340,
+    "wof:lastmodified":1564203659,
     "wof:name":"Las Cruces",
     "wof:parent_id":1108570955,
     "wof:placetype":"locality",

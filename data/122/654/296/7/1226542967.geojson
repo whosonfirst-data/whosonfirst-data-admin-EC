@@ -27,6 +27,15 @@
     "iso:country":"EC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chulo"
+    ],
+    "name:spa_x_preferred":[
+        "Chulo"
+    ],
+    "name:swe_x_preferred":[
+        "Chulo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1226542967,
-    "wof:lastmodified":1537001263,
+    "wof:lastmodified":1564205303,
     "wof:name":"Chulo",
     "wof:parent_id":421185495,
     "wof:placetype":"locality",

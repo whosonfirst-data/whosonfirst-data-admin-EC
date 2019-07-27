@@ -27,6 +27,24 @@
     "iso:country":"EC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pasa"
+    ],
+    "name:ita_x_preferred":[
+        "Pasa"
+    ],
+    "name:jav_x_preferred":[
+        "Pasa"
+    ],
+    "name:spa_x_preferred":[
+        "Pasa"
+    ],
+    "name:srp_x_preferred":[
+        "Pasa"
+    ],
+    "name:swe_x_preferred":[
+        "Pasa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1344020537,
-    "wof:lastmodified":1536934153,
+    "wof:lastmodified":1564203773,
     "wof:name":"Pasa",
     "wof:parent_id":1108567603,
     "wof:placetype":"locality",

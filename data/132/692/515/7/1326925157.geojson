@@ -27,8 +27,23 @@
     "iso:country":"EC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Rosa Zarate"
+    ],
+    "name:fra_x_preferred":[
+        "Quinind\u00e9"
+    ],
+    "name:pol_x_preferred":[
+        "Rosa Z\u00e1rate"
+    ],
+    "name:por_x_preferred":[
+        "Quinind\u00e9"
+    ],
     "name:spa_x_preferred":[
         "Quinind\u00e8"
+    ],
+    "name:spa_x_variant":[
+        "Rosa Z\u00e1rate"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +69,7 @@
         }
     ],
     "wof:id":1326925157,
-    "wof:lastmodified":1537620277,
+    "wof:lastmodified":1564203509,
     "wof:name":"Quininde",
     "wof:parent_id":1108571921,
     "wof:placetype":"locality",

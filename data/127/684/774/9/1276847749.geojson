@@ -27,6 +27,27 @@
     "iso:country":"EC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Bar\u00eds"
+    ],
+    "name:fra_x_preferred":[
+        "Baris"
+    ],
+    "name:hrv_x_preferred":[
+        "Bar\u00ed"
+    ],
+    "name:ita_x_preferred":[
+        "Motilon"
+    ],
+    "name:lit_x_preferred":[
+        "Motilonai"
+    ],
+    "name:nor_x_preferred":[
+        "Bar\u00ed"
+    ],
+    "name:spa_x_preferred":[
+        "Pueblo Motil\u00f3n-bar\u00ed"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1276847749,
-    "wof:lastmodified":1537081037,
+    "wof:lastmodified":1564204174,
     "wof:name":"Motilon",
     "wof:parent_id":421195603,
     "wof:placetype":"locality",

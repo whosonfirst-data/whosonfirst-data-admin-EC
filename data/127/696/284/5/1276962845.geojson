@@ -27,6 +27,15 @@
     "iso:country":"EC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Deseo"
+    ],
+    "name:pol_x_preferred":[
+        "Deseo"
+    ],
+    "name:spa_x_preferred":[
+        "Deseo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1276962845,
-    "wof:lastmodified":1536930875,
+    "wof:lastmodified":1564204196,
     "wof:name":"Deseo",
     "wof:parent_id":1108573139,
     "wof:placetype":"locality",

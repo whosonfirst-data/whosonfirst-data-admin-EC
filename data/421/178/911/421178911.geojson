@@ -13,7 +13,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Guayas"
+    ],
     "name:deu_x_preferred":[
+        "Guayas"
+    ],
+    "name:epo_x_preferred":[
         "Guayas"
     ],
     "name:fra_x_preferred":[
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":421178911,
-    "wof:lastmodified":1527717728,
+    "wof:lastmodified":1564204822,
     "wof:name":"Guayas",
     "wof:parent_id":1108569095,
     "wof:placetype":"locality",

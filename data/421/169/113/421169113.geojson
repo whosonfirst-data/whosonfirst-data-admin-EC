@@ -14,6 +14,18 @@
     "mz:is_current":-1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Jipijapa"
+    ],
+    "name:ita_x_preferred":[
+        "Jipijapa"
+    ],
+    "name:spa_x_preferred":[
+        "Jipijapa"
+    ],
+    "name:swe_x_preferred":[
+        "Jipijapa"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Ecuador",
     "ne:ADM0_A3":"ECU",
@@ -155,7 +167,7 @@
         }
     ],
     "wof:id":421169113,
-    "wof:lastmodified":1505340594,
+    "wof:lastmodified":1564204770,
     "wof:name":"Jipijapa",
     "wof:parent_id":1108569923,
     "wof:placetype":"localadmin",

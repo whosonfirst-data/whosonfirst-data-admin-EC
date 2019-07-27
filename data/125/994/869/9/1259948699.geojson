@@ -27,6 +27,24 @@
     "iso:country":"EC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Cariamanga"
+    ],
+    "name:pol_x_preferred":[
+        "Cariamanga"
+    ],
+    "name:que_x_preferred":[
+        "Cariamanga"
+    ],
+    "name:spa_x_preferred":[
+        "Cariamanga"
+    ],
+    "name:swe_x_preferred":[
+        "Cariamanga"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u91cc\u4e9e\u66fc\u52a0"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1259948699,
-    "wof:lastmodified":1536685331,
+    "wof:lastmodified":1564205095,
     "wof:name":"Cariamanga",
     "wof:parent_id":421177637,
     "wof:placetype":"locality",

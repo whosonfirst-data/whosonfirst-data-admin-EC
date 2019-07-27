@@ -25,6 +25,12 @@
     "iso:country":"EC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "\u0417\u0430\u043c\u0431\u0440\u0430\u043d\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043c\u0431\u0440\u0430\u043d\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1276534635,
-    "wof:lastmodified":1537005516,
+    "wof:lastmodified":1564204202,
     "wof:name":"Zambrano",
     "wof:parent_id":1108567949,
     "wof:placetype":"locality",

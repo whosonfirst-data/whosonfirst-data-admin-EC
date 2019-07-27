@@ -27,6 +27,15 @@
     "iso:country":"EC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chapar"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u067e\u0631"
+    ],
+    "name:swe_x_preferred":[
+        "Chapar"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1243175411,
-    "wof:lastmodified":1536699583,
+    "wof:lastmodified":1564205000,
     "wof:name":"Chapar",
     "wof:parent_id":421185495,
     "wof:placetype":"locality",

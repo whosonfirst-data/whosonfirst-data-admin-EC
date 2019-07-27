@@ -27,6 +27,33 @@
     "iso:country":"EC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pululagua"
+    ],
+    "name:ces_x_preferred":[
+        "Pululagua"
+    ],
+    "name:deu_x_preferred":[
+        "Pululahua"
+    ],
+    "name:fra_x_preferred":[
+        "Pululahua"
+    ],
+    "name:lit_x_preferred":[
+        "Pululagva"
+    ],
+    "name:que_x_preferred":[
+        "Pululawa"
+    ],
+    "name:slk_x_preferred":[
+        "Pululagua"
+    ],
+    "name:swe_x_preferred":[
+        "Pululagua"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u76e7\u62c9\u74e6\u706b\u5c71"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +77,7 @@
         }
     ],
     "wof:id":1226713327,
-    "wof:lastmodified":1536762728,
+    "wof:lastmodified":1564205255,
     "wof:name":"Pululahua",
     "wof:parent_id":421188131,
     "wof:placetype":"locality",

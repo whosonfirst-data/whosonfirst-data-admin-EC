@@ -27,6 +27,432 @@
     "iso:country":"EC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:abk_x_preferred":[
+        "\u041a\u0435\u043d\u043d\u0435\u0434\u0438"
+    ],
+    "name:afr_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:als_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:amh_x_preferred":[
+        "\u1306\u1295 \u12a4\u134d \u12ac\u1294\u12f2"
+    ],
+    "name:ang_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:ara_x_preferred":[
+        "\u062c\u0648\u0646 \u0643\u064a\u0646\u064a\u062f\u064a"
+    ],
+    "name:arg_x_preferred":[
+        "John Fitzgerald Kennedy"
+    ],
+    "name:arz_x_preferred":[
+        "\u062c\u0648\u0646 \u0643\u064a\u0646\u064a\u062f\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:aym_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:azb_x_preferred":[
+        "\u062c\u0627\u0646 \u0627\u0641. \u06a9\u0646\u062f\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "Con Kennedi"
+    ],
+    "name:bar_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:bcl_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:bel_x_preferred":[
+        "\u0414\u0436\u043e\u043d \u0424\u0456\u0446\u0434\u0436\u044d\u0440\u0430\u043b\u044c\u0434 \u041a\u0435\u043d\u044d\u0434\u0437\u0456"
+    ],
+    "name:ben_x_preferred":[
+        "\u099c\u09a8 \u09ab\u09bf\u099f\u09cd\u200c\u099c\u09c7\u09b0\u09be\u09b2\u09cd\u09a1 \u0995\u09c7\u09a8\u09c7\u09a1\u09bf"
+    ],
+    "name:bis_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:bos_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:bpy_x_preferred":[
+        "\u09aa\u09cd\u09b0\u09c7\u09b8\u09bf\u09a1\u09c7\u09a8\u09cd\u099f\u09c7 \u0995\u09c7\u09a8\u09cd\u09a8\u09c7\u09a1\u09cd\u09af"
+    ],
+    "name:bre_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u0436\u043e\u043d \u041a\u0435\u043d\u0435\u0434\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "John Fitzgerald Kennedy"
+    ],
+    "name:cdo_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:ceb_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:ces_x_preferred":[
+        "John Fitzgerald Kennedy"
+    ],
+    "name:chv_x_preferred":[
+        "\u041a\u0435\u043d\u043d\u0435\u0434\u0438 \u0414\u0436\u043e\u043d \u0424\u0438\u0446\u0434\u0436\u0435\u0440\u0430\u043b\u044c\u0434"
+    ],
+    "name:ckb_x_preferred":[
+        "\u062c\u0627\u0646 \u0626\u06ce\u0641. \u06a9\u06ce\u0646\u06cc\u062f\u06cc"
+    ],
+    "name:cor_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:cos_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:cym_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:dan_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:deu_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:diq_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:div_x_preferred":[
+        "\u0796\u07af\u0782\u07b0 \u078a\u07a8\u0793\u07b0\u0792\u07ac\u078e\u07ac\u0783\u07a6\u078d\u07b0\u0791\u07b0 \u0786\u07ac\u0782\u07ac\u0791\u07a9"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b6\u03bf\u03bd \u03a6\u03b9\u03c4\u03b6\u03ad\u03c1\u03b1\u03bb\u03bd\u03c4 \u039a\u03ad\u03bd\u03bd\u03b5\u03bd\u03c4\u03c5"
+    ],
+    "name:eml_x_preferred":[
+        "John Fitzgerald Kennedy"
+    ],
+    "name:epo_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:est_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:eus_x_preferred":[
+        "John Fitzgerald Kennedy"
+    ],
+    "name:fao_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0627\u0646 \u0627\u0641. \u06a9\u0646\u062f\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:fra_x_preferred":[
+        "John Fitzgerald Kennedy"
+    ],
+    "name:frp_x_preferred":[
+        "John Fitzgerald Kennedy"
+    ],
+    "name:fry_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:gla_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:gle_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:glg_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:glv_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:gom_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:grn_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:hak_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:hat_x_preferred":[
+        "John Fitzgerald Kennedy"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2'\u05d5\u05df \u05e4\u05d9\u05e6\u05d2'\u05e8\u05dc\u05d3 \u05e7\u05e0\u05d3\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u091c\u0949\u0928 \u090f\u092b\u0970 \u0915\u0947\u0928\u0947\u0921\u0940"
+    ],
+    "name:hrv_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:hun_x_preferred":[
+        "John Fitzgerald Kennedy"
+    ],
+    "name:hye_x_preferred":[
+        "\u054b\u0578\u0576 \u0556. \u0554\u0565\u0576\u0565\u0564\u056b"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0543\u0578\u0576 \u0554\u0565\u0576\u0565\u057f\u056b"
+    ],
+    "name:ido_x_preferred":[
+        "John Fitzgerald Kennedy"
+    ],
+    "name:ile_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:ilo_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:ina_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:ind_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:isl_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:ita_x_preferred":[
+        "John Fitzgerald Kennedy"
+    ],
+    "name:jav_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c9c\u0cbe\u0ca8\u0ccd \u0c8e\u0cab\u0ccd.\u0c95\u0cc6\u0ca8\u0cc6\u0ca1\u0cbf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ef\u10dd\u10dc \u10e4\u10d8\u10ea\u10ef\u10d4\u10e0\u10d0\u10da\u10d3 \u10d9\u10d4\u10dc\u10d4\u10d3\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u0436\u043e\u043d \u0424\u0438\u0446\u0434\u0436\u0435\u0440\u0430\u043b\u044c\u0434 \u041a\u0435\u043d\u043d\u0435\u0434\u0438"
+    ],
+    "name:khm_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:kin_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:kir_x_preferred":[
+        "\u0416\u043e\u043d \u0424\u0438\u0446\u0436\u0435\u0440\u0430\u043b\u0434 \u041a\u0435\u043d\u043d\u0435\u0434\u0438"
+    ],
+    "name:ksh_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:kur_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:lat_x_preferred":[
+        "Ioannes F. Kennedy"
+    ],
+    "name:lav_x_preferred":[
+        "D\u017eons Kenedijs"
+    ],
+    "name:lfn_x_preferred":[
+        "John Fitzgerald Kennedy"
+    ],
+    "name:lin_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:lit_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:lmo_x_preferred":[
+        "John Kennedy"
+    ],
+    "name:ltz_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d1c\u0d4b\u0d7a \u0d0e\u0d2b\u0d4d. \u0d15\u0d46\u0d28\u0d4d\u0d28\u0d21\u0d3f"
+    ],
+    "name:mar_x_preferred":[
+        "\u091c\u0949\u0928 \u090f\u092b. \u0915\u0947\u0928\u0947\u0921\u0940"
+    ],
+    "name:mkd_x_preferred":[
+        "\u040f\u043e\u043d \u0424. \u041a\u0435\u043d\u0435\u0434\u0438"
+    ],
+    "name:mlg_x_preferred":[
+        "John Fitzgerald Kennedy"
+    ],
+    "name:mon_x_preferred":[
+        "\u0416\u043e\u043d \u0424\u0438\u0446\u0436\u0435\u0440\u0430\u043b\u044c\u0434 \u041a\u0435\u043d\u043d\u0435\u0434\u0438"
+    ],
+    "name:mrj_x_preferred":[
+        "\u041a\u0435\u043d\u043d\u0435\u0434\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:mya_x_preferred":[
+        "\u1002\u103b\u103d\u1014\u103a \u1021\u1000\u103a\u1016\u103a \u1000\u1014\u1031\u1012\u102e"
+    ],
+    "name:mzn_x_preferred":[
+        "\u062c\u0627\u0646 \u0627\u0641. \u06a9\u0646\u062f\u06cc"
+    ],
+    "name:nds_x_preferred":[
+        "John Fitzgerald Kennedy"
+    ],
+    "name:nep_x_preferred":[
+        "\u091c\u094b\u0928 \u090f\u092b \u0915\u0947\u0928\u0947\u0921\u0940"
+    ],
+    "name:nld_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:nno_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:nor_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:oci_x_preferred":[
+        "John Fitzgerald Kennedy"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b1c\u0b28\u0b4d \u0b0f\u0b2b\u0b4d. \u0b15\u0b47\u0b28\u0b47\u0b21\u0b3c\u0b3f"
+    ],
+    "name:pam_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a1c\u0a47.\u0a10\u0a2b\u0a3c \u0a15\u0a48\u0a28\u0a47\u0a21\u0a40"
+    ],
+    "name:pms_x_preferred":[
+        "John Fitzgerald Kennedy"
+    ],
+    "name:pnb_x_preferred":[
+        "\u062c\u0627\u0646 \u0627\u06cc\u0641 \u06a9\u06cc\u0646\u06cc\u0688\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:por_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:que_x_preferred":[
+        "John Kennedy"
+    ],
+    "name:roh_x_preferred":[
+        "John Fitzgerald Kennedy"
+    ],
+    "name:ron_x_preferred":[
+        "John Fitzgerald Kennedy"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u043d\u043d\u0435\u0434\u0438"
+    ],
+    "name:sah_x_preferred":[
+        "\u0414\u0436\u043e\u043d \u041a\u0435\u043d\u043d\u0435\u0434\u0438"
+    ],
+    "name:scn_x_preferred":[
+        "John Fitzgerald Kennedy"
+    ],
+    "name:sco_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:sin_x_preferred":[
+        "\u0da2\u0ddd\u0db1\u0dca \u0d91\u0dc6\u0dca. \u0d9a\u0dd9\u0db1\u0da9\u0dd2"
+    ],
+    "name:slk_x_preferred":[
+        "John Fitzgerald Kennedy"
+    ],
+    "name:slv_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:snd_x_preferred":[
+        "\u062c\u0627\u0646 \u0627\u064a\u0641 \u06aa\u064a\u0646\u064a\u068a\u064a"
+    ],
+    "name:spa_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:sqi_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:srp_x_preferred":[
+        "\u040f\u043e\u043d \u041a\u0435\u043d\u0435\u0434\u0438"
+    ],
+    "name:stq_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:swa_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:swe_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9c\u0bbe\u0ba9\u0bcd \u0b8e\u0b83\u0baa\u0bcd. \u0b95\u0bc6\u0ba9\u0bcd\u0ba9\u0b9f\u0bbf"
+    ],
+    "name:tat_x_preferred":[
+        "\u0414\u0436\u043e\u043d \u041a\u0435\u043d\u043d\u0435\u0434\u0438"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1c\u0c3e\u0c28\u0c4d \u0c0e\u0c2b\u0c4d \u0c15\u0c46\u0c28\u0c21\u0c3f"
+    ],
+    "name:tgk_x_preferred":[
+        "\u04b6\u043e\u043d \u041a\u0435\u043d\u043d\u0435\u0434\u0438"
+    ],
+    "name:tgl_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e08\u0e2d\u0e2b\u0e4c\u0e19 \u0e40\u0e2d\u0e1f. \u0e40\u0e04\u0e19\u0e40\u0e19\u0e14\u0e35"
+    ],
+    "name:tuk_x_preferred":[
+        "Jon F. Kennedi"
+    ],
+    "name:tur_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:uig_x_preferred":[
+        "\u0643\u06d0\u0646\u0646\u06d0\u062f\u0649"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0436\u043e\u043d \u0424\u0456\u0442\u0446\u0434\u0436\u0435\u0440\u0430\u043b\u044c\u0434 \u041a\u0435\u043d\u043d\u0435\u0434\u0456"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0627\u0646 \u0627\u06cc\u0641 \u06a9\u06cc\u0646\u06cc\u0688\u06cc"
+    ],
+    "name:uzb_x_preferred":[
+        "John Kennedy"
+    ],
+    "name:vie_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:war_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:wuu_x_preferred":[
+        "\u7ea6\u7ff0\u00b7\u80af\u5c3c\u8fea"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10ef\u10dd\u10dc \u10e4\u10d8\u10ea\u10ef\u10d4\u10e0\u10d0\u10da\u10d3 \u10d9\u10d4\u10dc\u10d4\u10d3\u10d8"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d3\u05d6\u05e9\u05d0\u05df \u05e2\u05e3. \u05e7\u05e2\u05e0\u05e2\u05d3\u05d9"
+    ],
+    "name:yor_x_preferred":[
+        "John Fitzgerald Kennedy"
+    ],
+    "name:zea_x_preferred":[
+        "John F. Kennedy"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ea6\u7ff0\u00b7\u80af\u5c3c\u8fea"
+    ],
+    "name:zul_x_preferred":[
+        "John F. Kennedy"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632261
@@ -36,7 +462,7 @@
         "gn:id":8542953
     },
     "wof:country":"EC",
-    "wof:geomhash":"4c6d062aab320f3ea63e6874fc3cb446",
+    "wof:geomhash":"8daf00c741d9bf51c79f17300b3c25c8",
     "wof:hierarchy":[
         {
             "country_id":85632261,
@@ -44,7 +470,7 @@
         }
     ],
     "wof:id":1209478269,
-    "wof:lastmodified":1536285866,
+    "wof:lastmodified":1564204284,
     "wof:name":"John F. Kennedy",
     "wof:parent_id":85632261,
     "wof:placetype":"locality",
@@ -55,9 +481,9 @@
 },
   "bbox": [
     -78.46988,
-    -0.06692000000000001,
+    -0.06692,
     -78.46988,
-    -0.06692000000000001
+    -0.06692
 ],
   "geometry": {"coordinates":[-78.46988,-0.06692],"type":"Point"}
 }

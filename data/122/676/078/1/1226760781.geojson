@@ -25,6 +25,102 @@
     "iso:country":"EC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u062a\u0634\u0627\u0645\u0627\u0645\u0627"
+    ],
+    "name:bar_x_preferred":[
+        "Pachamama"
+    ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09be\u099a\u09be\u09ae\u09be\u09ae\u09be"
+    ],
+    "name:cat_x_preferred":[
+        "Pacha Mama"
+    ],
+    "name:ces_x_preferred":[
+        "Pa\u010damama"
+    ],
+    "name:dan_x_preferred":[
+        "Pachamama"
+    ],
+    "name:deu_x_preferred":[
+        "Pachamama"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03ac\u03bc\u03b1 \u03a0\u03ac\u03c4\u03c3\u03b1"
+    ],
+    "name:epo_x_preferred":[
+        "Pa\u0109amama"
+    ],
+    "name:eus_x_preferred":[
+        "Pachamama"
+    ],
+    "name:fin_x_preferred":[
+        "Pachamama"
+    ],
+    "name:fra_x_preferred":[
+        "Pachamama"
+    ],
+    "name:glg_x_preferred":[
+        "Pachamama"
+    ],
+    "name:hrv_x_preferred":[
+        "Pachamama"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0561\u0579\u0561\u0574\u0561\u0574\u0561"
+    ],
+    "name:ita_x_preferred":[
+        "Pachamama"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30c1\u30e3\u30de\u30de"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d0\u10e9\u10d0\u10db\u10d0\u10db\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\ud30c\ucc28\ub9c8\ub9c8"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u0430\u043c\u0430 \u041f\u0430\u0447\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Pachamama"
+    ],
+    "name:oci_x_preferred":[
+        "Pachamama"
+    ],
+    "name:pol_x_preferred":[
+        "Pachamama"
+    ],
+    "name:por_x_preferred":[
+        "Pacha Mama"
+    ],
+    "name:que_x_preferred":[
+        "Pachamama"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0447\u0430\u043c\u0430\u043c\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Pachamama"
+    ],
+    "name:slv_x_preferred":[
+        "Pachamama"
+    ],
+    "name:spa_x_preferred":[
+        "Pachamama"
+    ],
+    "name:swe_x_preferred":[
+        "Pachamama"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0447\u0430\u043c\u0430\u043c\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u67e5\u739b\u739b"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +144,7 @@
         }
     ],
     "wof:id":1226760781,
-    "wof:lastmodified":1536694056,
+    "wof:lastmodified":1564205250,
     "wof:name":"Pachamama",
     "wof:parent_id":1108568939,
     "wof:placetype":"locality",

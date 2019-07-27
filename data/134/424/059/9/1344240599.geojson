@@ -27,6 +27,36 @@
     "iso:country":"EC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041d\u0435\u0440\u0435\u0434\u0441\u043a\u0430 \u043f\u043b\u0430\u043d\u0438\u043d\u0430"
+    ],
+    "name:ces_x_preferred":[
+        "Verno"
+    ],
+    "name:deu_x_preferred":[
+        "Verno"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03ad\u03c1\u03bd\u03bf"
+    ],
+    "name:fin_x_preferred":[
+        "V\u00e9rno"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041d\u0435\u0440\u0435\u0434\u0441\u043a\u0430 \u041f\u043b\u0430\u043d\u0438\u043d\u0430"
+    ],
+    "name:nno_x_preferred":[
+        "V\u00e9rno"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u0446\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Verno"
+    ],
+    "name:tur_x_preferred":[
+        "Verno Da\u011flar\u0131"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +80,7 @@
         }
     ],
     "wof:id":1344240599,
-    "wof:lastmodified":1536613258,
+    "wof:lastmodified":1564203681,
     "wof:name":"Verno",
     "wof:parent_id":1108567949,
     "wof:placetype":"locality",

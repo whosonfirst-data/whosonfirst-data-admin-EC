@@ -28,6 +28,54 @@
     "iso:country":"EC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Felton"
+    ],
+    "name:deu_x_preferred":[
+        "Felton"
+    ],
+    "name:fra_x_preferred":[
+        "Felton"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05dc\u05d8\u05d5\u05df"
+    ],
+    "name:ido_x_preferred":[
+        "Felton"
+    ],
+    "name:ita_x_preferred":[
+        "Felton"
+    ],
+    "name:lit_x_preferred":[
+        "Felton"
+    ],
+    "name:nld_x_preferred":[
+        "Felton"
+    ],
+    "name:pol_x_preferred":[
+        "Felton"
+    ],
+    "name:por_x_preferred":[
+        "Felton"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0435\u043b\u0442\u043e\u043d"
+    ],
+    "name:srp_x_preferred":[
+        "\u0424\u0435\u043b\u0442\u043e\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Felton"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0435\u043b\u0442\u043e\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u06cc\u0644\u0679\u0646"
+    ],
+    "name:vol_x_preferred":[
+        "Felton"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632261
@@ -45,7 +93,7 @@
         }
     ],
     "wof:id":1209391147,
-    "wof:lastmodified":1536288456,
+    "wof:lastmodified":1564204237,
     "wof:name":"Felton",
     "wof:parent_id":85632261,
     "wof:placetype":"locality",

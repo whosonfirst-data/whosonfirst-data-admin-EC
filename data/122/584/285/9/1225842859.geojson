@@ -27,6 +27,15 @@
     "iso:country":"EC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Cani"
+    ],
+    "name:ita_x_preferred":[
+        "Cani"
+    ],
+    "name:spa_x_preferred":[
+        "Cani"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1225842859,
-    "wof:lastmodified":1537017162,
+    "wof:lastmodified":1564205315,
     "wof:name":"Cani",
     "wof:parent_id":421194443,
     "wof:placetype":"locality",

@@ -27,6 +27,18 @@
     "iso:country":"EC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "La Selva"
+    ],
+    "name:deu_x_preferred":[
+        "La Selva"
+    ],
+    "name:srp_x_preferred":[
+        "La Selva"
+    ],
+    "name:swe_x_preferred":[
+        "La Selva"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1259773187,
-    "wof:lastmodified":1536938742,
+    "wof:lastmodified":1564205042,
     "wof:name":"La Selva",
     "wof:parent_id":421169435,
     "wof:placetype":"locality",

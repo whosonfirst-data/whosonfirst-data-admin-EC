@@ -13,6 +13,18 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Celica"
+    ],
+    "name:pol_x_preferred":[
+        "Celica"
+    ],
+    "name:slv_x_preferred":[
+        "Celica"
+    ],
+    "name:swe_x_preferred":[
+        "Celica"
+    ],
     "qs:gn_country":"EC",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3659544,
@@ -62,7 +74,7 @@
         }
     ],
     "wof:id":421167781,
-    "wof:lastmodified":1505340587,
+    "wof:lastmodified":1564204768,
     "wof:name":"Celica",
     "wof:parent_id":421195603,
     "wof:placetype":"localadmin",

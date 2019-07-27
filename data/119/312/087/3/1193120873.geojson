@@ -27,6 +27,21 @@
     "iso:country":"EC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mariquita"
+    ],
+    "name:nld_x_preferred":[
+        "Mariquita"
+    ],
+    "name:por_x_preferred":[
+        "Mariquita"
+    ],
+    "name:spa_x_preferred":[
+        "Mariquita"
+    ],
+    "name:swe_x_preferred":[
+        "Mariquita"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1193120873,
-    "wof:lastmodified":1536364386,
+    "wof:lastmodified":1564204408,
     "wof:name":"Mariquita",
     "wof:parent_id":1108573139,
     "wof:placetype":"locality",

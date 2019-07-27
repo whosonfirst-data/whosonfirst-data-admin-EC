@@ -27,6 +27,9 @@
     "iso:country":"EC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:tgk_x_preferred":[
+        "\u041b\u0435\u043e\u043d\u0430\u043d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1243172501,
-    "wof:lastmodified":1536703797,
+    "wof:lastmodified":1564205000,
     "wof:name":"Leonan",
     "wof:parent_id":421195039,
     "wof:placetype":"locality",
