@@ -27,6 +27,9 @@
     "iso:country":"EC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Jovita"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1225831399,
-    "wof:lastmodified":1537032938,
+    "wof:lastmodified":1564205317,
     "wof:name":"Jovita",
     "wof:parent_id":1108571631,
     "wof:placetype":"locality",

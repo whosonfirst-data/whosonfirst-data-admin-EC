@@ -27,6 +27,9 @@
     "iso:country":"EC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Barrial"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1327210939,
-    "wof:lastmodified":1536999942,
+    "wof:lastmodified":1564203607,
     "wof:name":"El Barrial",
     "wof:parent_id":1108571061,
     "wof:placetype":"locality",

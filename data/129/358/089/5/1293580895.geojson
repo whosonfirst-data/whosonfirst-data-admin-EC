@@ -27,6 +27,18 @@
     "iso:country":"EC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chicho"
+    ],
+    "name:deu_x_preferred":[
+        "Chicho"
+    ],
+    "name:spa_x_preferred":[
+        "Chicho"
+    ],
+    "name:swe_x_preferred":[
+        "Chicho"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1293580895,
-    "wof:lastmodified":1536652391,
+    "wof:lastmodified":1564203934,
     "wof:name":"Chicho",
     "wof:parent_id":421185497,
     "wof:placetype":"locality",

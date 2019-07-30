@@ -25,6 +25,21 @@
     "iso:country":"EC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Majagua"
+    ],
+    "name:fra_x_preferred":[
+        "Majagua"
+    ],
+    "name:pol_x_preferred":[
+        "Majagua"
+    ],
+    "name:spa_x_preferred":[
+        "Majagua"
+    ],
+    "name:swe_x_preferred":[
+        "Majagua"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1293184573,
-    "wof:lastmodified":1536727216,
+    "wof:lastmodified":1564203972,
     "wof:name":"Majagua",
     "wof:parent_id":1108571403,
     "wof:placetype":"locality",

@@ -27,6 +27,15 @@
     "iso:country":"EC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u540c\u76df"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0447\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u0447\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1343258639,
-    "wof:lastmodified":1537035978,
+    "wof:lastmodified":1564203731,
     "wof:name":"Viche",
     "wof:parent_id":1108571921,
     "wof:placetype":"locality",

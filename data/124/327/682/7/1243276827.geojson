@@ -28,6 +28,12 @@
     "iso:country":"EC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Remigio Crespo Toral"
+    ],
+    "name:spa_x_preferred":[
+        "Remigio Crespo Toral"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1243276827,
-    "wof:lastmodified":1537047970,
+    "wof:lastmodified":1564204995,
     "wof:name":"Remigio Crespo Toral",
     "wof:parent_id":1108569603,
     "wof:placetype":"locality",

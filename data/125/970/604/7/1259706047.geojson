@@ -27,6 +27,9 @@
     "iso:country":"EC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:slk_x_preferred":[
+        "Mat\u00fa\u0161"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1259706047,
-    "wof:lastmodified":1537033188,
+    "wof:lastmodified":1564205045,
     "wof:name":"Matus",
     "wof:parent_id":421184411,
     "wof:placetype":"locality",

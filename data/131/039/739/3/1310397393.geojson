@@ -27,6 +27,9 @@
     "iso:country":"EC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5229\u4e9e\u99ac\u74e6\u897f\u5c71"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1310397393,
-    "wof:lastmodified":1537069943,
+    "wof:lastmodified":1564204559,
     "wof:name":"Llamahuasi",
     "wof:parent_id":421184855,
     "wof:placetype":"locality",

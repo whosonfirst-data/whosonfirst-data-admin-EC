@@ -13,6 +13,36 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0647\u0648\u0627\u0643\u0648\u064a\u064a\u0627\u0633"
+    ],
+    "name:ceb_x_preferred":[
+        "Huaquillas"
+    ],
+    "name:fra_x_preferred":[
+        "Huaquillas"
+    ],
+    "name:lit_x_preferred":[
+        "Huakiljasas"
+    ],
+    "name:pol_x_preferred":[
+        "Huaquillas"
+    ],
+    "name:por_x_preferred":[
+        "Huaquillas"
+    ],
+    "name:que_x_preferred":[
+        "Wakilla llaqta"
+    ],
+    "name:ron_x_preferred":[
+        "Huaquillas"
+    ],
+    "name:spa_x_preferred":[
+        "Huaquillas"
+    ],
+    "name:swe_x_preferred":[
+        "Huaquillas"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -60,7 +90,7 @@
         }
     ],
     "wof:id":421184631,
-    "wof:lastmodified":1497047942,
+    "wof:lastmodified":1564204814,
     "wof:name":"Huaquillas",
     "wof:parent_id":1108569819,
     "wof:placetype":"localadmin",

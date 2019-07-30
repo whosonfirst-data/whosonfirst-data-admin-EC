@@ -13,6 +13,21 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Naranjal"
+    ],
+    "name:deu_x_preferred":[
+        "Naranjal"
+    ],
+    "name:pol_x_preferred":[
+        "Naranjal"
+    ],
+    "name:spa_x_preferred":[
+        "Naranjal"
+    ],
+    "name:swe_x_preferred":[
+        "Naranjal"
+    ],
     "qs:gn_country":"EC",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3653882,
@@ -62,7 +77,7 @@
         }
     ],
     "wof:id":421183825,
-    "wof:lastmodified":1505340687,
+    "wof:lastmodified":1564204821,
     "wof:name":"Naranjal",
     "wof:parent_id":421171755,
     "wof:placetype":"localadmin",

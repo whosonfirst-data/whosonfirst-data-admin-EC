@@ -27,6 +27,9 @@
     "iso:country":"EC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u09ac\u09be\u09a8\u09cb\u09b8 \u09a6\u09c7 \u0986\u0997\u09c1\u09af\u09bc\u09be \u09b8\u09be\u09a8\u09cd\u09a4\u09be"
+    ],
     "name:spa_x_preferred":[
         "Ba\u00f1os de Agua Santa"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1243338735,
-    "wof:lastmodified":1537562467,
+    "wof:lastmodified":1564204955,
     "wof:name":"Banos de Agua Santa",
     "wof:parent_id":1108567995,
     "wof:placetype":"locality",

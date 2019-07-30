@@ -13,6 +13,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Palora"
+    ],
+    "name:que_x_preferred":[
+        "Palura"
+    ],
+    "name:swe_x_preferred":[
+        "Palora"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":421183471,
-    "wof:lastmodified":1500036616,
+    "wof:lastmodified":1564204820,
     "wof:name":"Palora",
     "wof:parent_id":421201631,
     "wof:placetype":"localadmin",

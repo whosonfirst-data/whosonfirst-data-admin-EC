@@ -27,6 +27,9 @@
     "iso:country":"EC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:que_x_preferred":[
+        "Chawarpampa kiti"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1260377905,
-    "wof:lastmodified":1537079342,
+    "wof:lastmodified":1564204465,
     "wof:name":"Chaguarpamba",
     "wof:parent_id":1108568481,
     "wof:placetype":"locality",

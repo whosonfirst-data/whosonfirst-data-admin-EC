@@ -27,6 +27,24 @@
     "iso:country":"EC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Violeta"
+    ],
+    "name:ceb_x_preferred":[
+        "Violeta"
+    ],
+    "name:glg_x_preferred":[
+        "Violeta"
+    ],
+    "name:por_x_preferred":[
+        "Violeta"
+    ],
+    "name:spa_x_preferred":[
+        "Violeta"
+    ],
+    "name:swe_x_preferred":[
+        "Violeta"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1293672937,
-    "wof:lastmodified":1537016255,
+    "wof:lastmodified":1564203938,
     "wof:name":"Violeta",
     "wof:parent_id":1108568689,
     "wof:placetype":"locality",

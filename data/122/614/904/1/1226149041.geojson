@@ -27,6 +27,9 @@
     "iso:country":"EC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Chavay"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1226149041,
-    "wof:lastmodified":1537069868,
+    "wof:lastmodified":1564205241,
     "wof:name":"Chavay",
     "wof:parent_id":421195039,
     "wof:placetype":"locality",

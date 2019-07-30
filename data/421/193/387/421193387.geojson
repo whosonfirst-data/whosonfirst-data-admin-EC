@@ -13,6 +13,123 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0631\u064a\u0648\u0628\u0627\u0645\u0628\u0627"
+    ],
+    "name:cat_x_preferred":[
+        "Riobamba"
+    ],
+    "name:ceb_x_preferred":[
+        "Riobamba"
+    ],
+    "name:ces_x_preferred":[
+        "Riobamba"
+    ],
+    "name:dan_x_preferred":[
+        "Riobamba"
+    ],
+    "name:deu_x_preferred":[
+        "Riobamba"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03b9\u03bf\u03bc\u03c0\u03ac\u03bc\u03c0\u03b1"
+    ],
+    "name:epo_x_preferred":[
+        "Riobambo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u06cc\u0648\u0628\u0627\u0645\u0628\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Riobamba"
+    ],
+    "name:fra_x_preferred":[
+        "Riobamba"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d9\u05d5\u05d1\u05de\u05d1\u05d4"
+    ],
+    "name:hrv_x_preferred":[
+        "Riobamba"
+    ],
+    "name:hun_x_preferred":[
+        "Riobamba"
+    ],
+    "name:ita_x_preferred":[
+        "Riobamba"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30aa\u30d0\u30f3\u30d0"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10d8\u10dd\u10d1\u10d0\u10db\u10d1\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0420\u0438\u043e\u0431\u0430\u043c\u0431\u0430"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9ac\uc624\ubc24\ubc14"
+    ],
+    "name:lit_x_preferred":[
+        "Riobamba"
+    ],
+    "name:nld_x_preferred":[
+        "Riobamba"
+    ],
+    "name:nno_x_preferred":[
+        "Riobamba"
+    ],
+    "name:oci_x_preferred":[
+        "Riobamba"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0631\u06cc\u0624\u0628\u0627\u0645\u0628\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Riobamba"
+    ],
+    "name:por_x_preferred":[
+        "Riobamba"
+    ],
+    "name:que_x_preferred":[
+        "Rispampa"
+    ],
+    "name:ron_x_preferred":[
+        "Riobamba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0438\u043e\u0431\u0430\u043c\u0431\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Riobamba"
+    ],
+    "name:spa_x_preferred":[
+        "Riobamba"
+    ],
+    "name:swe_x_preferred":[
+        "Riobamba"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e23\u0e34\u0e42\u0e2d\u0e1a\u0e31\u0e21\u0e1a\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Riobamba"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0456\u043e\u0431\u0430\u043c\u0431\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u06cc\u0648\u0628\u0627\u0645\u0628\u0627"
+    ],
+    "name:vol_x_preferred":[
+        "Riobamba"
+    ],
+    "name:war_x_preferred":[
+        "Riobamba"
+    ],
+    "name:zho_x_preferred":[
+        "\u91cc\u5967\u73ed\u5df4"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -56,7 +173,7 @@
         }
     ],
     "wof:id":421193387,
-    "wof:lastmodified":1500036613,
+    "wof:lastmodified":1564204768,
     "wof:name":"Riobamba",
     "wof:parent_id":421185337,
     "wof:placetype":"localadmin",

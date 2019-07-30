@@ -13,6 +13,30 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Machachi"
+    ],
+    "name:fra_x_preferred":[
+        "Machachi"
+    ],
+    "name:pol_x_preferred":[
+        "Machachi"
+    ],
+    "name:por_x_preferred":[
+        "Machachi"
+    ],
+    "name:que_x_preferred":[
+        "Machachi"
+    ],
+    "name:spa_x_preferred":[
+        "Machachi"
+    ],
+    "name:swe_x_preferred":[
+        "Machachi"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0686\u0627\u0686\u06cc"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -60,7 +84,7 @@
         }
     ],
     "wof:id":421201639,
-    "wof:lastmodified":1497044466,
+    "wof:lastmodified":1564204810,
     "wof:name":"Machachi",
     "wof:parent_id":421175413,
     "wof:placetype":"localadmin",

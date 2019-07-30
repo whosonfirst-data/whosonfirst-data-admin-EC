@@ -13,6 +13,183 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ace_x_preferred":[
+        "\u00c8k leuntie"
+    ],
+    "name:afr_x_preferred":[
+        "Ghwano"
+    ],
+    "name:ara_x_preferred":[
+        "\u0630\u0631\u0642 \u0627\u0644\u0637\u0627\u0626\u0631"
+    ],
+    "name:aym_x_preferred":[
+        "Mataxi"
+    ],
+    "name:aze_x_preferred":[
+        "Quano"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u0443\u0430\u043d\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u0997\u09c1\u09af\u09bc\u09be\u09a8\u09cb"
+    ],
+    "name:bul_x_preferred":[
+        "\u0413\u0443\u0430\u043d\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "Guano"
+    ],
+    "name:ces_x_preferred":[
+        "Gu\u00e1no"
+    ],
+    "name:dan_x_preferred":[
+        "Guano"
+    ],
+    "name:deu_x_preferred":[
+        "Guano"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03bf\u03c5\u03b1\u03bd\u03cc"
+    ],
+    "name:epo_x_preferred":[
+        "Guano"
+    ],
+    "name:est_x_preferred":[
+        "Guaano"
+    ],
+    "name:eus_x_preferred":[
+        "Guano"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u062f \u0645\u0631\u063a\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Guano"
+    ],
+    "name:fra_x_preferred":[
+        "Guano"
+    ],
+    "name:frr_x_preferred":[
+        "Guano"
+    ],
+    "name:gle_x_preferred":[
+        "Guan\u00f3"
+    ],
+    "name:glg_x_preferred":[
+        "Guano"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d5\u05d0\u05e0\u05d5"
+    ],
+    "name:hrv_x_preferred":[
+        "Guano"
+    ],
+    "name:hun_x_preferred":[
+        "Guan\u00f3"
+    ],
+    "name:ido_x_preferred":[
+        "Guano"
+    ],
+    "name:ind_x_preferred":[
+        "Guano"
+    ],
+    "name:ita_x_preferred":[
+        "Guano"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30a2\u30ce"
+    ],
+    "name:kor_x_preferred":[
+        "\uad6c\uc544\ub178"
+    ],
+    "name:krc_x_preferred":[
+        "\u0413\u0443\u0430\u043d\u043e"
+    ],
+    "name:lat_x_preferred":[
+        "Guanum"
+    ],
+    "name:lav_x_preferred":[
+        "Gvano"
+    ],
+    "name:lit_x_preferred":[
+        "Guanas"
+    ],
+    "name:msa_x_preferred":[
+        "Guano"
+    ],
+    "name:mya_x_preferred":[
+        "\u1004\u103e\u1000\u103a\u1001\u103b\u1031\u1038\u1019\u103c\u1031\u1029\u1007\u102c"
+    ],
+    "name:nld_x_preferred":[
+        "Guano"
+    ],
+    "name:nno_x_preferred":[
+        "Guano"
+    ],
+    "name:nor_x_preferred":[
+        "Guano"
+    ],
+    "name:oci_x_preferred":[
+        "G\u00fcano"
+    ],
+    "name:pol_x_preferred":[
+        "Guano"
+    ],
+    "name:por_x_preferred":[
+        "Guano"
+    ],
+    "name:que_x_preferred":[
+        "Wanay wanu"
+    ],
+    "name:ron_x_preferred":[
+        "Guano"
+    ],
+    "name:rue_x_preferred":[
+        "\u0413\u0443\u0430\u043d\u043e"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u0430\u043d\u043e"
+    ],
+    "name:sco_x_preferred":[
+        "Guanae"
+    ],
+    "name:slk_x_preferred":[
+        "Gu\u00e1no"
+    ],
+    "name:slv_x_preferred":[
+        "Gvano"
+    ],
+    "name:spa_x_preferred":[
+        "Guano"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0432\u0430\u043d\u043e"
+    ],
+    "name:sun_x_preferred":[
+        "Guano"
+    ],
+    "name:swe_x_preferred":[
+        "Guano"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1b\u0e38\u0e4b\u0e22\u0e02\u0e35\u0e49\u0e19\u0e01"
+    ],
+    "name:tur_x_preferred":[
+        "Guano"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0443\u0430\u043d\u043e"
+    ],
+    "name:uzb_x_preferred":[
+        "Guano"
+    ],
+    "name:vie_x_preferred":[
+        "Ph\u00e2n chim"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d77\u9e1f\u7caa"
+    ],
     "qs:gn_country":"EC",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3657594,
@@ -62,7 +239,7 @@
         }
     ],
     "wof:id":421188749,
-    "wof:lastmodified":1505340708,
+    "wof:lastmodified":1564204788,
     "wof:name":"Guano",
     "wof:parent_id":421201625,
     "wof:placetype":"localadmin",

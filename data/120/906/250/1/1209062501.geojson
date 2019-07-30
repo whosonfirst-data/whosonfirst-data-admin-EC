@@ -27,6 +27,15 @@
     "iso:country":"EC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Tres Cruces"
+    ],
+    "name:deu_x_preferred":[
+        "Tres Cruces"
+    ],
+    "name:spa_x_preferred":[
+        "Tres Cruces"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632261
@@ -44,7 +53,7 @@
         }
     ],
     "wof:id":1209062501,
-    "wof:lastmodified":1536298908,
+    "wof:lastmodified":1564204238,
     "wof:name":"Tres Cruces",
     "wof:parent_id":85632261,
     "wof:placetype":"locality",

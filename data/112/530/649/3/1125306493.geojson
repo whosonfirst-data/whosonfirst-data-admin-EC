@@ -16,6 +16,30 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Pelileo"
+    ],
+    "name:ceb_x_preferred":[
+        "Pelileo"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0644\u06cc\u0644\u0626\u0648"
+    ],
+    "name:ind_x_preferred":[
+        "Pelileo"
+    ],
+    "name:que_x_preferred":[
+        "Pelileo"
+    ],
+    "name:spa_x_preferred":[
+        "Pelileo"
+    ],
+    "name:swe_x_preferred":[
+        "Pelileo"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f69\u5229\u840a\u5967"
+    ],
     "qs_pg:aaroncc":"EC",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Pelileo",
@@ -64,7 +88,7 @@
         }
     ],
     "wof:id":1125306493,
-    "wof:lastmodified":1534379290,
+    "wof:lastmodified":1564204832,
     "wof:name":"Pelileo",
     "wof:parent_id":1108572289,
     "wof:placetype":"localadmin",

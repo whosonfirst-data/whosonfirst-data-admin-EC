@@ -27,6 +27,33 @@
     "iso:country":"EC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "El Triunfo"
+    ],
+    "name:deu_x_preferred":[
+        "El Triunfo"
+    ],
+    "name:ita_x_preferred":[
+        "El Triunfo"
+    ],
+    "name:nld_x_preferred":[
+        "El Triunfo"
+    ],
+    "name:pol_x_preferred":[
+        "El Triunfo"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0422\u0440\u0438\u0443\u043d\u0444\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "El Triunfo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0415\u043b \u0422\u0440\u0438\u0443\u043d\u0444\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "El Triunfo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632261
@@ -36,7 +63,7 @@
         "gn:id":8471932
     },
     "wof:country":"EC",
-    "wof:geomhash":"0f28ee7a2a3fe5f9d6c40fcbd2b906fd",
+    "wof:geomhash":"e77df2eedac0fc12175b1c8fb702f7c7",
     "wof:hierarchy":[
         {
             "country_id":85632261,
@@ -44,7 +71,7 @@
         }
     ],
     "wof:id":1209594847,
-    "wof:lastmodified":1536282358,
+    "wof:lastmodified":1564204307,
     "wof:name":"El Triunfo",
     "wof:parent_id":85632261,
     "wof:placetype":"locality",
@@ -55,9 +82,9 @@
 },
   "bbox": [
     -79.33162,
-    -0.8778100000000001,
+    -0.87781,
     -79.33162,
-    -0.8778100000000001
+    -0.87781
 ],
   "geometry": {"coordinates":[-79.33162,-0.87781],"type":"Point"}
 }
