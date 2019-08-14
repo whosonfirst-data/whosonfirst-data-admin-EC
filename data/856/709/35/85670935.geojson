@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MS"
+    ],
     "lbl:latitude":-2.508701,
     "lbl:longitude":-77.926817,
     "meso:name_local":"Morona Santiago",
@@ -312,9 +315,6 @@
         }
     ],
     "wof:id":85670935,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "que"
@@ -323,7 +323,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1563583662,
+    "wof:lastmodified":1565673133,
     "wof:name":"Morona Santiago",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

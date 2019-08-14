@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SD"
+    ],
     "lbl:latitude":-0.306026,
     "lbl:longitude":-79.188194,
     "meso:name_local":"Santo Domingo de los Ts\u00e1chilas",
@@ -286,9 +289,6 @@
         }
     ],
     "wof:id":85670983,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "que"
@@ -297,7 +297,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1563583674,
+    "wof:lastmodified":1565673134,
     "wof:name":"Santo Domingo de los Ts\u00e1chilas",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

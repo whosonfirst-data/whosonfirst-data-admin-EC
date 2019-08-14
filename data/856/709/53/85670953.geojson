@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NA"
+    ],
     "lbl:latitude":-0.743659,
     "lbl:longitude":-77.945971,
     "meso:name_local":"Napo",
@@ -291,9 +294,6 @@
         }
     ],
     "wof:id":85670953,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "que"
@@ -302,7 +302,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1563583670,
+    "wof:lastmodified":1565673134,
     "wof:name":"Napo",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

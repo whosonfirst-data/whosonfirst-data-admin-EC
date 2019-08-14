@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CR"
+    ],
     "lbl:latitude":0.650556,
     "lbl:longitude":-77.946016,
     "meso:name_local":"Carchi",
@@ -311,9 +314,6 @@
         }
     ],
     "wof:id":85670967,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "que"
@@ -322,7 +322,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1563583663,
+    "wof:lastmodified":1565673133,
     "wof:name":"Carchi",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

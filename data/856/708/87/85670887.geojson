@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "EO"
+    ],
     "lbl:latitude":-3.543589,
     "lbl:longitude":-79.804592,
     "meso:name_local":"El Oro",
@@ -305,9 +308,6 @@
         }
     ],
     "wof:id":85670887,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "que"
@@ -316,7 +316,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1563583656,
+    "wof:lastmodified":1565673131,
     "wof:name":"El Oro",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

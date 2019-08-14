@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CB"
+    ],
     "lbl:latitude":-1.982559,
     "lbl:longitude":-78.74639,
     "meso:name_local":"Chimborazo",
@@ -330,9 +333,6 @@
         }
     ],
     "wof:id":85670931,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "que"
@@ -341,7 +341,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1563583669,
+    "wof:lastmodified":1565673134,
     "wof:name":"Chimborazo",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

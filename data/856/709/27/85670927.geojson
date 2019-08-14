@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MN"
+    ],
     "lbl:latitude":-0.407614,
     "lbl:longitude":-79.895975,
     "meso:name_local":"Manabi",
@@ -321,9 +324,6 @@
         }
     ],
     "wof:id":85670927,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "que"
@@ -332,7 +332,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1563583665,
+    "wof:lastmodified":1565673133,
     "wof:name":"Manabi",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

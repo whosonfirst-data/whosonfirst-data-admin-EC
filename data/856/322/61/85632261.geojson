@@ -15,6 +15,9 @@
     "itu:country_code":[
         "593"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "EC"
+    ],
     "lbl:latitude":-1.241567,
     "lbl:longitude":-78.322784,
     "mps:latitude":-1.241567,
@@ -1011,9 +1014,6 @@
         }
     ],
     "wof:id":85632261,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "que"
@@ -1022,7 +1022,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1563583683,
+    "wof:lastmodified":1565673135,
     "wof:name":"Ecuador",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

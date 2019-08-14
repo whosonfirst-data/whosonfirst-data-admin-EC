@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SE"
+    ],
     "lbl:latitude":-2.180501,
     "lbl:longitude":-80.537592,
     "meso:name_local":"Santa Elena",
@@ -305,9 +308,6 @@
         }
     ],
     "wof:id":85670979,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "que"
@@ -316,7 +316,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1563583672,
+    "wof:lastmodified":1565673134,
     "wof:name":"Santa Elena",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

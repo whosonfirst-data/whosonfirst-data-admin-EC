@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "IM"
+    ],
     "lbl:latitude":0.426481,
     "lbl:longitude":-78.306694,
     "meso:name_local":"Imbabura",
@@ -311,9 +314,6 @@
         }
     ],
     "wof:id":85670971,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "que"
@@ -322,7 +322,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1563583678,
+    "wof:lastmodified":1565673135,
     "wof:name":"Imbabura",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

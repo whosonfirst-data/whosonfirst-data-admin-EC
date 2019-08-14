@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LR"
+    ],
     "lbl:latitude":-1.523428,
     "lbl:longitude":-79.592441,
     "meso:name_local":"Los Rios",
@@ -317,9 +320,6 @@
         }
     ],
     "wof:id":85670923,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "que"
@@ -328,7 +328,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1563583676,
+    "wof:lastmodified":1565673135,
     "wof:name":"Los Rios",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

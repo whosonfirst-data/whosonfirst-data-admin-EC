@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CN"
+    ],
     "lbl:latitude":-2.520297,
     "lbl:longitude":-79.025462,
     "meso:name_local":"Ca\u00f1ar",
@@ -312,9 +315,6 @@
         }
     ],
     "wof:id":85670909,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "que"
@@ -323,7 +323,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1563583668,
+    "wof:lastmodified":1565673134,
     "wof:name":"Ca\u00f1ar",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

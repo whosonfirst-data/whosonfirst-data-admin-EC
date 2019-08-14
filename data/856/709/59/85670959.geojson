@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TU"
+    ],
     "lbl:latitude":-1.271735,
     "lbl:longitude":-78.513185,
     "meso:name_local":"Tungurahua",
@@ -303,9 +306,6 @@
         }
     ],
     "wof:id":85670959,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "que"
@@ -314,7 +314,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1563583661,
+    "wof:lastmodified":1565673132,
     "wof:name":"Tungurahua",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

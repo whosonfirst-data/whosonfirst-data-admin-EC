@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ZC"
+    ],
     "lbl:latitude":-4.063029,
     "lbl:longitude":-78.851045,
     "meso:name_local":"Zamora Chinchipe",
@@ -300,9 +303,6 @@
         }
     ],
     "wof:id":85670895,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "que"
@@ -311,7 +311,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1563583655,
+    "wof:lastmodified":1565673131,
     "wof:name":"Zamora Chinchipe",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LJ"
+    ],
     "lbl:latitude":-4.116685,
     "lbl:longitude":-79.59763,
     "meso:name_local":"Loja",
@@ -307,9 +310,6 @@
         }
     ],
     "wof:id":85670891,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "que"
@@ -318,7 +318,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1563583658,
+    "wof:lastmodified":1565673132,
     "wof:name":"Loja",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

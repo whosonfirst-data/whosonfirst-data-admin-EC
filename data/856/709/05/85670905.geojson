@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BO"
+    ],
     "lbl:latitude":-1.60499,
     "lbl:longitude":-79.075773,
     "meso:name_local":"Bolivar",
@@ -313,9 +316,6 @@
         }
     ],
     "wof:id":85670905,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "que"
@@ -324,7 +324,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1563583664,
+    "wof:lastmodified":1565673133,
     "wof:name":"Bolivar",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

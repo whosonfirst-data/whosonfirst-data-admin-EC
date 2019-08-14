@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AZ"
+    ],
     "lbl:latitude":-3.043434,
     "lbl:longitude":-79.156415,
     "meso:name_local":"Azuay",
@@ -317,9 +320,6 @@
         }
     ],
     "wof:id":85670885,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "que"
@@ -328,7 +328,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1563583660,
+    "wof:lastmodified":1565673132,
     "wof:name":"Azuay",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

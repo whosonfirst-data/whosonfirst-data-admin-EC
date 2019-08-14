@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ES"
+    ],
     "lbl:latitude":0.709123,
     "lbl:longitude":-79.218431,
     "meso:name_local":"Esmeraldas",
@@ -315,9 +318,6 @@
         }
     ],
     "wof:id":85670963,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa",
         "que"
@@ -326,7 +326,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1563583671,
+    "wof:lastmodified":1565673134,
     "wof:name":"Esmeraldas",
     "wof:parent_id":85632261,
     "wof:placetype":"region",
