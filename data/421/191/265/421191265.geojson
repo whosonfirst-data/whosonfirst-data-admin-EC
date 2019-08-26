@@ -10,8 +10,12 @@
     "geom:latitude":-1.172708,
     "geom:longitude":-78.544006,
     "iso:country":"EC",
+    "lbl:bbox":"-78.644006,-1.272708,-78.444006,-1.072708",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "P\u00edllaro"
@@ -62,7 +66,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26810283,
-        "qs:id":61343
+        "qs_pg:id":61343
     },
     "wof:country":"EC",
     "wof:created":1459009686,
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":421191265,
-    "wof:lastmodified":1564204807,
+    "wof:lastmodified":1566584499,
     "wof:name":"Pillaro",
     "wof:parent_id":1108572557,
     "wof:placetype":"localadmin",

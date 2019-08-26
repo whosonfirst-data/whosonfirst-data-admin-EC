@@ -9,10 +9,14 @@
     "geom:bbox":"-80.41052,-0.590161,-80.41052,-0.590161",
     "geom:latitude":-0.590161,
     "geom:longitude":-80.41052,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"EC",
+    "lbl:bbox":"-80.51052,-0.690161,-80.31052,-0.490161",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0421\u0430\u043d-\u0412\u0456\u0441\u0435\u043d\u0442\u044d"
@@ -134,7 +138,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26810487,
-        "qs:id":1003290,
         "qs_pg:id":1003290
     },
     "wof:country":"EC",
@@ -150,7 +153,7 @@
         }
     ],
     "wof:id":421184723,
-    "wof:lastmodified":1564204812,
+    "wof:lastmodified":1566584506,
     "wof:name":"San Vicente",
     "wof:parent_id":1108572865,
     "wof:placetype":"localadmin",

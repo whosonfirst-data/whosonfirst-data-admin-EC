@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-78.08162,0.45233,-78.04162,0.49233",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Chota"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1260068435,
-    "wof:lastmodified":1564204468,
+    "wof:lastmodified":1566584288,
     "wof:name":"Chota",
     "wof:parent_id":421171745,
     "wof:placetype":"locality",

@@ -10,6 +10,9 @@
     "geom:latitude":-0.95542,
     "geom:longitude":-90.96654,
     "iso:country":"EC",
+    "lbl:bbox":"-90.98654,-0.97542,-90.94654,-0.93542",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -77,7 +80,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0443\u0435\u0440\u0442\u043e-\u0412\u0456\u044f\u043c\u0456\u043b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Villamil"
     ],
     "name:zho_x_preferred":[
@@ -209,7 +212,7 @@
     "wof:concordances":{
         "gn:id":3652694,
         "gp:id":375813,
-        "qs:id":899588,
+        "qs_pg:id":899588,
         "wd:id":"Q1208152",
         "wk:page":"Puerto Villamil"
     },
@@ -226,7 +229,7 @@
         }
     ],
     "wof:id":421174813,
-    "wof:lastmodified":1563584681,
+    "wof:lastmodified":1566584473,
     "wof:name":"Puerto Villamil",
     "wof:parent_id":1108569881,
     "wof:placetype":"locality",

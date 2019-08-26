@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-77.11028,-2.70472,-77.07028,-2.66472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Dieretuin"
     ],
@@ -287,7 +291,7 @@
         }
     ],
     "wof:id":1360268297,
-    "wof:lastmodified":1564204686,
+    "wof:lastmodified":1566584414,
     "wof:name":"Zoo",
     "wof:parent_id":421191241,
     "wof:placetype":"locality",

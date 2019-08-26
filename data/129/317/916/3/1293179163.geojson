@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-78.22242,0.32748,-78.18242,0.36748",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1293179163,
-    "wof:lastmodified":1536734818,
+    "wof:lastmodified":1566584061,
     "wof:name":"Hacienda Anafo",
     "wof:parent_id":421169627,
     "wof:placetype":"locality",

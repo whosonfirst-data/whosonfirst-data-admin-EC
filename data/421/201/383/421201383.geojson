@@ -10,6 +10,9 @@
     "geom:latitude":-1.05417,
     "geom:longitude":-80.45139,
     "iso:country":"EC",
+    "lbl:bbox":"-80.47139,-1.07417,-80.43139,-1.03417",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.0,
@@ -286,7 +289,7 @@
     "wof:concordances":{
         "gn:id":3652941,
         "gp:id":374173,
-        "qs:id":211175,
+        "qs_pg:id":211175,
         "wd:id":"Q990716",
         "wk:page":"Portoviejo"
     },
@@ -303,7 +306,7 @@
         }
     ],
     "wof:id":421201383,
-    "wof:lastmodified":1563584758,
+    "wof:lastmodified":1566584503,
     "wof:name":"Portoviejo",
     "wof:parent_id":421189223,
     "wof:placetype":"locality",

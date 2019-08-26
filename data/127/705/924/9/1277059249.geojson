@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-78.28667,-2.27,-78.24667,-2.23",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Salado"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1277059249,
-    "wof:lastmodified":1564204135,
+    "wof:lastmodified":1566584116,
     "wof:name":"Salado",
     "wof:parent_id":421191241,
     "wof:placetype":"locality",

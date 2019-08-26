@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-80.11407,0.69871,-80.07407,0.73871",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1343258529,
-    "wof:lastmodified":1537036131,
+    "wof:lastmodified":1566583926,
     "wof:name":"Quingue",
     "wof:parent_id":421169435,
     "wof:placetype":"locality",

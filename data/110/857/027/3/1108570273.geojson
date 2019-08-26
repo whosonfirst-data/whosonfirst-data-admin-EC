@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-3.779258,
     "lbl:longitude":-79.927326,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"El Oro",
     "meso:gadm_hasc2":"EC.EO.MR",
     "meso:gaul_adm2":"Marcabeli",
@@ -32,6 +34,7 @@
     "mps:longitude":-79.927326,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Marcabel\u00ed"
     ],
@@ -69,9 +72,9 @@
         "\u99ac\u723e\u5361\u97cb\u5229\u7e23"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-11-25",
+    "src:population_date":"2001-11-25",
     "statoids:area_km":"147",
     "statoids:as_of_date":"2001-11-25",
     "statoids:capital":"Marcabel\u00ed",
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1108570273,
-    "wof:lastmodified":1563584353,
+    "wof:lastmodified":1566584312,
     "wof:name":"Marcabel\u00ed",
     "wof:parent_id":85670887,
     "wof:placetype":"county",

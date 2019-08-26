@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-0.780223,
     "lbl:longitude":-78.529668,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Cotopaxi",
     "meso:gadm_hasc2":"EC.CT.LA",
     "meso:gaul_adm2":"Latacunga",
@@ -32,6 +34,7 @@
     "mps:longitude":-78.529668,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Cant\u00f3n Latacunga"
@@ -97,9 +100,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-11-25",
+    "src:population_date":"2001-11-25",
     "statoids:area_km":"1377",
     "statoids:as_of_date":"2001-11-25",
     "statoids:capital":"Latacunga",
@@ -120,7 +123,7 @@
     "wof:concordances":{
         "gp:id":26809578,
         "hasc:id":"EC.CT.LA",
-        "qs:id":891811,
+        "qs_pg:id":891811,
         "wd:id":"Q2182152"
     },
     "wof:country":"EC",
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":421182157,
-    "wof:lastmodified":1563584792,
+    "wof:lastmodified":1566584516,
     "wof:name":"Latacunga",
     "wof:parent_id":85670915,
     "wof:placetype":"county",

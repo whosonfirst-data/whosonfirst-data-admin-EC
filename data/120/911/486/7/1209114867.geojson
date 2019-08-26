@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-79.07454,-3.32273,-79.03454,-3.28273",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632261
@@ -36,7 +40,7 @@
         "gn:id":3659073
     },
     "wof:country":"EC",
-    "wof:geomhash":"63d8c84e18720225de11608ff0d480d2",
+    "wof:geomhash":"50733bbdad39caad797f353a80087325",
     "wof:hierarchy":[
         {
             "country_id":85632261,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209114867,
-    "wof:lastmodified":1536297287,
+    "wof:lastmodified":1566584219,
     "wof:name":"Chunasana",
     "wof:parent_id":85632261,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     -79.05454,
-    -3.3027300000000004,
+    -3.30273,
     -79.05454,
-    -3.3027300000000004
+    -3.30273
 ],
   "geometry": {"coordinates":[-79.05454,-3.30273],"type":"Point"}
 }

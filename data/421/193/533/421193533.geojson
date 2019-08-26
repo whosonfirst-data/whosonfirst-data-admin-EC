@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-2.599912,
     "lbl:longitude":-78.100842,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Morona Santiago",
     "meso:gadm_hasc2":"EC.MS.SU",
     "meso:gaul_adm2":"Sucua",
@@ -32,6 +34,7 @@
     "mps:longitude":-78.100842,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Cant\u00f3n Suc\u00faa"
@@ -97,9 +100,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-11-25",
+    "src:population_date":"2001-11-25",
     "statoids:area_km":"893",
     "statoids:as_of_date":"2001-11-25",
     "statoids:capital":"Suc\u00faa",
@@ -120,7 +123,7 @@
     "wof:concordances":{
         "gp:id":26809681,
         "hasc:id":"EC.MS.SU",
-        "qs:id":911538,
+        "qs_pg:id":911538,
         "wd:id":"Q3656343"
     },
     "wof:country":"EC",
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":421193533,
-    "wof:lastmodified":1563584649,
+    "wof:lastmodified":1566584461,
     "wof:name":"Suc\u00faa",
     "wof:parent_id":85670935,
     "wof:placetype":"county",

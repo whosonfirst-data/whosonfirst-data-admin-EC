@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-79.78952,-3.86801,-79.74952,-3.82801",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:que_x_preferred":[
         "Amanqay"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1343341707,
-    "wof:lastmodified":1564203760,
+    "wof:lastmodified":1566583939,
     "wof:name":"Amancay",
     "wof:parent_id":1108568481,
     "wof:placetype":"locality",

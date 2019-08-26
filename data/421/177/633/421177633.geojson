@@ -10,8 +10,12 @@
     "geom:latitude":-1.16608,
     "geom:longitude":-77.85533,
     "iso:country":"EC",
+    "lbl:bbox":"-77.87533,-1.18608,-77.83533,-1.14608",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Carlos Julio Arosemena Tola"
@@ -22,7 +26,7 @@
     "name:que_x_preferred":[
         "Carlos Julio Arosemena Tola llaqta"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Arosemena Tola"
     ],
     "qs:gn_country":"EC",
@@ -56,7 +60,7 @@
     "wof:concordances":{
         "gn:id":3659697,
         "gp:id":370107,
-        "qs:id":1347029,
+        "qs_pg:id":1347029,
         "wd:id":"Q5042245",
         "wk:page":"Carlos Julio Arosemena Tola, Ecuador"
     },
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":421177633,
-    "wof:lastmodified":1561792435,
+    "wof:lastmodified":1566584510,
     "wof:name":"Carlos Julio Arosemena Tola",
     "wof:parent_id":1108572985,
     "wof:placetype":"locality",

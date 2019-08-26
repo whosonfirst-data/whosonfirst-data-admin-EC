@@ -10,8 +10,12 @@
     "geom:latitude":-3.680975,
     "geom:longitude":-79.682207,
     "iso:country":"EC",
+    "lbl:bbox":"-79.782207,-3.780975,-79.582207,-3.580975",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -44,7 +48,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26810286,
-        "qs:id":1110361,
         "qs_pg:id":1110361
     },
     "wof:country":"EC",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":421189253,
-    "wof:lastmodified":1497044490,
+    "wof:lastmodified":1566584481,
     "wof:name":"Pi\u00f1as",
     "wof:parent_id":421195605,
     "wof:placetype":"localadmin",

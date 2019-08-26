@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-3.960282,
     "lbl:longitude":-80.058137,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Loja",
     "meso:gadm_hasc2":"EC.LJ.PU",
     "meso:gaul_adm2":"Puyango",
@@ -32,6 +34,7 @@
     "mps:longitude":-80.058137,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Cant\u00f3n Puyango"
     ],
@@ -72,9 +75,9 @@
         "\u666e\u63da\u6208\u7e23"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-11-25",
+    "src:population_date":"2001-11-25",
     "statoids:area_km":"634",
     "statoids:as_of_date":"2001-11-25",
     "statoids:capital":"Alamor",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1108571749,
-    "wof:lastmodified":1563584348,
+    "wof:lastmodified":1566584309,
     "wof:name":"Puyango",
     "wof:parent_id":85670891,
     "wof:placetype":"county",

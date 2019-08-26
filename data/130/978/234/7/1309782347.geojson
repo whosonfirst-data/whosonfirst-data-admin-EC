@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-79.42986,-0.87217,-79.38986,-0.83217",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1309782347,
-    "wof:lastmodified":1536964768,
+    "wof:lastmodified":1566584434,
     "wof:name":"Rio Lulu",
     "wof:parent_id":421189215,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-79.92542,-0.42555,-79.88542,-0.38555",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u0644\u0627\u0641\u064a\u0648 \u0623\u0644\u0641\u0627\u0631\u0648"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310674625,
-    "wof:lastmodified":1564204628,
+    "wof:lastmodified":1566584387,
     "wof:name":"Flavio Alfaro",
     "wof:parent_id":1108569419,
     "wof:placetype":"locality",

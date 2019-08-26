@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-79.50278,-0.51126,-79.46278,-0.47126",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1293174659,
-    "wof:lastmodified":1536741004,
+    "wof:lastmodified":1566584061,
     "wof:name":"Dos de Agosto",
     "wof:parent_id":1108569025,
     "wof:placetype":"locality",

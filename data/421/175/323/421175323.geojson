@@ -10,8 +10,12 @@
     "geom:latitude":0.80972,
     "geom:longitude":-77.71944,
     "iso:country":"EC",
+    "lbl:bbox":"-77.81944,0.70972,-77.61944,0.90972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062a\u0648\u0644\u0643\u0627\u0646"
@@ -145,9 +149,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0443\u043b\u044c\u043a\u0430\u043d"
     ],
-    "name:unk_x_variant":[
-        "Tulc\u00e1n"
-    ],
     "name:urd_x_preferred":[
         "\u062a\u0648\u0644\u06a9\u0627\u0646"
     ],
@@ -192,7 +193,7 @@
     "wof:concordances":{
         "gn:id":3650472,
         "gp:id":26810594,
-        "qs:id":957591,
+        "qs_pg:id":957591,
         "wd:id":"Q752113",
         "wk:page":"Tulc\u00e1n"
     },
@@ -209,7 +210,7 @@
         }
     ],
     "wof:id":421175323,
-    "wof:lastmodified":1563584735,
+    "wof:lastmodified":1566584493,
     "wof:name":"Tulcan",
     "wof:parent_id":421204303,
     "wof:placetype":"localadmin",

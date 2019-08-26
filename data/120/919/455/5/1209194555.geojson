@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-79.27,-4.00333,-79.23,-3.96333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632261
@@ -36,7 +40,7 @@
         "gn:id":3658166
     },
     "wof:country":"EC",
-    "wof:geomhash":"42d49c5a63410003393da8668bbfa2f5",
+    "wof:geomhash":"f1568353873fbd08081a62277b317d57",
     "wof:hierarchy":[
         {
             "country_id":85632261,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209194555,
-    "wof:lastmodified":1536294817,
+    "wof:lastmodified":1566584233,
     "wof:name":"El Plateado",
     "wof:parent_id":85632261,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     -79.25,
-    -3.983330000000001,
+    -3.98333,
     -79.25,
-    -3.983330000000001
+    -3.98333
 ],
   "geometry": {"coordinates":[-79.25,-3.98333],"type":"Point"}
 }

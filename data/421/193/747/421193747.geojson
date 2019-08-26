@@ -10,8 +10,12 @@
     "geom:latitude":-0.408308,
     "geom:longitude":-76.117539,
     "iso:country":"EC",
+    "lbl:bbox":"-76.217539,-0.508308,-76.017539,-0.308308",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26810256,
-        "qs:id":1184659
+        "qs_pg:id":1184659
     },
     "wof:country":"EC",
     "wof:created":1459009782,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421193747,
-    "wof:lastmodified":1500036687,
+    "wof:lastmodified":1566584462,
     "wof:name":"Pa\u00f1acocha",
     "wof:parent_id":1108572739,
     "wof:placetype":"localadmin",

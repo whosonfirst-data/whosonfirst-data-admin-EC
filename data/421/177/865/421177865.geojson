@@ -10,8 +10,12 @@
     "geom:latitude":-1.70131,
     "geom:longitude":-77.96516,
     "iso:country":"EC",
+    "lbl:bbox":"-77.98516,-1.72131,-77.94516,-1.68131",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Palora"
@@ -31,7 +35,7 @@
     "name:swe_x_preferred":[
         "Palora"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Metzera"
     ],
     "qs:gn_country":"EC",
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":3653523,
         "gp:id":373934,
-        "qs:id":1206794,
+        "qs_pg:id":1206794,
         "wd:id":"Q10949718",
         "wk:page":"Palora"
     },
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":421177865,
-    "wof:lastmodified":1563584780,
+    "wof:lastmodified":1566584511,
     "wof:name":"Palora",
     "wof:parent_id":421201631,
     "wof:placetype":"locality",

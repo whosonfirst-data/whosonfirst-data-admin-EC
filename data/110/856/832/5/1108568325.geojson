@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-3.957709,
     "lbl:longitude":-79.380742,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Loja",
     "meso:gadm_hasc2":"EC.LJ.CT",
     "meso:gaul_adm2":"Catamayo",
@@ -32,6 +34,7 @@
     "mps:longitude":-79.380742,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Cant\u00f3n Catamayo"
     ],
@@ -75,9 +78,9 @@
         "\u5361\u5854\u99ac\u7d04\u7e23"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-11-25",
+    "src:population_date":"2001-11-25",
     "statoids:area_km":"646",
     "statoids:as_of_date":"2001-11-25",
     "statoids:capital":"Catamayo",
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":1108568325,
-    "wof:lastmodified":1563584372,
+    "wof:lastmodified":1566584320,
     "wof:name":"Catamayo",
     "wof:parent_id":85670891,
     "wof:placetype":"county",

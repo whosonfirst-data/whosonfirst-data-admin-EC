@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-79.702,-2.17283,-79.662,-2.13283",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "La Gloria"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1242962365,
-    "wof:lastmodified":1564204983,
+    "wof:lastmodified":1566584598,
     "wof:name":"La Gloria",
     "wof:parent_id":1108572073,
     "wof:placetype":"locality",

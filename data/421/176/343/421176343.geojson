@@ -10,6 +10,9 @@
     "geom:latitude":-1.80278,
     "geom:longitude":-79.52917,
     "iso:country":"EC",
+    "lbl:bbox":"-79.54917,-1.82278,-79.50917,-1.78278",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -140,7 +143,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0431\u0430\u0439\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Babahoya"
     ],
     "name:urd_x_preferred":[
@@ -280,7 +283,7 @@
     "wof:concordances":{
         "gn:id":3660418,
         "gp:id":375748,
-        "qs:id":1045854,
+        "qs_pg:id":1045854,
         "wd:id":"Q797568",
         "wk:page":"Babahoyo"
     },
@@ -297,7 +300,7 @@
         }
     ],
     "wof:id":421176343,
-    "wof:lastmodified":1563584800,
+    "wof:lastmodified":1566584519,
     "wof:name":"Babahoyo",
     "wof:parent_id":421195601,
     "wof:placetype":"locality",

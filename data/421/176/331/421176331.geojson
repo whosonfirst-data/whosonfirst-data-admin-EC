@@ -10,6 +10,9 @@
     "geom:latitude":-0.69819,
     "geom:longitude":-80.09361,
     "iso:country":"EC",
+    "lbl:bbox":"-80.19361,-0.79819,-79.99361,-0.59819",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.7,
@@ -157,7 +160,7 @@
     "wof:concordances":{
         "gn:id":3659139,
         "gp:id":26809851,
-        "qs:id":1045845
+        "qs_pg:id":1045845
     },
     "wof:country":"EC",
     "wof:created":1459009105,
@@ -172,7 +175,7 @@
         }
     ],
     "wof:id":421176331,
-    "wof:lastmodified":1564204823,
+    "wof:lastmodified":1566584517,
     "wof:name":"Chone",
     "wof:parent_id":421189211,
     "wof:placetype":"localadmin",

@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-2.230825,
     "lbl:longitude":-80.105739,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Guayas",
     "meso:gadm_hasc2":"EC.GU.GU",
     "meso:gaul_adm2":"Guayaquil",
@@ -32,6 +34,7 @@
     "mps:longitude":-80.105739,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Cant\u00f3 de Guayaquil"
@@ -106,9 +109,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-11-25",
+    "src:population_date":"2001-11-25",
     "statoids:area_km":"5237",
     "statoids:as_of_date":"2001-11-25",
     "statoids:capital":"Guayaquil",
@@ -128,7 +131,7 @@
     "wof:concordances":{
         "gp:id":26809700,
         "hasc:id":"EC.GY.GU",
-        "qs:id":369061,
+        "qs_pg:id":369061,
         "wd:id":"Q1991935"
     },
     "wof:country":"EC",
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":421175423,
-    "wof:lastmodified":1563584733,
+    "wof:lastmodified":1566584493,
     "wof:name":"Guayaquil",
     "wof:parent_id":85670917,
     "wof:placetype":"county",

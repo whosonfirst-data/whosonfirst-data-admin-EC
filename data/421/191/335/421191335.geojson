@@ -10,8 +10,12 @@
     "geom:latitude":-1.70884,
     "geom:longitude":-79.04311,
     "iso:country":"EC",
+    "lbl:bbox":"-79.14311,-1.80884,-78.94311,-1.60884",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Miguel"
@@ -34,7 +38,7 @@
     "name:swe_x_preferred":[
         "San Miguel"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Miguel de Chimbo"
     ],
     "qs:gn_country":"EC",
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":3651639,
         "gp:id":26810459,
-        "qs:id":62601,
+        "qs_pg:id":62601,
         "wd:id":"Q7414937",
         "wk:page":"San Miguel, Bol\u00edvar"
     },
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":421191335,
-    "wof:lastmodified":1563584745,
+    "wof:lastmodified":1566584498,
     "wof:name":"San Miguel",
     "wof:parent_id":1108572259,
     "wof:placetype":"localadmin",

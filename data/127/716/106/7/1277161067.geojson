@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-79.18446,-2.21211,-79.14446,-2.17211",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Teresita"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1277161067,
-    "wof:lastmodified":1564204215,
+    "wof:lastmodified":1566584158,
     "wof:name":"Teresita",
     "wof:parent_id":1108569443,
     "wof:placetype":"locality",

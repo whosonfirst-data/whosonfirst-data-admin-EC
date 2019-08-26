@@ -11,11 +11,14 @@
     "geom:longitude":-79.01511,
     "gn:country":"EC",
     "gn:fcode":"MALL",
-    "gn:pop":500000,
+    "gn:population":500000,
     "iso:country":"EC",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":5.0,
     "name:spa_x_preferred":[
         "Centro Comercial Mall Del R\u00edo"
     ],
@@ -38,7 +41,7 @@
     "wof:concordances":{
         "gn:id":7602120,
         "gp:id":375734,
-        "qs:id":693641
+        "qs_pg:id":693641
     },
     "wof:country":"EC",
     "wof:created":1469052519,
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":890445695,
-    "wof:lastmodified":1505343606,
+    "wof:lastmodified":1566584526,
     "wof:name":"Mall del R\u00edo",
     "wof:parent_id":421185495,
     "wof:placetype":"locality",

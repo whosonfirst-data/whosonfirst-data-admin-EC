@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-1.358593,
     "lbl:longitude":-78.537378,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Tungurahua",
     "meso:gadm_hasc2":"NO DATA",
     "meso:gaul_adm2":"San Pedro de Pelileo",
@@ -32,6 +34,7 @@
     "mps:longitude":-78.537378,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Cant\u00f3n Pelileo"
     ],
@@ -75,9 +78,9 @@
         "\u4f69\u5229\u840a\u5967\u7e23"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-11-25",
+    "src:population_date":"2001-11-25",
     "statoids:area_km":"202",
     "statoids:as_of_date":"2001-11-25",
     "statoids:capital":"Pelileo",
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1108572289,
-    "wof:lastmodified":1563584336,
+    "wof:lastmodified":1566584305,
     "wof:name":"San Pedro de Pelileo",
     "wof:parent_id":85670959,
     "wof:placetype":"county",

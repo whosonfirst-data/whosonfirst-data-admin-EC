@@ -10,8 +10,12 @@
     "geom:latitude":-0.70221,
     "geom:longitude":-78.88652,
     "iso:country":"EC",
+    "lbl:bbox":"-78.98652,-0.80221,-78.78652,-0.60221",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Sigchos"
@@ -63,7 +67,6 @@
     "wof:concordances":{
         "gn:id":3651075,
         "gp:id":26810540,
-        "qs:id":401626,
         "qs_pg:id":401626,
         "wd:id":"Q2161913",
         "wk:page":"Sigchos"
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":421198203,
-    "wof:lastmodified":1563584737,
+    "wof:lastmodified":1566584495,
     "wof:name":"Sigchos",
     "wof:parent_id":421184865,
     "wof:placetype":"localadmin",

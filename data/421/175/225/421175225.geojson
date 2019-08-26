@@ -10,8 +10,12 @@
     "geom:latitude":-0.865483,
     "geom:longitude":-78.901405,
     "iso:country":"EC",
+    "lbl:bbox":"-79.001405,-0.965483,-78.801405,-0.765483",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26810022,
-        "qs:id":361648
+        "qs_pg:id":361648
     },
     "wof:country":"EC",
     "wof:created":1459009060,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421175225,
-    "wof:lastmodified":1500036563,
+    "wof:lastmodified":1566584495,
     "wof:name":"Guangaje",
     "wof:parent_id":421185497,
     "wof:placetype":"localadmin",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-4.245687,
     "lbl:longitude":-79.227671,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Loja",
     "meso:gadm_hasc2":"EC.LJ.LO",
     "meso:gaul_adm2":"Loja",
@@ -29,6 +31,7 @@
     "mps:longitude":-79.227671,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Cant\u00f3n Loja"
@@ -136,9 +139,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-11-25",
+    "src:population_date":"2001-11-25",
     "statoids:area_km":"1881",
     "statoids:as_of_date":"2001-11-25",
     "statoids:capital":"Loja",
@@ -159,7 +162,7 @@
     "wof:concordances":{
         "gp:id":26809581,
         "hasc:id":"EC.LJ.LO",
-        "qs:id":891812,
+        "qs_pg:id":891812,
         "wd:id":"Q1158141"
     },
     "wof:country":"EC",
@@ -174,7 +177,7 @@
         }
     ],
     "wof:id":421182159,
-    "wof:lastmodified":1563584792,
+    "wof:lastmodified":1566584516,
     "wof:name":"Loja",
     "wof:parent_id":85670891,
     "wof:placetype":"county",

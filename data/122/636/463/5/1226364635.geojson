@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-78.75032,-2.10142,-78.71032,-2.06142",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Palmira"
     ],
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":1226364635,
-    "wof:lastmodified":1564205309,
+    "wof:lastmodified":1566584750,
     "wof:name":"Palmira",
     "wof:parent_id":421191235,
     "wof:placetype":"locality",

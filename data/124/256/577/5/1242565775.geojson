@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-78.19921,0.4029,-78.15921,0.4429",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1242565775,
-    "wof:lastmodified":1537077587,
+    "wof:lastmodified":1566584561,
     "wof:name":"Hacienda San Nicolas",
     "wof:parent_id":421184413,
     "wof:placetype":"locality",

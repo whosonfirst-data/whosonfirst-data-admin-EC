@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-79.71758,-4.01874,-79.67758,-3.97874",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1243152365,
-    "wof:lastmodified":1536732865,
+    "wof:lastmodified":1566584569,
     "wof:name":"Hacienda Yamana",
     "wof:parent_id":1108571061,
     "wof:placetype":"locality",

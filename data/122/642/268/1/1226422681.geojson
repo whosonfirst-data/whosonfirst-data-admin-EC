@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-79.70163,-3.97011,-79.66163,-3.93011",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lando"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1226422681,
-    "wof:lastmodified":1564205180,
+    "wof:lastmodified":1566584687,
     "wof:name":"Lando",
     "wof:parent_id":1108571061,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-78.56079,-0.01789,-78.52079,0.02211",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1293859687,
-    "wof:lastmodified":1536747472,
+    "wof:lastmodified":1566584015,
     "wof:name":"Hacienda Amboasi",
     "wof:parent_id":421188131,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-79.78702,-2.83555,-79.74702,-2.79555",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "La Victoria"
     ],
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":1243247275,
-    "wof:lastmodified":1564204917,
+    "wof:lastmodified":1566584566,
     "wof:name":"La Victoria",
     "wof:parent_id":1108567875,
     "wof:placetype":"locality",

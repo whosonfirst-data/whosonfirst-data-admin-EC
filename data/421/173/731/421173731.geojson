@@ -10,8 +10,12 @@
     "geom:latitude":-2.13404,
     "geom:longitude":-79.59415,
     "iso:country":"EC",
+    "lbl:bbox":"-79.69415,-2.23404,-79.49415,-2.03404",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u064a\u0644\u0627\u063a\u0631\u0648"
@@ -174,7 +178,7 @@
     "wof:concordances":{
         "gn:id":3654215,
         "gp:id":26810188,
-        "qs:id":532390,
+        "qs_pg:id":532390,
         "wd:id":"Q773238",
         "wk:page":"Milagro, Ecuador"
     },
@@ -191,7 +195,7 @@
         }
     ],
     "wof:id":421173731,
-    "wof:lastmodified":1563584685,
+    "wof:lastmodified":1566584475,
     "wof:name":"Milagro",
     "wof:parent_id":421191245,
     "wof:placetype":"localadmin",

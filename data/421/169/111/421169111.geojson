@@ -10,6 +10,9 @@
     "geom:latitude":-3.68107,
     "geom:longitude":-79.68083,
     "iso:country":"EC",
+    "lbl:bbox":"-79.70083,-3.70107,-79.66083,-3.66107",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -181,7 +184,7 @@
     "wof:concordances":{
         "gn:id":3653130,
         "gp:id":375810,
-        "qs:id":893973,
+        "qs_pg:id":893973,
         "wd:id":"Q7883868"
     },
     "wof:country":"EC",
@@ -197,7 +200,7 @@
         }
     ],
     "wof:id":421169111,
-    "wof:lastmodified":1563584655,
+    "wof:lastmodified":1566584464,
     "wof:name":"Pi\u00f1as",
     "wof:parent_id":421195605,
     "wof:placetype":"locality",

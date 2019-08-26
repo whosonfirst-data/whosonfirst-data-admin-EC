@@ -10,8 +10,12 @@
     "geom:latitude":-1.236212,
     "geom:longitude":-90.435556,
     "iso:country":"EC",
+    "lbl:bbox":"-90.535556,-1.336212,-90.335556,-1.136212",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -44,7 +48,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28358251,
-        "qs:id":224885,
         "qs_pg:id":224885
     },
     "wof:country":"EC",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":421202633,
-    "wof:lastmodified":1497048926,
+    "wof:lastmodified":1566584471,
     "wof:name":"Floreana",
     "wof:parent_id":421183483,
     "wof:placetype":"localadmin",

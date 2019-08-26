@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-78.65428,-3.29854,-78.61428,-3.25854",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Miraglo"
     ],
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":1260255707,
-    "wof:lastmodified":1564204451,
+    "wof:lastmodified":1566584279,
     "wof:name":"Milagro",
     "wof:parent_id":1108569641,
     "wof:placetype":"locality",

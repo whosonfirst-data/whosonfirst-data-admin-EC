@@ -10,8 +10,12 @@
     "geom:latitude":-1.497403,
     "geom:longitude":-78.061294,
     "iso:country":"EC",
+    "lbl:bbox":"-78.161294,-1.597403,-77.961294,-1.397403",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Shell"
@@ -125,7 +129,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26810535,
-        "qs:id":1110372,
         "qs_pg:id":1110372
     },
     "wof:country":"EC",
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":421189265,
-    "wof:lastmodified":1564204785,
+    "wof:lastmodified":1566584481,
     "wof:name":"Shell",
     "wof:parent_id":421175415,
     "wof:placetype":"localadmin",

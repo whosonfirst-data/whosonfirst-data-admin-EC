@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-80.33734,-4.20743,-80.29734,-4.16743",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "El Sauce"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1276955635,
-    "wof:lastmodified":1564204120,
+    "wof:lastmodified":1566584109,
     "wof:name":"El Sauce",
     "wof:parent_id":1108573397,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-79.40049,-2.30091,-79.36049,-2.26091",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1242566607,
-    "wof:lastmodified":1537076380,
+    "wof:lastmodified":1566584560,
     "wof:name":"La Lola",
     "wof:parent_id":1108568753,
     "wof:placetype":"locality",

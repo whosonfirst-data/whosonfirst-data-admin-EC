@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-78.92465,-2.89768,-78.88465,-2.85768",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1326733667,
-    "wof:lastmodified":1536693855,
+    "wof:lastmodified":1566583799,
     "wof:name":"Puicay",
     "wof:parent_id":421185495,
     "wof:placetype":"locality",

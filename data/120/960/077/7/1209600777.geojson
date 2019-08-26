@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-80.33667,-3.40333,-80.29667,-3.36333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632261
@@ -34,7 +38,7 @@
         "gn:id":3658289
     },
     "wof:country":"EC",
-    "wof:geomhash":"8fd058d821a2cee0ec8a5d4ccd0ee5a8",
+    "wof:geomhash":"6bb00cec6090ebcb6a48ab255614d811",
     "wof:hierarchy":[
         {
             "country_id":85632261,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209600777,
-    "wof:lastmodified":1536282175,
+    "wof:lastmodified":1566584212,
     "wof:name":"El Cruce",
     "wof:parent_id":85632261,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -80.31667,
-    -3.3833300000000004,
+    -3.38333,
     -80.31667,
-    -3.3833300000000004
+    -3.38333
 ],
   "geometry": {"coordinates":[-80.31667,-3.38333],"type":"Point"}
 }

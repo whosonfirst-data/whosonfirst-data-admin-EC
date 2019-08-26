@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-77.81383,-0.86177,-77.77383,-0.82177",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1242929665,
-    "wof:lastmodified":1537051577,
+    "wof:lastmodified":1566584550,
     "wof:name":"Cotundo",
     "wof:parent_id":1108567669,
     "wof:placetype":"locality",

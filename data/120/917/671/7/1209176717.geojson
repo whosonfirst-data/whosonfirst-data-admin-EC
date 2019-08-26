@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-78.56465,-1.38528,-78.52465,-1.34528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632261
@@ -36,7 +40,7 @@
         "gn:id":3655735
     },
     "wof:country":"EC",
-    "wof:geomhash":"872107220f1cb139f3a93abbd5954544",
+    "wof:geomhash":"fd88e8b03b0f5aa21d62aab277ea8a21",
     "wof:hierarchy":[
         {
             "country_id":85632261,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209176717,
-    "wof:lastmodified":1536295398,
+    "wof:lastmodified":1566584236,
     "wof:name":"Huambalito",
     "wof:parent_id":85632261,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     -78.54465,
-    -1.3652799999999998,
+    -1.36528,
     -78.54465,
-    -1.3652799999999998
+    -1.36528
 ],
   "geometry": {"coordinates":[-78.54465,-1.36528],"type":"Point"}
 }

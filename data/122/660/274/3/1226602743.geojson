@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-75.5412,-0.86982,-75.5012,-0.82982",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Puerto Miranda"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226602743,
-    "wof:lastmodified":1564205207,
+    "wof:lastmodified":1566584700,
     "wof:name":"Puerto Miranda",
     "wof:parent_id":421183147,
     "wof:placetype":"locality",

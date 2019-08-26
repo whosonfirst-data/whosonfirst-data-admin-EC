@@ -10,10 +10,14 @@
     "geom:latitude":-0.93703,
     "geom:longitude":-78.71134,
     "iso:country":"EC",
+    "lbl:bbox":"-78.73134,-0.95703,-78.69134,-0.91703",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tingo"
     ],
     "qs:gn_country":"EC",
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":3655935,
         "gp:id":372646,
-        "qs:id":988315
+        "qs_pg:id":988315
     },
     "wof:country":"EC",
     "wof:created":1459009397,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":421184015,
-    "wof:lastmodified":1501268354,
+    "wof:lastmodified":1566584505,
     "wof:name":"Hacienda Tingo",
     "wof:parent_id":421185497,
     "wof:placetype":"locality",

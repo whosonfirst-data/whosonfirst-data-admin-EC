@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-76.21345,0.35144,-76.17345,0.39144",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Santa Elena"
     ],
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":1225801641,
-    "wof:lastmodified":1564205231,
+    "wof:lastmodified":1566584711,
     "wof:name":"Santa Elena",
     "wof:parent_id":421166581,
     "wof:placetype":"locality",

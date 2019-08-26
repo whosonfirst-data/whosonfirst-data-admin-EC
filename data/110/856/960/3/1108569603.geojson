@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-2.911533,
     "lbl:longitude":-78.834076,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Azuay",
     "meso:gadm_hasc2":"EC.AZ.GL",
     "meso:gaul_adm2":"Gualaceo",
@@ -32,6 +34,7 @@
     "mps:longitude":-78.834076,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Gualaceo"
     ],
@@ -75,9 +78,9 @@
         "\u74dc\u62c9\u585e\u5967\u7e23"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-11-25",
+    "src:population_date":"2001-11-25",
     "statoids:area_km":"347",
     "statoids:as_of_date":"2001-11-25",
     "statoids:capital":"Gualaceo",
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":1108569603,
-    "wof:lastmodified":1563584378,
+    "wof:lastmodified":1566584322,
     "wof:name":"Gualaceo",
     "wof:parent_id":85670885,
     "wof:placetype":"county",

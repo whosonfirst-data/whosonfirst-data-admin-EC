@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-77.39924,-0.00326,-77.35924,0.03674",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u063a\u0648\u0646\u062b\u0627\u0644\u0648 \u0628\u064a\u062b\u0627\u0631\u0648"
     ],
@@ -110,7 +114,7 @@
         }
     ],
     "wof:id":1243412623,
-    "wof:lastmodified":1564204914,
+    "wof:lastmodified":1566584564,
     "wof:name":"Gonzalo Pizarro",
     "wof:parent_id":421171747,
     "wof:placetype":"locality",

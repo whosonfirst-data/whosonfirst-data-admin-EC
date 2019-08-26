@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-78.76761,0.09677,-78.72761,0.13677",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1226011061,
-    "wof:lastmodified":1536775895,
+    "wof:lastmodified":1566584742,
     "wof:name":"Gualea",
     "wof:parent_id":421188131,
     "wof:placetype":"locality",

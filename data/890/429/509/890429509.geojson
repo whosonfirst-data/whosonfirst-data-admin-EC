@@ -11,11 +11,15 @@
     "geom:longitude":-77.14083,
     "gn:country":"EC",
     "gn:fcode":"PPL",
-    "gn:pop":20313,
+    "gn:population":20313,
     "iso:country":"EC",
+    "lbl:bbox":"-77.16083,-0.71832,-77.12083,-0.67832",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":9.0,
+    "name:und_x_variant":[
         "Suno"
     ],
     "qs:name":"Boca Suno",
@@ -34,7 +38,7 @@
     "wof:concordances":{
         "gn:id":3660152,
         "gp:id":376189,
-        "qs:id":584574
+        "qs_pg:id":584574
     },
     "wof:country":"EC",
     "wof:created":1469051817,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":890429509,
-    "wof:lastmodified":1505343513,
+    "wof:lastmodified":1566584526,
     "wof:name":"Boca Suno",
     "wof:parent_id":1108572985,
     "wof:placetype":"locality",

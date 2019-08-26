@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-79.04314,-2.42741,-79.00314,-2.38741",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632261
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209215037,
-    "wof:lastmodified":1536294160,
+    "wof:lastmodified":1566584235,
     "wof:name":"General Morales",
     "wof:parent_id":85632261,
     "wof:placetype":"locality",

@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-0.352294,
     "lbl:longitude":-79.534218,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Manabi",
     "meso:gadm_hasc2":"EC.MN.EC",
     "meso:gaul_adm2":"El Carmen",
@@ -32,6 +34,7 @@
     "mps:longitude":-79.534218,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0646\u062a\u0648\u0646 \u0643\u0627\u0631\u0645\u0646"
     ],
@@ -81,9 +84,9 @@
         "\u57c3\u723e\u5361\u9580\u7e23"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-11-25",
+    "src:population_date":"2001-11-25",
     "statoids:area_km":"1245",
     "statoids:as_of_date":"2001-11-25",
     "statoids:capital":"El Carmen",
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":1108569025,
-    "wof:lastmodified":1563584380,
+    "wof:lastmodified":1566584323,
     "wof:name":"El Carmen",
     "wof:parent_id":85670927,
     "wof:placetype":"county",

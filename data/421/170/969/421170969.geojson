@@ -10,8 +10,12 @@
     "geom:latitude":-1.16948,
     "geom:longitude":-77.851055,
     "iso:country":"EC",
+    "lbl:bbox":"-77.951055,-1.26948,-77.751055,-1.06948",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0643\u0627\u0631\u0644\u0648\u0633 \u062e\u0648\u0644\u064a\u0648 \u0623\u0631\u0648\u0633\u064a\u0645\u064a\u0646\u0627 \u062a\u0648\u0644\u0639"
@@ -78,7 +82,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26809811,
-        "qs:id":1203903
+        "qs_pg:id":1203903
     },
     "wof:country":"EC",
     "wof:created":1459008876,
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":421170969,
-    "wof:lastmodified":1564204816,
+    "wof:lastmodified":1566584509,
     "wof:name":"Carlos Julio Arosemena Tola",
     "wof:parent_id":1108572985,
     "wof:placetype":"localadmin",

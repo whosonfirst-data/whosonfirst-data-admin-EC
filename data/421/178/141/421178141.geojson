@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-0.744402,
     "lbl:longitude":-79.084945,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Cotopaxi",
     "meso:gadm_hasc2":"EC.CT.LM",
     "meso:gaul_adm2":"La Mana",
@@ -32,6 +34,7 @@
     "mps:longitude":-79.084945,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "La Man\u00e1"
@@ -94,9 +97,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-11-25",
+    "src:population_date":"2001-11-25",
     "statoids:area_km":"647",
     "statoids:as_of_date":"2001-11-25",
     "statoids:capital":"La Man\u00e1",
@@ -117,7 +120,7 @@
     "wof:concordances":{
         "gp:id":26809572,
         "hasc:id":"EC.CT.LM",
-        "qs:id":44044,
+        "qs_pg:id":44044,
         "wd:id":"Q950390"
     },
     "wof:country":"EC",
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":421178141,
-    "wof:lastmodified":1563584790,
+    "wof:lastmodified":1566584516,
     "wof:name":"La Man\u00e1",
     "wof:parent_id":85670915,
     "wof:placetype":"county",

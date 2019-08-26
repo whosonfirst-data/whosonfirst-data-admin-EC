@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-78.82288,0.98124,-78.78288,1.02124",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ady_x_preferred":[
         "\u0421\u0443\u043a\u0440\u0435"
     ],
@@ -368,7 +372,7 @@
         }
     ],
     "wof:id":1293474235,
-    "wof:lastmodified":1564203896,
+    "wof:lastmodified":1566584019,
     "wof:name":"Sucre",
     "wof:parent_id":421171763,
     "wof:placetype":"locality",

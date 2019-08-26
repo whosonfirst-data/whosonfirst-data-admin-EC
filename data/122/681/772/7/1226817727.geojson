@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-77.32165,-0.90757,-77.28165,-0.86757",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1226817727,
-    "wof:lastmodified":1536609289,
+    "wof:lastmodified":1566584680,
     "wof:name":"Yuralpa",
     "wof:parent_id":1108572985,
     "wof:placetype":"locality",

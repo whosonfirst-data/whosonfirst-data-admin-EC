@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-78.6019,-1.71824,-78.5619,-1.67824",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1310623127,
-    "wof:lastmodified":1536747066,
+    "wof:lastmodified":1566584338,
     "wof:name":"Hacienda Puculpala",
     "wof:parent_id":421185337,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":-1.02642,
     "geom:longitude":-80.58351,
     "iso:country":"EC",
+    "lbl:bbox":"-80.60351,-1.04642,-80.56351,-1.00642",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"EC",
     "qs:gn_fcode":"PPL",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":3651170,
         "gp:id":376278,
-        "qs:id":909489
+        "qs_pg:id":909489
     },
     "wof:country":"EC",
     "wof:created":1459010049,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":421201033,
-    "wof:lastmodified":1500036609,
+    "wof:lastmodified":1566584504,
     "wof:name":"Sequita",
     "wof:parent_id":1108570471,
     "wof:placetype":"locality",

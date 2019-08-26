@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-1.045979,
     "lbl:longitude":-77.921077,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Napo",
     "meso:gadm_hasc2":"EC.NA.TE",
     "meso:gaul_adm2":"Tena",
@@ -32,6 +34,7 @@
     "mps:longitude":-77.921077,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0646\u062a\u0648\u0646 \u062a\u064a\u0646\u0627"
     ],
@@ -87,9 +90,9 @@
         "\u7279\u7d0d\u7e23"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-11-25",
+    "src:population_date":"2001-11-25",
     "statoids:area_km":"3904",
     "statoids:as_of_date":"2001-11-25",
     "statoids:capital":"Tena",
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":1108572985,
-    "wof:lastmodified":1563584360,
+    "wof:lastmodified":1566584315,
     "wof:name":"Tena",
     "wof:parent_id":85670953,
     "wof:placetype":"county",

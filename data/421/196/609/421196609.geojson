@@ -10,8 +10,12 @@
     "geom:latitude":-0.70036,
     "geom:longitude":-90.324096,
     "iso:country":"EC",
+    "lbl:bbox":"-90.424096,-0.80036,-90.224096,-0.60036",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:arg_x_preferred":[
         "Santa Cruz"
@@ -182,7 +186,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28358254,
-        "qs:id":1211195
+        "qs_pg:id":1211195
     },
     "wof:country":"EC",
     "wof:created":1459009887,
@@ -197,7 +201,7 @@
         }
     ],
     "wof:id":421196609,
-    "wof:lastmodified":1564204803,
+    "wof:lastmodified":1566584496,
     "wof:name":"Santa Cruz",
     "wof:parent_id":421183483,
     "wof:placetype":"localadmin",

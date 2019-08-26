@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-78.60243,-1.35733,-78.56243,-1.31733",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1343724547,
-    "wof:lastmodified":1536861388,
+    "wof:lastmodified":1566583962,
     "wof:name":"Benitez",
     "wof:parent_id":1108572289,
     "wof:placetype":"locality",

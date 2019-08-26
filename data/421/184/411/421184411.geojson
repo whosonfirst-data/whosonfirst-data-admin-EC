@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-1.560895,
     "lbl:longitude":-78.451226,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Chimborazo",
     "meso:gadm_hasc2":"EC.CB.PE",
     "meso:gaul_adm2":"Penipe",
@@ -32,6 +34,7 @@
     "mps:longitude":-78.451226,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Penipe"
@@ -91,9 +94,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-11-25",
+    "src:population_date":"2001-11-25",
     "statoids:area_km":"370",
     "statoids:as_of_date":"2001-11-25",
     "statoids:capital":"Penipe",
@@ -113,7 +116,7 @@
     "wof:concordances":{
         "gp:id":26809624,
         "hasc:id":"EC.CB.PE",
-        "qs:id":995778,
+        "qs_pg:id":995778,
         "wd:id":"Q2448780"
     },
     "wof:country":"EC",
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":421184411,
-    "wof:lastmodified":1563584771,
+    "wof:lastmodified":1566584507,
     "wof:name":"Penipe",
     "wof:parent_id":85670931,
     "wof:placetype":"county",

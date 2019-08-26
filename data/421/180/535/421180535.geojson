@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":0.675924,
     "lbl:longitude":-77.962958,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Carchi",
     "meso:gadm_hasc2":"EC.CR.ES",
     "meso:gaul_adm2":"Espejo",
@@ -29,6 +31,7 @@
     "mps:longitude":-77.962958,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Espejo"
@@ -103,9 +106,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-11-25",
+    "src:population_date":"2001-11-25",
     "statoids:area_km":"554",
     "statoids:as_of_date":"2001-11-25",
     "statoids:capital":"El Angel",
@@ -126,7 +129,7 @@
     "wof:concordances":{
         "gp:id":26809548,
         "hasc:id":"EC.CR.ES",
-        "qs:id":286230,
+        "qs_pg:id":286230,
         "wd:id":"Q733734"
     },
     "wof:country":"EC",
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":421180535,
-    "wof:lastmodified":1563584682,
+    "wof:lastmodified":1566584473,
     "wof:name":"Espejo",
     "wof:parent_id":85670967,
     "wof:placetype":"county",

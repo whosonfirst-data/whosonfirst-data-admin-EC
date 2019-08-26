@@ -9,10 +9,14 @@
     "geom:bbox":"-77.547769,-1.055486,-77.547769,-1.055486",
     "geom:latitude":-1.055486,
     "geom:longitude":-77.547769,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"EC",
+    "lbl:bbox":"-77.647769,-1.155486,-77.447769,-0.955486",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -60,7 +64,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26809705,
-        "qs:id":61254,
         "qs_pg:id":61254
     },
     "wof:country":"EC",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":421191249,
-    "wof:lastmodified":1534379289,
+    "wof:lastmodified":1566584498,
     "wof:name":"Ahuano",
     "wof:parent_id":1108572985,
     "wof:placetype":"localadmin",

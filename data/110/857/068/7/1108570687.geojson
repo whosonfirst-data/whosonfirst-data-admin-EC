@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-2.135915,
     "lbl:longitude":-79.377148,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Guayas",
     "meso:gadm_hasc2":"EC.GU.NT",
     "meso:gaul_adm2":"Naranjito",
@@ -32,6 +34,7 @@
     "mps:longitude":-79.377148,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Cant\u00f3n Naranjito"
     ],
@@ -75,9 +78,9 @@
         "\u7d0d\u862d\u5e0c\u6258\u7e23"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-11-25",
+    "src:population_date":"2001-11-25",
     "statoids:area_km":"226",
     "statoids:as_of_date":"2001-11-25",
     "statoids:capital":"Naranjito",
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":1108570687,
-    "wof:lastmodified":1563584361,
+    "wof:lastmodified":1566584315,
     "wof:name":"Naranjito",
     "wof:parent_id":85670917,
     "wof:placetype":"county",

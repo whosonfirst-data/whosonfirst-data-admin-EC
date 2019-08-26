@@ -10,8 +10,12 @@
     "geom:latitude":-3.988474,
     "geom:longitude":-79.204988,
     "iso:country":"EC",
+    "lbl:bbox":"-79.304988,-4.088474,-79.104988,-3.888474",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Loja"
@@ -110,7 +114,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26810141,
-        "qs:id":978527,
         "qs_pg:id":978527
     },
     "wof:country":"EC",
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421183469,
-    "wof:lastmodified":1564204821,
+    "wof:lastmodified":1566584513,
     "wof:name":"Loja",
     "wof:parent_id":421182159,
     "wof:placetype":"localadmin",

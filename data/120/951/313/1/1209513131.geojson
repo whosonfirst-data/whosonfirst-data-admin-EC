@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-78.7135,-1.60585,-78.6735,-1.56585",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "San-\u0130sidro"
     ],
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":1209513131,
-    "wof:lastmodified":1564204332,
+    "wof:lastmodified":1566584216,
     "wof:name":"San Isidro",
     "wof:parent_id":85632261,
     "wof:placetype":"locality",

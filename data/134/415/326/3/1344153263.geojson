@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-79.56938,0.06993,-79.52938,0.10993",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Conejo"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1344153263,
-    "wof:lastmodified":1564203675,
+    "wof:lastmodified":1566583901,
     "wof:name":"Conejo",
     "wof:parent_id":1108570759,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":-0.92777,
     "geom:longitude":-80.20583,
     "iso:country":"EC",
+    "lbl:bbox":"-80.22583,-0.94777,-80.18583,-0.90777",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0425\u0443\u043d\u0456\u043d"
@@ -94,7 +98,7 @@
     "wof:concordances":{
         "gn:id":3655385,
         "gp:id":375798,
-        "qs:id":1206911
+        "qs_pg:id":1206911
     },
     "wof:country":"EC",
     "wof:created":1459009163,
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":421177873,
-    "wof:lastmodified":1564204817,
+    "wof:lastmodified":1566584509,
     "wof:name":"Jun\u00edn",
     "wof:parent_id":1108569983,
     "wof:placetype":"locality",

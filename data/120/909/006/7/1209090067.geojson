@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-79.64264,-2.15464,-79.60264,-2.11464",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:glg_x_preferred":[
         "Matilde"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1209090067,
-    "wof:lastmodified":1564204219,
+    "wof:lastmodified":1566584160,
     "wof:name":"Matilde",
     "wof:parent_id":85632261,
     "wof:placetype":"locality",

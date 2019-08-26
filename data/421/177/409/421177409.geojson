@@ -10,8 +10,12 @@
     "geom:latitude":-2.846444,
     "geom:longitude":-78.983466,
     "iso:country":"EC",
+    "lbl:bbox":"-79.083466,-2.946444,-78.883466,-2.746444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Sidcay"
@@ -53,7 +57,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26810538,
-        "qs:id":1110371,
         "qs_pg:id":1110371
     },
     "wof:country":"EC",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":421177409,
-    "wof:lastmodified":1564204817,
+    "wof:lastmodified":1566584510,
     "wof:name":"Sidcay",
     "wof:parent_id":421185495,
     "wof:placetype":"localadmin",

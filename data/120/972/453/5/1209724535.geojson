@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-78.78304,-3.01705,-78.74304,-2.97705",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1209724535,
-    "wof:lastmodified":1536384845,
+    "wof:lastmodified":1566584242,
     "wof:name":"Delegsol",
     "wof:parent_id":421188121,
     "wof:placetype":"locality",

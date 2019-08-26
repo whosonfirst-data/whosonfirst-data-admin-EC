@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-78.98918,-3.15939,-78.94918,-3.11939",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1293305451,
-    "wof:lastmodified":1537047397,
+    "wof:lastmodified":1566583992,
     "wof:name":"San Jose de Raranga",
     "wof:parent_id":1108572789,
     "wof:placetype":"locality",

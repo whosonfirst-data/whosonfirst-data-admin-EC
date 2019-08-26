@@ -10,10 +10,14 @@
     "geom:latitude":-1.96276,
     "geom:longitude":-79.72402,
     "iso:country":"EC",
+    "lbl:bbox":"-79.82402,-2.06276,-79.62402,-1.86276",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Samrond\u00f3n"
     ],
     "qs:gn_country":"EC",
@@ -49,7 +53,6 @@
     "wof:concordances":{
         "gn:id":3652065,
         "gp:id":26810380,
-        "qs:id":149677,
         "qs_pg:id":149677
     },
     "wof:country":"EC",
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":421167777,
-    "wof:lastmodified":1505340587,
+    "wof:lastmodified":1566584463,
     "wof:name":"Samborondon",
     "wof:parent_id":421189217,
     "wof:placetype":"localadmin",

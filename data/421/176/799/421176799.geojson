@@ -10,8 +10,12 @@
     "geom:latitude":-0.8399,
     "geom:longitude":-78.667,
     "iso:country":"EC",
+    "lbl:bbox":"-78.687,-0.8599,-78.647,-0.8199",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Saquisil\u00ed"
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":3651251,
         "gp:id":375824,
-        "qs:id":1082728,
+        "qs_pg:id":1082728,
         "wd:id":"Q2621005",
         "wk:page":"Saquisil\u00ed"
     },
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":421176799,
-    "wof:lastmodified":1563584795,
+    "wof:lastmodified":1566584517,
     "wof:name":"Saquisil\u00ed",
     "wof:parent_id":421184855,
     "wof:placetype":"locality",

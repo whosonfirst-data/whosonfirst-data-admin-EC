@@ -10,6 +10,9 @@
     "geom:latitude":-1.34872,
     "geom:longitude":-80.57875,
     "iso:country":"EC",
+    "lbl:bbox":"-80.67875,-1.44872,-80.47875,-1.24872",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.7,
@@ -151,7 +154,6 @@
     "wof:concordances":{
         "gn:id":3655446,
         "gp:id":26810071,
-        "qs:id":274487,
         "qs_pg:id":274487
     },
     "wof:country":"EC",
@@ -167,7 +169,7 @@
         }
     ],
     "wof:id":421169113,
-    "wof:lastmodified":1564204770,
+    "wof:lastmodified":1566584466,
     "wof:name":"Jipijapa",
     "wof:parent_id":1108569923,
     "wof:placetype":"localadmin",

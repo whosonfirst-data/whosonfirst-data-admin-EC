@@ -10,8 +10,12 @@
     "geom:latitude":-1.31667,
     "geom:longitude":-78.51667,
     "iso:country":"EC",
+    "lbl:bbox":"-78.61667,-1.41667,-78.41667,-1.21667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Patate"
@@ -62,7 +66,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26810265,
-        "qs:id":911546
+        "qs_pg:id":911546
     },
     "wof:country":"EC",
     "wof:created":1459009472,
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":421186147,
-    "wof:lastmodified":1564204796,
+    "wof:lastmodified":1566584489,
     "wof:name":"Patate",
     "wof:parent_id":1108572289,
     "wof:placetype":"localadmin",

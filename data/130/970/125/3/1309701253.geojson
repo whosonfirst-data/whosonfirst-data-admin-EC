@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-80.1826,-2.573,-80.1426,-2.533",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Puertu Pizarro"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1309701253,
-    "wof:lastmodified":1564204718,
+    "wof:lastmodified":1566584431,
     "wof:name":"Puerto Pizarro",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

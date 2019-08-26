@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-79.94464,-1.48245,-79.90464,-1.44245",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Enriqueta"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1209704703,
-    "wof:lastmodified":1564204267,
+    "wof:lastmodified":1566584185,
     "wof:name":"Enriqueta",
     "wof:parent_id":1108567949,
     "wof:placetype":"locality",

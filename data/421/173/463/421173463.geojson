@@ -10,8 +10,12 @@
     "geom:latitude":-3.691911,
     "geom:longitude":-79.614841,
     "iso:country":"EC",
+    "lbl:bbox":"-79.7148415,-3.7919115,-79.5148415,-3.5919115",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Zaruma"
@@ -65,7 +69,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26810651,
-        "qs:id":288316
+        "qs_pg:id":288316
     },
     "wof:country":"EC",
     "wof:created":1459008983,
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":421173463,
-    "wof:lastmodified":1564204779,
+    "wof:lastmodified":1566584476,
     "wof:name":"Zaruma",
     "wof:parent_id":421184733,
     "wof:placetype":"localadmin",

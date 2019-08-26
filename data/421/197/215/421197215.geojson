@@ -10,6 +10,9 @@
     "geom:latitude":0.61129,
     "geom:longitude":-80.01863,
     "iso:country":"EC",
+    "lbl:bbox":"-80.03863,0.59129,-79.99863,0.63129",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":7.0,
@@ -181,7 +184,7 @@
     "wof:concordances":{
         "gn:id":3653967,
         "gp:id":375875,
-        "qs:id":44588,
+        "qs_pg:id":44588,
         "wd:id":"Q6933279",
         "wk:page":"Muisne"
     },
@@ -198,7 +201,7 @@
         }
     ],
     "wof:id":421197215,
-    "wof:lastmodified":1563584751,
+    "wof:lastmodified":1566584500,
     "wof:name":"Muisne",
     "wof:parent_id":421169435,
     "wof:placetype":"locality",

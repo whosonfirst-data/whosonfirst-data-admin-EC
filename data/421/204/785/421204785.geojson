@@ -10,8 +10,12 @@
     "geom:latitude":-3.699189,
     "geom:longitude":-79.628391,
     "iso:country":"EC",
+    "lbl:bbox":"-79.728391,-3.799189,-79.528391,-3.599189",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Portovelo"
@@ -50,7 +54,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26810299,
-        "qs:id":248397
+        "qs_pg:id":248397
     },
     "wof:country":"EC",
     "wof:created":1459010197,
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":421204785,
-    "wof:lastmodified":1564204771,
+    "wof:lastmodified":1566584467,
     "wof:name":"Portovelo",
     "wof:parent_id":421189213,
     "wof:placetype":"localadmin",

@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-3.607337,
     "lbl:longitude":-78.944787,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Zamora Chinchipe",
     "meso:gadm_hasc2":"EC.ZC.YC",
     "meso:gaul_adm2":"Yacuambi",
@@ -32,6 +34,7 @@
     "mps:longitude":-78.944787,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Cant\u00f3n Yacuambi"
     ],
@@ -78,9 +81,9 @@
         "\u4e9e\u5eab\u5b89\u6bd4\u7e23"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-11-25",
+    "src:population_date":"2001-11-25",
     "statoids:area_km":"1242",
     "statoids:as_of_date":"2001-11-25",
     "statoids:capital":"Yacuambi",
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":1108573293,
-    "wof:lastmodified":1563584362,
+    "wof:lastmodified":1566584316,
     "wof:name":"Yacuambi",
     "wof:parent_id":85670895,
     "wof:placetype":"county",

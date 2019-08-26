@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-78.63667,-1.03667,-78.59667,-0.99667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1327254965,
-    "wof:lastmodified":1536937820,
+    "wof:lastmodified":1566583816,
     "wof:name":"Sigchoscalle",
     "wof:parent_id":421171759,
     "wof:placetype":"locality",

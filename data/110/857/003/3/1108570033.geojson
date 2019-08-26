@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-1.29056,
     "lbl:longitude":-79.287916,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Bolivar",
     "meso:gadm_hasc2":"EC.BO.LN",
     "meso:gaul_adm2":"Las Naves",
@@ -32,6 +34,7 @@
     "mps:longitude":-79.287916,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Las Naves Canton"
     ],
@@ -90,9 +93,9 @@
         "\u62c9\u65af\u7d0d\u97cb\u65af\u7e23"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-11-25",
+    "src:population_date":"2001-11-25",
     "statoids:area_km":"147",
     "statoids:as_of_date":"2001-11-25",
     "statoids:capital":"Las Naves",
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":1108570033,
-    "wof:lastmodified":1563584358,
+    "wof:lastmodified":1566584314,
     "wof:name":"Las Naves",
     "wof:parent_id":85670905,
     "wof:placetype":"county",

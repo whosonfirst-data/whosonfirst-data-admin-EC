@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-78.85577,1.34707,-78.81577,1.38707",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "El Viento"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1193121601,
-    "wof:lastmodified":1564204406,
+    "wof:lastmodified":1566584255,
     "wof:name":"El Viento",
     "wof:parent_id":421171763,
     "wof:placetype":"locality",

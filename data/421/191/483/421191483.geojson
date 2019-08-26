@@ -10,8 +10,12 @@
     "geom:latitude":-3.970594,
     "geom:longitude":-79.021338,
     "iso:country":"EC",
+    "lbl:bbox":"-79.121338,-4.0705935,-78.921338,-3.8705935",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Sabanilla"
@@ -83,7 +87,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26810370,
-        "qs:id":1137357,
         "qs_pg:id":1137357
     },
     "wof:country":"EC",
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":421191483,
-    "wof:lastmodified":1564204805,
+    "wof:lastmodified":1566584496,
     "wof:name":"Sabanilla",
     "wof:parent_id":421182449,
     "wof:placetype":"localadmin",

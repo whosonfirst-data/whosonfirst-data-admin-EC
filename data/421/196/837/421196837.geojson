@@ -10,10 +10,14 @@
     "geom:latitude":-4.21901,
     "geom:longitude":-79.26008,
     "iso:country":"EC",
+    "lbl:bbox":"-79.28008,-4.23901,-79.24008,-4.19901",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Valladolid"
     ],
     "qs:gn_country":"EC",
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":3654484,
         "gp:id":376122,
-        "qs:id":893978
+        "qs_pg:id":893978
     },
     "wof:country":"EC",
     "wof:created":1459009894,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":421196837,
-    "wof:lastmodified":1501268353,
+    "wof:lastmodified":1566584495,
     "wof:name":"Malacatos",
     "wof:parent_id":421182159,
     "wof:placetype":"locality",

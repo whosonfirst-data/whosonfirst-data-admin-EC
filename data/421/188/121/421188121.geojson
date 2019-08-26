@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-2.997365,
     "lbl:longitude":-78.733472,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Azuay",
     "meso:gadm_hasc2":"EC.AZ.CH",
     "meso:gaul_adm2":"Chordeleg",
@@ -29,6 +31,7 @@
     "mps:longitude":-78.733472,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Chordeleg"
@@ -88,9 +91,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-11-25",
+    "src:population_date":"2001-11-25",
     "statoids:area_km":"105",
     "statoids:as_of_date":"2001-11-25",
     "statoids:capital":"Chordeleg",
@@ -113,7 +116,7 @@
     "wof:concordances":{
         "gp:id":26809523,
         "hasc:id":"EC.AZ.CH",
-        "qs:id":1087913,
+        "qs_pg:id":1087913,
         "wd:id":"Q768756"
     },
     "wof:country":"EC",
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":421188121,
-    "wof:lastmodified":1563584706,
+    "wof:lastmodified":1566584484,
     "wof:name":"Chordeleg",
     "wof:parent_id":85670885,
     "wof:placetype":"county",

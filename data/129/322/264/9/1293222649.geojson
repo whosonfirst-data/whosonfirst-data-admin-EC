@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-78.84384,-2.29459,-78.80384,-2.25459",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1293222649,
-    "wof:lastmodified":1536671810,
+    "wof:lastmodified":1566584021,
     "wof:name":"Sevilla",
     "wof:parent_id":421196577,
     "wof:placetype":"locality",

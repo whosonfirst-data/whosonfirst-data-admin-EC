@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-2.750507,
     "lbl:longitude":-78.73305,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Azuay",
     "meso:gadm_hasc2":"EC.AZ.PA",
     "meso:gaul_adm2":"Paute",
@@ -32,6 +34,7 @@
     "mps:longitude":-78.73305,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Cant\u00f3n Paute"
@@ -97,9 +100,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-11-25",
+    "src:population_date":"2001-11-25",
     "statoids:area_km":"267",
     "statoids:as_of_date":"2001-11-25",
     "statoids:capital":"Paute",
@@ -119,7 +122,7 @@
     "wof:concordances":{
         "gp:id":26809619,
         "hasc:id":"EC.AZ.PA",
-        "qs:id":911537,
+        "qs_pg:id":911537,
         "wd:id":"Q2449101"
     },
     "wof:country":"EC",
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":421193503,
-    "wof:lastmodified":1563584649,
+    "wof:lastmodified":1566584461,
     "wof:name":"Paute",
     "wof:parent_id":85670885,
     "wof:placetype":"county",

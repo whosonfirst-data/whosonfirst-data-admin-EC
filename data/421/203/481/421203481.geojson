@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-2.290904,
     "lbl:longitude":-80.886237,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Santa Elena",
     "meso:gadm_hasc2":"EC.GU.SS",
     "meso:gaul_adm2":"Salinas",
@@ -29,6 +31,7 @@
     "mps:longitude":-80.886237,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Salinas"
@@ -169,9 +172,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-11-25",
+    "src:population_date":"2001-11-25",
     "statoids:area_km":"69",
     "statoids:as_of_date":"2001-11-25",
     "statoids:capital":"Salinas",
@@ -192,7 +195,7 @@
     "wof:concordances":{
         "gp:id":26809651,
         "hasc:id":"EC.SE.SS",
-        "qs:id":978468,
+        "qs_pg:id":978468,
         "wd:id":"Q1992844"
     },
     "wof:country":"EC",
@@ -207,7 +210,7 @@
         }
     ],
     "wof:id":421203481,
-    "wof:lastmodified":1563584674,
+    "wof:lastmodified":1566584470,
     "wof:name":"Salinas",
     "wof:parent_id":85670979,
     "wof:placetype":"county",

@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-1.556262,
     "lbl:longitude":-79.772662,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Los Rios",
     "meso:gadm_hasc2":"EC.LR.VI",
     "meso:gaul_adm2":"Vinces",
@@ -32,6 +34,7 @@
     "mps:longitude":-79.772662,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Cant\u00f3n Vinces"
@@ -94,9 +97,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-11-25",
+    "src:population_date":"2001-11-25",
     "statoids:area_km":"693",
     "statoids:as_of_date":"2001-11-25",
     "statoids:capital":"Vinces",
@@ -117,7 +120,7 @@
     "wof:concordances":{
         "gp:id":26809693,
         "hasc:id":"EC.LR.VI",
-        "qs:id":286231,
+        "qs_pg:id":286231,
         "wd:id":"Q1707682"
     },
     "wof:country":"EC",
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":421173271,
-    "wof:lastmodified":1563584693,
+    "wof:lastmodified":1566584477,
     "wof:name":"Vinces",
     "wof:parent_id":85670923,
     "wof:placetype":"county",

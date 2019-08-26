@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-79.82743,-1.84404,-79.78743,-1.80404",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Palo Seco"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1360069095,
-    "wof:lastmodified":1564204655,
+    "wof:lastmodified":1566584400,
     "wof:name":"Palo Seco",
     "wof:parent_id":1108573139,
     "wof:placetype":"locality",

@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-2.029686,
     "lbl:longitude":-78.615122,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Chimborazo",
     "meso:gadm_hasc2":"EC.CB.GM",
     "meso:gaul_adm2":"Guamote",
@@ -32,6 +34,7 @@
     "mps:longitude":-78.615122,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Cant\u00f3n Guamote"
@@ -97,9 +100,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-11-25",
+    "src:population_date":"2001-11-25",
     "statoids:area_km":"1216",
     "statoids:as_of_date":"2001-11-25",
     "statoids:capital":"Guamote",
@@ -120,7 +123,7 @@
     "wof:concordances":{
         "gp:id":26809558,
         "hasc:id":"EC.CB.GM",
-        "qs:id":61222,
+        "qs_pg:id":61222,
         "wd:id":"Q2448699"
     },
     "wof:country":"EC",
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":421191235,
-    "wof:lastmodified":1563584744,
+    "wof:lastmodified":1566584497,
     "wof:name":"Guamote",
     "wof:parent_id":85670931,
     "wof:placetype":"county",

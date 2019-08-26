@@ -10,8 +10,12 @@
     "geom:latitude":-1.3956,
     "geom:longitude":-78.39616,
     "iso:country":"EC",
+    "lbl:bbox":"-78.41616,-1.4156,-78.37616,-1.3756",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"EC",
     "qs:gn_fcode":"PPL",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":3650380,
         "gp:id":375517,
-        "qs:id":1033516
+        "qs_pg:id":1033516
     },
     "wof:country":"EC",
     "wof:created":1459009081,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":421175841,
-    "wof:lastmodified":1500036651,
+    "wof:lastmodified":1566584494,
     "wof:name":"Ulba",
     "wof:parent_id":1108567995,
     "wof:placetype":"locality",

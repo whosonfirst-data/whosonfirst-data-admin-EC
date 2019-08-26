@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-75.36259,-0.96696,-75.32259,-0.92696",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "San Antonio"
     ],
@@ -380,7 +384,7 @@
         }
     ],
     "wof:id":1293056967,
-    "wof:lastmodified":1564203946,
+    "wof:lastmodified":1566584037,
     "wof:name":"San Antonio",
     "wof:parent_id":421183147,
     "wof:placetype":"locality",

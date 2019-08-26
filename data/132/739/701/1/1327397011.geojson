@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-79.21523,0.27007,-79.17523,0.31007",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1327397011,
-    "wof:lastmodified":1536732221,
+    "wof:lastmodified":1566583780,
     "wof:name":"Nueva Esperanza",
     "wof:parent_id":421190531,
     "wof:placetype":"locality",

@@ -10,6 +10,9 @@
     "geom:latitude":-4.06685,
     "geom:longitude":-78.95488,
     "iso:country":"EC",
+    "lbl:bbox":"-78.97488,-4.08685,-78.93488,-4.04685",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -209,7 +212,7 @@
     "wof:concordances":{
         "gn:id":3649959,
         "gp:id":375837,
-        "qs:id":1045832,
+        "qs_pg:id":1045832,
         "wd:id":"Q2283736",
         "wk:page":"Zamora, Ecuador"
     },
@@ -226,7 +229,7 @@
         }
     ],
     "wof:id":421176325,
-    "wof:lastmodified":1563584797,
+    "wof:lastmodified":1566584518,
     "wof:name":"Zamora",
     "wof:parent_id":421182449,
     "wof:placetype":"locality",

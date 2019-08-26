@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-79.65939,-1.88052,-79.61939,-1.84052",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Guarumal"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1209601541,
-    "wof:lastmodified":1564204321,
+    "wof:lastmodified":1566584213,
     "wof:name":"Guarumal",
     "wof:parent_id":85632261,
     "wof:placetype":"locality",

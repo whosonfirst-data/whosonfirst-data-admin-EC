@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-2.520297,
     "lbl:longitude":-79.025462,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Ca\u00f1ar",
     "mps:latitude":-2.563761,
     "mps:longitude":-78.889378,
@@ -169,7 +170,7 @@
         "Ca\u00f1ar"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bbe\u0ba3\u0bbe\u0bb0\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b95\u0bbe\u0ba3\u0bbe\u0bb0\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c3e\u0c28\u0c3e\u0c30\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -186,7 +187,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043d\u044c\u044f\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Provincia del Ca\u00f1ar"
     ],
     "name:urd_x_preferred":[
@@ -273,9 +274,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-11-28",
+    "src:population_date":"2010-11-28",
     "statoids:area_km":"3,122",
     "statoids:area_mi":"1,205",
     "statoids:as_of_date":"2010-11-28",
@@ -300,7 +301,7 @@
         "gp:id":2345205,
         "hasc:id":"EC.CN",
         "iso:id":"EC-F",
-        "qs:id":423737,
+        "qs_pg:id":423737,
         "unlc:id":"EC-F",
         "wd:id":"Q335471",
         "wk:page":"Ca\u00f1ar Province"
@@ -323,11 +324,10 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1565673134,
+    "wof:lastmodified":1566583974,
     "wof:name":"Ca\u00f1ar",
     "wof:parent_id":85632261,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":225184,
     "wof:population_rank":10,

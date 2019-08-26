@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-0.863467,
     "lbl:longitude":-76.189399,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Orellana",
     "mps:latitude":-0.86093,
     "mps:longitude":-76.205851,
@@ -189,7 +190,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0440\u0435\u043b\u044c\u044f\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Provincia de Francisco de Orellana"
     ],
     "name:urd_x_preferred":[
@@ -276,9 +277,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-11-28",
+    "src:population_date":"2010-11-28",
     "statoids:area_km":"22,500",
     "statoids:area_mi":"8,700",
     "statoids:as_of_date":"2010-11-28",
@@ -303,7 +304,7 @@
         "gp:id":20070099,
         "hasc:id":"EC.OR",
         "iso:id":"EC-D",
-        "qs:id":424304,
+        "qs_pg:id":424304,
         "unlc:id":"EC-D",
         "wd:id":"Q499475",
         "wk:page":"Orellana Province"
@@ -326,11 +327,10 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1565673134,
+    "wof:lastmodified":1566583975,
     "wof:name":"Orellana",
     "wof:parent_id":85632261,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":136396,
     "wof:population_rank":9,
