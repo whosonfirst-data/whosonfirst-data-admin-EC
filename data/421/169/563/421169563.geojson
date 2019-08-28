@@ -10,6 +10,9 @@
     "geom:latitude":-3.99313,
     "geom:longitude":-79.20422,
     "iso:country":"EC",
+    "lbl:bbox":"-79.22422,-4.01313,-79.18422,-3.97313",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -303,7 +306,7 @@
         "gn:id":3654667,
         "gp:id":375740,
         "loc:id":"n84221559",
-        "qs:id":211182,
+        "qs_pg:id":211182,
         "wd:id":"Q944697",
         "wk:page":"Loja, Ecuador"
     },
@@ -320,7 +323,7 @@
         }
     ],
     "wof:id":421169563,
-    "wof:lastmodified":1563584662,
+    "wof:lastmodified":1566584465,
     "wof:name":"Loja",
     "wof:parent_id":421182159,
     "wof:placetype":"locality",

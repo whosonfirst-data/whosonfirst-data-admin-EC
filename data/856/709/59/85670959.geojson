@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-1.271735,
     "lbl:longitude":-78.513185,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Tungurahua",
     "mps:latitude":-0.793048,
     "mps:longitude":-77.94945,
@@ -179,9 +180,6 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u043f\u043e"
     ],
-    "name:unk_x_variant":[
-        "Napo"
-    ],
     "name:urd_x_preferred":[
         "\u0646\u0627\u067e\u0648 \u0635\u0648\u0628\u06c1"
     ],
@@ -266,9 +264,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-11-28",
+    "src:population_date":"2010-11-28",
     "statoids:area_km":"3,335",
     "statoids:area_mi":"1,288",
     "statoids:as_of_date":"2010-11-28",
@@ -292,7 +290,7 @@
         "gp:id":2345217,
         "hasc:id":"EC.TU",
         "iso:id":"EC-T",
-        "qs:id":219547,
+        "qs_pg:id":219547,
         "wd:id":"Q211900",
         "wk:page":"Napo Province"
     },
@@ -314,11 +312,10 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1565673132,
+    "wof:lastmodified":1566583970,
     "wof:name":"Tungurahua",
     "wof:parent_id":85632261,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":504583,
     "wof:population_rank":11,

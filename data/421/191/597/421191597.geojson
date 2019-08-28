@@ -10,8 +10,12 @@
     "geom:latitude":0.174064,
     "geom:longitude":-78.206863,
     "iso:country":"EC",
+    "lbl:bbox":"-78.306863,0.074064,-78.106863,0.274064",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -44,7 +48,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26810003,
-        "qs:id":61279,
         "qs_pg:id":61279
     },
     "wof:country":"EC",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":421191597,
-    "wof:lastmodified":1497046108,
+    "wof:lastmodified":1566584498,
     "wof:name":"Gonzalez Suarez",
     "wof:parent_id":421171751,
     "wof:placetype":"localadmin",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":0.709123,
     "lbl:longitude":-79.218431,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Esmeraldas",
     "mps:latitude":0.698127,
     "mps:longitude":-79.225965,
@@ -189,9 +190,6 @@
     "name:ukr_x_preferred":[
         "\u0415\u0441\u043c\u0435\u0440\u0430\u043b\u044c\u0434\u0430\u0441"
     ],
-    "name:unk_x_variant":[
-        "Provincia de Esmeraldas"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u06cc\u0632\u0645\u06cc\u0631\u0627\u062f\u0627\u0633 \u0635\u0648\u0628\u06c1"
     ],
@@ -276,9 +274,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-11-28",
+    "src:population_date":"2010-11-28",
     "statoids:area_km":"15,239",
     "statoids:area_mi":"5,884",
     "statoids:as_of_date":"2010-11-28",
@@ -303,7 +301,7 @@
         "gp:id":2345210,
         "hasc:id":"EC.ES",
         "iso:id":"EC-E",
-        "qs:id":235589,
+        "qs_pg:id":235589,
         "unlc:id":"EC-E",
         "wd:id":"Q335526",
         "wk:page":"Esmeraldas Province"
@@ -326,11 +324,10 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1565673134,
+    "wof:lastmodified":1566583974,
     "wof:name":"Esmeraldas",
     "wof:parent_id":85632261,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":534092,
     "wof:population_rank":11,

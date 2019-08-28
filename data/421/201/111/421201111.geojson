@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-1.896683,
     "lbl:longitude":-79.926093,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Guayas",
     "meso:gadm_hasc2":"EC.GU.DA",
     "meso:gaul_adm2":"Daule",
@@ -32,6 +34,7 @@
     "mps:longitude":-79.926093,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Cant\u00f3n Daule"
@@ -97,9 +100,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-11-25",
+    "src:population_date":"2001-11-25",
     "statoids:area_km":"462",
     "statoids:as_of_date":"2001-11-25",
     "statoids:capital":"Daule",
@@ -120,7 +123,7 @@
     "wof:concordances":{
         "gp:id":26809533,
         "hasc:id":"EC.GY.DA",
-        "qs:id":911528,
+        "qs_pg:id":911528,
         "wd:id":"Q1990162"
     },
     "wof:country":"EC",
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":421201111,
-    "wof:lastmodified":1563584758,
+    "wof:lastmodified":1566584503,
     "wof:name":"Daule",
     "wof:parent_id":85670917,
     "wof:placetype":"county",

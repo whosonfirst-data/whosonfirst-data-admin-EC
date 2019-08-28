@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-80.10057,-0.421,-80.06057,-0.381",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0625\u0644\u0648\u064a \u0623\u0644\u0641\u0627\u0631\u0648"
     ],
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":1310671731,
-    "wof:lastmodified":1564204629,
+    "wof:lastmodified":1566584387,
     "wof:name":"Eloy Alfaro",
     "wof:parent_id":421189211,
     "wof:placetype":"locality",

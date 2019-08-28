@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-78.48667,-2.22,-78.44667,-2.18",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310297601,
-    "wof:lastmodified":1536719702,
+    "wof:lastmodified":1566584366,
     "wof:name":"Tambillo",
     "wof:parent_id":421191241,
     "wof:placetype":"locality",

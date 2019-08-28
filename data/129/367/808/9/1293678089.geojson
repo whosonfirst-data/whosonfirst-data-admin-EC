@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-79.80333,-1.95333,-79.76333,-1.91333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Cleopatra"
     ],
@@ -365,7 +369,7 @@
         }
     ],
     "wof:id":1293678089,
-    "wof:lastmodified":1564203941,
+    "wof:lastmodified":1566584036,
     "wof:name":"Cleopatra",
     "wof:parent_id":421189217,
     "wof:placetype":"locality",

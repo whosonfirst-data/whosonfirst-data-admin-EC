@@ -10,8 +10,12 @@
     "geom:latitude":-0.15758,
     "geom:longitude":-78.43886,
     "iso:country":"EC",
+    "lbl:bbox":"-78.45886,-0.17758,-78.41886,-0.13758",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Nayon"
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":3653845,
         "gp:id":373797,
-        "qs:id":1165323,
+        "qs_pg:id":1165323,
         "wd:id":"Q16937232"
     },
     "wof:country":"EC",
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":421192151,
-    "wof:lastmodified":1563584631,
+    "wof:lastmodified":1566584453,
     "wof:name":"Nay\u00f3n",
     "wof:parent_id":421188131,
     "wof:placetype":"locality",

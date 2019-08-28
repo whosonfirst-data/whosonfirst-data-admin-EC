@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-76.88444,-0.00167,-76.84444,0.03833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632261
@@ -36,7 +40,7 @@
         "gn:id":3650358
     },
     "wof:country":"EC",
-    "wof:geomhash":"7179710ba6cadb484183387a218c9f8e",
+    "wof:geomhash":"615286a173d7b465ca1676c8571588ce",
     "wof:hierarchy":[
         {
             "country_id":85632261,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209484127,
-    "wof:lastmodified":1536285690,
+    "wof:lastmodified":1566584183,
     "wof:name":"Union Oriental",
     "wof:parent_id":85632261,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     -76.86444,
-    0.018330000000000003,
+    0.01833,
     -76.86444,
-    0.018330000000000003
+    0.01833
 ],
   "geometry": {"coordinates":[-76.86444,0.01833],"type":"Point"}
 }

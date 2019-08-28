@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-1.406186,
     "lbl:longitude":-80.57091,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Manabi",
     "meso:gadm_hasc2":"EC.MN.JJ",
     "meso:gaul_adm2":"Jipijapa",
@@ -32,6 +34,7 @@
     "mps:longitude":-80.57091,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Cant\u00f3n Jipijapa"
     ],
@@ -75,9 +78,9 @@
         "\u5e0c\u76ae\u54c8\u5e15\u7e23"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-11-25",
+    "src:population_date":"2001-11-25",
     "statoids:area_km":"1401",
     "statoids:as_of_date":"2001-11-25",
     "statoids:capital":"Jipijapa",
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":1108569923,
-    "wof:lastmodified":1563584377,
+    "wof:lastmodified":1566584321,
     "wof:name":"Jipijapa",
     "wof:parent_id":85670927,
     "wof:placetype":"county",

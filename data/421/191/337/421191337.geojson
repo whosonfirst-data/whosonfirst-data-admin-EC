@@ -10,6 +10,9 @@
     "geom:latitude":1.28626,
     "geom:longitude":-78.83514,
     "iso:country":"EC",
+    "lbl:bbox":"-78.93514,1.18626,-78.73514,1.38626",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.7,
@@ -107,7 +110,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u041b\u043e\u0440\u0435\u043d\u0441\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Puerto San Lorenzo"
     ],
     "name:vep_x_preferred":[
@@ -244,7 +247,7 @@
     "wof:concordances":{
         "gn:id":3651694,
         "gp:id":26810448,
-        "qs:id":62600
+        "qs_pg:id":62600
     },
     "wof:country":"EC",
     "wof:created":1459009689,
@@ -259,7 +262,7 @@
         }
     ],
     "wof:id":421191337,
-    "wof:lastmodified":1564204805,
+    "wof:lastmodified":1566584496,
     "wof:name":"San Lorenzo",
     "wof:parent_id":421171763,
     "wof:placetype":"localadmin",

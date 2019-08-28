@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-79.24838,-0.61279,-79.20838,-0.57279",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632261
@@ -36,7 +40,7 @@
         "gn:id":8472513
     },
     "wof:country":"EC",
-    "wof:geomhash":"262c366902835027dcd5a3dc979de3c4",
+    "wof:geomhash":"61552622711506d0c3cf6962efdfe07d",
     "wof:hierarchy":[
         {
             "country_id":85632261,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209061167,
-    "wof:lastmodified":1536298949,
+    "wof:lastmodified":1566584170,
     "wof:name":"Fuerzas Unidas",
     "wof:parent_id":85632261,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     -79.22838,
-    -0.5927899999999999,
+    -0.59279,
     -79.22838,
-    -0.5927899999999999
+    -0.59279
 ],
   "geometry": {"coordinates":[-79.22838,-0.59279],"type":"Point"}
 }

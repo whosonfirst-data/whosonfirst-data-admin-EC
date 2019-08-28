@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-0.053111,
     "lbl:longitude":-79.221105,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Santo Domingo de los Ts\u00e1chilas",
     "meso:gadm_hasc2":"EC.PI.SM",
     "meso:gaul_adm2":"Santo Domingo",
@@ -32,11 +34,12 @@
     "mps:longitude":-79.221105,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "San Miguel de los Bancos"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632261,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1108572179,
-    "wof:lastmodified":1555047462,
+    "wof:lastmodified":1566584305,
     "wof:name":"San Miguel de los Bancos",
     "wof:parent_id":85670983,
     "wof:placetype":"county",

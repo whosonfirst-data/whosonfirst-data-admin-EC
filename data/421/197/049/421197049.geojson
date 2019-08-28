@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-0.006504,
     "lbl:longitude":-78.051751,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Pichincha",
     "meso:gadm_hasc2":"EC.PI.CA",
     "meso:gaul_adm2":"Cayambe",
@@ -29,6 +31,7 @@
     "mps:longitude":-78.051751,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Cant\u00f3n Cayambe"
@@ -109,9 +112,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-11-25",
+    "src:population_date":"2001-11-25",
     "statoids:area_km":"1189",
     "statoids:as_of_date":"2001-11-25",
     "statoids:capital":"Cayambe",
@@ -132,7 +135,7 @@
     "wof:concordances":{
         "gp:id":26809513,
         "hasc:id":"EC.PC.CA",
-        "qs:id":1289870,
+        "qs_pg:id":1289870,
         "wd:id":"Q1990489"
     },
     "wof:country":"EC",
@@ -147,7 +150,7 @@
         }
     ],
     "wof:id":421197049,
-    "wof:lastmodified":1563584750,
+    "wof:lastmodified":1566584500,
     "wof:name":"Cayambe",
     "wof:parent_id":85670945,
     "wof:placetype":"county",

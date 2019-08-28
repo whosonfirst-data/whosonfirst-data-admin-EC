@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-1.523428,
     "lbl:longitude":-79.592441,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Los Rios",
     "mps:latitude":-1.508778,
     "mps:longitude":-79.578462,
@@ -176,7 +177,7 @@
         "Los R\u00edos"
     ],
     "name:tam_x_preferred":[
-        "\u0bb2\u0bbe\u0bb8\u0bcd  \u0bb0\u0bbf\u0baf\u0bcb\u0bb8\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0bb2\u0bbe\u0bb8\u0bcd \u0bb0\u0bbf\u0baf\u0bcb\u0bb8\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c32\u0c3e\u0c38\u0c4d \u0c30\u0c3f\u0c2f\u0c4b\u0c38\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -192,9 +193,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041b\u043e\u0441-\u0420\u0456\u043e\u0441"
-    ],
-    "name:unk_x_variant":[
-        "Los R\u00edos"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u0633 \u0631\u06cc\u0648\u0633 \u0635\u0648\u0628\u06c1"
@@ -280,9 +278,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-11-28",
+    "src:population_date":"2010-11-28",
     "statoids:area_km":"7,175",
     "statoids:area_mi":"2,770",
     "statoids:as_of_date":"2010-11-28",
@@ -306,7 +304,7 @@
         "gp:id":2345214,
         "hasc:id":"EC.LR",
         "iso:id":"EC-R",
-        "qs:id":423743,
+        "qs_pg:id":423743,
         "wd:id":"Q504260",
         "wk:page":"Los R\u00edos Province"
     },
@@ -328,11 +326,10 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1565673135,
+    "wof:lastmodified":1566583977,
     "wof:name":"Los Rios",
     "wof:parent_id":85632261,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":778115,
     "wof:population_rank":11,

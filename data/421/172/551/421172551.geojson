@@ -10,8 +10,12 @@
     "geom:latitude":-1.482849,
     "geom:longitude":-77.991771,
     "iso:country":"EC",
+    "lbl:bbox":"-78.091771,-1.582849,-77.891771,-1.382849",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Puyo"
@@ -62,7 +66,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26810335,
-        "qs:id":1313109
+        "qs_pg:id":1313109
     },
     "wof:country":"EC",
     "wof:created":1459008946,
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":421172551,
-    "wof:lastmodified":1564204790,
+    "wof:lastmodified":1566584485,
     "wof:name":"Puyo",
     "wof:parent_id":421185499,
     "wof:placetype":"localadmin",

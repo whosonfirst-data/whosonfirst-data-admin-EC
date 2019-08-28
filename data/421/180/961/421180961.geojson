@@ -10,8 +10,12 @@
     "geom:latitude":-0.044589,
     "geom:longitude":-80.139656,
     "iso:country":"EC",
+    "lbl:bbox":"-80.239656,-0.144589,-80.039656,0.055411",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Pedernales"
@@ -77,7 +81,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26810268,
-        "qs:id":587511,
         "qs_pg:id":587511
     },
     "wof:country":"EC",
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":421180961,
-    "wof:lastmodified":1564204777,
+    "wof:lastmodified":1566584474,
     "wof:name":"Pedernales",
     "wof:parent_id":1108571251,
     "wof:placetype":"localadmin",

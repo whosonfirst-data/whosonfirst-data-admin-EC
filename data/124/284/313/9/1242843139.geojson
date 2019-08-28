@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"EC",
+    "lbl:bbox":"-77.48667,0.39667,-77.44667,0.43667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Industria"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1242843139,
-    "wof:lastmodified":1564204962,
+    "wof:lastmodified":1566584588,
     "wof:name":"Industria",
     "wof:parent_id":1108572907,
     "wof:placetype":"locality",

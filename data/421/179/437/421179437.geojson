@@ -10,8 +10,12 @@
     "geom:latitude":-0.59792,
     "geom:longitude":-80.42367,
     "iso:country":"EC",
+    "lbl:bbox":"-80.44367,-0.61792,-80.40367,-0.57792",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Bah\u00eda de Car\u00e1quez"
@@ -49,7 +53,7 @@
     "name:swe_x_preferred":[
         "Bah\u00eda de Car\u00e1quez"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sucre"
     ],
     "name:zho_x_preferred":[
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":3660401,
         "gp:id":375773,
-        "qs:id":149724,
+        "qs_pg:id":149724,
         "wd:id":"Q2749246",
         "wk:page":"Bah\u00eda de Car\u00e1quez"
     },
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":421179437,
-    "wof:lastmodified":1561792435,
+    "wof:lastmodified":1566584514,
     "wof:name":"Bah\u00eda de Car\u00e1quez",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

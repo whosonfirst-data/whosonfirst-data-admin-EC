@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-0.325465,
     "lbl:longitude":-79.850013,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Manabi",
     "meso:gadm_hasc2":"EC.MN.FA",
     "meso:gaul_adm2":"Flavio Alfaro",
@@ -32,6 +34,7 @@
     "mps:longitude":-79.850013,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0646\u062a\u0648\u0646 \u0641\u0644\u0627\u0641\u064a\u0648 \u0623\u0644\u0641\u0627\u0631\u0648"
     ],
@@ -75,9 +78,9 @@
         "\u5f17\u62c9\u7dad\u5967\u963f\u723e\u6cd5\u7f85\u7e23"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-11-25",
+    "src:population_date":"2001-11-25",
     "statoids:area_km":"1343",
     "statoids:as_of_date":"2001-11-25",
     "statoids:capital":"Flavio Alfaro",
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":1108569419,
-    "wof:lastmodified":1563584373,
+    "wof:lastmodified":1566584320,
     "wof:name":"Flavio Alfaro",
     "wof:parent_id":85670927,
     "wof:placetype":"county",

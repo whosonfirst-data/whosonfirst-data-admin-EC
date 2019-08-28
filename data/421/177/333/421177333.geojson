@@ -10,10 +10,14 @@
     "geom:latitude":-1.04304,
     "geom:longitude":-77.79422,
     "iso:country":"EC",
+    "lbl:bbox":"-77.81422,-1.06304,-77.77422,-1.02304",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Napo"
     ],
     "qs:gn_country":"EC",
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":3652725,
         "gp:id":375888,
-        "qs:id":1174646
+        "qs_pg:id":1174646
     },
     "wof:country":"EC",
     "wof:created":1459009141,
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":421177333,
-    "wof:lastmodified":1501268351,
+    "wof:lastmodified":1566584510,
     "wof:name":"Puerto Napo",
     "wof:parent_id":1108572985,
     "wof:placetype":"locality",

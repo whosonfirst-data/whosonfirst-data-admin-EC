@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-1.527493,
     "lbl:longitude":-80.083166,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Guayas",
     "meso:gadm_hasc2":"EC.GU.CO",
     "meso:gaul_adm2":"Colimes",
@@ -32,6 +34,7 @@
     "mps:longitude":-80.083166,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Canton Colimes"
     ],
@@ -75,9 +78,9 @@
         "\u79d1\u5229\u6885\u65af\u7e23"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-11-25",
+    "src:population_date":"2001-11-25",
     "statoids:area_km":"758",
     "statoids:as_of_date":"2001-11-25",
     "statoids:capital":"Colimes",
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":1108568689,
-    "wof:lastmodified":1563584371,
+    "wof:lastmodified":1566584320,
     "wof:name":"Colimes",
     "wof:parent_id":85670917,
     "wof:placetype":"county",

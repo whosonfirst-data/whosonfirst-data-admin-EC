@@ -10,8 +10,12 @@
     "geom:latitude":-3.11667,
     "geom:longitude":-78.53333,
     "iso:country":"EC",
+    "lbl:bbox":"-78.63333,-3.21667,-78.43333,-3.01667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26810441,
-        "qs:id":116019
+        "qs_pg:id":116019
     },
     "wof:country":"EC",
     "wof:created":1459010163,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421203769,
-    "wof:lastmodified":1500036616,
+    "wof:lastmodified":1566584469,
     "wof:name":"San Juan Bosco",
     "wof:parent_id":1108572097,
     "wof:placetype":"localadmin",

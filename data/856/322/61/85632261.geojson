@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":-1.241567,
     "lbl:longitude":-78.322784,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":-1.241567,
     "mps:longitude":-78.322784,
     "mz:hierarchy_label":1,
@@ -793,8 +795,7 @@
     "name:ukr_x_preferred":[
         "\u0415\u043a\u0432\u0430\u0434\u043e\u0440"
     ],
-    "name:und_x_preferred":[
-        "Ekvador",
+    "name:und_x_variant":[
         "Republika Ekvador"
     ],
     "name:urd_x_preferred":[
@@ -953,7 +954,7 @@
         "naturalearth",
         "meso"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"593",
     "statoids:ds":"EC",
@@ -998,7 +999,7 @@
         "mzb:id":"ecuador",
         "ne:adm0_a3":"ECU",
         "nyt:id":"47703814005373489761",
-        "qs:id":1190004,
+        "qs_pg:id":1190004,
         "uncrt:id":"EC",
         "wd:id":"Q736",
         "wk:page":"Ecuador",
@@ -1022,7 +1023,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1565673135,
+    "wof:lastmodified":1566583979,
     "wof:name":"Ecuador",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

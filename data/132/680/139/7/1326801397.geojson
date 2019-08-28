@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-80.09385,-0.50596,-80.05385,-0.46596",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Balzar"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1326801397,
-    "wof:lastmodified":1564203484,
+    "wof:lastmodified":1566583798,
     "wof:name":"Balzar",
     "wof:parent_id":421189211,
     "wof:placetype":"locality",

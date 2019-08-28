@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-0.484765,
     "lbl:longitude":-78.025721,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Napo",
     "meso:gadm_hasc2":"EC.NA.QU",
     "meso:gaul_adm2":"Quijos",
@@ -32,6 +34,7 @@
     "mps:longitude":-78.025721,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Cant\u00f3n Quijos"
     ],
@@ -78,9 +81,9 @@
         "\u57fa\u970d\u65af\u7e23"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-11-25",
+    "src:population_date":"2001-11-25",
     "statoids:area_km":"1577",
     "statoids:as_of_date":"2001-11-25",
     "statoids:capital":"Baeza",
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":1108571837,
-    "wof:lastmodified":1563584362,
+    "wof:lastmodified":1566584316,
     "wof:name":"Quijos",
     "wof:parent_id":-1,
     "wof:placetype":"county",

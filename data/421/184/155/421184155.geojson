@@ -10,8 +10,12 @@
     "geom:latitude":-3.705985,
     "geom:longitude":-79.269104,
     "iso:country":"EC",
+    "lbl:bbox":"-79.369104,-3.805985,-79.169104,-3.605985",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Lucas"
@@ -89,7 +93,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26810450,
-        "qs:id":989680,
         "qs_pg:id":989680
     },
     "wof:country":"EC",
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421184155,
-    "wof:lastmodified":1564204814,
+    "wof:lastmodified":1566584507,
     "wof:name":"San Lucas",
     "wof:parent_id":421182159,
     "wof:placetype":"localadmin",

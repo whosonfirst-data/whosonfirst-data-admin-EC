@@ -10,6 +10,9 @@
     "geom:latitude":0.04084,
     "geom:longitude":-78.14524,
     "iso:country":"EC",
+    "lbl:bbox":"-78.16524,0.02084,-78.12524,0.06084",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -188,7 +191,7 @@
     "wof:concordances":{
         "gn:id":3659578,
         "gp:id":375785,
-        "qs:id":149696,
+        "qs_pg:id":149696,
         "wd:id":"Q1051957",
         "wk:page":"Cayambe, Ecuador"
     },
@@ -205,7 +208,7 @@
         }
     ],
     "wof:id":421169123,
-    "wof:lastmodified":1563584664,
+    "wof:lastmodified":1566584466,
     "wof:name":"Cayambe",
     "wof:parent_id":421197049,
     "wof:placetype":"locality",

@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":0.287909,
     "lbl:longitude":-77.910367,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Imbabura",
     "meso:gadm_hasc2":"EC.IM.PI",
     "meso:gaul_adm2":"Pimampiro",
@@ -32,6 +34,7 @@
     "mps:longitude":-77.910367,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Cant\u00f3n Pimampiro"
     ],
@@ -72,9 +75,9 @@
         "\u76ae\u66fc\u76ae\u7f85\u7e23"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-11-25",
+    "src:population_date":"2001-11-25",
     "statoids:area_km":"437",
     "statoids:as_of_date":"2001-11-25",
     "statoids:capital":"Pimampiro",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1108571433,
-    "wof:lastmodified":1563584350,
+    "wof:lastmodified":1566584309,
     "wof:name":"Pimampiro",
     "wof:parent_id":85670971,
     "wof:placetype":"county",

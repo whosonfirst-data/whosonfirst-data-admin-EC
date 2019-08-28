@@ -10,8 +10,12 @@
     "geom:latitude":-3.326502,
     "geom:longitude":-79.159419,
     "iso:country":"EC",
+    "lbl:bbox":"-79.2594185,-3.426502,-79.0594185,-3.226502",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Las Nieves"
@@ -62,7 +66,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26810120,
-        "qs:id":61285,
         "qs_pg:id":61285
     },
     "wof:country":"EC",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":421194929,
-    "wof:lastmodified":1564204764,
+    "wof:lastmodified":1566584461,
     "wof:name":"Las Nieves",
     "wof:parent_id":421186367,
     "wof:placetype":"localadmin",

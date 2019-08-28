@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-80.75962,-1.28043,-80.71962,-1.24043",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Manantiales"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1259950931,
-    "wof:lastmodified":1564205078,
+    "wof:lastmodified":1566584647,
     "wof:name":"Manantiales",
     "wof:parent_id":1108570471,
     "wof:placetype":"locality",

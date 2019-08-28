@@ -10,8 +10,12 @@
     "geom:latitude":-4.32796,
     "geom:longitude":-79.55554,
     "iso:country":"EC",
+    "lbl:bbox":"-79.65554,-4.42796,-79.45554,-4.22796",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Cariamanga"
@@ -37,7 +41,7 @@
     "name:swe_x_preferred":[
         "Cariamanga"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Calvas"
     ],
     "name:war_x_preferred":[
@@ -83,7 +87,6 @@
     "wof:concordances":{
         "gn:id":3659711,
         "gp:id":26809810,
-        "qs:id":149711,
         "qs_pg:id":149711,
         "wd:id":"Q54884",
         "wk:page":"Cariamanga"
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":421172287,
-    "wof:lastmodified":1563584712,
+    "wof:lastmodified":1566584485,
     "wof:name":"Cariamanga",
     "wof:parent_id":1108568239,
     "wof:placetype":"localadmin",

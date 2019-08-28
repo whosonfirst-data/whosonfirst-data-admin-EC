@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-80.60198,-2.22022,-80.56198,-2.18022",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632261
@@ -34,7 +38,7 @@
         "gn:id":3659924
     },
     "wof:country":"EC",
-    "wof:geomhash":"967d79369b03f72156202ea6be11ec47",
+    "wof:geomhash":"e42fa338c094a4e8312b3b938e5ecf68",
     "wof:hierarchy":[
         {
             "country_id":85632261,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209303615,
-    "wof:lastmodified":1536291271,
+    "wof:lastmodified":1566584173,
     "wof:name":"Calcicante",
     "wof:parent_id":85632261,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -80.58198,
-    -2.2002200000000003,
+    -2.20022,
     -80.58198,
-    -2.2002200000000003
+    -2.20022
 ],
   "geometry": {"coordinates":[-80.58198,-2.20022],"type":"Point"}
 }

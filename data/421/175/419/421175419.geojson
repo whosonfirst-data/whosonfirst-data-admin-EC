@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-1.397323,
     "lbl:longitude":-80.351292,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Manabi",
     "meso:gadm_hasc2":"EC.MN.VM",
     "meso:gaul_adm2":"24 de Mayo",
@@ -32,6 +34,7 @@
     "mps:longitude":-80.351292,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Veinticuatro de Mayo"
@@ -91,9 +94,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-11-25",
+    "src:population_date":"2001-11-25",
     "statoids:area_km":"524",
     "statoids:as_of_date":"2001-11-25",
     "statoids:capital":"Sucre",
@@ -114,7 +117,7 @@
     "wof:concordances":{
         "gp:id":26809691,
         "hasc:id":"EC.MN.VM",
-        "qs:id":369060,
+        "qs_pg:id":369060,
         "wd:id":"Q1992944"
     },
     "wof:country":"EC",
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":421175419,
-    "wof:lastmodified":1561792431,
+    "wof:lastmodified":1566584494,
     "wof:name":"Veinticuatro de Mayo",
     "wof:parent_id":85670927,
     "wof:placetype":"county",

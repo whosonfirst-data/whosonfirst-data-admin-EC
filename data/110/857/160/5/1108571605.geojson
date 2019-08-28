@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-3.21097,
     "lbl:longitude":-79.508673,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Azuay",
     "meso:gadm_hasc2":"EC.AZ.PU",
     "meso:gaul_adm2":"Pucara",
@@ -32,6 +34,7 @@
     "mps:longitude":-79.508673,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Pucar\u00e1"
     ],
@@ -69,9 +72,9 @@
         "\u666e\u5361\u62c9\u7e23"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-11-25",
+    "src:population_date":"2001-11-25",
     "statoids:area_km":"848",
     "statoids:as_of_date":"2001-11-25",
     "statoids:capital":"Pucar\u00e1",
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1108571605,
-    "wof:lastmodified":1563584335,
+    "wof:lastmodified":1566584304,
     "wof:name":"Pucar\u00e1",
     "wof:parent_id":85670885,
     "wof:placetype":"county",

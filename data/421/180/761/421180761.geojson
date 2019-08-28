@@ -10,8 +10,12 @@
     "geom:latitude":-2.22778,
     "geom:longitude":-80.85694,
     "iso:country":"EC",
+    "lbl:bbox":"-80.87694,-2.24778,-80.83694,-2.20778",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Santa Elena"
@@ -125,7 +129,7 @@
         "Santa Elena"
     ],
     "name:tam_x_preferred":[
-        "\u0b9a\u0bbe\u0ba9\u0bcd\u0b9f\u0bbe  \u0b8e\u0bb2\u0bc6\u0ba9\u0bbe"
+        "\u0b9a\u0bbe\u0ba9\u0bcd\u0b9f\u0bbe \u0b8e\u0bb2\u0bc6\u0ba9\u0bbe"
     ],
     "name:tel_x_preferred":[
         "\u0c36\u0c3e\u0c02\u0c1f \u0c0f\u0c32\u0c46\u0c28\u0c3e"
@@ -188,7 +192,7 @@
     "wof:concordances":{
         "gn:id":3651438,
         "gp:id":375761,
-        "qs:id":1215279,
+        "qs_pg:id":1215279,
         "wd:id":"Q135864",
         "wk:page":"Santa Elena, Ecuador"
     },
@@ -205,7 +209,7 @@
         }
     ],
     "wof:id":421180761,
-    "wof:lastmodified":1563584684,
+    "wof:lastmodified":1566584474,
     "wof:name":"Santa Elena",
     "wof:parent_id":1108572401,
     "wof:placetype":"locality",

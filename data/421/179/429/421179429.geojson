@@ -10,8 +10,12 @@
     "geom:latitude":-1.57504,
     "geom:longitude":-79.45998,
     "iso:country":"EC",
+    "lbl:bbox":"-79.55998,-1.67504,-79.35998,-1.47504",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Catarama"
@@ -31,7 +35,7 @@
     "name:swe_x_preferred":[
         "Catarama"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Urdaneta"
     ],
     "qs:gn_country":"EC",
@@ -68,7 +72,6 @@
     "wof:concordances":{
         "gn:id":3659592,
         "gp:id":26809819,
-        "qs:id":149709,
         "qs_pg:id":149709,
         "wd:id":"Q5051473",
         "wk:page":"Catarama"
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":421179429,
-    "wof:lastmodified":1563584789,
+    "wof:lastmodified":1566584515,
     "wof:name":"Catarama",
     "wof:parent_id":1108573179,
     "wof:placetype":"localadmin",

@@ -10,8 +10,12 @@
     "geom:latitude":-1.73333,
     "geom:longitude":-78.58333,
     "iso:country":"EC",
+    "lbl:bbox":"-78.68333,-1.83333,-78.48333,-1.63333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:que_x_preferred":[
         "Champu"
@@ -47,7 +51,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26809827,
-        "qs:id":1182970,
         "qs_pg:id":1182970
     },
     "wof:country":"EC",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421192905,
-    "wof:lastmodified":1564204759,
+    "wof:lastmodified":1566584455,
     "wof:name":"Chambo",
     "wof:parent_id":421201227,
     "wof:placetype":"localadmin",

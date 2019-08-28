@@ -10,8 +10,12 @@
     "geom:latitude":-0.296972,
     "geom:longitude":-78.451995,
     "iso:country":"EC",
+    "lbl:bbox":"-78.551995,-0.396972,-78.351995,-0.196972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -44,7 +48,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26810489,
-        "qs:id":1137359,
         "qs_pg:id":1137359
     },
     "wof:country":"EC",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":421191485,
-    "wof:lastmodified":1497045721,
+    "wof:lastmodified":1566584496,
     "wof:name":"Sangolqui",
     "wof:parent_id":421168623,
     "wof:placetype":"localadmin",

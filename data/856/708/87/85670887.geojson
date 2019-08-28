@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-3.543589,
     "lbl:longitude":-79.804592,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"El Oro",
     "mps:latitude":-3.520212,
     "mps:longitude":-79.854653,
@@ -165,7 +166,7 @@
         "El Oro"
     ],
     "name:tam_x_preferred":[
-        "\u0b8e\u0bb2\u0bcd  \u0b92\u0bb0\u0bc1 \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b8e\u0bb2\u0bcd \u0b92\u0bb0\u0bc1 \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c0e\u0c32\u0c4d \u0c13\u0c30\u0c4b \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -179,7 +180,7 @@
     "name:ukr_x_preferred":[
         "\u0415\u043b\u044c-\u041e\u0440\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Provincia de El Oro"
     ],
     "name:urd_x_preferred":[
@@ -266,9 +267,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-11-28",
+    "src:population_date":"2010-11-28",
     "statoids:area_km":"5,850",
     "statoids:area_mi":"2,259",
     "statoids:as_of_date":"2010-11-28",
@@ -293,7 +294,7 @@
         "gp:id":2345209,
         "hasc:id":"EC.EO",
         "iso:id":"EC-O",
-        "qs:id":235588,
+        "qs_pg:id":235588,
         "unlc:id":"EC-O",
         "wd:id":"Q466019",
         "wk:page":"El Oro Province"
@@ -316,11 +317,10 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1565673131,
+    "wof:lastmodified":1566583968,
     "wof:name":"El Oro",
     "wof:parent_id":85632261,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":600659,
     "wof:population_rank":11,

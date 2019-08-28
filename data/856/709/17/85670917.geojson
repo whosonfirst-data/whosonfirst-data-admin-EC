@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-1.928018,
     "lbl:longitude":-79.994335,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Guayas",
     "mps:latitude":-1.848967,
     "mps:longitude":-80.010728,
@@ -36,7 +37,7 @@
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0413\u0443\u0430\u044f\u0441"
     ],
     "name:ben_x_preferred":[
-        "\u099c\u09be\u09ae\u09ac\u09c0  \u09aa\u09cd\u09b0\u09cb\u0997\u09be\u09af\u09bc\u09be\u09b8 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+        "\u099c\u09be\u09ae\u09ac\u09c0 \u09aa\u09cd\u09b0\u09cb\u0997\u09be\u09af\u09bc\u09be\u09b8 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
     "name:bul_x_preferred":[
         "\u0413\u0443\u0430\u044f\u0441"
@@ -174,7 +175,7 @@
         "Guayas"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bc1\u0baf\u0bb8\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b95\u0bc1\u0baf\u0bb8\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c17\u0c41\u0c2f\u0c3e\u0c2f\u0c38\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -191,7 +192,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0443\u0430\u044f\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Provincia del Guayas"
     ],
     "name:urd_x_preferred":[
@@ -281,9 +282,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-11-28",
+    "src:population_date":"2010-11-28",
     "statoids:area_km":"16,740",
     "statoids:area_mi":"6,463",
     "statoids:as_of_date":"2010-11-28",
@@ -308,7 +309,7 @@
         "gp:id":2345211,
         "hasc:id":"EC.GY",
         "iso:id":"EC-G",
-        "qs:id":890049,
+        "qs_pg:id":890049,
         "unlc:id":"EC-G",
         "wd:id":"Q335464",
         "wk:page":"Guayas Province"
@@ -331,11 +332,10 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1565673133,
+    "wof:lastmodified":1566583973,
     "wof:name":"Guayas",
     "wof:parent_id":85632261,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":3645483,
     "wof:population_rank":12,

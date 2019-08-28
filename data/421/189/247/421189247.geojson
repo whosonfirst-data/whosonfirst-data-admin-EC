@@ -10,8 +10,12 @@
     "geom:latitude":0.239638,
     "geom:longitude":-78.268833,
     "iso:country":"EC",
+    "lbl:bbox":"-78.368833,0.139638,-78.168833,0.339638",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Otavalo"
@@ -47,7 +51,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26810232,
-        "qs:id":1110355,
         "qs_pg:id":1110355
     },
     "wof:country":"EC",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421189247,
-    "wof:lastmodified":1564204783,
+    "wof:lastmodified":1566584480,
     "wof:name":"Otavalo",
     "wof:parent_id":421171751,
     "wof:placetype":"localadmin",

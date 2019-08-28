@@ -25,8 +25,12 @@
     "gn:population":4501,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-78.90333,-2.88667,-78.86333,-2.84667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Llacao"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1343664919,
-    "wof:lastmodified":1564203736,
+    "wof:lastmodified":1566583929,
     "wof:name":"Llacao",
     "wof:parent_id":421185495,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-78.54634,-1.5558,-78.50634,-1.5158",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Volc\u00e0 El Altar"
     ],
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":1310494333,
-    "wof:lastmodified":1564204526,
+    "wof:lastmodified":1566584335,
     "wof:name":"El Altar",
     "wof:parent_id":421184411,
     "wof:placetype":"locality",

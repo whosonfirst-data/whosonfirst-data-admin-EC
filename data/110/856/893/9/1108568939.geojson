@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-2.757779,
     "lbl:longitude":-78.927532,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Ca\u00f1ar",
     "meso:gadm_hasc2":"EC.CN.DE",
     "meso:gaul_adm2":"Deleg",
@@ -32,6 +34,7 @@
     "mps:longitude":-78.927532,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0646\u062a\u0648\u0646 \u062f\u064a\u0644\u064a\u063a"
     ],
@@ -72,9 +75,9 @@
         "\u5fb7\u840a\u683c\u7e23"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-11-25",
+    "src:population_date":"2001-11-25",
     "statoids:area_km":"78",
     "statoids:as_of_date":"2001-11-25",
     "statoids:capital":"D\u00e9leg",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1108568939,
-    "wof:lastmodified":1563584372,
+    "wof:lastmodified":1566584320,
     "wof:name":"D\u00e9leg",
     "wof:parent_id":85670909,
     "wof:placetype":"county",

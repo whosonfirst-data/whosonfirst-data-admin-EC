@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-2.328481,
     "lbl:longitude":-78.895126,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Chimborazo",
     "meso:gadm_hasc2":"EC.CB.CN",
     "meso:gaul_adm2":"Chunchi",
@@ -32,6 +34,7 @@
     "mps:longitude":-78.895126,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Cant\u00f3n Chunchi"
@@ -97,9 +100,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-11-25",
+    "src:population_date":"2001-11-25",
     "statoids:area_km":"273",
     "statoids:as_of_date":"2001-11-25",
     "statoids:capital":"Chunchi",
@@ -120,7 +123,7 @@
     "wof:concordances":{
         "gp:id":26809524,
         "hasc:id":"EC.CB.CN",
-        "qs:id":369001,
+        "qs_pg:id":369001,
         "wd:id":"Q2448829"
     },
     "wof:country":"EC",
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":421179215,
-    "wof:lastmodified":1563584788,
+    "wof:lastmodified":1566584514,
     "wof:name":"Chunchi",
     "wof:parent_id":85670931,
     "wof:placetype":"county",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-78.4495,-0.24258,-78.4095,-0.20258",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1276943611,
-    "wof:lastmodified":1536956025,
+    "wof:lastmodified":1566584100,
     "wof:name":"Hacienda Cunucyacu",
     "wof:parent_id":421188131,
     "wof:placetype":"locality",

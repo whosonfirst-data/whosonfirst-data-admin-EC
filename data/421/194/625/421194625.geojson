@@ -10,8 +10,12 @@
     "geom:latitude":-2.14192,
     "geom:longitude":-80.77383,
     "iso:country":"EC",
+    "lbl:bbox":"-80.79383,-2.16192,-80.75383,-2.12192",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bre_x_preferred":[
         "San Pablo"
@@ -114,7 +118,7 @@
     "wof:concordances":{
         "gn:id":3651594,
         "gp:id":376255,
-        "qs:id":887610
+        "qs_pg:id":887610
     },
     "wof:country":"EC",
     "wof:created":1459009814,
@@ -129,7 +133,7 @@
         }
     ],
     "wof:id":421194625,
-    "wof:lastmodified":1564204763,
+    "wof:lastmodified":1566584460,
     "wof:name":"San Pablo",
     "wof:parent_id":1108572401,
     "wof:placetype":"locality",

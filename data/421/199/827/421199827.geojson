@@ -10,8 +10,12 @@
     "geom:latitude":-2.76704,
     "geom:longitude":-79.39705,
     "iso:country":"EC",
+    "lbl:bbox":"-79.41705,-2.78704,-79.37705,-2.74704",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Molleturo"
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":3654104,
         "gp:id":376135,
-        "qs:id":495473,
+        "qs_pg:id":495473,
         "wd:id":"Q6896409",
         "wk:page":"Molleturo"
     },
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":421199827,
-    "wof:lastmodified":1563584753,
+    "wof:lastmodified":1566584501,
     "wof:name":"Molleturo",
     "wof:parent_id":421185495,
     "wof:placetype":"locality",

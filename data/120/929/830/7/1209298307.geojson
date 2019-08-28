@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-79.6032,-0.87832,-79.5632,-0.83832",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632261
@@ -36,7 +40,7 @@
         "gn:id":8471873
     },
     "wof:country":"EC",
-    "wof:geomhash":"eeba51cb7cd5755bbd3693b473de7be6",
+    "wof:geomhash":"83a4c055a1cfc65b465da9f692ab3219",
     "wof:hierarchy":[
         {
             "country_id":85632261,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209298307,
-    "wof:lastmodified":1536291446,
+    "wof:lastmodified":1566584220,
     "wof:name":"Limon de Manizales",
     "wof:parent_id":85632261,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     -79.5832,
-    -0.8583200000000001,
+    -0.85832,
     -79.5832,
-    -0.8583200000000001
+    -0.85832
 ],
   "geometry": {"coordinates":[-79.58320000000001,-0.85832],"type":"Point"}
 }

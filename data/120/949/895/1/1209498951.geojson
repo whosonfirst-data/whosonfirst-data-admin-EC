@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-80.20339,-2.32679,-80.16339,-2.28679",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632261
@@ -36,7 +40,7 @@
         "gn:id":3656982
     },
     "wof:country":"EC",
-    "wof:geomhash":"953c6d1c8df786a694d4756e50e610ac",
+    "wof:geomhash":"62c130c9f25ff6c912d24fc99382fcb2",
     "wof:hierarchy":[
         {
             "country_id":85632261,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209498951,
-    "wof:lastmodified":1536285245,
+    "wof:lastmodified":1566584197,
     "wof:name":"Hacienda Esmeraldita",
     "wof:parent_id":85632261,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     -80.18339,
-    -2.3067900000000003,
+    -2.30679,
     -80.18339,
-    -2.3067900000000003
+    -2.30679
 ],
   "geometry": {"coordinates":[-80.18339,-2.30679],"type":"Point"}
 }

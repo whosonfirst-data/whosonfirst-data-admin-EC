@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-79.01679,-3.03831,-78.97679,-2.99831",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1259395481,
-    "wof:lastmodified":1536984186,
+    "wof:lastmodified":1566584623,
     "wof:name":"Totorillas de Tarqui",
     "wof:parent_id":421185495,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-80.05224,-2.32423,-80.01224,-2.28423",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Carrizal"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1293867797,
-    "wof:lastmodified":1564204030,
+    "wof:lastmodified":1566584067,
     "wof:name":"Carrizal",
     "wof:parent_id":421175423,
     "wof:placetype":"locality",

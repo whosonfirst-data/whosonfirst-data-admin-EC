@@ -10,8 +10,12 @@
     "geom:latitude":0.21667,
     "geom:longitude":-78.25,
     "iso:country":"EC",
+    "lbl:bbox":"-78.27,0.19667,-78.23,0.23667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Eugenio Espejo"
@@ -70,7 +74,7 @@
     "name:tur_x_preferred":[
         "Eugenio Espejo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "E. Espejo"
     ],
     "qs:gn_country":"EC",
@@ -103,7 +107,7 @@
     "wof:concordances":{
         "gn:id":3657942,
         "gp:id":370914,
-        "qs:id":299688,
+        "qs_pg:id":299688,
         "wd:id":"Q981513"
     },
     "wof:country":"EC",
@@ -119,7 +123,7 @@
         }
     ],
     "wof:id":421173793,
-    "wof:lastmodified":1563584692,
+    "wof:lastmodified":1566584477,
     "wof:name":"Eugenio Espejo",
     "wof:parent_id":421171751,
     "wof:placetype":"locality",

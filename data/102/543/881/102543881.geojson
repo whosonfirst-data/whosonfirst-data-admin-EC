@@ -12,6 +12,7 @@
     "iso:country":"EC",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ast_x_preferred":[
         "Aeropuertu Atahualpa"
     ],
@@ -69,7 +70,7 @@
         }
     ],
     "wof:id":102543881,
-    "wof:lastmodified":1563583471,
+    "wof:lastmodified":1566583871,
     "wof:name":"Atahualpa Airport",
     "wof:parent_id":85670971,
     "wof:placetype":"campus",

@@ -11,11 +11,14 @@
     "geom:longitude":-79.00336,
     "gn:country":"EC",
     "gn:fcode":"PRK",
-    "gn:pop":500000,
+    "gn:population":500000,
     "iso:country":"EC",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":5.0,
     "qs:name":"Parque de la Madre",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -31,7 +34,7 @@
     "wof:concordances":{
         "gn:id":7602116,
         "gp:id":375734,
-        "qs:id":693636
+        "qs_pg:id":693636
     },
     "wof:country":"EC",
     "wof:created":1469051201,
@@ -46,7 +49,7 @@
         }
     ],
     "wof:id":890417409,
-    "wof:lastmodified":1505343438,
+    "wof:lastmodified":1566584526,
     "wof:name":"Parque de la Madre",
     "wof:parent_id":421185495,
     "wof:placetype":"locality",

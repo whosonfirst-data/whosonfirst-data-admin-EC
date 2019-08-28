@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-79.76226,-3.00658,-79.72226,-2.96658",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "La Fortuna"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1292984635,
-    "wof:lastmodified":1564203948,
+    "wof:lastmodified":1566584038,
     "wof:name":"La Fortuna",
     "wof:parent_id":421175423,
     "wof:placetype":"locality",

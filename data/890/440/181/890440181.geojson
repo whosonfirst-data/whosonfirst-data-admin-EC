@@ -11,8 +11,11 @@
     "geom:longitude":-89.61083,
     "gn:country":"EC",
     "gn:fcode":"PPLA",
-    "gn:pop":4214,
+    "gn:population":4214,
     "iso:country":"EC",
+    "lbl:bbox":"-89.63083,-0.92333,-89.59083,-0.88333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -118,7 +121,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0443\u0435\u0440\u0442\u043e-\u0411\u0430\u043a\u0435\u0440\u0456\u0441\u043e-\u041c\u043e\u0440\u0435\u043d\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Baquerizo Moreno"
     ],
     "name:urd_x_preferred":[
@@ -238,12 +241,12 @@
     "wof:concordances":{
         "gn:id":3652758,
         "gp:id":375887,
-        "qs:id":274482,
+        "qs_pg:id":274482,
         "wd:id":"Q694109",
         "wk:page":"Puerto Baquerizo Moreno"
     },
     "wof:concordances_alt":{
-        "qs:id":1075706
+        "qs_pg:id":1075706
     },
     "wof:country":"EC",
     "wof:created":1469052265,
@@ -258,7 +261,7 @@
         }
     ],
     "wof:id":890440181,
-    "wof:lastmodified":1563584813,
+    "wof:lastmodified":1566584525,
     "wof:name":"Puerto Baquerizo Moreno",
     "wof:parent_id":421181765,
     "wof:placetype":"locality",

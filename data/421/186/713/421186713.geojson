@@ -10,8 +10,12 @@
     "geom:latitude":-0.49777,
     "geom:longitude":-76.373167,
     "iso:country":"EC",
+    "lbl:bbox":"-76.393167,-0.51777,-76.353167,-0.47777",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":376049,
-        "qs:id":1075722
+        "qs_pg:id":1075722
     },
     "wof:country":"EC",
     "wof:created":1459009489,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421186713,
-    "wof:lastmodified":1500036687,
+    "wof:lastmodified":1566584488,
     "wof:name":"Garzacocha",
     "wof:parent_id":1108572739,
     "wof:placetype":"locality",

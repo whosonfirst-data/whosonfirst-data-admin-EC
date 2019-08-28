@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-79.66516,-3.34531,-79.62516,-3.30531",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1276327273,
-    "wof:lastmodified":1536787249,
+    "wof:lastmodified":1566584105,
     "wof:name":"Chiche",
     "wof:parent_id":421191247,
     "wof:placetype":"locality",

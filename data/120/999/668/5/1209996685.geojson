@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-79.45819,-3.39001,-79.41819,-3.35001",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1209996685,
-    "wof:lastmodified":1536383120,
+    "wof:lastmodified":1566584181,
     "wof:name":"San Sebastian de Yuluc",
     "wof:parent_id":421184627,
     "wof:placetype":"locality",

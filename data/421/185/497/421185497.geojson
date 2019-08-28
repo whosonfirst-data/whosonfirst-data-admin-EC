@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-0.970338,
     "lbl:longitude":-78.901308,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Cotopaxi",
     "meso:gadm_hasc2":"EC.CT.PU",
     "meso:gaul_adm2":"Pujili",
@@ -32,6 +34,7 @@
     "mps:longitude":-78.901308,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Cant\u00f3n Pujil\u00ed"
@@ -97,9 +100,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-11-25",
+    "src:population_date":"2001-11-25",
     "statoids:area_km":"1289",
     "statoids:as_of_date":"2001-11-25",
     "statoids:capital":"Pujil\u00ed",
@@ -120,7 +123,7 @@
     "wof:concordances":{
         "gp:id":26809636,
         "hasc:id":"EC.CT.PU",
-        "qs:id":897122,
+        "qs_pg:id":897122,
         "wd:id":"Q385955"
     },
     "wof:country":"EC",
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":421185497,
-    "wof:lastmodified":1563584807,
+    "wof:lastmodified":1566584523,
     "wof:name":"Pujil\u00ed",
     "wof:parent_id":85670915,
     "wof:placetype":"county",

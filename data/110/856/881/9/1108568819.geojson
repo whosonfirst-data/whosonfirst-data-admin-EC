@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-2.213844,
     "lbl:longitude":-79.059277,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Chimborazo",
     "meso:gadm_hasc2":"EC.CB.CD",
     "meso:gaul_adm2":"Cumanda",
@@ -32,6 +34,7 @@
     "mps:longitude":-79.059277,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Canton Cumanda"
     ],
@@ -75,9 +78,9 @@
         "\u5eab\u66fc\u9054\u7e23"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-11-25",
+    "src:population_date":"2001-11-25",
     "statoids:area_km":"159",
     "statoids:as_of_date":"2001-11-25",
     "statoids:capital":"Cumand\u00e1",
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":1108568819,
-    "wof:lastmodified":1563584370,
+    "wof:lastmodified":1566584319,
     "wof:name":"Cumand\u00e1",
     "wof:parent_id":85670931,
     "wof:placetype":"county",

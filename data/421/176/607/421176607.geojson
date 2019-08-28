@@ -10,8 +10,12 @@
     "geom:latitude":-1.69592,
     "geom:longitude":-78.75823,
     "iso:country":"EC",
+    "lbl:bbox":"-78.77823,-1.71592,-78.73823,-1.67592",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Cajabamba"
@@ -25,7 +29,7 @@
     "name:spa_x_preferred":[
         "Cajabamba"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sicalpa"
     ],
     "qs:gn_country":"EC",
@@ -57,7 +61,7 @@
     "wof:concordances":{
         "gn:id":3659949,
         "gp:id":370003,
-        "qs:id":1052169,
+        "qs_pg:id":1052169,
         "wd:id":"Q5017971",
         "wk:page":"Colta Canton"
     },
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":421176607,
-    "wof:lastmodified":1561792436,
+    "wof:lastmodified":1566584519,
     "wof:name":"Cajabamba",
     "wof:parent_id":421194443,
     "wof:placetype":"locality",

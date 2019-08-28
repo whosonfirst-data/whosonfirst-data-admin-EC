@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":0.197815,
     "lbl:longitude":-78.223631,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Imbabura",
     "meso:gadm_hasc2":"EC.IM.OT",
     "meso:gaul_adm2":"Otavalo",
@@ -32,6 +34,7 @@
     "mps:longitude":-78.223631,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Cant\u00f3n Otavalo"
@@ -100,9 +103,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-11-25",
+    "src:population_date":"2001-11-25",
     "statoids:area_km":"500",
     "statoids:as_of_date":"2001-11-25",
     "statoids:capital":"Otavalo",
@@ -122,7 +125,7 @@
     "wof:concordances":{
         "gp:id":26809608,
         "hasc:id":"EC.IM.OT",
-        "qs:id":1264188,
+        "qs_pg:id":1264188,
         "wd:id":"Q3656211"
     },
     "wof:country":"EC",
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":421171751,
-    "wof:lastmodified":1563584803,
+    "wof:lastmodified":1566584521,
     "wof:name":"Otavalo",
     "wof:parent_id":85670971,
     "wof:placetype":"county",

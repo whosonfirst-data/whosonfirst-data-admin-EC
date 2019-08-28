@@ -10,6 +10,9 @@
     "geom:latitude":0.92633,
     "geom:longitude":-79.66079,
     "iso:country":"EC",
+    "lbl:bbox":"-79.68079,0.90633,-79.64079,0.94633",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -161,7 +164,7 @@
     "name:ukr_x_preferred":[
         "\u0415\u0441\u043c\u0435\u0440\u0430\u043b\u044c\u0434\u0430\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hacienda La Propicia"
     ],
     "name:urd_x_preferred":[
@@ -301,7 +304,7 @@
     "wof:concordances":{
         "gn:id":3652881,
         "gp:id":375737,
-        "qs:id":1342124,
+        "qs_pg:id":1342124,
         "wd:id":"Q149955"
     },
     "wof:country":"EC",
@@ -317,7 +320,7 @@
         }
     ],
     "wof:id":421201283,
-    "wof:lastmodified":1563584760,
+    "wof:lastmodified":1566584503,
     "wof:name":"Esmeraldas",
     "wof:parent_id":1108569317,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":-3.25972,
     "geom:longitude":-79.296741,
     "iso:country":"EC",
+    "lbl:bbox":"-79.396741,-3.35972,-79.196741,-3.15972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -44,7 +48,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26809702,
-        "qs:id":1015178,
         "qs_pg:id":1015178
     },
     "wof:country":"EC",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":421184959,
-    "wof:lastmodified":1497048287,
+    "wof:lastmodified":1566584507,
     "wof:name":"Abdon Calderon",
     "wof:parent_id":421189221,
     "wof:placetype":"localadmin",

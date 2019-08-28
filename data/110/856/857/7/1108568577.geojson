@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-2.003597,
     "lbl:longitude":-79.121923,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Bolivar",
     "meso:gadm_hasc2":"EC.BO.CN",
     "meso:gaul_adm2":"Chillanes",
@@ -32,6 +34,7 @@
     "mps:longitude":-79.121923,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0646\u062a\u0648\u0646 \u0634\u064a\u0644\u0627\u0646\u0633"
     ],
@@ -78,9 +81,9 @@
         "\u5947\u5229\u4e9e\u5167\u65af\u7e23"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-11-25",
+    "src:population_date":"2001-11-25",
     "statoids:area_km":"655",
     "statoids:as_of_date":"2001-11-25",
     "statoids:capital":"Chillanes",
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":1108568577,
-    "wof:lastmodified":1563584372,
+    "wof:lastmodified":1566584320,
     "wof:name":"Chillanes",
     "wof:parent_id":85670905,
     "wof:placetype":"county",

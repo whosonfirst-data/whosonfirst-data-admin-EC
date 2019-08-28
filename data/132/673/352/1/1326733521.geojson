@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-78.78667,-2.90333,-78.74667,-2.86333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1326733521,
-    "wof:lastmodified":1536694065,
+    "wof:lastmodified":1566583799,
     "wof:name":"Sertag",
     "wof:parent_id":1108569603,
     "wof:placetype":"locality",

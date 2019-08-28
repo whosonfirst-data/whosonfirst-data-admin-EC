@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-79.78165,-2.32414,-79.74165,-2.28414",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ensenada"
     ],
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":1310685023,
-    "wof:lastmodified":1564204615,
+    "wof:lastmodified":1566584381,
     "wof:name":"Ensenada",
     "wof:parent_id":1108568901,
     "wof:placetype":"locality",

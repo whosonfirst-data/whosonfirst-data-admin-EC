@@ -10,8 +10,12 @@
     "geom:latitude":0.33151,
     "geom:longitude":-78.21705,
     "iso:country":"EC",
+    "lbl:bbox":"-78.23705,0.31151,-78.19705,0.35151",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Atuntaqui"
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":3660478,
         "gp:id":375841,
-        "qs:id":893980,
+        "qs_pg:id":893980,
         "wd:id":"Q4741622"
     },
     "wof:country":"EC",
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":421193391,
-    "wof:lastmodified":1563584648,
+    "wof:lastmodified":1566584461,
     "wof:name":"Atuntaqui",
     "wof:parent_id":421169627,
     "wof:placetype":"locality",

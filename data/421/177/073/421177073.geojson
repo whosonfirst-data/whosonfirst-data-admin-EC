@@ -10,8 +10,12 @@
     "geom:latitude":-3.27471,
     "geom:longitude":-79.31475,
     "iso:country":"EC",
+    "lbl:bbox":"-79.41475,-3.37471,-79.21475,-3.17471",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Santa Isabel"
@@ -111,7 +115,7 @@
     "wof:concordances":{
         "gn:id":3651418,
         "gp:id":26810498,
-        "qs:id":401603
+        "qs_pg:id":401603
     },
     "wof:country":"EC",
     "wof:created":1459009132,
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":421177073,
-    "wof:lastmodified":1564204818,
+    "wof:lastmodified":1566584510,
     "wof:name":"Santa Isabel",
     "wof:parent_id":421189221,
     "wof:placetype":"localadmin",

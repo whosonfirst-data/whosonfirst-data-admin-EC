@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":45974325.49049,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.893939,-2.217179,-79.893939,-2.217179",
     "geom:latitude":-2.217179,
     "geom:longitude":-79.893939,
     "gn:id":"",
     "iso:country":"EC",
+    "lbl:bbox":"-79.898939,-2.222179,-79.888939,-2.212179",
     "lbl:latitude":-2.217179,
     "lbl:longitude":-79.893939,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-2.218806,
     "mps:longitude":-79.894996,
     "mz:hierarchy_label":0,
@@ -33,9 +35,6 @@
     ],
     "name:spa_x_variant":[
         "C. del Seguro, Urbanizaci\u00f3n"
-    ],
-    "name:unk_x_variant":[
-        "C. del Seguro Urbanizaci\u00f3n"
     ],
     "qs:gn_adm0_cc":"EC",
     "qs:gn_id":0,
@@ -63,17 +62,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85670917,
         102191577,
         85632261,
-        421175423,
-        85670917
+        421175423
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":369968,
-        "qs:id":1054069
+        "qs_pg:id":1054069
     },
     "wof:country":"EC",
     "wof:geomhash":"5010fce32b6b3fa06b3a1d910e231f16",
@@ -91,7 +90,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531858959,
+    "wof:lastmodified":1566583967,
     "wof:name":"C. del Seguro Urbanizaci\u00f3n",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

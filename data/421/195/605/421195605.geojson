@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-3.689042,
     "lbl:longitude":-79.742397,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"El Oro",
     "meso:gadm_hasc2":"EC.EO.PI",
     "meso:gaul_adm2":"Pinas",
@@ -29,6 +31,7 @@
     "mps:longitude":-79.742397,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:arg_x_preferred":[
         "Pinars"
@@ -172,9 +175,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-11-25",
+    "src:population_date":"2001-11-25",
     "statoids:area_km":"615",
     "statoids:as_of_date":"2001-11-25",
     "statoids:capital":"Pi\u00f1as",
@@ -195,7 +198,7 @@
     "wof:concordances":{
         "gp:id":26809627,
         "hasc:id":"EC.EO.PI",
-        "qs:id":115842,
+        "qs_pg:id":115842,
         "wd:id":"Q740750"
     },
     "wof:country":"EC",
@@ -210,7 +213,7 @@
         }
     ],
     "wof:id":421195605,
-    "wof:lastmodified":1563584638,
+    "wof:lastmodified":1566584456,
     "wof:name":"Pi\u00f1as",
     "wof:parent_id":85670887,
     "wof:placetype":"county",

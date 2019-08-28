@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":0.362341,
     "lbl:longitude":-78.061489,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Imbabura",
     "meso:gadm_hasc2":"EC.IM.IB",
     "meso:gaul_adm2":"Ibarra",
@@ -29,6 +31,7 @@
     "mps:longitude":-78.061489,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u064a\u0628\u0627\u0631\u0627"
@@ -100,9 +103,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-11-25",
+    "src:population_date":"2001-11-25",
     "statoids:area_km":"1093",
     "statoids:as_of_date":"2001-11-25",
     "statoids:capital":"Ibarra",
@@ -123,7 +126,7 @@
     "wof:concordances":{
         "gp:id":26809563,
         "hasc:id":"EC.IM.IB",
-        "qs:id":1264185,
+        "qs_pg:id":1264185,
         "wd:id":"Q295092"
     },
     "wof:country":"EC",
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":421171745,
-    "wof:lastmodified":1563584805,
+    "wof:lastmodified":1566584522,
     "wof:name":"Ibarra",
     "wof:parent_id":85670971,
     "wof:placetype":"county",

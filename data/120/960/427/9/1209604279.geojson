@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-79.88536,-2.28027,-79.84536,-2.24027",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632261
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209604279,
-    "wof:lastmodified":1536282064,
+    "wof:lastmodified":1566584213,
     "wof:name":"Estero Cobina",
     "wof:parent_id":85632261,
     "wof:placetype":"locality",

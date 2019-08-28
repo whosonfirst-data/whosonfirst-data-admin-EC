@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-79.01961,0.16858,-78.97961,0.20858",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "San Dimas"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1326793819,
-    "wof:lastmodified":1564203567,
+    "wof:lastmodified":1566583839,
     "wof:name":"San Dimas",
     "wof:parent_id":421203597,
     "wof:placetype":"locality",

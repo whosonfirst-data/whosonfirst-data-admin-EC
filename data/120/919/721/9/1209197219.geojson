@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-77.94,-3.07889,-77.9,-3.03889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632261
@@ -34,7 +38,7 @@
         "gn:id":3760823
     },
     "wof:country":"EC",
-    "wof:geomhash":"7572782e912ca6a8b310cac856bdc2b9",
+    "wof:geomhash":"a4c3377410147f2b8b7de3bbe3833ad2",
     "wof:hierarchy":[
         {
             "country_id":85632261,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209197219,
-    "wof:lastmodified":1536294730,
+    "wof:lastmodified":1566584234,
     "wof:name":"Pachacutec",
     "wof:parent_id":85632261,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -77.92,
-    -3.0588900000000003,
+    -3.05889,
     -77.92,
-    -3.0588900000000003
+    -3.05889
 ],
   "geometry": {"coordinates":[-77.92,-3.05889],"type":"Point"}
 }

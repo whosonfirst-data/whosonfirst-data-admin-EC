@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-77.8147,-0.88029,-77.7747,-0.84029",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1326486633,
-    "wof:lastmodified":1537047819,
+    "wof:lastmodified":1566583842,
     "wof:name":"Reten",
     "wof:parent_id":1108567669,
     "wof:placetype":"locality",

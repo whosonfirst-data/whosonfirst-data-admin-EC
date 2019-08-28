@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-79.44997,-0.51247,-79.40997,-0.47247",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1276931467,
-    "wof:lastmodified":1536971842,
+    "wof:lastmodified":1566584102,
     "wof:name":"San Vicente de Nila",
     "wof:parent_id":421190535,
     "wof:placetype":"locality",

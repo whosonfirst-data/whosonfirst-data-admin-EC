@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-2.168469,
     "lbl:longitude":-80.534305,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Santa Elena",
     "meso:gadm_hasc2":"EC.GU.SE",
     "meso:gaul_adm2":"Santa Elena",
@@ -32,6 +34,7 @@
     "mps:longitude":-80.534305,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Santa Elena"
     ],
@@ -90,9 +93,9 @@
         "\u8056\u57c3\u840a\u7d0d\u7e23"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-11-25",
+    "src:population_date":"2001-11-25",
     "statoids:area_km":"3669",
     "statoids:as_of_date":"2001-11-25",
     "statoids:capital":"Santa Elena",
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":1108572401,
-    "wof:lastmodified":1563584355,
+    "wof:lastmodified":1566584313,
     "wof:name":"Santa Elena",
     "wof:parent_id":85670979,
     "wof:placetype":"county",

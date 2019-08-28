@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-79.67614,-4.0094,-79.63614,-3.9694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Valdivia"
     ],
@@ -251,7 +255,7 @@
         }
     ],
     "wof:id":1226129507,
-    "wof:lastmodified":1564205266,
+    "wof:lastmodified":1566584728,
     "wof:name":"Valdivia",
     "wof:parent_id":1108571061,
     "wof:placetype":"locality",

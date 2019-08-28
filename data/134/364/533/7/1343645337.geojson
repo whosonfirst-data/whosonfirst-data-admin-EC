@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-79.98667,-1.63667,-79.94667,-1.59667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Las Cruces"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1343645337,
-    "wof:lastmodified":1564203659,
+    "wof:lastmodified":1566583894,
     "wof:name":"Las Cruces",
     "wof:parent_id":1108570955,
     "wof:placetype":"locality",

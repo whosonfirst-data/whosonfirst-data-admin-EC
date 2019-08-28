@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-78.9286,1.04998,-78.8886,1.08998",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Maldonado"
     ],
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":1209809969,
-    "wof:lastmodified":1564204353,
+    "wof:lastmodified":1566584226,
     "wof:name":"Maldonado",
     "wof:parent_id":1108569287,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-2.884379,
     "lbl:longitude":-79.236975,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Azuay",
     "meso:gadm_hasc2":"EC.AZ.CU",
     "meso:gaul_adm2":"Cuenca",
@@ -29,6 +31,7 @@
     "mps:longitude":-79.236975,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Cuenca"
@@ -199,9 +202,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-11-25",
+    "src:population_date":"2001-11-25",
     "statoids:area_km":"3086",
     "statoids:as_of_date":"2001-11-25",
     "statoids:capital":"Cuenca",
@@ -221,7 +224,7 @@
     "wof:concordances":{
         "gp:id":26809530,
         "hasc:id":"EC.AZ.CU",
-        "qs:id":897121,
+        "qs_pg:id":897121,
         "wd:id":"Q629038"
     },
     "wof:country":"EC",
@@ -236,7 +239,7 @@
         }
     ],
     "wof:id":421185495,
-    "wof:lastmodified":1563584811,
+    "wof:lastmodified":1566584525,
     "wof:name":"Cuenca",
     "wof:parent_id":85670885,
     "wof:placetype":"county",

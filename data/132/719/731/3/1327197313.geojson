@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-79.17,-0.75333,-79.13,-0.71333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u0631\u0645\u0627\u0646\u064a\u0629"
     ],
@@ -201,7 +205,7 @@
         }
     ],
     "wof:id":1327197313,
-    "wof:lastmodified":1564203602,
+    "wof:lastmodified":1566583858,
     "wof:name":"Germania",
     "wof:parent_id":421178141,
     "wof:placetype":"locality",

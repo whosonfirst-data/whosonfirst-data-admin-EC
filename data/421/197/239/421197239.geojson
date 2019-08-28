@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":0.554042,
     "lbl:longitude":-77.801943,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Carchi",
     "meso:gadm_hasc2":"EC.CR.MO",
     "meso:gaul_adm2":"Montufar",
@@ -32,6 +34,7 @@
     "mps:longitude":-77.801943,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Cant\u00f3n Mont\u00fafar"
@@ -97,9 +100,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-11-25",
+    "src:population_date":"2001-11-25",
     "statoids:area_km":"383",
     "statoids:as_of_date":"2001-11-25",
     "statoids:capital":"San Gabriel",
@@ -119,7 +122,7 @@
     "wof:concordances":{
         "gp:id":26809598,
         "hasc:id":"EC.CR.MO",
-        "qs:id":61229,
+        "qs_pg:id":61229,
         "wd:id":"Q2448812"
     },
     "wof:country":"EC",
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":421197239,
-    "wof:lastmodified":1563584751,
+    "wof:lastmodified":1566584500,
     "wof:name":"Mont\u00fafar",
     "wof:parent_id":85670967,
     "wof:placetype":"county",

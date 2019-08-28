@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-80.43683,-1.01486,-80.39683,-0.97486",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1326513505,
-    "wof:lastmodified":1537010384,
+    "wof:lastmodified":1566583802,
     "wof:name":"Rio Chico",
     "wof:parent_id":421189223,
     "wof:placetype":"locality",

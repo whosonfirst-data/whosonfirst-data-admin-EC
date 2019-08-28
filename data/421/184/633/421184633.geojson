@@ -10,8 +10,12 @@
     "geom:latitude":-1.46823,
     "geom:longitude":-78.083953,
     "iso:country":"EC",
+    "lbl:bbox":"-78.183953,-1.56823,-77.983953,-1.36823",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u041c\u0435\u0440\u0430"
@@ -101,7 +105,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26810185,
-        "qs:id":1002647,
         "qs_pg:id":1002647
     },
     "wof:country":"EC",
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":421184633,
-    "wof:lastmodified":1564204812,
+    "wof:lastmodified":1566584506,
     "wof:name":"Mera",
     "wof:parent_id":421175415,
     "wof:placetype":"localadmin",

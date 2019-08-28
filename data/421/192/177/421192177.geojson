@@ -10,8 +10,12 @@
     "geom:latitude":-0.37692,
     "geom:longitude":-78.14264,
     "iso:country":"EC",
+    "lbl:bbox":"-78.16264,-0.39692,-78.12264,-0.35692",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Papallacta"
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":3653450,
         "gp:id":376162,
-        "qs:id":1165360,
+        "qs_pg:id":1165360,
         "wd:id":"Q1001966",
         "wk:page":"Papallacta"
     },
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":421192177,
-    "wof:lastmodified":1563584635,
+    "wof:lastmodified":1566584455,
     "wof:name":"Papallacta",
     "wof:parent_id":1108571837,
     "wof:placetype":"locality",

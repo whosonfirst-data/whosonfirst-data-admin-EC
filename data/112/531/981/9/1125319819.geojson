@@ -9,12 +9,16 @@
     "geom:bbox":"-78.620824,-1.238011,-78.620824,-1.238011",
     "geom:latitude":-1.238011,
     "geom:longitude":-78.620824,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"EC",
+    "lbl:bbox":"-78.720824,-1.338011,-78.520824,-1.138011",
     "lbl:latitude":-1.238011,
     "lbl:longitude":-78.620824,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Ambato"
@@ -64,7 +68,7 @@
     "qs_pg:woe_adm0":23424801,
     "qs_pg:woe_id":26809723,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424801,
     "woe:name_adm0":"Ecuador",
     "woe:name_adm1":"Tungurahua",
@@ -78,7 +82,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26809723,
-        "qs:id":1264207,
         "qs_pg:id":1264207
     },
     "wof:country":"EC",
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1125319819,
-    "wof:lastmodified":1564204833,
+    "wof:lastmodified":1566584529,
     "wof:name":"Ambato",
     "wof:parent_id":1108567603,
     "wof:placetype":"localadmin",

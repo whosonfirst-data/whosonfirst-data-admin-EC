@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-79.31213,-0.03585,-79.27213,0.00415",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "El Triunfo"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1226001601,
-    "wof:lastmodified":1564205304,
+    "wof:lastmodified":1566584747,
     "wof:name":"El Triunfo",
     "wof:parent_id":1108570759,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-78.44915,-0.23559,-78.40915,-0.19559",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1293746873,
-    "wof:lastmodified":1536910733,
+    "wof:lastmodified":1566584057,
     "wof:name":"Hacienda Rojas",
     "wof:parent_id":421188131,
     "wof:placetype":"locality",

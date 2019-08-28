@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-3.565277,
     "lbl:longitude":-79.302766,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Loja",
     "meso:gadm_hasc2":"EC.LJ.SA",
     "meso:gaul_adm2":"Saraguro",
@@ -32,6 +34,7 @@
     "mps:longitude":-79.302766,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Cant\u00f3n Saraguro"
@@ -97,9 +100,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-11-25",
+    "src:population_date":"2001-11-25",
     "statoids:area_km":"1075",
     "statoids:as_of_date":"2001-11-25",
     "statoids:capital":"Saraguro",
@@ -120,7 +123,7 @@
     "wof:concordances":{
         "gp:id":26809673,
         "hasc:id":"EC.LJ.SA",
-        "qs:id":1002632,
+        "qs_pg:id":1002632,
         "wd:id":"Q1990045"
     },
     "wof:country":"EC",
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":421184627,
-    "wof:lastmodified":1563584765,
+    "wof:lastmodified":1566584506,
     "wof:name":"Saraguro",
     "wof:parent_id":85670891,
     "wof:placetype":"county",

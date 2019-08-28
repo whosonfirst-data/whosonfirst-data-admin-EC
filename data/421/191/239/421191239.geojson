@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-2.434756,
     "lbl:longitude":-79.360975,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Ca\u00f1ar",
     "meso:gadm_hasc2":"EC.CN.LT",
     "meso:gaul_adm2":"La Troncal",
@@ -32,6 +34,7 @@
     "mps:longitude":-79.360975,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "La Troncal"
@@ -97,9 +100,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-11-25",
+    "src:population_date":"2001-11-25",
     "statoids:area_km":"324",
     "statoids:as_of_date":"2001-11-25",
     "statoids:capital":"La Troncal",
@@ -120,7 +123,7 @@
     "wof:concordances":{
         "gp:id":26809573,
         "hasc:id":"EC.CN.LT",
-        "qs:id":61224,
+        "qs_pg:id":61224,
         "wd:id":"Q2466495"
     },
     "wof:country":"EC",
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":421191239,
-    "wof:lastmodified":1563584748,
+    "wof:lastmodified":1566584499,
     "wof:name":"La Troncal",
     "wof:parent_id":85670909,
     "wof:placetype":"county",

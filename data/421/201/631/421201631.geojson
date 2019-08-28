@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-1.596073,
     "lbl:longitude":-78.158711,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Morona Santiago",
     "meso:gadm_hasc2":"EC.MS.PA",
     "meso:gaul_adm2":"Palora",
@@ -32,6 +34,7 @@
     "mps:longitude":-78.158711,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Cant\u00f3n Palora"
@@ -97,9 +100,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-11-25",
+    "src:population_date":"2001-11-25",
     "statoids:area_km":"1436",
     "statoids:as_of_date":"2001-11-25",
     "statoids:capital":"Palora",
@@ -120,7 +123,7 @@
     "wof:concordances":{
         "gp:id":26809614,
         "hasc:id":"EC.MS.PA",
-        "qs:id":1264190,
+        "qs_pg:id":1264190,
         "wd:id":"Q1990533"
     },
     "wof:country":"EC",
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":421201631,
-    "wof:lastmodified":1563584762,
+    "wof:lastmodified":1566584504,
     "wof:name":"Palora",
     "wof:parent_id":85670935,
     "wof:placetype":"county",

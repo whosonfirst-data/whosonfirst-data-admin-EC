@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-79.76474,-4.44252,-79.72474,-4.40252",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1293763861,
-    "wof:lastmodified":1536885227,
+    "wof:lastmodified":1566584017,
     "wof:name":"Tacamoros",
     "wof:parent_id":1108572851,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-79.23161,-3.62497,-79.19161,-3.58497",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Urdaneta"
     ],
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":1242657787,
-    "wof:lastmodified":1564204984,
+    "wof:lastmodified":1566584599,
     "wof:name":"Urdaneta",
     "wof:parent_id":421184627,
     "wof:placetype":"locality",

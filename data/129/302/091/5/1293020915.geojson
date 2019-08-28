@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-79.60809,-3.45712,-79.56809,-3.41712",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1293020915,
-    "wof:lastmodified":1536962605,
+    "wof:lastmodified":1566584038,
     "wof:name":"Chiquil",
     "wof:parent_id":1108568543,
     "wof:placetype":"locality",

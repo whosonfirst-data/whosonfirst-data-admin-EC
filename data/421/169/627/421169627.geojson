@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":0.344926,
     "lbl:longitude":-78.205944,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Imbabura",
     "meso:gadm_hasc2":"EC.IM.AA",
     "meso:gaul_adm2":"Antonio Ante",
@@ -32,6 +34,7 @@
     "mps:longitude":-78.205944,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Cant\u00f3n Antonio Ante"
@@ -97,9 +100,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-11-25",
+    "src:population_date":"2001-11-25",
     "statoids:area_km":"81",
     "statoids:as_of_date":"2001-11-25",
     "statoids:capital":"Atuntaqui",
@@ -120,7 +123,7 @@
     "wof:concordances":{
         "gp:id":26809490,
         "hasc:id":"EC.IM.AA",
-        "qs:id":224360,
+        "qs_pg:id":224360,
         "wd:id":"Q1992605"
     },
     "wof:country":"EC",
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":421169627,
-    "wof:lastmodified":1563584655,
+    "wof:lastmodified":1566584464,
     "wof:name":"Antonio Ante",
     "wof:parent_id":85670971,
     "wof:placetype":"county",

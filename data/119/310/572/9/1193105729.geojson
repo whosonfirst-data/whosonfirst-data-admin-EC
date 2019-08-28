@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
+    "lbl:bbox":"-75.42501,-0.91033,-75.38501,-0.87033",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1193105729,
-    "wof:lastmodified":1536378705,
+    "wof:lastmodified":1566584269,
     "wof:name":"Davalos",
     "wof:parent_id":421183147,
     "wof:placetype":"locality",

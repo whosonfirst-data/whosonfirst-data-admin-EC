@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-0.620164,
     "lbl:longitude":-78.903546,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Cotopaxi",
     "meso:gadm_hasc2":"EC.CT.SG",
     "meso:gaul_adm2":"Sigchos",
@@ -32,6 +34,7 @@
     "mps:longitude":-78.903546,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Cant\u00f3n Sigchos"
@@ -94,9 +97,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-11-25",
+    "src:population_date":"2001-11-25",
     "statoids:area_km":"1267",
     "statoids:as_of_date":"2001-11-25",
     "statoids:capital":"Sigchos",
@@ -117,7 +120,7 @@
     "wof:concordances":{
         "gp:id":26809676,
         "hasc:id":"EC.CT.SG",
-        "qs:id":1119697,
+        "qs_pg:id":1119697,
         "wd:id":"Q2639966"
     },
     "wof:country":"EC",
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":421184865,
-    "wof:lastmodified":1563584773,
+    "wof:lastmodified":1566584508,
     "wof:name":"Sigchos",
     "wof:parent_id":85670915,
     "wof:placetype":"county",

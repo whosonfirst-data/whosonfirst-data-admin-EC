@@ -10,6 +10,9 @@
     "geom:latitude":-2.90054,
     "geom:longitude":-79.00453,
     "iso:country":"EC",
+    "lbl:bbox":"-79.02453,-2.92054,-78.98453,-2.88054",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":5.6,
@@ -215,7 +218,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u0435\u043d\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Santa Ana de los cuatro r\u00edos de Cuenca"
     ],
     "name:urd_x_preferred":[
@@ -362,7 +365,7 @@
     "wof:concordances":{
         "gn:id":3658666,
         "gp:id":375734,
-        "qs:id":240974,
+        "qs_pg:id":240974,
         "wd:id":"Q54886",
         "wk:page":"Cuenca, Ecuador"
     },
@@ -379,7 +382,7 @@
         }
     ],
     "wof:id":421169119,
-    "wof:lastmodified":1563584658,
+    "wof:lastmodified":1566584465,
     "wof:name":"Cuenca",
     "wof:parent_id":421185495,
     "wof:placetype":"locality",
