@@ -85,6 +85,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009277,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a7ea93319140cc411637bd96604dd4b6",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":421180961,
-    "wof:lastmodified":1566584474,
+    "wof:lastmodified":1582351938,
     "wof:name":"Pedernales",
     "wof:parent_id":1108571251,
     "wof:placetype":"localadmin",

@@ -125,6 +125,9 @@
     },
     "wof:country":"EC",
     "wof:created":1469052783,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"de6c6b4c0bf1074203644745d330db5b",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":890451517,
-    "wof:lastmodified":1566584527,
+    "wof:lastmodified":1582351945,
     "wof:name":"San Fernando",
     "wof:parent_id":85670885,
     "wof:placetype":"county",

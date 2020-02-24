@@ -87,6 +87,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009388,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"64e1e40073ad019213e61a00340698ca",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421183823,
-    "wof:lastmodified":1566584513,
+    "wof:lastmodified":1582351943,
     "wof:name":"Ventanas",
     "wof:parent_id":1108573237,
     "wof:placetype":"localadmin",

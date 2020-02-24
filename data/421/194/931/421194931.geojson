@@ -61,6 +61,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009824,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f8475fe6f377bac3cf0b2a64cba1c005",
     "wof:hierarchy":[
         {
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":421194931,
-    "wof:lastmodified":1566584459,
+    "wof:lastmodified":1582351937,
     "wof:name":"Llacao",
     "wof:parent_id":421185495,
     "wof:placetype":"localadmin",

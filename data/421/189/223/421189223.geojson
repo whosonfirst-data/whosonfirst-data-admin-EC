@@ -139,6 +139,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009614,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"132c13fde6f529445df983b4be742cf1",
     "wof:hierarchy":[
         {
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":421189223,
-    "wof:lastmodified":1566584480,
+    "wof:lastmodified":1582351939,
     "wof:name":"Portoviejo",
     "wof:parent_id":85670927,
     "wof:placetype":"county",

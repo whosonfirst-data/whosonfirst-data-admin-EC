@@ -131,6 +131,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009420,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7ddb53d90ea36ee57a20c24200a340c0",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":421184733,
-    "wof:lastmodified":1566584507,
+    "wof:lastmodified":1582351942,
     "wof:name":"Zaruma",
     "wof:parent_id":85670887,
     "wof:placetype":"county",

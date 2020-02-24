@@ -90,6 +90,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009660,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"604e9011c066a0d93e95a428160e6366",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421190531,
-    "wof:lastmodified":1566584499,
+    "wof:lastmodified":1582351941,
     "wof:name":"San Miguel de los Bancos",
     "wof:parent_id":85670945,
     "wof:placetype":"county",

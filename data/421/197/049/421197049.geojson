@@ -140,6 +140,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009901,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8f32450f8b049a564e245b1f3264b2fa",
     "wof:hierarchy":[
         {
@@ -150,7 +153,7 @@
         }
     ],
     "wof:id":421197049,
-    "wof:lastmodified":1566584500,
+    "wof:lastmodified":1582351942,
     "wof:name":"Cayambe",
     "wof:parent_id":85670945,
     "wof:placetype":"county",

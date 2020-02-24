@@ -158,6 +158,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459008695,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"870fa3363ded6b0ffef47f00ae561c44",
     "wof:hierarchy":[
         {
@@ -168,7 +171,7 @@
         }
     ],
     "wof:id":421166581,
-    "wof:lastmodified":1566584452,
+    "wof:lastmodified":1582351936,
     "wof:name":"Putumayo",
     "wof:parent_id":85670977,
     "wof:placetype":"county",

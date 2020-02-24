@@ -309,6 +309,9 @@
         "wk:page":"Los R\u00edos Province"
     },
     "wof:country":"EC",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"973a82f323319880ae176d9e7062eb51",
     "wof:hierarchy":[
         {
@@ -326,7 +329,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1566583977,
+    "wof:lastmodified":1582351927,
     "wof:name":"Los Rios",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

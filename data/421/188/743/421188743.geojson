@@ -80,6 +80,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009577,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7c560fb5e13d9bf894f1de1dab6f6a8d",
     "wof:hierarchy":[
         {
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":421188743,
-    "wof:lastmodified":1566584484,
+    "wof:lastmodified":1582351940,
     "wof:name":"El Cisne",
     "wof:parent_id":421182159,
     "wof:placetype":"localadmin",

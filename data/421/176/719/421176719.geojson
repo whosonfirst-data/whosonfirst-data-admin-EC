@@ -52,6 +52,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009117,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"32e8a68aded237bda06a7bd4b96fb56a",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421176719,
-    "wof:lastmodified":1566584519,
+    "wof:lastmodified":1582351944,
     "wof:name":"Tumbaco",
     "wof:parent_id":421188131,
     "wof:placetype":"localadmin",

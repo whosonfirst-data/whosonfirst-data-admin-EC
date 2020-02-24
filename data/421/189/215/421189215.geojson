@@ -146,6 +146,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009614,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a51d098c28883685718e8df49b234c8d",
     "wof:hierarchy":[
         {
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":421189215,
-    "wof:lastmodified":1566584480,
+    "wof:lastmodified":1582351939,
     "wof:name":"Quevedo",
     "wof:parent_id":85670923,
     "wof:placetype":"county",

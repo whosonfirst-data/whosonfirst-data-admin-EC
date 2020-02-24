@@ -67,6 +67,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009370,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b7ee1ab20d756acf90b4bed6df0ef8af",
     "wof:hierarchy":[
         {
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":421183473,
-    "wof:lastmodified":1566584513,
+    "wof:lastmodified":1582351943,
     "wof:name":"Zumbahua",
     "wof:parent_id":421185497,
     "wof:placetype":"localadmin",

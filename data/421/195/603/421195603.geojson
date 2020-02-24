@@ -131,6 +131,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009853,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"069bb74c7ed5ac89529fa873e6f1523e",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":421195603,
-    "wof:lastmodified":1566584457,
+    "wof:lastmodified":1582351936,
     "wof:name":"Celica",
     "wof:parent_id":85670891,
     "wof:placetype":"county",

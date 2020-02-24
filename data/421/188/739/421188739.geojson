@@ -92,6 +92,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009577,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c3acb26694d62aa392d21fad0f27bef8",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":421188739,
-    "wof:lastmodified":1566584483,
+    "wof:lastmodified":1582351939,
     "wof:name":"Daule",
     "wof:parent_id":421201111,
     "wof:placetype":"localadmin",

@@ -84,6 +84,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009413,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2cd38e3c02c9ee47701ae413dc18bf46",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":421184517,
-    "wof:lastmodified":1566584506,
+    "wof:lastmodified":1582351942,
     "wof:name":"Pedro Carbo",
     "wof:parent_id":1108571289,
     "wof:placetype":"localadmin",

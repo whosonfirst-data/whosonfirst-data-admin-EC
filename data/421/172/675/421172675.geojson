@@ -118,6 +118,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459008951,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d9631613920430ccd4c258d1a32a275a",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":421172675,
-    "wof:lastmodified":1566584485,
+    "wof:lastmodified":1582351940,
     "wof:name":"San Roque",
     "wof:parent_id":421195605,
     "wof:placetype":"localadmin",

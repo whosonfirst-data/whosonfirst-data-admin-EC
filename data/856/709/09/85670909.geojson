@@ -307,6 +307,9 @@
         "wk:page":"Ca\u00f1ar Province"
     },
     "wof:country":"EC",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"32e6694b99d749703dd8ef96a821489c",
     "wof:hierarchy":[
         {
@@ -324,7 +327,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1566583974,
+    "wof:lastmodified":1582351926,
     "wof:name":"Ca\u00f1ar",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

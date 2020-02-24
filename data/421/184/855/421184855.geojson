@@ -122,6 +122,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009424,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3bf67061ae63418bb6757f12b506c6e3",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":421184855,
-    "wof:lastmodified":1566584508,
+    "wof:lastmodified":1582351942,
     "wof:name":"Saquisil\u00ed",
     "wof:parent_id":85670915,
     "wof:placetype":"county",

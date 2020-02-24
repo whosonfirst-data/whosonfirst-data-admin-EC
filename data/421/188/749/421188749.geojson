@@ -231,6 +231,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009577,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bc8eca1294fd4c03636eecb1e4445c4b",
     "wof:hierarchy":[
         {
@@ -242,7 +245,7 @@
         }
     ],
     "wof:id":421188749,
-    "wof:lastmodified":1566584483,
+    "wof:lastmodified":1582351939,
     "wof:name":"Guano",
     "wof:parent_id":421201625,
     "wof:placetype":"localadmin",

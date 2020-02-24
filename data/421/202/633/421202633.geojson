@@ -52,6 +52,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459010124,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6fd609ea73fd41892ed239b19a32c6a9",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421202633,
-    "wof:lastmodified":1566584471,
+    "wof:lastmodified":1582351938,
     "wof:name":"Floreana",
     "wof:parent_id":421183483,
     "wof:placetype":"localadmin",

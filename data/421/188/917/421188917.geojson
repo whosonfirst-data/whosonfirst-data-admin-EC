@@ -61,6 +61,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009588,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ead3461674d1baf0bba8d8e3afdec743",
     "wof:hierarchy":[
         {
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":421188917,
-    "wof:lastmodified":1566584485,
+    "wof:lastmodified":1582351940,
     "wof:name":"Guamote",
     "wof:parent_id":421191235,
     "wof:placetype":"localadmin",

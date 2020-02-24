@@ -125,6 +125,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459008976,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c185a71e8d8fc5b4cbe4fa7c1e10780f",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":421173271,
-    "wof:lastmodified":1566584477,
+    "wof:lastmodified":1582351938,
     "wof:name":"Vinces",
     "wof:parent_id":85670923,
     "wof:placetype":"county",

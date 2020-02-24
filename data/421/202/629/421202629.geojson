@@ -88,6 +88,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459010124,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"52282d52bd04f3b926dcb3861905df91",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":421202629,
-    "wof:lastmodified":1566584470,
+    "wof:lastmodified":1582351938,
     "wof:name":"Atacames",
     "wof:parent_id":1108567745,
     "wof:placetype":"localadmin",

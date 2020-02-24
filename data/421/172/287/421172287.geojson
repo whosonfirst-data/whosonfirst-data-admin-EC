@@ -93,6 +93,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459008930,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"27f09fb8e84d14e15b2ce9026c0df2ae",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":421172287,
-    "wof:lastmodified":1566584485,
+    "wof:lastmodified":1582351940,
     "wof:name":"Cariamanga",
     "wof:parent_id":1108568239,
     "wof:placetype":"localadmin",

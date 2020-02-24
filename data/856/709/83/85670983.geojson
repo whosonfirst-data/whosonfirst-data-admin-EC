@@ -278,6 +278,9 @@
         "wk:page":"Santo Domingo de los Ts\u00e1chilas Province"
     },
     "wof:country":"EC",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bf79d928f76bf1f15f153a43421c9899",
     "wof:hierarchy":[
         {
@@ -295,7 +298,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1566583976,
+    "wof:lastmodified":1582351926,
     "wof:name":"Santo Domingo de los Ts\u00e1chilas",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

@@ -80,6 +80,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459008864,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bd1a6ee50eae1ee3ca4887f0e8a4510d",
     "wof:hierarchy":[
         {
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":421170683,
-    "wof:lastmodified":1566584509,
+    "wof:lastmodified":1582351943,
     "wof:name":"Montalvo",
     "wof:parent_id":421185499,
     "wof:placetype":"localadmin",

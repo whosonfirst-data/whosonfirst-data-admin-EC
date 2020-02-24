@@ -73,6 +73,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009276,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ef80da0b1133974a4a82028c267ac0a1",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":421180927,
-    "wof:lastmodified":1566584474,
+    "wof:lastmodified":1582351938,
     "wof:name":"Cotacachi",
     "wof:parent_id":421185493,
     "wof:placetype":"localadmin",

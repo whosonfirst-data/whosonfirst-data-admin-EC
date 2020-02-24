@@ -130,6 +130,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009615,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bfeda64c4721be63e543d1077561aa25",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":421189243,
-    "wof:lastmodified":1566584479,
+    "wof:lastmodified":1582351939,
     "wof:name":"Manta",
     "wof:parent_id":421175411,
     "wof:placetype":"localadmin",

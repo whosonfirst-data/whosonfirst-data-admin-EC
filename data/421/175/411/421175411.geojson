@@ -145,6 +145,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009066,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b8cd90fa9277b0d202e9d3c93fc0aaee",
     "wof:hierarchy":[
         {
@@ -155,7 +158,7 @@
         }
     ],
     "wof:id":421175411,
-    "wof:lastmodified":1566584494,
+    "wof:lastmodified":1582351941,
     "wof:name":"Manta",
     "wof:parent_id":85670927,
     "wof:placetype":"county",

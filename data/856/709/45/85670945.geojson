@@ -306,6 +306,9 @@
         "wk:page":"Pichincha Province"
     },
     "wof:country":"EC",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"09b25f24f8911f3cd26794ab11481ed5",
     "wof:hierarchy":[
         {
@@ -323,7 +326,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1566583973,
+    "wof:lastmodified":1582351925,
     "wof:name":"Pichincha",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

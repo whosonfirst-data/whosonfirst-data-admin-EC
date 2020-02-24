@@ -52,6 +52,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009588,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3af05d789407621d4bf724ece44718e0",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421188915,
-    "wof:lastmodified":1566584483,
+    "wof:lastmodified":1582351939,
     "wof:name":"Cumbaya",
     "wof:parent_id":421188131,
     "wof:placetype":"localadmin",

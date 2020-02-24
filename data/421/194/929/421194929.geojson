@@ -70,6 +70,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009824,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0d62795077b6ae566c5d172bcbb422cf",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":421194929,
-    "wof:lastmodified":1566584461,
+    "wof:lastmodified":1582351937,
     "wof:name":"Las Nieves",
     "wof:parent_id":421186367,
     "wof:placetype":"localadmin",

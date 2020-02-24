@@ -133,6 +133,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009615,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a1fb114c8f552fb3ee85e0a1d05525a8",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":421189265,
-    "wof:lastmodified":1566584481,
+    "wof:lastmodified":1582351939,
     "wof:name":"Shell",
     "wof:parent_id":421175415,
     "wof:placetype":"localadmin",

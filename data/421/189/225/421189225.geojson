@@ -91,6 +91,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009614,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f60a49474eccb94cda47a3ff8ab74ab4",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":421189225,
-    "wof:lastmodified":1566584481,
+    "wof:lastmodified":1582351939,
     "wof:name":"Cayambe",
     "wof:parent_id":421197049,
     "wof:placetype":"localadmin",

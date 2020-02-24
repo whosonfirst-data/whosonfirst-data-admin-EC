@@ -73,6 +73,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459010126,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4b9d7ffbd33def6952fff2df12e71e3c",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":421202683,
-    "wof:lastmodified":1566584471,
+    "wof:lastmodified":1582351938,
     "wof:name":"Muisne",
     "wof:parent_id":421169435,
     "wof:placetype":"localadmin",

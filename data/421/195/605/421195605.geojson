@@ -203,6 +203,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009853,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f033c77ece1dc8154e04aeb4baa2a9bc",
     "wof:hierarchy":[
         {
@@ -213,7 +216,7 @@
         }
     ],
     "wof:id":421195605,
-    "wof:lastmodified":1566584456,
+    "wof:lastmodified":1582351936,
     "wof:name":"Pi\u00f1as",
     "wof:parent_id":85670887,
     "wof:placetype":"county",

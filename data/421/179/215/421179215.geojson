@@ -128,6 +128,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009208,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6b89fd19a5c1a4defa19a3bc532a686b",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":421179215,
-    "wof:lastmodified":1566584514,
+    "wof:lastmodified":1582351943,
     "wof:name":"Chunchi",
     "wof:parent_id":85670931,
     "wof:placetype":"county",

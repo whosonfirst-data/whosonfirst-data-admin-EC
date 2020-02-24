@@ -295,6 +295,9 @@
         "wk:page":"Zamora-Chinchipe Province"
     },
     "wof:country":"EC",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a42aaca9d5d25cbd211351860d619f0c",
     "wof:hierarchy":[
         {
@@ -312,7 +315,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1566583967,
+    "wof:lastmodified":1582351923,
     "wof:name":"Zamora Chinchipe",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

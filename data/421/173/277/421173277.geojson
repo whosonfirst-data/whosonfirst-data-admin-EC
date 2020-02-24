@@ -130,6 +130,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459008977,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b4ca4d61f9c3088e821c31e232cb6463",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":421173277,
-    "wof:lastmodified":1566584477,
+    "wof:lastmodified":1582351938,
     "wof:name":"Guaranda",
     "wof:parent_id":421171743,
     "wof:placetype":"localadmin",

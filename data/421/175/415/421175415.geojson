@@ -179,6 +179,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009066,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c5e20f7f49984acb1e180499c849a84b",
     "wof:hierarchy":[
         {
@@ -189,7 +192,7 @@
         }
     ],
     "wof:id":421175415,
-    "wof:lastmodified":1566584493,
+    "wof:lastmodified":1582351940,
     "wof:name":"Mera",
     "wof:parent_id":85670949,
     "wof:placetype":"county",

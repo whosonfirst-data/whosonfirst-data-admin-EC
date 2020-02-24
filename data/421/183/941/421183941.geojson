@@ -133,6 +133,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009395,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"eb0b1206bae333f4ff7169a9d1f2859c",
     "wof:hierarchy":[
         {
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":421183941,
-    "wof:lastmodified":1566584512,
+    "wof:lastmodified":1582351943,
     "wof:name":"Chinchipe",
     "wof:parent_id":85670895,
     "wof:placetype":"county",

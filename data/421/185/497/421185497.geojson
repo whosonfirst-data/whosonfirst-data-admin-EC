@@ -128,6 +128,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009445,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9c631c58b634afea51a7c2ee14fc270c",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":421185497,
-    "wof:lastmodified":1566584523,
+    "wof:lastmodified":1582351945,
     "wof:name":"Pujil\u00ed",
     "wof:parent_id":85670915,
     "wof:placetype":"county",

@@ -306,6 +306,9 @@
         "wk:page":"Imbabura Province"
     },
     "wof:country":"EC",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"08a8e901b6776b3e221477d3c7a31af2",
     "wof:hierarchy":[
         {
@@ -323,7 +326,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1566583978,
+    "wof:lastmodified":1582351927,
     "wof:name":"Imbabura",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

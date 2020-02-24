@@ -73,6 +73,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009430,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d551be339fe6cf7c86c5f77c2b42ad98",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":421185029,
-    "wof:lastmodified":1566584524,
+    "wof:lastmodified":1582351945,
     "wof:name":"La Joya de Los Sachas",
     "wof:parent_id":421178137,
     "wof:placetype":"localadmin",

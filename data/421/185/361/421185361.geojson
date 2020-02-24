@@ -148,6 +148,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009441,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ea33d7d4100fe6d08e0fa15815f06965",
     "wof:hierarchy":[
         {
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":421185361,
-    "wof:lastmodified":1566584524,
+    "wof:lastmodified":1582351945,
     "wof:name":"Salinas",
     "wof:parent_id":421171745,
     "wof:placetype":"localadmin",

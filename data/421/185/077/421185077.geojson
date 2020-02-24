@@ -73,6 +73,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009431,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"622dc09f92ebb99b34d73cd64628c222",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":421185077,
-    "wof:lastmodified":1566584522,
+    "wof:lastmodified":1582351944,
     "wof:name":"La Troncal",
     "wof:parent_id":421191239,
     "wof:placetype":"localadmin",

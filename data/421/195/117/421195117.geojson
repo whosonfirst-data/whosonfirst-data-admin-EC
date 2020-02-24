@@ -95,6 +95,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009832,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b1a48ce582e3bd80269573c89f3a3791",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":421195117,
-    "wof:lastmodified":1566584457,
+    "wof:lastmodified":1582351936,
     "wof:name":"Olmedo",
     "wof:parent_id":421194445,
     "wof:placetype":"localadmin",

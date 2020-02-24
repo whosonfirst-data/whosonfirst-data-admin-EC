@@ -196,6 +196,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459008977,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f5ae8650e0abf03bb9b346561170f4e9",
     "wof:hierarchy":[
         {
@@ -207,7 +210,7 @@
         }
     ],
     "wof:id":421173287,
-    "wof:lastmodified":1566584475,
+    "wof:lastmodified":1582351938,
     "wof:name":"Palenque",
     "wof:parent_id":1108570915,
     "wof:placetype":"localadmin",

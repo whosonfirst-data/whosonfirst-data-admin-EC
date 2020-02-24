@@ -52,6 +52,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459008832,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0ee78a13b8786b56c4e870bf5061ea91",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421169981,
-    "wof:lastmodified":1566584467,
+    "wof:lastmodified":1582351937,
     "wof:name":"Saquisili",
     "wof:parent_id":421184855,
     "wof:placetype":"localadmin",

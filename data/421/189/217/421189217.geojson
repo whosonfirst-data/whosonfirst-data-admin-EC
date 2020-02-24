@@ -134,6 +134,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009614,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"92ffe43a3edcfc58b8855275789c78ca",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":421189217,
-    "wof:lastmodified":1566584479,
+    "wof:lastmodified":1582351938,
     "wof:name":"Samborond\u00f3n",
     "wof:parent_id":85670917,
     "wof:placetype":"county",

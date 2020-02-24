@@ -52,6 +52,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009614,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ecece70cef2f35c91da3b0a602fade9e",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421189237,
-    "wof:lastmodified":1566584482,
+    "wof:lastmodified":1582351939,
     "wof:name":"Cuyabeno",
     "wof:parent_id":421188123,
     "wof:placetype":"localadmin",

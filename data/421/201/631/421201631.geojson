@@ -128,6 +128,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459010079,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b68b31145bb0eea6315e21bc854b43af",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":421201631,
-    "wof:lastmodified":1566584504,
+    "wof:lastmodified":1582351942,
     "wof:name":"Palora",
     "wof:parent_id":85670935,
     "wof:placetype":"county",

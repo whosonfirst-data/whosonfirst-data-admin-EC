@@ -128,6 +128,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459008946,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7372b2778e122157c873675d283f4b8d",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":421172549,
-    "wof:lastmodified":1566584488,
+    "wof:lastmodified":1582351940,
     "wof:name":"Rocafuerte",
     "wof:parent_id":85670927,
     "wof:placetype":"county",

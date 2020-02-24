@@ -103,6 +103,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459008804,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7b1caf6c1bbcee393acb071feeb5f387",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":421169313,
-    "wof:lastmodified":1566584464,
+    "wof:lastmodified":1582351937,
     "wof:name":"San Gabriel",
     "wof:parent_id":421197239,
     "wof:placetype":"localadmin",

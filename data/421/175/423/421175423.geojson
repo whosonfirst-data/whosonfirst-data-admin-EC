@@ -136,6 +136,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009067,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1affdf3e2c11e16fb8770c176f12412a",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":421175423,
-    "wof:lastmodified":1566584493,
+    "wof:lastmodified":1582351940,
     "wof:name":"Guayaquil",
     "wof:parent_id":85670917,
     "wof:placetype":"county",

@@ -121,6 +121,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009409,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ac3be7b98d120ed3fe50070d82f39825",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":421184411,
-    "wof:lastmodified":1566584507,
+    "wof:lastmodified":1582351942,
     "wof:name":"Penipe",
     "wof:parent_id":85670931,
     "wof:placetype":"county",

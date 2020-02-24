@@ -136,6 +136,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009359,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"50fb6c3f45524f9233baa97badc512a8",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":421183147,
-    "wof:lastmodified":1566584513,
+    "wof:lastmodified":1582351943,
     "wof:name":"Aguarico",
     "wof:parent_id":85670941,
     "wof:placetype":"county",

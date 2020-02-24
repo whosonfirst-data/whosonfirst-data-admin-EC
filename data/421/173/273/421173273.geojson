@@ -52,6 +52,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459008977,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b26645cf17d1ce53b670dcce86b55b41",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421173273,
-    "wof:lastmodified":1566584475,
+    "wof:lastmodified":1582351938,
     "wof:name":"Chican",
     "wof:parent_id":421193503,
     "wof:placetype":"localadmin",

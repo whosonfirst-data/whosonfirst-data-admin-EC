@@ -307,6 +307,9 @@
         "wk:page":"Morona-Santiago Province"
     },
     "wof:country":"EC",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"20419b0a34337beb4a2fd4d7945ff5b8",
     "wof:hierarchy":[
         {
@@ -324,7 +327,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1566583971,
+    "wof:lastmodified":1582351925,
     "wof:name":"Morona Santiago",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

@@ -215,6 +215,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009444,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"df064d3d65a2df2756628782e7c4353b",
     "wof:hierarchy":[
         {
@@ -225,7 +228,7 @@
         }
     ],
     "wof:id":421185491,
-    "wof:lastmodified":1566584523,
+    "wof:lastmodified":1582351945,
     "wof:name":"Orellana",
     "wof:parent_id":85670941,
     "wof:placetype":"county",

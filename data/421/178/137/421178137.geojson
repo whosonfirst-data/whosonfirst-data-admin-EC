@@ -95,6 +95,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009172,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f0420bc94054e1a89eca67c87c903ee0",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421178137,
-    "wof:lastmodified":1566584515,
+    "wof:lastmodified":1582351943,
     "wof:name":"Joya de los Sachas",
     "wof:parent_id":85670941,
     "wof:placetype":"county",

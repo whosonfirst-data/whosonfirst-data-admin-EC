@@ -306,6 +306,9 @@
         "wk:page":"Carchi Province"
     },
     "wof:country":"EC",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0e4cda829d0d5516347af9a9cf79b418",
     "wof:hierarchy":[
         {
@@ -323,7 +326,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1566583971,
+    "wof:lastmodified":1582351925,
     "wof:name":"Carchi",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

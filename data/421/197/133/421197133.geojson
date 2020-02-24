@@ -125,6 +125,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009903,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"dcffc9a821a37e97deae2009ad883a46",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":421197133,
-    "wof:lastmodified":1566584499,
+    "wof:lastmodified":1582351941,
     "wof:name":"Nobol",
     "wof:parent_id":85670917,
     "wof:placetype":"county",

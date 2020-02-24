@@ -106,6 +106,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459008905,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"82a230c21086e36d88c53c4ba1acf834",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":421171755,
-    "wof:lastmodified":1566584520,
+    "wof:lastmodified":1582351944,
     "wof:name":"Naranjal",
     "wof:parent_id":85670917,
     "wof:placetype":"county",

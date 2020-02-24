@@ -131,6 +131,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459008905,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"00a6677f69649c4fda8606289f964c5f",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":421171753,
-    "wof:lastmodified":1566584520,
+    "wof:lastmodified":1582351944,
     "wof:name":"Pedro Moncayo",
     "wof:parent_id":85670945,
     "wof:placetype":"county",

@@ -144,6 +144,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009292,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fcd5f15c3a8a800be244b1ebbc6dc783",
     "wof:hierarchy":[
         {
@@ -155,7 +158,7 @@
         }
     ],
     "wof:id":421181315,
-    "wof:lastmodified":1566584491,
+    "wof:lastmodified":1582351940,
     "wof:name":"San Crist\u00f3bal",
     "wof:parent_id":421181765,
     "wof:placetype":"localadmin",

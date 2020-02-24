@@ -128,6 +128,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009829,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d0a26fd16226851f10c4ad154a634c5a",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":421195039,
-    "wof:lastmodified":1566584457,
+    "wof:lastmodified":1582351936,
     "wof:name":"Azogues",
     "wof:parent_id":85670909,
     "wof:placetype":"county",

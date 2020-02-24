@@ -53,6 +53,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009577,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dd54cc879250bbf2c92520b2e17ffe7f",
     "wof:hierarchy":[
         {
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":421188761,
-    "wof:lastmodified":1566584484,
+    "wof:lastmodified":1582351940,
     "wof:name":"Vuelta Larga",
     "wof:parent_id":1108569317,
     "wof:placetype":"localadmin",

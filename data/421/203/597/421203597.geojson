@@ -131,6 +131,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459010157,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f727bd209c5b7ac8df5622316d5cba60",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":421203597,
-    "wof:lastmodified":1566584470,
+    "wof:lastmodified":1582351938,
     "wof:name":"Pedro Vicente Maldonado",
     "wof:parent_id":85670945,
     "wof:placetype":"county",

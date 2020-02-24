@@ -56,6 +56,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009881,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d5e0d52a1e2801c46da7c6e1aa1bd25a",
     "wof:hierarchy":[
         {
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":421196437,
-    "wof:lastmodified":1566584495,
+    "wof:lastmodified":1582351941,
     "wof:name":"Yangana",
     "wof:parent_id":421182159,
     "wof:placetype":"localadmin",

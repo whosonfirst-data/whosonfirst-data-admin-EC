@@ -198,6 +198,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009220,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ea2bcbaffd807938f0c83ed32820a7d2",
     "wof:hierarchy":[
         {
@@ -209,7 +212,7 @@
         }
     ],
     "wof:id":421179423,
-    "wof:lastmodified":1566584514,
+    "wof:lastmodified":1582351943,
     "wof:name":"Nueva Loja",
     "wof:parent_id":421177637,
     "wof:placetype":"localadmin",

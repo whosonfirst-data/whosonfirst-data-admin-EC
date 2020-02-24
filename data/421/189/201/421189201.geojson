@@ -154,6 +154,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009613,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7bd0530841c9fbd0dd882d5bd3eee45c",
     "wof:hierarchy":[
         {
@@ -164,7 +167,7 @@
         }
     ],
     "wof:id":421189201,
-    "wof:lastmodified":1566584482,
+    "wof:lastmodified":1582351939,
     "wof:name":"La Libertad",
     "wof:parent_id":85670979,
     "wof:placetype":"county",

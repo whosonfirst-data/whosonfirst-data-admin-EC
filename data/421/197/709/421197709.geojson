@@ -117,6 +117,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009922,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"96493ac0eec71fe58a930af6e9c08c5a",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":421197709,
-    "wof:lastmodified":1566584500,
+    "wof:lastmodified":1582351941,
     "wof:name":"Santa Lucia",
     "wof:parent_id":421175423,
     "wof:placetype":"localadmin",

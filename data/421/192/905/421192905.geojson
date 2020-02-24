@@ -55,6 +55,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009753,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"89d6cd8bcb5b848906fa99c9c8a400f9",
     "wof:hierarchy":[
         {
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":421192905,
-    "wof:lastmodified":1566584455,
+    "wof:lastmodified":1582351936,
     "wof:name":"Chambo",
     "wof:parent_id":421201227,
     "wof:placetype":"localadmin",

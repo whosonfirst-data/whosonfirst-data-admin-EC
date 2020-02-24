@@ -90,6 +90,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009220,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2963c9608f693193becba82fb6452f79",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":421179431,
-    "wof:lastmodified":1566584514,
+    "wof:lastmodified":1582351943,
     "wof:name":"Calceta",
     "wof:parent_id":1108568121,
     "wof:placetype":"localadmin",

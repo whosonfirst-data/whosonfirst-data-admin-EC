@@ -121,6 +121,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009535,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e303a94cade15e6ea7a71f98cf1e7d7c",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":421188121,
-    "wof:lastmodified":1566584484,
+    "wof:lastmodified":1582351939,
     "wof:name":"Chordeleg",
     "wof:parent_id":85670885,
     "wof:placetype":"county",

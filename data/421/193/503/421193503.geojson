@@ -127,6 +127,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009773,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0724fa36a110a914a2fd1e9c36ac7964",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":421193503,
-    "wof:lastmodified":1566584461,
+    "wof:lastmodified":1582351937,
     "wof:name":"Paute",
     "wof:parent_id":85670885,
     "wof:placetype":"county",

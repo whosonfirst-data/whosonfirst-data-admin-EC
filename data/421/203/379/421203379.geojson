@@ -137,6 +137,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459010149,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"16e3719912e58830cb757941ccb09815",
     "wof:hierarchy":[
         {
@@ -147,7 +150,7 @@
         }
     ],
     "wof:id":421203379,
-    "wof:lastmodified":1566584469,
+    "wof:lastmodified":1582351938,
     "wof:name":"Mira",
     "wof:parent_id":85670967,
     "wof:placetype":"county",

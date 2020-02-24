@@ -167,6 +167,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009320,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"641bb55bb9ef1ba3e837718ba2e985aa",
     "wof:hierarchy":[
         {
@@ -177,7 +180,7 @@
         }
     ],
     "wof:id":421182159,
-    "wof:lastmodified":1566584516,
+    "wof:lastmodified":1582351944,
     "wof:name":"Loja",
     "wof:parent_id":85670891,
     "wof:placetype":"county",

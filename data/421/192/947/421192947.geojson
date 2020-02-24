@@ -260,6 +260,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009754,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7091c0a1e9b3d68cdd9270414292c6bc",
     "wof:hierarchy":[
         {
@@ -270,7 +273,7 @@
         }
     ],
     "wof:id":421192947,
-    "wof:lastmodified":1566584454,
+    "wof:lastmodified":1582351936,
     "wof:name":"Atahualpa",
     "wof:parent_id":85670887,
     "wof:placetype":"county",

@@ -130,6 +130,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009685,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"dd8b045818df6f1e1765d7337ab0099c",
     "wof:hierarchy":[
         {
@@ -140,7 +143,7 @@
         }
     ],
     "wof:id":421191233,
-    "wof:lastmodified":1566584497,
+    "wof:lastmodified":1582351941,
     "wof:name":"Macar\u00e1",
     "wof:parent_id":85670891,
     "wof:placetype":"county",

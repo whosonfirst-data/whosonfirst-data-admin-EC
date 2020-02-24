@@ -127,6 +127,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009355,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5f43cd9500c1f818a85be197c1eec65a",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":421183023,
-    "wof:lastmodified":1566584511,
+    "wof:lastmodified":1582351943,
     "wof:name":"Bibli\u00e1n",
     "wof:parent_id":85670909,
     "wof:placetype":"county",

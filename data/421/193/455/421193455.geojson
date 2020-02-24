@@ -88,6 +88,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009772,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"456bad2ed36a3a5aa08d082ce668489b",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":421193455,
-    "wof:lastmodified":1566584462,
+    "wof:lastmodified":1582351937,
     "wof:name":"Vilcabamba",
     "wof:parent_id":421182159,
     "wof:placetype":"localadmin",

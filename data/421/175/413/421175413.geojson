@@ -134,6 +134,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009066,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1040d31753f12f3f7a521700cfbeaf33",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":421175413,
-    "wof:lastmodified":1566584492,
+    "wof:lastmodified":1582351940,
     "wof:name":"Mej\u00eda",
     "wof:parent_id":85670945,
     "wof:placetype":"county",

@@ -73,6 +73,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009940,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4206172be0e7ec1f11c383117e7c070d",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":421198203,
-    "wof:lastmodified":1566584495,
+    "wof:lastmodified":1582351941,
     "wof:name":"Sigchos",
     "wof:parent_id":421184865,
     "wof:placetype":"localadmin",

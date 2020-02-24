@@ -140,6 +140,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009614,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"58c8fc87716153775b394bbd08e7d482",
     "wof:hierarchy":[
         {
@@ -150,7 +153,7 @@
         }
     ],
     "wof:id":421189211,
-    "wof:lastmodified":1566584478,
+    "wof:lastmodified":1582351938,
     "wof:name":"Chone",
     "wof:parent_id":85670927,
     "wof:placetype":"county",

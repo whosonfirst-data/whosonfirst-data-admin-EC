@@ -212,6 +212,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459008906,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d452fe84823800ce4edc3e918b3d9ac4",
     "wof:hierarchy":[
         {
@@ -222,7 +225,7 @@
         }
     ],
     "wof:id":421171763,
-    "wof:lastmodified":1566584519,
+    "wof:lastmodified":1582351944,
     "wof:name":"San Lorenzo",
     "wof:parent_id":85670963,
     "wof:placetype":"county",

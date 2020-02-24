@@ -86,6 +86,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459008767,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"325403a334ae19431f9d69ae128ba1d9",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421168511,
-    "wof:lastmodified":1566584451,
+    "wof:lastmodified":1582351936,
     "wof:name":"La Mana",
     "wof:parent_id":421178141,
     "wof:placetype":"localadmin",

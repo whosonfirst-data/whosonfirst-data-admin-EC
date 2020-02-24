@@ -315,6 +315,9 @@
         "wk:page":"Guayas Province"
     },
     "wof:country":"EC",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f525b9e5f5fe39c873bb05589717bdc0",
     "wof:hierarchy":[
         {
@@ -332,7 +335,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1566583973,
+    "wof:lastmodified":1582351925,
     "wof:name":"Guayas",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

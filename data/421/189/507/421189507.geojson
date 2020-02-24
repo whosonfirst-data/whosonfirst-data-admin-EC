@@ -52,6 +52,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009627,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"68edc25b16458b8a448c504b0754b59a",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421189507,
-    "wof:lastmodified":1566584480,
+    "wof:lastmodified":1582351939,
     "wof:name":"San Bartolome",
     "wof:parent_id":421185495,
     "wof:placetype":"localadmin",

@@ -140,6 +140,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009439,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"808d21437884dd9d35e9f4d38c1f5e1e",
     "wof:hierarchy":[
         {
@@ -150,7 +153,7 @@
         }
     ],
     "wof:id":421185337,
-    "wof:lastmodified":1566584522,
+    "wof:lastmodified":1582351944,
     "wof:name":"Riobamba",
     "wof:parent_id":85670931,
     "wof:placetype":"county",

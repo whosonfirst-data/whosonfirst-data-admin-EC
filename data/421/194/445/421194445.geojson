@@ -125,6 +125,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009805,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"aab58f34bdeb38e2a83d1f0e353253d9",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":421194445,
-    "wof:lastmodified":1566584461,
+    "wof:lastmodified":1582351937,
     "wof:name":"Santa Ana",
     "wof:parent_id":85670927,
     "wof:placetype":"county",
