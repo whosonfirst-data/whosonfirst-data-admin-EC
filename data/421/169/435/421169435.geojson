@@ -134,6 +134,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459008810,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a2e6f91108c23d9d4af57b38c2f01109",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":421169435,
-    "wof:lastmodified":1566584466,
+    "wof:lastmodified":1582351937,
     "wof:name":"Muisne",
     "wof:parent_id":85670963,
     "wof:placetype":"county",

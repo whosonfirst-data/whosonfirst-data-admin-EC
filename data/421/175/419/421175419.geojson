@@ -122,6 +122,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009066,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e130a41c8d80784d677d74075a0c481f",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":421175419,
-    "wof:lastmodified":1566584494,
+    "wof:lastmodified":1582351941,
     "wof:name":"Veinticuatro de Mayo",
     "wof:parent_id":85670927,
     "wof:placetype":"county",

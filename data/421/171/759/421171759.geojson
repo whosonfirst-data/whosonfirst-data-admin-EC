@@ -149,6 +149,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459008906,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5a2a9b840fc376ca44b2fd439361a237",
     "wof:hierarchy":[
         {
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":421171759,
-    "wof:lastmodified":1566584521,
+    "wof:lastmodified":1582351944,
     "wof:name":"Salcedo",
     "wof:parent_id":85670915,
     "wof:placetype":"county",

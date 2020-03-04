@@ -200,6 +200,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459010154,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"37292dc7c4462e3f84fce2de9cb66bc0",
     "wof:hierarchy":[
         {
@@ -210,7 +213,7 @@
         }
     ],
     "wof:id":421203481,
-    "wof:lastmodified":1566584470,
+    "wof:lastmodified":1582351938,
     "wof:name":"Salinas",
     "wof:parent_id":85670979,
     "wof:placetype":"county",

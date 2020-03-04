@@ -125,6 +125,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009172,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2e81d04f2d74da41751c888038775f45",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":421178141,
-    "wof:lastmodified":1566584516,
+    "wof:lastmodified":1582351944,
     "wof:name":"La Man\u00e1",
     "wof:parent_id":85670915,
     "wof:placetype":"county",

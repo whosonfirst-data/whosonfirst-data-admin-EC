@@ -58,6 +58,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009615,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"807eeeb5a47f4e589740e052a45655ad",
     "wof:hierarchy":[
         {
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":421189249,
-    "wof:lastmodified":1566584481,
+    "wof:lastmodified":1582351939,
     "wof:name":"Pomasqui",
     "wof:parent_id":421188131,
     "wof:placetype":"localadmin",

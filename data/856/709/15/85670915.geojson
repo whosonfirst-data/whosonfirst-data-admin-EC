@@ -300,6 +300,9 @@
         "wk:page":"Cotopaxi Province"
     },
     "wof:country":"EC",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3b17f2daa71da6d8358774c929b4777a",
     "wof:hierarchy":[
         {
@@ -317,7 +320,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1566583977,
+    "wof:lastmodified":1582351927,
     "wof:name":"Cotopaxi",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

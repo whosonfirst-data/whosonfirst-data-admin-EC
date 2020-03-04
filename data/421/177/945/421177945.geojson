@@ -94,6 +94,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009165,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"39e24bec7f3293d8e03138b03fc2c598",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421177945,
-    "wof:lastmodified":1566584511,
+    "wof:lastmodified":1582351943,
     "wof:name":"Quiroga",
     "wof:parent_id":421185493,
     "wof:placetype":"localadmin",

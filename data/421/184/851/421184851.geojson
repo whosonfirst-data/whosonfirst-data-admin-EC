@@ -182,6 +182,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009424,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ca1e5e7395c175ae8d788dfa4809b18e",
     "wof:hierarchy":[
         {
@@ -192,7 +195,7 @@
         }
     ],
     "wof:id":421184851,
-    "wof:lastmodified":1566584506,
+    "wof:lastmodified":1582351942,
     "wof:name":"Loreto",
     "wof:parent_id":85670941,
     "wof:placetype":"county",

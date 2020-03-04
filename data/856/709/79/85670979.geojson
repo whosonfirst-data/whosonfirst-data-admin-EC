@@ -300,6 +300,9 @@
         "wk:page":"Santa Elena Province"
     },
     "wof:country":"EC",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"23a6f272461848ed842fcd49c081e43d",
     "wof:hierarchy":[
         {
@@ -317,7 +320,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1566583975,
+    "wof:lastmodified":1582351926,
     "wof:name":"Santa Elena",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

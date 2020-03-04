@@ -111,6 +111,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009535,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5723c141cc80e5ebd025e5e17cc4d29c",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":421188127,
-    "wof:lastmodified":1566584483,
+    "wof:lastmodified":1582351939,
     "wof:name":"Playas",
     "wof:parent_id":85670917,
     "wof:placetype":"county",

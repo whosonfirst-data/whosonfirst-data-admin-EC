@@ -57,6 +57,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459008742,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"272af9692fcb610b1349c90d6bfbd7ea",
     "wof:hierarchy":[
         {
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":421167777,
-    "wof:lastmodified":1566584463,
+    "wof:lastmodified":1582351937,
     "wof:name":"Samborondon",
     "wof:parent_id":421189217,
     "wof:placetype":"localadmin",

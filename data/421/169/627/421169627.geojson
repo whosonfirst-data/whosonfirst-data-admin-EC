@@ -128,6 +128,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459008817,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4935419a511b4122255de580e4f16695",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":421169627,
-    "wof:lastmodified":1566584464,
+    "wof:lastmodified":1582351937,
     "wof:name":"Antonio Ante",
     "wof:parent_id":85670971,
     "wof:placetype":"county",

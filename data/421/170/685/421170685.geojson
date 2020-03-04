@@ -53,6 +53,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459008864,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"25c9c885c98c28d61df1d51f4d80e91d",
     "wof:hierarchy":[
         {
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":421170685,
-    "wof:lastmodified":1566584509,
+    "wof:lastmodified":1582351943,
     "wof:name":"Nabon",
     "wof:parent_id":421186367,
     "wof:placetype":"localadmin",

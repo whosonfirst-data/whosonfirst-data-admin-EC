@@ -146,6 +146,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009853,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"51d2e7181ddd34ffc3ea7477f893972d",
     "wof:hierarchy":[
         {
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":421195597,
-    "wof:lastmodified":1566584458,
+    "wof:lastmodified":1582351936,
     "wof:name":"Ca\u00f1ar",
     "wof:parent_id":85670909,
     "wof:placetype":"county",

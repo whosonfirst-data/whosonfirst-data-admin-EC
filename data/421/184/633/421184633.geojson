@@ -109,6 +109,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009417,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b03313f57a11e04000cec48624333d4f",
     "wof:hierarchy":[
         {
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":421184633,
-    "wof:lastmodified":1566584506,
+    "wof:lastmodified":1582351942,
     "wof:name":"Mera",
     "wof:parent_id":421175415,
     "wof:placetype":"localadmin",

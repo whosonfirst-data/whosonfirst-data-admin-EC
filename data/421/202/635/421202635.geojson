@@ -103,6 +103,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459010124,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"90fd51dd80e732f5c1f89f01d5cbad5b",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":421202635,
-    "wof:lastmodified":1566584471,
+    "wof:lastmodified":1582351938,
     "wof:name":"Isabela",
     "wof:parent_id":1108569881,
     "wof:placetype":"localadmin",

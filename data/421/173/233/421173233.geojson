@@ -479,6 +479,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459008975,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3b2b3c81cd6600e6e2d4202d4a20947b",
     "wof:hierarchy":[
         {
@@ -490,7 +493,7 @@
         }
     ],
     "wof:id":421173233,
-    "wof:lastmodified":1566584476,
+    "wof:lastmodified":1582351938,
     "wof:name":"Quito",
     "wof:parent_id":421188131,
     "wof:placetype":"locality",

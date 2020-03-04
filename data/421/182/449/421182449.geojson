@@ -130,6 +130,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009330,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"deb2208af3f0e743d253086c4fa5e149",
     "wof:hierarchy":[
         {
@@ -140,7 +143,7 @@
         }
     ],
     "wof:id":421182449,
-    "wof:lastmodified":1566584517,
+    "wof:lastmodified":1582351944,
     "wof:name":"Zamora",
     "wof:parent_id":85670895,
     "wof:placetype":"county",

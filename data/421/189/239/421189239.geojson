@@ -115,6 +115,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009614,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6b33360e42661b2d261c1483e8654283",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421189239,
-    "wof:lastmodified":1566584482,
+    "wof:lastmodified":1582351939,
     "wof:name":"La Libertad",
     "wof:parent_id":421203481,
     "wof:placetype":"localadmin",

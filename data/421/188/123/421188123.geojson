@@ -124,6 +124,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009535,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"32dca1f92e66f87309f642ad88a745b3",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":421188123,
-    "wof:lastmodified":1566584485,
+    "wof:lastmodified":1582351940,
     "wof:name":"Cuyabeno",
     "wof:parent_id":85670977,
     "wof:placetype":"county",

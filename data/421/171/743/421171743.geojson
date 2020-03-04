@@ -131,6 +131,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459008905,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6dd774240a6918d697d8ca800d460124",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":421171743,
-    "wof:lastmodified":1566584521,
+    "wof:lastmodified":1582351944,
     "wof:name":"Guaranda",
     "wof:parent_id":85670905,
     "wof:placetype":"county",

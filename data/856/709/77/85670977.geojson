@@ -305,6 +305,9 @@
         "wk:page":"Sucumb\u00edos Province"
     },
     "wof:country":"EC",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2bb0f1461d085b720179dbec4f057e3d",
     "wof:hierarchy":[
         {
@@ -322,7 +325,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1566583976,
+    "wof:lastmodified":1582351926,
     "wof:name":"Sucumbios",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

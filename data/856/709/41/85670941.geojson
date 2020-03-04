@@ -310,6 +310,9 @@
         "wk:page":"Orellana Province"
     },
     "wof:country":"EC",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3c06393da516008362e6e9200df07e48",
     "wof:hierarchy":[
         {
@@ -327,7 +330,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1566583975,
+    "wof:lastmodified":1582351926,
     "wof:name":"Orellana",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

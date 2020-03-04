@@ -52,6 +52,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009615,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b0f13d3739e07263ffe241d8cfb42287",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421189253,
-    "wof:lastmodified":1566584481,
+    "wof:lastmodified":1582351939,
     "wof:name":"Pi\u00f1as",
     "wof:parent_id":421195605,
     "wof:placetype":"localadmin",

@@ -52,6 +52,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009588,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"52d6139d64a8b808ff7bca81040fe587",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421188925,
-    "wof:lastmodified":1566584484,
+    "wof:lastmodified":1582351939,
     "wof:name":"Montecristi",
     "wof:parent_id":1108570471,
     "wof:placetype":"localadmin",

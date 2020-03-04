@@ -125,6 +125,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009121,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"15ec201c7171d59f468638a5971ba491",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":421176841,
-    "wof:lastmodified":1566584519,
+    "wof:lastmodified":1582351944,
     "wof:name":"Puerto L\u00f3pez",
     "wof:parent_id":85670927,
     "wof:placetype":"county",

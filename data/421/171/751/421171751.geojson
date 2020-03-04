@@ -130,6 +130,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459008905,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"13af4d11de08aa9e9c189745c592d035",
     "wof:hierarchy":[
         {
@@ -140,7 +143,7 @@
         }
     ],
     "wof:id":421171751,
-    "wof:lastmodified":1566584521,
+    "wof:lastmodified":1582351944,
     "wof:name":"Otavalo",
     "wof:parent_id":85670971,
     "wof:placetype":"county",

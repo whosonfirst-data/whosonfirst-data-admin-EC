@@ -91,6 +91,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009694,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6c2757c67028677e84ebd05ecf3bd157",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":421191483,
-    "wof:lastmodified":1566584496,
+    "wof:lastmodified":1582351941,
     "wof:name":"Sabanilla",
     "wof:parent_id":421182449,
     "wof:placetype":"localadmin",

@@ -145,6 +145,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009615,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"afeb60e3e2e5d6d71aee317cfce9567c",
     "wof:hierarchy":[
         {
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":421189255,
-    "wof:lastmodified":1566584482,
+    "wof:lastmodified":1582351939,
     "wof:name":"Portoviejo",
     "wof:parent_id":421189223,
     "wof:placetype":"localadmin",

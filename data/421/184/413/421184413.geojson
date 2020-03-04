@@ -116,6 +116,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009410,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3654df37fc3c8de151894e46019d390a",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421184413,
-    "wof:lastmodified":1566584505,
+    "wof:lastmodified":1582351942,
     "wof:name":"San Miguel de Urcuqu\u00ed",
     "wof:parent_id":85670971,
     "wof:placetype":"county",

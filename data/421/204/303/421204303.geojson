@@ -227,6 +227,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459010180,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"479b36371d7ec1ad735834c836bb1d22",
     "wof:hierarchy":[
         {
@@ -237,7 +240,7 @@
         }
     ],
     "wof:id":421204303,
-    "wof:lastmodified":1566584468,
+    "wof:lastmodified":1582351937,
     "wof:name":"Tulc\u00e1n",
     "wof:parent_id":85670967,
     "wof:placetype":"county",

@@ -93,6 +93,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009220,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"086ecc925432a753eb61b363656b439b",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":421179425,
-    "wof:lastmodified":1566584514,
+    "wof:lastmodified":1582351943,
     "wof:name":"Gualaceo",
     "wof:parent_id":1108569603,
     "wof:placetype":"localadmin",

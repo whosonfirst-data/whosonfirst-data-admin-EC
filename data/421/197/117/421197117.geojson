@@ -104,6 +104,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009903,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1b04d53c3d738edd25f8b23fe84a275d",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":421197117,
-    "wof:lastmodified":1566584500,
+    "wof:lastmodified":1582351942,
     "wof:name":"Ingapirca",
     "wof:parent_id":421195597,
     "wof:placetype":"localadmin",

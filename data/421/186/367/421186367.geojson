@@ -127,6 +127,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009478,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fdc7d57f08b30c7584eb23c36bcaec3e",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":421186367,
-    "wof:lastmodified":1566584489,
+    "wof:lastmodified":1582351940,
     "wof:name":"Nab\u00f3n",
     "wof:parent_id":85670885,
     "wof:placetype":"county",

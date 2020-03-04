@@ -139,6 +139,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009156,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"60f46df1ff9bc297ee26d90d180f9002",
     "wof:hierarchy":[
         {
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":421177637,
-    "wof:lastmodified":1566584511,
+    "wof:lastmodified":1582351943,
     "wof:name":"Lago Agrio",
     "wof:parent_id":85670977,
     "wof:placetype":"county",

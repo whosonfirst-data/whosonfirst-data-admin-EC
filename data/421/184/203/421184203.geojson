@@ -107,6 +107,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009403,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4094afa5c1dc7a8aae06609208a7bbc0",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":421184203,
-    "wof:lastmodified":1566584506,
+    "wof:lastmodified":1582351942,
     "wof:name":"Paj\u00e1n",
     "wof:parent_id":85670927,
     "wof:placetype":"county",

@@ -131,6 +131,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009445,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e6c1ed182c984e78e828097b699374ce",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":421185493,
-    "wof:lastmodified":1566584524,
+    "wof:lastmodified":1582351945,
     "wof:name":"Cotacachi",
     "wof:parent_id":85670971,
     "wof:placetype":"county",

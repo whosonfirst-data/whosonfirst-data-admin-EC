@@ -52,6 +52,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459008977,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"23966435afe34d10576de10e7d0b4d20",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421173293,
-    "wof:lastmodified":1566584476,
+    "wof:lastmodified":1582351938,
     "wof:name":"Zambiza",
     "wof:parent_id":421188131,
     "wof:placetype":"localadmin",

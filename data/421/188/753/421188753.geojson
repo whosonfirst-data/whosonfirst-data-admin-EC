@@ -131,6 +131,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009577,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3e2d2798521afd70ff4aa9275575d404",
     "wof:hierarchy":[
         {
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":421188753,
-    "wof:lastmodified":1566584483,
+    "wof:lastmodified":1582351939,
     "wof:name":"Pomona",
     "wof:parent_id":421185499,
     "wof:placetype":"localadmin",

@@ -140,6 +140,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009445,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"69f2948e0eb8bdd8fc56d2aecdc40e26",
     "wof:hierarchy":[
         {
@@ -150,7 +153,7 @@
         }
     ],
     "wof:id":421185499,
-    "wof:lastmodified":1566584523,
+    "wof:lastmodified":1582351945,
     "wof:name":"Pastaza",
     "wof:parent_id":85670949,
     "wof:placetype":"county",

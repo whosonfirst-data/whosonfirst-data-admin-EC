@@ -58,6 +58,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459008977,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a08e463bb9db7bfce1bb69d8a5f28663",
     "wof:hierarchy":[
         {
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":421173275,
-    "wof:lastmodified":1566584476,
+    "wof:lastmodified":1582351938,
     "wof:name":"Colonche",
     "wof:parent_id":1108572401,
     "wof:placetype":"localadmin",

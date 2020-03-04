@@ -133,6 +133,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459008771,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"84dbd4b34edb3e85ddaaa788760ad371",
     "wof:hierarchy":[
         {
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":421168623,
-    "wof:lastmodified":1566584452,
+    "wof:lastmodified":1582351936,
     "wof:name":"Rumi\u00f1ahui",
     "wof:parent_id":85670945,
     "wof:placetype":"county",

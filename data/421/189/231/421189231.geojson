@@ -52,6 +52,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009614,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"273853e0da9b9b0b30109c51385c3126",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421189231,
-    "wof:lastmodified":1566584481,
+    "wof:lastmodified":1582351939,
     "wof:name":"Biblian",
     "wof:parent_id":421183023,
     "wof:placetype":"localadmin",

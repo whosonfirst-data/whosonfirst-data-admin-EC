@@ -311,6 +311,9 @@
         "wk:page":"Gal\u00e1pagos Province"
     },
     "wof:country":"EC",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e9d17c1455a06dba16e9b6870e89cd2a",
     "wof:hierarchy":[
         {
@@ -328,7 +331,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1566583970,
+    "wof:lastmodified":1582351924,
     "wof:name":"Gal\u00e1pagos",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

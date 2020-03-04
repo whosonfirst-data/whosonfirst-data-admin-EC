@@ -283,6 +283,9 @@
         "wk:page":"Tungurahua Province"
     },
     "wof:country":"EC",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4e9bb70867378e52cd3ad2364275773e",
     "wof:hierarchy":[
         {
@@ -300,7 +303,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1566583974,
+    "wof:lastmodified":1582351926,
     "wof:name":"Napo",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

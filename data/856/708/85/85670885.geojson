@@ -312,6 +312,9 @@
         "wk:page":"Azuay Province"
     },
     "wof:country":"EC",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9563c22c6da7142f933f7c56ba755e11",
     "wof:hierarchy":[
         {
@@ -329,7 +332,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1566583970,
+    "wof:lastmodified":1582351924,
     "wof:name":"Azuay",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

@@ -278,6 +278,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459010079,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0385a9c0e8e357082c355ebfbc0de4c6",
     "wof:hierarchy":[
         {
@@ -288,7 +291,7 @@
         }
     ],
     "wof:id":421201625,
-    "wof:lastmodified":1566584504,
+    "wof:lastmodified":1582351942,
     "wof:name":"Guano",
     "wof:parent_id":85670931,
     "wof:placetype":"county",

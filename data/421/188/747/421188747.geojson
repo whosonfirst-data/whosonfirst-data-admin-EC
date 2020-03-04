@@ -89,6 +89,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009577,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"262fb485de27f74337e037bc57b0e838",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421188747,
-    "wof:lastmodified":1566584483,
+    "wof:lastmodified":1582351939,
     "wof:name":"Jaramijo",
     "wof:parent_id":1108570471,
     "wof:placetype":"localadmin",

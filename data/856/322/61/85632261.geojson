@@ -1007,6 +1007,11 @@
     },
     "wof:country":"EC",
     "wof:country_alpha3":"ECU",
+    "wof:geom_alt":[
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6",
+        "meso"
+    ],
     "wof:geomhash":"d35eda53fc3287800df5fa8613bc8490",
     "wof:hierarchy":[
         {
@@ -1023,7 +1028,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1566583979,
+    "wof:lastmodified":1582351928,
     "wof:name":"Ecuador",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

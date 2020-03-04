@@ -134,6 +134,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009262,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"eba8bed74f17e19f2eb78fb59275ecdb",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":421180535,
-    "wof:lastmodified":1566584473,
+    "wof:lastmodified":1582351938,
     "wof:name":"Espejo",
     "wof:parent_id":85670967,
     "wof:placetype":"county",

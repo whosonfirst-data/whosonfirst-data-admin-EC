@@ -218,6 +218,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009045,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"2399fa4e6d963b962584daab14afc040",
     "wof:hierarchy":[
         {
@@ -229,7 +232,7 @@
         }
     ],
     "wof:id":421174813,
-    "wof:lastmodified":1566584473,
+    "wof:lastmodified":1582351938,
     "wof:name":"Puerto Villamil",
     "wof:parent_id":1108569881,
     "wof:placetype":"locality",

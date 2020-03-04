@@ -97,6 +97,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009402,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"404e2255b78389534df02cab45c0599d",
     "wof:hierarchy":[
         {
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":421184155,
-    "wof:lastmodified":1566584507,
+    "wof:lastmodified":1582351942,
     "wof:name":"San Lucas",
     "wof:parent_id":421182159,
     "wof:placetype":"localadmin",

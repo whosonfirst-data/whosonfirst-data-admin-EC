@@ -128,6 +128,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009320,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"907c59bfc9a1ea810131e1e1d25916cd",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":421182157,
-    "wof:lastmodified":1566584516,
+    "wof:lastmodified":1582351944,
     "wof:name":"Latacunga",
     "wof:parent_id":85670915,
     "wof:placetype":"county",

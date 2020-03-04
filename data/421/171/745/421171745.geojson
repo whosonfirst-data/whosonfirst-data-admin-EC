@@ -131,6 +131,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459008905,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"91f972ebcc1f70044ba4fa4df15a7336",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":421171745,
-    "wof:lastmodified":1566584522,
+    "wof:lastmodified":1582351944,
     "wof:name":"Ibarra",
     "wof:parent_id":85670971,
     "wof:placetype":"county",

@@ -76,6 +76,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459010079,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"aac9fe7a15fa047ce3af1bf8ac1f4039",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":421201639,
-    "wof:lastmodified":1566584504,
+    "wof:lastmodified":1582351942,
     "wof:name":"Machachi",
     "wof:parent_id":421175413,
     "wof:placetype":"localadmin",

@@ -101,6 +101,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009577,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b1b6412876d246d5d1d21031c08e9c9b",
     "wof:hierarchy":[
         {
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":421188745,
-    "wof:lastmodified":1566584485,
+    "wof:lastmodified":1582351940,
     "wof:name":"El Tambo",
     "wof:parent_id":1108569245,
     "wof:placetype":"localadmin",

@@ -78,6 +78,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009220,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"753e9e4ff4ef7283b7ddb8b52530e68d",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":421179429,
-    "wof:lastmodified":1566584515,
+    "wof:lastmodified":1582351943,
     "wof:name":"Catarama",
     "wof:parent_id":1108573179,
     "wof:placetype":"localadmin",

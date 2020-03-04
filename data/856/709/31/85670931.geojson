@@ -325,6 +325,9 @@
         "wk:page":"Chimborazo Province"
     },
     "wof:country":"EC",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"35d2ecdfd2632f2258b03a3647e061a0",
     "wof:hierarchy":[
         {
@@ -342,7 +345,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1566583974,
+    "wof:lastmodified":1582351926,
     "wof:name":"Chimborazo",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

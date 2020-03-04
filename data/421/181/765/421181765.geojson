@@ -125,6 +125,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009306,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8c1d4b6d8002e957b68422cd6a0c47e1",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":421181765,
-    "wof:lastmodified":1566584490,
+    "wof:lastmodified":1582351940,
     "wof:name":"San Crist\u00f3bal",
     "wof:parent_id":85670899,
     "wof:placetype":"county",

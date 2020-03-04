@@ -118,6 +118,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009370,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5b186a37cdcac10e25fc119825867c3c",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":421183469,
-    "wof:lastmodified":1566584513,
+    "wof:lastmodified":1582351943,
     "wof:name":"Loja",
     "wof:parent_id":421182159,
     "wof:placetype":"localadmin",

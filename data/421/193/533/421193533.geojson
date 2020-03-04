@@ -128,6 +128,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009774,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2c3087d1580b3faee8f84540a852fe64",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":421193533,
-    "wof:lastmodified":1566584461,
+    "wof:lastmodified":1582351937,
     "wof:name":"Suc\u00faa",
     "wof:parent_id":85670935,
     "wof:placetype":"county",

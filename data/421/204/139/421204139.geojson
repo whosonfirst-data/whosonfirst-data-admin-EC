@@ -103,6 +103,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459010175,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"37d8a2c5682cfcb90585d1d3801b5e8b",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":421204139,
-    "wof:lastmodified":1566584468,
+    "wof:lastmodified":1582351937,
     "wof:name":"Turi",
     "wof:parent_id":421185495,
     "wof:placetype":"localadmin",

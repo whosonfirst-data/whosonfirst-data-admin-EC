@@ -85,6 +85,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009855,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"71baf2fe6a9a2a454df5852b1a3d7375",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":421195655,
-    "wof:lastmodified":1566584458,
+    "wof:lastmodified":1582351936,
     "wof:name":"Eugenio Espejo",
     "wof:parent_id":421171751,
     "wof:placetype":"localadmin",

@@ -52,6 +52,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009615,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3975f91d01412ae21901caa3bbeafe4a",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421189261,
-    "wof:lastmodified":1566584479,
+    "wof:lastmodified":1582351939,
     "wof:name":"San Miguel de Los Bancos",
     "wof:parent_id":421190531,
     "wof:placetype":"localadmin",

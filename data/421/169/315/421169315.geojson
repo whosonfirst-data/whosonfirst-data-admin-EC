@@ -52,6 +52,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459008804,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7d7db5aae0e30ad0b8c5cde3534db5f2",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421169315,
-    "wof:lastmodified":1566584464,
+    "wof:lastmodified":1582351937,
     "wof:name":"San Jose de Quichinche",
     "wof:parent_id":421185493,
     "wof:placetype":"localadmin",

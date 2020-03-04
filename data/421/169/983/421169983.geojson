@@ -58,6 +58,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459008832,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"576c31c51f8509690b960bd21a77806f",
     "wof:hierarchy":[
         {
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":421169983,
-    "wof:lastmodified":1566584464,
+    "wof:lastmodified":1582351937,
     "wof:name":"Sayausi",
     "wof:parent_id":421185495,
     "wof:placetype":"localadmin",

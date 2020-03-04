@@ -229,6 +229,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009445,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b7c242d39b03779592eb70afa5b4efaf",
     "wof:hierarchy":[
         {
@@ -239,7 +242,7 @@
         }
     ],
     "wof:id":421185495,
-    "wof:lastmodified":1566584525,
+    "wof:lastmodified":1582351945,
     "wof:name":"Cuenca",
     "wof:parent_id":85670885,
     "wof:placetype":"county",

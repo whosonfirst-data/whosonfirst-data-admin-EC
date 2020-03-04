@@ -307,6 +307,9 @@
         "wk:page":"Esmeraldas Province"
     },
     "wof:country":"EC",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a36eb21bb99f90d109c3bb4ce4c64df3",
     "wof:hierarchy":[
         {
@@ -324,7 +327,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1566583974,
+    "wof:lastmodified":1582351926,
     "wof:name":"Esmeraldas",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

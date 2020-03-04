@@ -66,6 +66,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459008743,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b8b6ff19a9c1b46b4578fe68ae355baa",
     "wof:hierarchy":[
         {
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":421167781,
-    "wof:lastmodified":1566584463,
+    "wof:lastmodified":1582351937,
     "wof:name":"Celica",
     "wof:parent_id":421195603,
     "wof:placetype":"localadmin",

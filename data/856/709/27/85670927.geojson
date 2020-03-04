@@ -313,6 +313,9 @@
         "wk:page":"Manab\u00ed Province"
     },
     "wof:country":"EC",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"837fd9108f3866fa0cdee0e94a676f0c",
     "wof:hierarchy":[
         {
@@ -330,7 +333,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1566583972,
+    "wof:lastmodified":1582351925,
     "wof:name":"Manabi",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

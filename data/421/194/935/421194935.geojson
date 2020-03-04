@@ -55,6 +55,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009825,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bac7a6b0a7f6cd60c6525a449b888c20",
     "wof:hierarchy":[
         {
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":421194935,
-    "wof:lastmodified":1566584460,
+    "wof:lastmodified":1582351937,
     "wof:name":"Pallatanga",
     "wof:parent_id":1108571001,
     "wof:placetype":"localadmin",

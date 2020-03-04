@@ -146,6 +146,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009685,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"20b3c835c3694b42cb5973b48607cc77",
     "wof:hierarchy":[
         {
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":421191241,
-    "wof:lastmodified":1566584498,
+    "wof:lastmodified":1582351941,
     "wof:name":"Morona",
     "wof:parent_id":85670935,
     "wof:placetype":"county",

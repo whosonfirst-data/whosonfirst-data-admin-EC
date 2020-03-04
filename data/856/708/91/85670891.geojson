@@ -302,6 +302,9 @@
         "wk:page":"Loja Province"
     },
     "wof:country":"EC",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"da95a1c7d5ad57160308c95890546bd5",
     "wof:hierarchy":[
         {
@@ -319,7 +322,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1566583969,
+    "wof:lastmodified":1582351924,
     "wof:name":"Loja",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

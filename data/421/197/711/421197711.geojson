@@ -286,6 +286,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009922,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"84b5784f7cc4e94d2c66cd5c24a5a5c7",
     "wof:hierarchy":[
         {
@@ -297,7 +300,7 @@
         }
     ],
     "wof:id":421197711,
-    "wof:lastmodified":1566584501,
+    "wof:lastmodified":1582351942,
     "wof:name":"Santa Cruz",
     "wof:parent_id":421183483,
     "wof:placetype":"locality",

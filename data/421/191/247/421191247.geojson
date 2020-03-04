@@ -134,6 +134,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009685,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9899537131d7872ff154551e80aef12c",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":421191247,
-    "wof:lastmodified":1566584498,
+    "wof:lastmodified":1582351941,
     "wof:name":"Pasaje",
     "wof:parent_id":85670887,
     "wof:placetype":"county",

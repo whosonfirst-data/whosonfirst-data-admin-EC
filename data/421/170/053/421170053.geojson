@@ -52,6 +52,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459008835,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"18e188e04442ebd3a95e1fd69e014649",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421170053,
-    "wof:lastmodified":1566584509,
+    "wof:lastmodified":1582351942,
     "wof:name":"Mindo",
     "wof:parent_id":421190531,
     "wof:placetype":"localadmin",

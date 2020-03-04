@@ -158,6 +158,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459008795,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e46e2c0730309a8b4d18c48e47bb1bb7",
     "wof:hierarchy":[
         {
@@ -169,7 +172,7 @@
         }
     ],
     "wof:id":421169113,
-    "wof:lastmodified":1566584466,
+    "wof:lastmodified":1582351937,
     "wof:name":"Jipijapa",
     "wof:parent_id":1108569923,
     "wof:placetype":"localadmin",

@@ -124,6 +124,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009627,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b47aa60564b42e571e1a63251f5c1b46",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":421189509,
-    "wof:lastmodified":1566584480,
+    "wof:lastmodified":1582351939,
     "wof:name":"San Pablo",
     "wof:parent_id":421171751,
     "wof:placetype":"localadmin",

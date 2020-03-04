@@ -127,6 +127,9 @@
     },
     "wof:country":"EC",
     "wof:created":1459009907,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"51de0c3e9def54ffac2f58497760c1f9",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":421197239,
-    "wof:lastmodified":1566584500,
+    "wof:lastmodified":1582351942,
     "wof:name":"Mont\u00fafar",
     "wof:parent_id":85670967,
     "wof:placetype":"county",
