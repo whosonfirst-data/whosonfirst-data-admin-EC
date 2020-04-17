@@ -126,7 +126,7 @@
         "\u0baa\u0bc2\u0baf\u0bcb"
     ],
     "name:tam_x_variant":[
-        "\u0baa\u0bc2\u0baf\u0bcb "
+        "\u0baa\u0bc2\u0baf\u0bcb"
     ],
     "name:tel_x_preferred":[
         "\u0c2a\u0c41\u0c2f\u0c4b"
@@ -277,8 +277,8 @@
     "wof:belongsto":[
         102191577,
         85632261,
-        85670949,
-        421185499
+        421185499,
+        85670949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -301,7 +301,7 @@
         }
     ],
     "wof:id":421166689,
-    "wof:lastmodified":1566584452,
+    "wof:lastmodified":1587163137,
     "wof:name":"Puyo",
     "wof:parent_id":421185499,
     "wof:placetype":"locality",
