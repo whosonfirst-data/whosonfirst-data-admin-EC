@@ -15,7 +15,7 @@
     "lbl:min_zoom":6.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "mz:min_zoom":4.0,
+    "mz:min_zoom":4.7,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Guayaquil"
@@ -347,7 +347,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":3657509,
         "gp:id":375733,
+        "ne:id":1159151341,
         "qs_pg:id":1075694,
         "wd:id":"Q43509"
     },
@@ -364,7 +366,8 @@
         }
     ],
     "wof:id":421186705,
-    "wof:lastmodified":1587428950,
+    "wof:lastmodified":1608688184,
+    "wof:megacity":1,
     "wof:name":"Guayaquil",
     "wof:parent_id":421175423,
     "wof:placetype":"locality",
