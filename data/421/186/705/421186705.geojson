@@ -10,7 +10,6 @@
     "geom:latitude":-2.16673,
     "geom:longitude":-79.926622,
     "iso:country":"EC",
-    "lbl:bbox":"-79.913608,-2.218442,-79.873608,-2.178442",
     "lbl:latitude":-2.189354,
     "lbl:longitude":-79.889587,
     "lbl:max_zoom":13.0,
@@ -377,7 +376,7 @@
         }
     ],
     "wof:id":421186705,
-    "wof:lastmodified":1608689810,
+    "wof:lastmodified":1610154688,
     "wof:megacity":1,
     "wof:name":"Guayaquil",
     "wof:parent_id":421175423,
