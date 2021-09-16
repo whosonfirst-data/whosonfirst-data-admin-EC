@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Atahualpa Airport"
     ],
+    "name:eng_x_variant":[
+        "SEIB"
+    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Atahualpa"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":102543881,
-    "wof:lastmodified":1566583871,
+    "wof:lastmodified":1631751433,
     "wof:name":"Atahualpa Airport",
     "wof:parent_id":85670971,
     "wof:placetype":"campus",

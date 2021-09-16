@@ -16,6 +16,9 @@
     "name:eng_x_preferred":[
         "El Carmen"
     ],
+    "name:eng_x_variant":[
+        "SEMO"
+    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang El Carmen"
     ],
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":102543843,
-    "wof:lastmodified":1566583871,
+    "wof:lastmodified":1631751433,
     "wof:name":"El Carmen Airport",
     "wof:parent_id":85670949,
     "wof:placetype":"campus",

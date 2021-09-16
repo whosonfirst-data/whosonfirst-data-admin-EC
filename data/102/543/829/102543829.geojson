@@ -16,6 +16,9 @@
     "name:eng_x_preferred":[
         "Hacienda La Julia Airport"
     ],
+    "name:eng_x_variant":[
+        "SELJ"
+    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Hacienda La Julia"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":102543829,
-    "wof:lastmodified":1566583870,
+    "wof:lastmodified":1631751433,
     "wof:name":"Hacienda la Julia Airport",
     "wof:parent_id":85670923,
     "wof:placetype":"campus",
