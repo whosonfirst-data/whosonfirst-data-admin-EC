@@ -42,6 +42,12 @@
     "name:glg_x_preferred":[
         "Isabel"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05d6\u05d1\u05dc"
+    ],
+    "name:hun_x_preferred":[
+        "Isabel"
+    ],
     "name:nor_x_preferred":[
         "Isabel"
     ],
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":1343544619,
-    "wof:lastmodified":1566583882,
+    "wof:lastmodified":1636502077,
     "wof:name":"Isabel",
     "wof:parent_id":1108568689,
     "wof:placetype":"locality",

@@ -59,8 +59,14 @@
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0aa8\u0acd\u0aa4\u0abe \u0a8f\u0ab2\u0ac7\u0aa8\u0abe"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e0\u05d8\u05d4 \u05d0\u05dc\u05e0\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0938\u093e\u0902\u0924\u093e \u0910\u0932\u0947\u0928\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Santa Elena"
     ],
     "name:ind_x_preferred":[
         "Santa Elena"
@@ -209,7 +215,7 @@
         }
     ],
     "wof:id":421180761,
-    "wof:lastmodified":1566584474,
+    "wof:lastmodified":1636502155,
     "wof:name":"Santa Elena",
     "wof:parent_id":1108572401,
     "wof:placetype":"locality",

@@ -78,8 +78,14 @@
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0a82\u0aa4\u0abe \u0a8f\u0ab2\u0ac7\u0aa8\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e0\u05d8\u05d4 \u05d0\u05dc\u05e0\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0938\u0948\u0902\u091f\u093e \u090f\u0932\u0947\u0928\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:hun_x_preferred":[
+        "Santa Elena"
     ],
     "name:ind_x_preferred":[
         "Provinsi Santa Elena"
@@ -323,7 +329,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1607983844,
+    "wof:lastmodified":1636502091,
     "wof:name":"Santa Elena",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

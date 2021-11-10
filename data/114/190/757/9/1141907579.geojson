@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-78.1199967872,-2.30958901074,-78.1199967872,-2.30958901074",
+    "geom:bbox":"-78.119997,-2.309589,-78.119997,-2.309589",
     "geom:latitude":-2.309589,
     "geom:longitude":-78.119997,
     "gn:country":"EC",
@@ -54,8 +54,14 @@
     "name:guj_x_preferred":[
         "\u0aae\u0a95\u0abe\u0ab8"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d0\u05e7\u05d0\u05e1"
+    ],
     "name:hin_x_preferred":[
         "\u092e\u0948\u0915\u0938"
+    ],
+    "name:hun_x_preferred":[
+        "Macas"
     ],
     "name:ind_x_preferred":[
         "Macas"
@@ -269,7 +275,7 @@
     },
     "wof:country":"EC",
     "wof:created":1499130744,
-    "wof:geomhash":"842837103160b1f3e48cac808a775585",
+    "wof:geomhash":"e6683cef7a188f4f407d73c2ab3d1c60",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -280,7 +286,7 @@
         }
     ],
     "wof:id":1141907579,
-    "wof:lastmodified":1566584755,
+    "wof:lastmodified":1636502195,
     "wof:name":"Macas",
     "wof:parent_id":421191241,
     "wof:placetype":"locality",
@@ -294,10 +300,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -78.11999678720889,
-    -2.30958901073501,
-    -78.11999678720889,
-    -2.30958901073501
+    -78.119997,
+    -2.309589,
+    -78.119997,
+    -2.309589
 ],
-  "geometry": {"coordinates":[-78.11999678720889,-2.30958901073501],"type":"Point"}
+  "geometry": {"coordinates":[-78.119997,-2.309589],"type":"Point"}
 }

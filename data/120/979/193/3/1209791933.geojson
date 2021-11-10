@@ -74,6 +74,9 @@
         "Amazonas"
     ],
     "name:heb_x_preferred":[
+        "\u05d0\u05de\u05d6\u05d5\u05e0\u05e1"
+    ],
+    "name:heb_x_variant":[
         "\u05d0\u05de\u05d6\u05d5\u05e0\u05d0\u05e1"
     ],
     "name:hrv_x_preferred":[
@@ -192,7 +195,7 @@
         }
     ],
     "wof:id":1209791933,
-    "wof:lastmodified":1566584188,
+    "wof:lastmodified":1636502120,
     "wof:name":"Amazonas",
     "wof:parent_id":421175415,
     "wof:placetype":"locality",

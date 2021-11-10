@@ -40,6 +40,12 @@
     "name:fra_x_preferred":[
         "Moca"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05e7\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Moca"
+    ],
     "name:ita_x_preferred":[
         "Moca"
     ],
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":1293552581,
-    "wof:lastmodified":1566584001,
+    "wof:lastmodified":1636502094,
     "wof:name":"Moca",
     "wof:parent_id":421168623,
     "wof:placetype":"locality",

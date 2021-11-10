@@ -53,8 +53,14 @@
     "name:guj_x_preferred":[
         "\u0aaa\u0ac1\u0a93"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05d9\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u092a\u0941\u092f\u094b"
+    ],
+    "name:hun_x_preferred":[
+        "Puyo"
     ],
     "name:ind_x_preferred":[
         "Puyo"
@@ -277,8 +283,8 @@
     "wof:belongsto":[
         102191577,
         85632261,
-        421185499,
-        85670949
+        85670949,
+        421185499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -301,7 +307,7 @@
         }
     ],
     "wof:id":421166689,
-    "wof:lastmodified":1587163137,
+    "wof:lastmodified":1636502150,
     "wof:name":"Puyo",
     "wof:parent_id":421185499,
     "wof:placetype":"locality",

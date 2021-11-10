@@ -67,6 +67,9 @@
     "name:fra_x_preferred":[
         "Ayacucho"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05d9\u05e7\u05d5\u05e7\u05d5"
+    ],
     "name:ind_x_preferred":[
         "Ayacucho"
     ],
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":1310388779,
-    "wof:lastmodified":1566584340,
+    "wof:lastmodified":1636502137,
     "wof:name":"Ayacucho",
     "wof:parent_id":421194445,
     "wof:placetype":"locality",

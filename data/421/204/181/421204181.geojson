@@ -20,6 +20,12 @@
     "name:deu_x_preferred":[
         "San Antonio de Pichincha"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05df \u05d0\u05e0\u05d8\u05d5\u05e0\u05d9\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "San Antonio"
+    ],
     "name:jpn_x_preferred":[
         "\u30b5\u30f3\u30fb\u30a2\u30f3\u30c8\u30cb\u30aa\u30fb\u30c7\u30fb\u30d4\u30c1\u30f3\u30c1\u30e3"
     ],
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":421204181,
-    "wof:lastmodified":1566584467,
+    "wof:lastmodified":1636502153,
     "wof:name":"San Antonio",
     "wof:parent_id":421188131,
     "wof:placetype":"locality",

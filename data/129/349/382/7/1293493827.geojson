@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "Atar"
     ],
+    "name:hun_x_preferred":[
+        "Atar"
+    ],
     "name:jpn_x_preferred":[
         "\u30a2\u30fc\u30bf\u30eb"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1293493827,
-    "wof:lastmodified":1566584017,
+    "wof:lastmodified":1636502097,
     "wof:name":"Atar",
     "wof:parent_id":421183023,
     "wof:placetype":"locality",

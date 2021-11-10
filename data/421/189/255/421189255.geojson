@@ -47,6 +47,12 @@
     "name:fra_x_preferred":[
         "Portoviejo"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05e8\u05d8\u05d5\u05d9\u05d9\u05d7\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Portoviejo"
+    ],
     "name:ita_x_preferred":[
         "Portoviejo"
     ],
@@ -159,7 +165,7 @@
         }
     ],
     "wof:id":421189255,
-    "wof:lastmodified":1582351939,
+    "wof:lastmodified":1636502157,
     "wof:name":"Portoviejo",
     "wof:parent_id":421189223,
     "wof:placetype":"localadmin",

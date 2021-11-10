@@ -53,10 +53,16 @@
     "name:guj_x_preferred":[
         "\u0aa4\u0ac7\u0aa8\u0abe"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05e0\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u091f\u0947\u0928\u093e"
     ],
     "name:hrv_x_preferred":[
+        "Tena"
+    ],
+    "name:hun_x_preferred":[
         "Tena"
     ],
     "name:ind_x_preferred":[
@@ -306,7 +312,7 @@
         }
     ],
     "wof:id":421201385,
-    "wof:lastmodified":1566584503,
+    "wof:lastmodified":1636502161,
     "wof:name":"Tena",
     "wof:parent_id":1108572985,
     "wof:placetype":"locality",

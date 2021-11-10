@@ -65,6 +65,9 @@
     "name:guj_x_preferred":[
         "\u0aae\u0abe\u0aa8\u0aa4\u0abe"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e0\u05d8\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u092e\u093e\u0928\u0924\u093e"
     ],
@@ -314,7 +317,7 @@
         }
     ],
     "wof:id":421172779,
-    "wof:lastmodified":1566584486,
+    "wof:lastmodified":1636502158,
     "wof:name":"Manta",
     "wof:parent_id":421175411,
     "wof:placetype":"locality",

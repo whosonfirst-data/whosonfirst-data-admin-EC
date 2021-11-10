@@ -74,6 +74,9 @@
     "name:hrv_x_preferred":[
         "Machala"
     ],
+    "name:hun_x_preferred":[
+        "Machala"
+    ],
     "name:ind_x_preferred":[
         "Machala"
     ],
@@ -319,7 +322,7 @@
         }
     ],
     "wof:id":421201387,
-    "wof:lastmodified":1566584505,
+    "wof:lastmodified":1636502162,
     "wof:name":"Machala",
     "wof:parent_id":1108570217,
     "wof:placetype":"locality",

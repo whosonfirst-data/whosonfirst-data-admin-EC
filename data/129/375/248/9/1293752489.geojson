@@ -40,6 +40,12 @@
     "name:fra_x_preferred":[
         "Pastaza"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e1\u05d8\u05d6\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Pastaza"
+    ],
     "name:nld_x_preferred":[
         "Pastaza"
     ],
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":1293752489,
-    "wof:lastmodified":1566584066,
+    "wof:lastmodified":1636502103,
     "wof:name":"Pastaza",
     "wof:parent_id":1108568283,
     "wof:placetype":"locality",

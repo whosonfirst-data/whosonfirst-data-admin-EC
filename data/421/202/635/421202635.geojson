@@ -29,10 +29,16 @@
     "name:deu_x_preferred":[
         "Isabela"
     ],
+    "name:ell_x_preferred":[
+        "\u0399\u03b6\u03b1\u03bc\u03c0\u03ad\u03bb\u03b1"
+    ],
     "name:fin_x_preferred":[
         "Isabela"
     ],
     "name:fra_x_preferred":[
+        "Isabela"
+    ],
+    "name:hun_x_preferred":[
         "Isabela"
     ],
     "name:ind_x_preferred":[
@@ -64,6 +70,12 @@
     ],
     "name:tgl_x_preferred":[
         "Isabela"
+    ],
+    "name:tur_x_preferred":[
+        "Isabela"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u0632\u0627\u0628\u06cc\u0644\u0627"
     ],
     "name:war_x_preferred":[
         "Isabela"
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":421202635,
-    "wof:lastmodified":1582351938,
+    "wof:lastmodified":1636502154,
     "wof:name":"Isabela",
     "wof:parent_id":1108569881,
     "wof:placetype":"localadmin",

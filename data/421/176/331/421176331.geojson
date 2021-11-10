@@ -17,14 +17,38 @@
     "mz:is_current":-1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ben_x_preferred":[
+        "\u099a\u09cb\u09a8\u09c7"
+    ],
     "name:ceb_x_preferred":[
         "Chone"
     ],
     "name:deu_x_preferred":[
         "Chone"
     ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03cc\u03bd\u03b5"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u0648\u0646"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05d5\u05e0\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u091a\u094b\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "Chone"
+    ],
+    "name:ind_x_preferred":[
+        "Chone"
+    ],
     "name:ita_x_preferred":[
         "Chone"
+    ],
+    "name:kor_x_preferred":[
+        "\ucd0c"
     ],
     "name:lit_x_preferred":[
         "\u010con\u0117"
@@ -35,7 +59,22 @@
     "name:que_x_preferred":[
         "Chuni"
     ],
+    "name:rus_x_preferred":[
+        "\u0427\u043e\u043d\u0435"
+    ],
     "name:swe_x_preferred":[
+        "Chone"
+    ],
+    "name:tur_x_preferred":[
+        "Chone"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u043e\u043d\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u0686\u0648\u0646\u06d2"
+    ],
+    "name:vie_x_preferred":[
         "Chone"
     ],
     "ne:ADM0CAP":0.0,
@@ -175,7 +214,7 @@
         }
     ],
     "wof:id":421176331,
-    "wof:lastmodified":1566584517,
+    "wof:lastmodified":1636502164,
     "wof:name":"Chone",
     "wof:parent_id":421189211,
     "wof:placetype":"localadmin",

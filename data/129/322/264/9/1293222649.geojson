@@ -31,6 +31,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:heb_x_preferred":[
+        "\u05e1\u05d1\u05d9\u05dc\u05d9\u05d4"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1293222649,
-    "wof:lastmodified":1566584021,
+    "wof:lastmodified":1636502097,
     "wof:name":"Sevilla",
     "wof:parent_id":421196577,
     "wof:placetype":"locality",

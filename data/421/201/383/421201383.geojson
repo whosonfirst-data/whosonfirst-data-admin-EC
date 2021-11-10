@@ -62,8 +62,14 @@
     "name:guj_x_preferred":[
         "\u0aaa\u0acb\u0ab0\u0acd\u0a9f\u0acb\u0ab5\u0abf\u0a8f\u0a9c\u0acb"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05e8\u05d8\u05d5\u05d9\u05d9\u05d7\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u092a\u094b\u0930\u094d\u0924\u094b\u0935\u0940\u090f\u0939\u094b"
+    ],
+    "name:hun_x_preferred":[
+        "Portoviejo"
     ],
     "name:ind_x_preferred":[
         "Portoviejo"
@@ -306,7 +312,7 @@
         }
     ],
     "wof:id":421201383,
-    "wof:lastmodified":1566584503,
+    "wof:lastmodified":1636502161,
     "wof:name":"Portoviejo",
     "wof:parent_id":421189223,
     "wof:placetype":"locality",

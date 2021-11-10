@@ -52,6 +52,9 @@
     "name:fra_x_preferred":[
         "Pichincha"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d9\u05e6'\u05d9\u05e0\u05e6'\u05d4"
+    ],
     "name:ita_x_preferred":[
         "Pichincha"
     ],
@@ -79,7 +82,7 @@
         "gn:id":3653226
     },
     "wof:country":"EC",
-    "wof:geomhash":"dbd43f4e6d118dd5ffdeb900b6cb5057",
+    "wof:geomhash":"577dff7f8569c90b1d38780005b8f27d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1360256023,
-    "wof:lastmodified":1566584395,
+    "wof:lastmodified":1636502144,
     "wof:name":"Pichincha",
     "wof:parent_id":1108571403,
     "wof:placetype":"locality",
@@ -100,10 +103,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -79.82139000000002,
+    -79.82139,
     -1.04695,
-    -79.82139000000002,
+    -79.82139,
     -1.04695
 ],
-  "geometry": {"coordinates":[-79.82139000000002,-1.04695],"type":"Point"}
+  "geometry": {"coordinates":[-79.82138999999999,-1.04695],"type":"Point"}
 }

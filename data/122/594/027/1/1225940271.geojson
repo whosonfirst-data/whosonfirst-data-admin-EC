@@ -131,6 +131,9 @@
         "Polarna svjetlost"
     ],
     "name:hun_x_preferred":[
+        "Aurora"
+    ],
+    "name:hun_x_variant":[
         "Sarki f\u00e9ny"
     ],
     "name:hye_x_preferred":[
@@ -295,7 +298,7 @@
         "gn:id":3660470
     },
     "wof:country":"EC",
-    "wof:geomhash":"cd75c4dd031cf7df22bb18c6547781f7",
+    "wof:geomhash":"4e33ec508f07ec5f9879277f283fcabf",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -306,7 +309,7 @@
         }
     ],
     "wof:id":1225940271,
-    "wof:lastmodified":1566584672,
+    "wof:lastmodified":1636502186,
     "wof:name":"Aurora",
     "wof:parent_id":421191245,
     "wof:placetype":"locality",
@@ -316,10 +319,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -79.52904000000002,
+    -79.52904,
     -1.9954,
-    -79.52904000000002,
+    -79.52904,
     -1.9954
 ],
-  "geometry": {"coordinates":[-79.52904000000002,-1.9954],"type":"Point"}
+  "geometry": {"coordinates":[-79.52903999999999,-1.9954],"type":"Point"}
 }

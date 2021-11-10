@@ -75,7 +75,13 @@
         "Pita"
     ],
     "name:heb_x_preferred":[
+        "\u05e4\u05d9\u05d8\u05d4"
+    ],
+    "name:heb_x_variant":[
         "\u05e4\u05d9\u05ea\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Pita"
     ],
     "name:hye_x_preferred":[
         "\u054a\u056b\u057f\u0561"
@@ -161,7 +167,7 @@
         "gn:id":3653055
     },
     "wof:country":"EC",
-    "wof:geomhash":"f8ca7a4025518834da75c3a34fd18a5a",
+    "wof:geomhash":"52d8cac605ba848afaa44073bd0610a1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -172,7 +178,7 @@
         }
     ],
     "wof:id":1343944277,
-    "wof:lastmodified":1566583938,
+    "wof:lastmodified":1636502084,
     "wof:name":"Pita",
     "wof:parent_id":1108568983,
     "wof:placetype":"locality",
@@ -182,10 +188,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -79.23333000000002,
+    -79.23333,
     -1.51667,
-    -79.23333000000002,
+    -79.23333,
     -1.51667
 ],
-  "geometry": {"coordinates":[-79.23333000000002,-1.51667],"type":"Point"}
+  "geometry": {"coordinates":[-79.23333,-1.51667],"type":"Point"}
 }

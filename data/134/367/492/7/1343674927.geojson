@@ -67,6 +67,9 @@
     "name:hrv_x_preferred":[
         "Durazno"
     ],
+    "name:hun_x_preferred":[
+        "Durazno"
+    ],
     "name:hye_x_preferred":[
         "\u0534\u0578\u0582\u0580\u0561\u057d\u0576\u0578"
     ],
@@ -133,7 +136,7 @@
         "gn:id":3658400
     },
     "wof:country":"EC",
-    "wof:geomhash":"1608b51b7b714e8fbf902b93a7570958",
+    "wof:geomhash":"4f5b829f2b4b7b71569e0359d0615b62",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":1343674927,
-    "wof:lastmodified":1566583934,
+    "wof:lastmodified":1636502083,
     "wof:name":"Durazno",
     "wof:parent_id":421185495,
     "wof:placetype":"locality",
@@ -154,10 +157,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -79.17208000000002,
+    -79.17208,
     -3.07911,
-    -79.17208000000002,
+    -79.17208,
     -3.07911
 ],
-  "geometry": {"coordinates":[-79.17208000000002,-3.07911],"type":"Point"}
+  "geometry": {"coordinates":[-79.17207999999999,-3.07911],"type":"Point"}
 }

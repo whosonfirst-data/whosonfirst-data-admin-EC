@@ -31,6 +31,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:heb_x_preferred":[
+        "\u05dc\u05d0\u05d8\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Lata"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1259385817,
-    "wof:lastmodified":1566584616,
+    "wof:lastmodified":1636502179,
     "wof:name":"Lata",
     "wof:parent_id":1108569491,
     "wof:placetype":"locality",
