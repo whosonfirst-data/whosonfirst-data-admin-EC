@@ -21,6 +21,12 @@
     "name:ara_x_preferred":[
         "\u0645\u064a\u0644\u0627\u063a\u0631\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u064a\u0644"
+    ],
+    "name:ast_x_preferred":[
+        "Milagro"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09bf\u09b2\u09be\u0997\u09cd\u09b0\u09cb"
     ],
@@ -31,6 +37,9 @@
         "Milagro"
     ],
     "name:dan_x_preferred":[
+        "Milagro"
+    ],
+    "name:deu_x_preferred":[
         "Milagro"
     ],
     "name:ell_x_preferred":[
@@ -45,11 +54,20 @@
     "name:eus_x_preferred":[
         "Milagro"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0644\u0627\u06af\u0631\u0648"
+    ],
     "name:fin_x_preferred":[
         "Milagro"
     ],
     "name:fra_x_preferred":[
         "San Francisco de Milagro"
+    ],
+    "name:fra_x_variant":[
+        "Milagro"
+    ],
+    "name:glg_x_preferred":[
+        "Milagro"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abf\u0ab2\u0abe\u0a97\u0acd\u0ab0\u0acb"
@@ -108,6 +126,9 @@
     "name:que_x_preferred":[
         "Milagro"
     ],
+    "name:qug_x_preferred":[
+        "Milagro"
+    ],
     "name:ron_x_preferred":[
         "Milagro"
     ],
@@ -125,6 +146,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0bae\u0bbf\u0bb3\u0b95\u0bbf\u0bb1\u0bcb"
+    ],
+    "name:tat_x_preferred":[
+        "\u041c\u0438\u043b\u0430\u0433\u0440\u043e"
     ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c3f\u0c32\u0c3e\u0c17\u0c4d\u0c30\u0c4b"
@@ -272,7 +296,7 @@
         }
     ],
     "wof:id":1141907575,
-    "wof:lastmodified":1636502196,
+    "wof:lastmodified":1690875660,
     "wof:name":"Milagro",
     "wof:parent_id":421191245,
     "wof:placetype":"locality",

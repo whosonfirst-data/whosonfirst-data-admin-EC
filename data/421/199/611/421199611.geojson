@@ -20,6 +20,9 @@
     "name:ceb_x_preferred":[
         "Paj\u00e1n"
     ],
+    "name:deu_x_preferred":[
+        "Paj\u00e1n"
+    ],
     "name:eng_x_preferred":[
         "Paj\u00e1n"
     ],
@@ -27,6 +30,9 @@
         "Paj\u00e1n"
     ],
     "name:nld_x_preferred":[
+        "Paj\u00e1n"
+    ],
+    "name:pol_x_preferred":[
         "Paj\u00e1n"
     ],
     "name:que_x_preferred":[
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":421199611,
-    "wof:lastmodified":1566584501,
+    "wof:lastmodified":1690875639,
     "wof:name":"Paj\u00e1n",
     "wof:parent_id":421184203,
     "wof:placetype":"locality",

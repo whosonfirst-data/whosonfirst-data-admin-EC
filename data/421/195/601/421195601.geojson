@@ -39,8 +39,14 @@
     "name:bel_x_preferred":[
         "\u043a\u0430\u043d\u0442\u043e\u043d \u0411\u0430\u0431\u0430\u043e\u044f"
     ],
+    "name:cat_x_preferred":[
+        "Cant\u00f3n Babahoyo"
+    ],
     "name:ceb_x_preferred":[
         "Cant\u00f3n Babahoyo"
+    ],
+    "name:deu_x_preferred":[
+        "Kanton Babahoyo"
     ],
     "name:eng_x_preferred":[
         "Babahoyo"
@@ -62,6 +68,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d1\u10d0\u10d1\u10d0\u10dd\u10d8\u10dd\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
+    ],
+    "name:nan_x_preferred":[
+        "Babahoyo Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Babahoyo Canton"
@@ -147,7 +156,7 @@
         }
     ],
     "wof:id":421195601,
-    "wof:lastmodified":1636502151,
+    "wof:lastmodified":1690875612,
     "wof:name":"Babahoyo",
     "wof:parent_id":85670923,
     "wof:placetype":"county",

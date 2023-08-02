@@ -20,10 +20,16 @@
     "name:ceb_x_preferred":[
         "Catarama"
     ],
+    "name:deu_x_preferred":[
+        "Catarama"
+    ],
     "name:eng_x_preferred":[
         "Catarama"
     ],
     "name:nld_x_preferred":[
+        "Catarama"
+    ],
+    "name:pol_x_preferred":[
         "Catarama"
     ],
     "name:que_x_preferred":[
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":421179429,
-    "wof:lastmodified":1582351943,
+    "wof:lastmodified":1690875649,
     "wof:name":"Catarama",
     "wof:parent_id":1108573179,
     "wof:placetype":"localadmin",

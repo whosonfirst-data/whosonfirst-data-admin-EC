@@ -20,8 +20,14 @@
     "name:eng_x_preferred":[
         "Nayon"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ca\u30e8\u30f3"
+    ],
     "name:mya_x_preferred":[
         "\u1014\u101a\u102f\u1014\u103a\u101c"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e19\u0e30\u0e42\u0e22\u0e19"
     ],
     "name:zho_x_preferred":[
         "\u90a3\u96cd\u6708"
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":421192151,
-    "wof:lastmodified":1566584453,
+    "wof:lastmodified":1690875609,
     "wof:name":"Nay\u00f3n",
     "wof:parent_id":421188131,
     "wof:placetype":"locality",

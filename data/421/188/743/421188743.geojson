@@ -20,6 +20,9 @@
     "name:ceb_x_preferred":[
         "El Cisne"
     ],
+    "name:deu_x_preferred":[
+        "El Cisne"
+    ],
     "name:eng_x_preferred":[
         "El Cisne"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421188743,
-    "wof:lastmodified":1582351940,
+    "wof:lastmodified":1690875628,
     "wof:name":"El Cisne",
     "wof:parent_id":421182159,
     "wof:placetype":"localadmin",

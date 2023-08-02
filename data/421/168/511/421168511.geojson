@@ -17,10 +17,28 @@
     "mz:is_current":-1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "La Man\u00e1"
+    ],
+    "name:ast_x_preferred":[
+        "La Man\u00e1"
+    ],
+    "name:cat_x_preferred":[
+        "La Man\u00e1"
+    ],
     "name:ceb_x_preferred":[
         "La Man\u00e1"
     ],
+    "name:deu_x_preferred":[
+        "La Man\u00e1"
+    ],
     "name:eng_x_preferred":[
+        "La Man\u00e1"
+    ],
+    "name:fra_x_preferred":[
+        "La Man\u00e1"
+    ],
+    "name:glg_x_preferred":[
         "La Man\u00e1"
     ],
     "name:jpn_x_preferred":[
@@ -35,7 +53,16 @@
     "name:pol_x_preferred":[
         "La Man\u00e1"
     ],
+    "name:por_x_preferred":[
+        "La Man\u00e1"
+    ],
     "name:que_x_preferred":[
+        "La Man\u00e1"
+    ],
+    "name:qug_x_preferred":[
+        "La Man\u00e1"
+    ],
+    "name:spa_x_preferred":[
         "La Man\u00e1"
     ],
     "name:swe_x_preferred":[
@@ -100,7 +127,7 @@
         }
     ],
     "wof:id":421168511,
-    "wof:lastmodified":1582351936,
+    "wof:lastmodified":1690875607,
     "wof:name":"La Mana",
     "wof:parent_id":421178141,
     "wof:placetype":"localadmin",

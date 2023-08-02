@@ -51,6 +51,12 @@
     "name:ceb_x_preferred":[
         "Provincia de Bol\u00edvar"
     ],
+    "name:ces_x_preferred":[
+        "provincie Bol\u00edvar"
+    ],
+    "name:cym_x_preferred":[
+        "Talaith Bol\u00edvar"
+    ],
     "name:dan_x_preferred":[
         "Bol\u00edvar"
     ],
@@ -72,6 +78,9 @@
     "name:epo_x_variant":[
         "Provinco Bol\u00edvar"
     ],
+    "name:eus_x_preferred":[
+        "Bol\u00edvar probintzia"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0628\u0644\u06cc\u0648\u0627\u0631"
     ],
@@ -83,6 +92,9 @@
     ],
     "name:frr_x_preferred":[
         "Bol\u00edvar"
+    ],
+    "name:guc_x_preferred":[
+        "Woliiwat"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0acb\u0ab2\u0abf\u0ab5\u0ab0 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -168,6 +180,9 @@
     "name:spa_x_preferred":[
         "Bolivar",
         "Provincia de Bol\u00edvar"
+    ],
+    "name:spa_x_variant":[
+        "Bol\u00edvar"
     ],
     "name:swe_x_preferred":[
         "Bol\u00edvar"
@@ -328,7 +343,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1636502090,
+    "wof:lastmodified":1690875577,
     "wof:name":"Bolivar",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

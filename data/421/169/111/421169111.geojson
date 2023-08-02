@@ -17,16 +17,28 @@
     "mz:is_current":1,
     "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Pi\u00f1as"
+    ],
     "name:ceb_x_preferred":[
         "Cant\u00f3n Pi\u00f1as"
     ],
     "name:ceb_x_variant":[
         "Pi\u00f1as"
     ],
+    "name:deu_x_preferred":[
+        "Pi\u00f1as"
+    ],
     "name:eng_x_preferred":[
         "Pi\u00f1as"
     ],
     "name:fra_x_preferred":[
+        "Pi\u00f1as"
+    ],
+    "name:gle_x_preferred":[
+        "Pi\u00f1as"
+    ],
+    "name:glg_x_preferred":[
         "Pi\u00f1as"
     ],
     "name:ita_x_preferred":[
@@ -45,6 +57,9 @@
         "Pi\u00f1as kiti"
     ],
     "name:que_x_variant":[
+        "Pi\u00f1as"
+    ],
+    "name:qug_x_preferred":[
         "Pi\u00f1as"
     ],
     "name:spa_x_preferred":[
@@ -200,7 +215,7 @@
         }
     ],
     "wof:id":421169111,
-    "wof:lastmodified":1566584464,
+    "wof:lastmodified":1690875615,
     "wof:name":"Pi\u00f1as",
     "wof:parent_id":421195605,
     "wof:placetype":"locality",

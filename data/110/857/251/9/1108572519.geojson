@@ -47,6 +47,9 @@
     "name:ceb_x_preferred":[
         "Cant\u00f3n Santa Rosa"
     ],
+    "name:deu_x_preferred":[
+        "Kanton Santa Rosa"
+    ],
     "name:ell_x_preferred":[
         "\u03a3\u03ac\u03bd\u03c4\u03b1 \u03a1\u03cc\u03c3\u03b1"
     ],
@@ -76,6 +79,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10d0\u10dc\u10e2\u10d0-\u10e0\u10dd\u10e1\u10d0\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
+    ],
+    "name:nan_x_preferred":[
+        "Santa Rosa Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Santa Rosa Canton"
@@ -143,7 +149,7 @@
         }
     ],
     "wof:id":1108572519,
-    "wof:lastmodified":1636502134,
+    "wof:lastmodified":1690875589,
     "wof:name":"Santa Rosa",
     "wof:parent_id":85670887,
     "wof:placetype":"county",

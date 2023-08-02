@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Pujil\u00ed"
+    ],
     "name:ceb_x_preferred":[
         "Pujil\u00ed"
     ],
@@ -42,6 +45,9 @@
         "\u041f\u0443\u0445\u0438\u043b\u0438"
     ],
     "name:swe_x_preferred":[
+        "Pujil\u00ed"
+    ],
+    "name:szl_x_preferred":[
         "Pujil\u00ed"
     ],
     "name:und_x_variant":[
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":421173105,
-    "wof:lastmodified":1566584475,
+    "wof:lastmodified":1690875623,
     "wof:name":"Pujil\u00ed",
     "wof:parent_id":421185497,
     "wof:placetype":"locality",

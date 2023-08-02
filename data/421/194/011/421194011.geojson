@@ -38,6 +38,9 @@
     "name:swe_x_preferred":[
         "Monta\u00f1ita"
     ],
+    "name:vie_x_preferred":[
+        "Montanita"
+    ],
     "name:zho_x_preferred":[
         "\u8056\u57c3\u502b\u5a1c\u7701"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":421194011,
-    "wof:lastmodified":1566584460,
+    "wof:lastmodified":1690875613,
     "wof:name":"Manglaralto",
     "wof:parent_id":1108572401,
     "wof:placetype":"locality",

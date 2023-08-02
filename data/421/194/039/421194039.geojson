@@ -17,7 +17,13 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Pillaro"
+    ],
     "name:ceb_x_preferred":[
+        "P\u00edllaro"
+    ],
+    "name:deu_x_preferred":[
         "P\u00edllaro"
     ],
     "name:eng_x_preferred":[
@@ -46,6 +52,9 @@
     ],
     "name:swe_x_preferred":[
         "P\u00edllaro"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u4e9e\u7f85"
     ],
     "qs:gn_country":"EC",
     "qs:gn_fcode":"PPL",
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":421194039,
-    "wof:lastmodified":1566584459,
+    "wof:lastmodified":1690875613,
     "wof:name":"P\u00edllaro",
     "wof:parent_id":1108572557,
     "wof:placetype":"locality",

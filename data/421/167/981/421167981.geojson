@@ -17,8 +17,17 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Dur\u00e1n"
+    ],
+    "name:cat_x_preferred":[
+        "Dur\u00e1n"
+    ],
     "name:ceb_x_preferred":[
         "Eloy Alfaro"
+    ],
+    "name:ckb_x_preferred":[
+        "\u062f\u0648\u0631\u0627\u0646"
     ],
     "name:deu_x_preferred":[
         "Dur\u00e1n"
@@ -29,7 +38,19 @@
     "name:epo_x_preferred":[
         "Dur\u00e1n"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0631\u0646"
+    ],
     "name:fra_x_preferred":[
+        "Dur\u00e1n"
+    ],
+    "name:frr_x_preferred":[
+        "Dur\u00e1n"
+    ],
+    "name:gle_x_preferred":[
+        "Dur\u00e1n"
+    ],
+    "name:glg_x_preferred":[
         "Dur\u00e1n"
     ],
     "name:ita_x_preferred":[
@@ -37,6 +58,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30a8\u30ed\u30a4\u30a2\u30eb\u30d5\u30a1\u30ed"
+    ],
+    "name:jpn_x_variant":[
+        "\u30c9\u30a5\u30e9\u30f3"
     ],
     "name:kat_x_preferred":[
         "\u10d3\u10e3\u10e0\u10d0\u10dc\u10d8"
@@ -50,6 +74,12 @@
     "name:nld_x_preferred":[
         "Dur\u00e1n"
     ],
+    "name:nob_x_preferred":[
+        "Dur\u00e1n"
+    ],
+    "name:oss_x_preferred":[
+        "\u0414\u0443\u0440\u0430\u043d"
+    ],
     "name:pol_x_preferred":[
         "Dur\u00e1n"
     ],
@@ -57,6 +87,9 @@
         "Dur\u00e1n"
     ],
     "name:que_x_preferred":[
+        "Dur\u00e1n"
+    ],
+    "name:qug_x_preferred":[
         "Dur\u00e1n"
     ],
     "name:rus_x_preferred":[
@@ -67,6 +100,12 @@
     ],
     "name:swe_x_preferred":[
         "Eloy Alfaro"
+    ],
+    "name:tat_x_preferred":[
+        "\u0414\u0443\u0440\u0430\u043d"
+    ],
+    "name:vec_x_preferred":[
+        "Dur\u00e1n"
     ],
     "name:vol_x_preferred":[
         "Dur\u00e1n"
@@ -118,7 +157,7 @@
         }
     ],
     "wof:id":421167981,
-    "wof:lastmodified":1566584463,
+    "wof:lastmodified":1690875615,
     "wof:name":"Dur\u00e1n",
     "wof:parent_id":1108568901,
     "wof:placetype":"locality",

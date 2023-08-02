@@ -42,6 +42,9 @@
     "name:deu_x_preferred":[
         "Manta"
     ],
+    "name:deu_x_variant":[
+        "Kanton Manta"
+    ],
     "name:eng_x_preferred":[
         "Manta"
     ],
@@ -68,6 +71,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10db\u10d0\u10dc\u10e2\u10d8\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
+    ],
+    "name:nan_x_preferred":[
+        "Manta Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Manta Canton"
@@ -161,7 +167,7 @@
         }
     ],
     "wof:id":421175411,
-    "wof:lastmodified":1636502159,
+    "wof:lastmodified":1690875634,
     "wof:name":"Manta",
     "wof:parent_id":85670927,
     "wof:placetype":"county",

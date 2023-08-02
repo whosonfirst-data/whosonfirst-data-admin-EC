@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Ahuano"
+    ],
     "name:eng_x_preferred":[
         "Ahuano"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":421195809,
-    "wof:lastmodified":1566584458,
+    "wof:lastmodified":1690875612,
     "wof:name":"Ahuano",
     "wof:parent_id":1108572985,
     "wof:placetype":"locality",

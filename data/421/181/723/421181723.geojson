@@ -20,6 +20,9 @@
     "name:ceb_x_preferred":[
         "Sidcay"
     ],
+    "name:deu_x_preferred":[
+        "Sidcay"
+    ],
     "name:eng_x_preferred":[
         "Sidcay"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":421181723,
-    "wof:lastmodified":1566584491,
+    "wof:lastmodified":1690875632,
     "wof:name":"Sidcay",
     "wof:parent_id":421185495,
     "wof:placetype":"locality",

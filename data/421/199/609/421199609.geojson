@@ -17,7 +17,13 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Pimampiro"
+    ],
     "name:ceb_x_preferred":[
+        "Pimampiro"
+    ],
+    "name:deu_x_preferred":[
         "Pimampiro"
     ],
     "name:eng_x_preferred":[
@@ -26,8 +32,14 @@
     "name:nld_x_preferred":[
         "Pimampiro"
     ],
+    "name:pol_x_preferred":[
+        "Pimampiro"
+    ],
     "name:que_x_preferred":[
         "Pimampiru"
+    ],
+    "name:spa_x_preferred":[
+        "Pimampiro"
     ],
     "name:swe_x_preferred":[
         "Pimampiro"
@@ -83,7 +95,7 @@
         }
     ],
     "wof:id":421199609,
-    "wof:lastmodified":1566584501,
+    "wof:lastmodified":1690875639,
     "wof:name":"Pimampiro",
     "wof:parent_id":1108571433,
     "wof:placetype":"locality",

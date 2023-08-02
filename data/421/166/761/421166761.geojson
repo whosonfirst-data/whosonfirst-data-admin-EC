@@ -35,6 +35,9 @@
     "name:nld_x_preferred":[
         "Mocha"
     ],
+    "name:pol_x_preferred":[
+        "Mocha"
+    ],
     "name:que_x_preferred":[
         "Mocha"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":421166761,
-    "wof:lastmodified":1566584453,
+    "wof:lastmodified":1690875609,
     "wof:name":"Mocha",
     "wof:parent_id":1108570381,
     "wof:placetype":"localadmin",

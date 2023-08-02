@@ -20,6 +20,9 @@
     "name:ceb_x_preferred":[
         "Ba\u00f1os"
     ],
+    "name:deu_x_preferred":[
+        "Ba\u00f1os"
+    ],
     "name:eng_x_preferred":[
         "Ba\u00f1os"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":421195765,
-    "wof:lastmodified":1566584456,
+    "wof:lastmodified":1690875611,
     "wof:name":"Ba\u00f1os",
     "wof:parent_id":421185495,
     "wof:placetype":"locality",

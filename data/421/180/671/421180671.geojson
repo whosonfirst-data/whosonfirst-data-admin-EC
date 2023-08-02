@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Puerto Bolivar"
+    ],
     "name:ceb_x_preferred":[
         "Puerto Bol\u00edvar"
     ],
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":421180671,
-    "wof:lastmodified":1566584474,
+    "wof:lastmodified":1690875623,
     "wof:name":"Puerto Bol\u00edvar",
     "wof:parent_id":1108570217,
     "wof:placetype":"locality",

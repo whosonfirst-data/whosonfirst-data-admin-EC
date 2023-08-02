@@ -48,6 +48,9 @@
     "name:ceb_x_preferred":[
         "Cant\u00f3n Zamora"
     ],
+    "name:deu_x_preferred":[
+        "Kanton Zamora"
+    ],
     "name:ell_x_preferred":[
         "\u0396\u03b1\u03bc\u03cc\u03c1\u03b1"
     ],
@@ -80,6 +83,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc790\ubaa8\ub77c"
+    ],
+    "name:nan_x_preferred":[
+        "Zamora Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Zamora Canton"
@@ -176,7 +182,7 @@
         }
     ],
     "wof:id":421182449,
-    "wof:lastmodified":1636502164,
+    "wof:lastmodified":1690875651,
     "wof:name":"Zamora",
     "wof:parent_id":85670895,
     "wof:placetype":"county",

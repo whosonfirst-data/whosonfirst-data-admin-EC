@@ -20,6 +20,9 @@
     "name:ceb_x_preferred":[
         "Catacocha"
     ],
+    "name:deu_x_preferred":[
+        "Catacocha"
+    ],
     "name:eng_x_preferred":[
         "Catacocha"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":421172285,
-    "wof:lastmodified":1566584487,
+    "wof:lastmodified":1690875629,
     "wof:name":"Catacocha",
     "wof:parent_id":1108571061,
     "wof:placetype":"locality",

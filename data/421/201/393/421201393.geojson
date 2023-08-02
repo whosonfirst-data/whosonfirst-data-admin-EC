@@ -17,11 +17,17 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Salango"
+    ],
     "name:eng_x_preferred":[
         "Salango"
     ],
     "name:nld_x_preferred":[
         "Salango"
+    ],
+    "name:que_x_preferred":[
+        "Salango kitilli"
     ],
     "name:spa_x_preferred":[
         "Salango"
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":421201393,
-    "wof:lastmodified":1566584503,
+    "wof:lastmodified":1690875641,
     "wof:name":"Salango",
     "wof:parent_id":421176841,
     "wof:placetype":"locality",

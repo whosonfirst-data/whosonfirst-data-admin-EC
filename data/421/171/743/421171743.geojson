@@ -36,8 +36,14 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Guaranda"
+    ],
     "name:ceb_x_preferred":[
         "Cant\u00f3n Guaranda"
+    ],
+    "name:deu_x_preferred":[
+        "Kanton Guaranda"
     ],
     "name:eng_x_preferred":[
         "Guaranda"
@@ -51,6 +57,9 @@
     "name:fra_x_preferred":[
         "Guaranda"
     ],
+    "name:glg_x_preferred":[
+        "Guaranda"
+    ],
     "name:heb_x_preferred":[
         "\u05d2\u05d0\u05e8\u05e0\u05d3\u05d4"
     ],
@@ -59,6 +68,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d2\u10e3\u10d0\u10e0\u10d0\u10dc\u10d3\u10d8\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
+    ],
+    "name:nan_x_preferred":[
+        "Guaranda Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Guaranda Canton"
@@ -71,6 +83,9 @@
     ],
     "name:que_x_preferred":[
         "Waranta kiti"
+    ],
+    "name:qug_x_preferred":[
+        "Guaranda"
     ],
     "name:spa_x_preferred":[
         "Guaranda"
@@ -147,7 +162,7 @@
         }
     ],
     "wof:id":421171743,
-    "wof:lastmodified":1636502165,
+    "wof:lastmodified":1690875654,
     "wof:name":"Guaranda",
     "wof:parent_id":85670905,
     "wof:placetype":"county",

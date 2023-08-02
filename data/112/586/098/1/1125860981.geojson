@@ -22,23 +22,59 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "Yaguachi Nuevo"
+    ],
+    "name:ast_x_preferred":[
+        "Yaguachi Nuevo"
+    ],
+    "name:cat_x_preferred":[
+        "Yaguachi Nuevo"
+    ],
     "name:ceb_x_preferred":[
+        "Yaguachi Nuevo"
+    ],
+    "name:deu_x_preferred":[
         "Yaguachi Nuevo"
     ],
     "name:eng_x_preferred":[
         "Yaguachi"
     ],
+    "name:eng_x_variant":[
+        "Yaguachi Nuevo"
+    ],
+    "name:fra_x_preferred":[
+        "Yaguachi Nuevo"
+    ],
+    "name:glg_x_preferred":[
+        "Yaguachi Nuevo"
+    ],
     "name:nld_x_preferred":[
         "Yaguachi"
+    ],
+    "name:nld_x_variant":[
+        "Yaguachi Nuevo"
     ],
     "name:pol_x_preferred":[
         "Yaguachi"
     ],
+    "name:pol_x_variant":[
+        "Yaguachi Nuevo"
+    ],
+    "name:por_x_preferred":[
+        "Yaguachi Nuevo"
+    ],
     "name:que_x_preferred":[
         "Yawachi"
     ],
+    "name:qug_x_preferred":[
+        "Yaguachi Nuevo"
+    ],
     "name:spa_x_preferred":[
         "Yaguachi"
+    ],
+    "name:spa_x_variant":[
+        "Yaguachi Nuevo"
     ],
     "name:swe_x_preferred":[
         "Yaguachi Nuevo"
@@ -85,7 +121,7 @@
         }
     ],
     "wof:id":1125860981,
-    "wof:lastmodified":1566584528,
+    "wof:lastmodified":1690875658,
     "wof:name":"Yaguachi Nuevo",
     "wof:parent_id":1108572073,
     "wof:placetype":"locality",

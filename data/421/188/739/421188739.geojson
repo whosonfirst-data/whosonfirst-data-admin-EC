@@ -17,6 +17,15 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "Daule"
+    ],
+    "name:ast_x_preferred":[
+        "Daule"
+    ],
+    "name:cat_x_preferred":[
+        "Daule"
+    ],
     "name:ceb_x_preferred":[
         "Daule"
     ],
@@ -29,6 +38,9 @@
     "name:fra_x_preferred":[
         "Daule"
     ],
+    "name:glg_x_preferred":[
+        "Daule"
+    ],
     "name:lit_x_preferred":[
         "Daul\u0117"
     ],
@@ -38,7 +50,13 @@
     "name:pol_x_preferred":[
         "Daule"
     ],
+    "name:por_x_preferred":[
+        "Daule"
+    ],
     "name:que_x_preferred":[
+        "Daule"
+    ],
+    "name:qug_x_preferred":[
         "Daule"
     ],
     "name:ron_x_preferred":[
@@ -106,7 +124,7 @@
         }
     ],
     "wof:id":421188739,
-    "wof:lastmodified":1582351939,
+    "wof:lastmodified":1690875627,
     "wof:name":"Daule",
     "wof:parent_id":421201111,
     "wof:placetype":"localadmin",

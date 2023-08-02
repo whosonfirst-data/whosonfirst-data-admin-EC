@@ -48,6 +48,9 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Pastaza"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Pastaza"
+    ],
     "name:dan_x_preferred":[
         "Pastaza Province"
     ],
@@ -68,6 +71,9 @@
     ],
     "name:epo_x_variant":[
         "Pastazo"
+    ],
+    "name:eus_x_preferred":[
+        "Pastaza probintzia"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u067e\u0627\u0633\u062a\u0627\u0633\u0627"
@@ -204,6 +210,9 @@
     "name:war_x_preferred":[
         "Pastaza"
     ],
+    "name:wuu_x_preferred":[
+        "\u5e15\u65af\u5854\u8428\u7701"
+    ],
     "name:zho_x_preferred":[
         "\u5e15\u65af\u5854\u85a9\u7701"
     ],
@@ -335,7 +344,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1636502092,
+    "wof:lastmodified":1690875583,
     "wof:name":"Pastaza",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

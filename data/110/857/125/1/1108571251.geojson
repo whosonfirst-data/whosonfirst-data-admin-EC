@@ -44,6 +44,9 @@
     "name:ceb_x_preferred":[
         "Canton Pedernales"
     ],
+    "name:deu_x_preferred":[
+        "Kanton Pedernales"
+    ],
     "name:ell_x_preferred":[
         "\u03a0\u03b5\u03bd\u03c4\u03b5\u03c1\u03bd\u03ac\u03bb\u03b5\u03c2"
     ],
@@ -51,7 +54,8 @@
         "Pedernales"
     ],
     "name:eng_x_variant":[
-        "Canton Pedernales"
+        "Canton Pedernales",
+        "Pedernales Canton"
     ],
     "name:fas_x_preferred":[
         "\u067e\u062f\u0631\u0646\u0627\u0644\u0633"
@@ -73,6 +77,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10de\u10d4\u10d3\u10d4\u10e0\u10dc\u10d0\u10da\u10d4\u10e1\u10d8\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
+    ],
+    "name:nan_x_preferred":[
+        "Pedernales Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Pedernales Canton"
@@ -143,7 +150,7 @@
         }
     ],
     "wof:id":1108571251,
-    "wof:lastmodified":1636502135,
+    "wof:lastmodified":1690875596,
     "wof:name":"Pedernales",
     "wof:parent_id":85670927,
     "wof:placetype":"county",

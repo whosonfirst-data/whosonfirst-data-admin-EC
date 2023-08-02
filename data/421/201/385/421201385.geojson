@@ -20,10 +20,19 @@
     "name:ara_x_preferred":[
         "\u062a\u064a\u0646\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u064a\u0646\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Tena"
+    ],
     "name:ben_x_preferred":[
         "\u099f\u09c7\u09a8\u09be"
     ],
     "name:bos_x_preferred":[
+        "Tena"
+    ],
+    "name:cat_x_preferred":[
         "Tena"
     ],
     "name:ceb_x_preferred":[
@@ -44,10 +53,19 @@
     "name:epo_x_preferred":[
         "Teno"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0646\u0627"
+    ],
     "name:fin_x_preferred":[
         "Tena"
     ],
     "name:fra_x_preferred":[
+        "Tena"
+    ],
+    "name:gle_x_preferred":[
+        "Tena"
+    ],
+    "name:glg_x_preferred":[
         "Tena"
     ],
     "name:guj_x_preferred":[
@@ -116,6 +134,9 @@
     "name:que_x_preferred":[
         "Tina"
     ],
+    "name:qug_x_preferred":[
+        "Tena"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u0435\u043d\u0430"
     ],
@@ -126,6 +147,9 @@
         "Tena"
     ],
     "name:spa_x_preferred":[
+        "Tena"
+    ],
+    "name:sqi_x_preferred":[
         "Tena"
     ],
     "name:swe_x_preferred":[
@@ -312,7 +336,7 @@
         }
     ],
     "wof:id":421201385,
-    "wof:lastmodified":1636502161,
+    "wof:lastmodified":1690875641,
     "wof:name":"Tena",
     "wof:parent_id":1108572985,
     "wof:placetype":"locality",

@@ -17,7 +17,19 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "Pasaje"
+    ],
+    "name:ast_x_preferred":[
+        "Pasaje"
+    ],
+    "name:cat_x_preferred":[
+        "Pasaje"
+    ],
     "name:ceb_x_preferred":[
+        "Pasaje"
+    ],
+    "name:deu_x_preferred":[
         "Pasaje"
     ],
     "name:eng_x_preferred":[
@@ -26,13 +38,22 @@
     "name:fra_x_preferred":[
         "Pasaje"
     ],
+    "name:glg_x_preferred":[
+        "Pasaje"
+    ],
     "name:nld_x_preferred":[
         "Pasaje"
     ],
     "name:pol_x_preferred":[
         "Pasaje"
     ],
+    "name:por_x_preferred":[
+        "Pasaje"
+    ],
     "name:que_x_preferred":[
+        "Pasaje"
+    ],
+    "name:qug_x_preferred":[
         "Pasaje"
     ],
     "name:spa_x_preferred":[
@@ -88,7 +109,7 @@
         }
     ],
     "wof:id":421202747,
-    "wof:lastmodified":1566584471,
+    "wof:lastmodified":1690875621,
     "wof:name":"Pasaje",
     "wof:parent_id":421191247,
     "wof:placetype":"locality",

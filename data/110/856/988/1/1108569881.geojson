@@ -38,8 +38,14 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0646\u062a\u0648\u0646 \u0625\u064a\u0632\u0627\u0628\u064a\u0644\u0627"
     ],
+    "name:cat_x_preferred":[
+        "Isabela"
+    ],
     "name:ceb_x_preferred":[
         "Cant\u00f3n Isabela"
+    ],
+    "name:deu_x_preferred":[
+        "Kanton Isabela"
     ],
     "name:ell_x_preferred":[
         "\u0399\u03b6\u03b1\u03bc\u03c0\u03ad\u03bb\u03b1"
@@ -50,7 +56,16 @@
     "name:eng_x_variant":[
         "Isabela Canton"
     ],
+    "name:eus_x_preferred":[
+        "Isabela kantoia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0632\u0627\u0628\u0644\u0627"
+    ],
     "name:fra_x_preferred":[
+        "Isabela"
+    ],
+    "name:glg_x_preferred":[
         "Isabela"
     ],
     "name:hun_x_preferred":[
@@ -59,10 +74,22 @@
     "name:ita_x_preferred":[
         "Cantone di Isabela"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30b5\u30d9\u30e9\u90e1"
+    ],
+    "name:nan_x_preferred":[
+        "Isabela Ko\u0101n"
+    ],
     "name:nob_x_preferred":[
         "Isabela"
     ],
     "name:pol_x_preferred":[
+        "Isabela"
+    ],
+    "name:por_x_preferred":[
+        "Isabela"
+    ],
+    "name:qug_x_preferred":[
         "Isabela"
     ],
     "name:spa_x_preferred":[
@@ -119,7 +146,7 @@
         }
     ],
     "wof:id":1108569881,
-    "wof:lastmodified":1636502136,
+    "wof:lastmodified":1690875606,
     "wof:name":"Isabela",
     "wof:parent_id":85670899,
     "wof:placetype":"county",

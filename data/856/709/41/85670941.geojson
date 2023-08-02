@@ -48,6 +48,9 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia d'Orellana"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Orellana"
+    ],
     "name:dan_x_preferred":[
         "Orellana Province"
     ],
@@ -65,6 +68,9 @@
     ],
     "name:epo_x_preferred":[
         "Orellana"
+    ],
+    "name:eus_x_preferred":[
+        "Orellana probintzia"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0627\u0648\u0631\u06cc\u0627\u0646\u0627"
@@ -153,6 +159,9 @@
     "name:que_x_preferred":[
         "Orellana marka"
     ],
+    "name:qug_x_preferred":[
+        "Orellana"
+    ],
     "name:rus_x_preferred":[
         "\u041e\u0440\u0435\u043b\u044c\u044f\u043d\u0430"
     ],
@@ -204,6 +213,9 @@
     ],
     "name:war_x_preferred":[
         "Orellana"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5965\u96f7\u4e9a\u7eb3\u7701"
     ],
     "name:zho_x_preferred":[
         "\u5965\u96f7\u4e9a\u7eb3\u7701"
@@ -333,7 +345,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1636502091,
+    "wof:lastmodified":1690875581,
     "wof:name":"Orellana",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

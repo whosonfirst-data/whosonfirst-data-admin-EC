@@ -20,6 +20,9 @@
     "name:afr_x_preferred":[
         "Vinces"
     ],
+    "name:ara_x_preferred":[
+        "Vinces"
+    ],
     "name:arg_x_preferred":[
         "Vinces"
     ],
@@ -191,6 +194,9 @@
     "name:que_x_preferred":[
         "Vinces"
     ],
+    "name:qug_x_preferred":[
+        "Vinces"
+    ],
     "name:rgn_x_preferred":[
         "Vinces"
     ],
@@ -298,7 +304,7 @@
         }
     ],
     "wof:id":421181725,
-    "wof:lastmodified":1566584490,
+    "wof:lastmodified":1690875631,
     "wof:name":"Vinces",
     "wof:parent_id":421173271,
     "wof:placetype":"locality",
