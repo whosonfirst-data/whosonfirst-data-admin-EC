@@ -17,10 +17,28 @@
     "mz:is_current":-1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "Balzar"
+    ],
+    "name:ast_x_preferred":[
+        "Balzar"
+    ],
+    "name:cat_x_preferred":[
+        "Balzar"
+    ],
     "name:ceb_x_preferred":[
         "Balzar"
     ],
+    "name:deu_x_preferred":[
+        "Balzar"
+    ],
     "name:eng_x_preferred":[
+        "Balzar"
+    ],
+    "name:fra_x_preferred":[
+        "Balzar"
+    ],
+    "name:glg_x_preferred":[
         "Balzar"
     ],
     "name:nld_x_preferred":[
@@ -29,7 +47,13 @@
     "name:pol_x_preferred":[
         "Balzar"
     ],
+    "name:por_x_preferred":[
+        "Balzar"
+    ],
     "name:que_x_preferred":[
+        "Balzar"
+    ],
+    "name:qug_x_preferred":[
         "Balzar"
     ],
     "name:spa_x_preferred":[
@@ -89,7 +113,7 @@
         }
     ],
     "wof:id":421176337,
-    "wof:lastmodified":1566584518,
+    "wof:lastmodified":1690875651,
     "wof:name":"Balzar",
     "wof:parent_id":1108567949,
     "wof:placetype":"localadmin",

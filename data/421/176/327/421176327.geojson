@@ -17,10 +17,19 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Pelileo"
+    ],
     "name:cat_x_preferred":[
         "Pelileo"
     ],
     "name:ceb_x_preferred":[
+        "Pelileo"
+    ],
+    "name:ces_x_preferred":[
+        "Pelileo"
+    ],
+    "name:deu_x_preferred":[
         "Pelileo"
     ],
     "name:eng_x_preferred":[
@@ -36,6 +45,9 @@
         "Pelileo"
     ],
     "name:nld_x_preferred":[
+        "Pelileo"
+    ],
+    "name:pol_x_preferred":[
         "Pelileo"
     ],
     "name:que_x_preferred":[
@@ -97,7 +109,7 @@
         }
     ],
     "wof:id":421176327,
-    "wof:lastmodified":1566584519,
+    "wof:lastmodified":1690875653,
     "wof:name":"Pelileo",
     "wof:parent_id":1108572289,
     "wof:placetype":"locality",

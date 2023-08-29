@@ -51,6 +51,9 @@
     "name:ceb_x_preferred":[
         "Provincia de Sucumb\u00edos"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Sucumb\u00edos"
+    ],
     "name:dan_x_preferred":[
         "Sucumb\u00edos Province"
     ],
@@ -68,6 +71,9 @@
     ],
     "name:epo_x_preferred":[
         "Sucumb\u00edos"
+    ],
+    "name:eus_x_preferred":[
+        "Sucumb\u00edos probintzia"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0633\u0627\u06a9\u0648\u0645\u0628\u06cc\u0648\u0633"
@@ -95,6 +101,9 @@
     ],
     "name:hun_x_preferred":[
         "Sucumbios"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0578\u0582\u056f\u0578\u0582\u0574\u0562\u056b\u0578\u057d"
     ],
     "name:ind_x_preferred":[
         "Provinsi Sucumb\u00edos"
@@ -165,12 +174,18 @@
     "name:sin_x_preferred":[
         "\u0dc3\u0dd4\u0d9a\u0dd4\u0db8\u0dca\u0db6\u0dd2\u0dba\u0ddd\u0dc3\u0dca \u0db4\u0dc5\u0dcf\u0dad"
     ],
+    "name:slv_x_preferred":[
+        "Provinca Sucumbios"
+    ],
     "name:sme_x_preferred":[
         "Sucumb\u00edos"
     ],
     "name:spa_x_preferred":[
         "Sucumbios",
         "Provincia de Sucumb\u00edos"
+    ],
+    "name:spa_x_variant":[
+        "Sucumb\u00edos"
     ],
     "name:swe_x_preferred":[
         "Sucumb\u00edos"
@@ -201,6 +216,9 @@
     ],
     "name:war_x_preferred":[
         "Sucumb\u00edos"
+    ],
+    "name:wuu_x_preferred":[
+        "\u82cf\u6606\u6bd4\u5965\u65af\u7701"
     ],
     "name:zho_x_preferred":[
         "\u82cf\u6606\u6bd4\u5965\u65af\u7701"
@@ -328,7 +346,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1636502091,
+    "wof:lastmodified":1690875581,
     "wof:name":"Sucumbios",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

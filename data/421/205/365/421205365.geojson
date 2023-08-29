@@ -17,6 +17,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Canelos"
+    ],
     "name:eng_x_preferred":[
         "Canelos"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":421205365,
-    "wof:lastmodified":1566584472,
+    "wof:lastmodified":1690875621,
     "wof:name":"Canelos",
     "wof:parent_id":421185499,
     "wof:placetype":"localadmin",

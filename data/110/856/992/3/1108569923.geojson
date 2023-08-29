@@ -38,6 +38,9 @@
     "name:ceb_x_preferred":[
         "Cant\u00f3n Jipijapa"
     ],
+    "name:deu_x_preferred":[
+        "Kanton Jipijapa"
+    ],
     "name:eng_x_preferred":[
         "Jipijapa"
     ],
@@ -52,6 +55,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10ee\u10d8\u10de\u10d8\u10ee\u10d0\u10de\u10d8\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
+    ],
+    "name:nan_x_preferred":[
+        "Jipijapa Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Jipijapa Canton"
@@ -134,7 +140,7 @@
         }
     ],
     "wof:id":1108569923,
-    "wof:lastmodified":1636502135,
+    "wof:lastmodified":1690875602,
     "wof:name":"Jipijapa",
     "wof:parent_id":85670927,
     "wof:placetype":"county",

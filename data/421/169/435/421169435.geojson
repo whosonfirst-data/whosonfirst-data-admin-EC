@@ -66,6 +66,9 @@
     "name:kor_x_preferred":[
         "\ubb34\uc774\ub124"
     ],
+    "name:nan_x_preferred":[
+        "Muisne Ko\u0101n"
+    ],
     "name:nds_x_preferred":[
         "Cant\u00f3n Muisne"
     ],
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":421169435,
-    "wof:lastmodified":1636502152,
+    "wof:lastmodified":1690875617,
     "wof:name":"Muisne",
     "wof:parent_id":85670963,
     "wof:placetype":"county",

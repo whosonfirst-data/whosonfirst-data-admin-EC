@@ -22,8 +22,17 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u064a\u0631\u062a\u0648 \u0628\u0643\u0648\u064a\u0631\u064a\u0632\u0648 \u0645\u0648\u0631\u064a\u0646\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u064a\u0631\u062a\u0648 \u0628\u0643\u0648\u064a\u0631\u064a\u0632\u0648 \u0645\u0648\u0631\u064a\u0646\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Puerto Baquerizo Moreno"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09c1\u09df\u09c7\u09b0\u09cd\u09a4\u09cb \u09ac\u09be\u0995\u09c1\u0987\u09b0\u09bf\u099c\u09cb \u09ae\u09cb\u09b0\u09c7\u09a8\u09cb"
+    ],
+    "name:cat_x_preferred":[
+        "Puerto Baquerizo Moreno"
     ],
     "name:ceb_x_preferred":[
         "Puerto Baquerizo Moreno"
@@ -52,6 +61,9 @@
     "name:fra_x_preferred":[
         "Puerto Baquerizo Moreno"
     ],
+    "name:gle_x_preferred":[
+        "Puerto Baquerizo Moreno"
+    ],
     "name:glg_x_preferred":[
         "Puerto Baquerizo Moreno"
     ],
@@ -66,6 +78,9 @@
     ],
     "name:hun_x_preferred":[
         "Puerto Baquerizo Moreno"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0578\u0582\u0565\u0580\u057f\u0578 \u0532\u0561\u056f\u0565\u0580\u056b\u0566\u0578 \u0544\u0578\u0580\u0565\u0576\u0578"
     ],
     "name:ind_x_preferred":[
         "Puerto Baquerizo Moreno"
@@ -106,6 +121,9 @@
     "name:que_x_preferred":[
         "Puerto Baquerizo Moreno"
     ],
+    "name:qug_x_preferred":[
+        "Puerto Baquerizo Moreno"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0443\u044d\u0440\u0442\u043e-\u0411\u0430\u043a\u0435\u0440\u0438\u0441\u043e-\u041c\u043e\u0440\u0435\u043d\u043e"
     ],
@@ -144,6 +162,9 @@
     ],
     "name:war_x_preferred":[
         "Puerto Baquerizo Moreno"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5df4\u514b\u91cc\u7d22\u83ab\u96f7\u8bfa\u6e2f"
     ],
     "name:zho_x_preferred":[
         "\u5df4\u514b\u91cc\u7d22\u83ab\u96f7\u8afe\u6e2f"
@@ -276,7 +297,7 @@
         }
     ],
     "wof:id":890440181,
-    "wof:lastmodified":1636502166,
+    "wof:lastmodified":1690875656,
     "wof:name":"Puerto Baquerizo Moreno",
     "wof:parent_id":421181765,
     "wof:placetype":"locality",

@@ -17,6 +17,15 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "Montecristi"
+    ],
+    "name:ast_x_preferred":[
+        "Montecristi"
+    ],
+    "name:cat_x_preferred":[
+        "Montecristi"
+    ],
     "name:ceb_x_preferred":[
         "Montecristi"
     ],
@@ -29,7 +38,16 @@
     "name:eng_x_preferred":[
         "Montecristi"
     ],
+    "name:eng_x_variant":[
+        "Monte Cristi"
+    ],
     "name:fra_x_preferred":[
+        "Montecristi"
+    ],
+    "name:gle_x_preferred":[
+        "Montecristi"
+    ],
+    "name:glg_x_preferred":[
         "Montecristi"
     ],
     "name:ita_x_preferred":[
@@ -50,10 +68,19 @@
     "name:que_x_preferred":[
         "Montecristi"
     ],
+    "name:qug_x_preferred":[
+        "Montecristi"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u043e\u043d\u0442\u0435\u043a\u0440\u0438\u0441\u0442\u0438"
     ],
     "name:spa_x_preferred":[
+        "Montecristi"
+    ],
+    "name:spa_x_variant":[
+        "Monte Cristi"
+    ],
+    "name:sqi_x_preferred":[
         "Montecristi"
     ],
     "name:swe_x_preferred":[
@@ -110,7 +137,7 @@
         }
     ],
     "wof:id":421202915,
-    "wof:lastmodified":1566584471,
+    "wof:lastmodified":1690875620,
     "wof:name":"Montecristi",
     "wof:parent_id":1108570471,
     "wof:placetype":"locality",

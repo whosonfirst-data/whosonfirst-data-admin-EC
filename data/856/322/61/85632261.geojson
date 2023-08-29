@@ -28,6 +28,9 @@
     "mz:is_current":1,
     "mz:max_zoom":8.0,
     "mz:min_zoom":3.0,
+    "name:abk_x_preferred":[
+        "\u0415\u043a\u0432\u0430\u0434\u043e\u0440"
+    ],
     "name:ace_x_preferred":[
         "\u00c8kuador"
     ],
@@ -40,6 +43,9 @@
     "name:aka_x_preferred":[
         "Ikuwad\u0254"
     ],
+    "name:aka_x_variant":[
+        "Ecuador"
+    ],
     "name:als_x_preferred":[
         "Ecuador"
     ],
@@ -49,8 +55,14 @@
     "name:amh_x_variant":[
         "\u12a2\u12b3\u12f6\u122d"
     ],
+    "name:ami_x_preferred":[
+        "Ecuador"
+    ],
     "name:ang_x_preferred":[
         "Ecuador"
+    ],
+    "name:anp_x_preferred":[
+        "\u0907\u0915\u094d\u0935\u0947\u0921\u094b\u0930"
     ],
     "name:ara_x_preferred":[
         "\u0627\u0644\u0625\u0643\u0648\u0627\u062f\u0648\u0631"
@@ -71,6 +83,12 @@
     "name:ast_x_preferred":[
         "Ecuador"
     ],
+    "name:avk_x_preferred":[
+        "Ekuadora"
+    ],
+    "name:awa_x_preferred":[
+        "\u0908\u0915\u094d\u0935\u093e\u0921\u094b\u0930"
+    ],
     "name:aym_x_preferred":[
         "Ikwadur"
     ],
@@ -85,6 +103,9 @@
     ],
     "name:bam_x_preferred":[
         "Ekwat\u0254r"
+    ],
+    "name:ban_x_preferred":[
+        "\u00c9kuador"
     ],
     "name:bar_x_preferred":[
         "Ecuador"
@@ -138,6 +159,9 @@
     "name:ceb_x_preferred":[
         "Ecuador"
     ],
+    "name:ceb_x_variant":[
+        "Ekwador"
+    ],
     "name:ces_x_preferred":[
         "Ekv\u00e1dor"
     ],
@@ -150,14 +174,23 @@
     "name:chv_x_preferred":[
         "\u042d\u043a\u0432\u0430\u0434\u043e\u0440"
     ],
+    "name:chy_x_preferred":[
+        "Ecuador"
+    ],
     "name:ckb_x_preferred":[
         "\u0626\u06ce\u06a9\u0648\u0627\u062f\u06c6\u0631"
     ],
     "name:cor_x_preferred":[
         "Pow Ekwadorel"
     ],
+    "name:cos_x_preferred":[
+        "Ecuador"
+    ],
     "name:crh_x_preferred":[
         "Ekvador"
+    ],
+    "name:csb_x_preferred":[
+        "Ekwador"
     ],
     "name:cym_x_preferred":[
         "Ecwador"
@@ -193,7 +226,8 @@
         "\u0399\u03c3\u03b7\u03bc\u03b5\u03c1\u03b9\u03bd\u03cc\u03c2 (\u03c7\u03ce\u03c1\u03b1)"
     ],
     "name:ell_x_variant":[
-        "\u0395\u03ba\u03bf\u03c5\u03b1\u03b4\u03cc\u03c1"
+        "\u0395\u03ba\u03bf\u03c5\u03b1\u03b4\u03cc\u03c1",
+        "\u0399\u03c3\u03b7\u03bc\u03b5\u03c1\u03b9\u03bd\u03cc\u03c2"
     ],
     "name:eng_ca_x_preferred":[
         "Ecuador"
@@ -264,6 +298,9 @@
     "name:ful_x_preferred":[
         "Ekuwatoor"
     ],
+    "name:ful_x_variant":[
+        "Ekwadoor"
+    ],
     "name:gag_x_preferred":[
         "Ekvador"
     ],
@@ -288,11 +325,17 @@
     "name:got_x_preferred":[
         "\ud800\udf34\ud800\udf3a\ud800\udf45\ud800\udf30\ud800\udf33\ud800\udf30\ud800\udf3f\ud800\udf42"
     ],
+    "name:gpe_x_preferred":[
+        "Ecuador"
+    ],
     "name:grn_x_preferred":[
         "Ekuator"
     ],
     "name:gsw_x_preferred":[
         "Ecuador"
+    ],
+    "name:guc_x_preferred":[
+        "Ekuwatoor\u00fc"
     ],
     "name:guj_x_preferred":[
         "\u0a88\u0a95\u0acd\u0ab5\u0ac7\u0aa1\u0acb\u0ab0"
@@ -348,11 +391,17 @@
     "name:hye_x_preferred":[
         "\u0537\u056f\u057e\u0561\u0564\u0578\u0580"
     ],
+    "name:hyw_x_preferred":[
+        "\u0537\u0584\u0578\u0582\u0561\u057f\u0578\u0580"
+    ],
     "name:ibo_x_preferred":[
         "Ecuador"
     ],
     "name:ido_x_preferred":[
         "Equador"
+    ],
+    "name:iku_x_preferred":[
+        "\u1403\u146f\u140a\u1451\u1550"
     ],
     "name:ile_x_preferred":[
         "Ecuador"
@@ -380,7 +429,8 @@
         "\u00c9kuador"
     ],
     "name:jav_x_variant":[
-        "Ekuador"
+        "Ekuador",
+        "\u00c9kuadhor"
     ],
     "name:jbo_x_preferred":[
         "ekuador"
@@ -393,6 +443,9 @@
     ],
     "name:kaa_x_preferred":[
         "Ekvador"
+    ],
+    "name:kab_x_preferred":[
+        "Ikwadur"
     ],
     "name:kal_x_preferred":[
         "Ecuador"
@@ -475,6 +528,9 @@
     "name:lit_x_preferred":[
         "Ekvadoras"
     ],
+    "name:lld_x_preferred":[
+        "Ecuador"
+    ],
     "name:lmo_x_preferred":[
         "Ecuador"
     ],
@@ -499,6 +555,9 @@
     "name:lzh_x_preferred":[
         "\u5384\u74dc\u591a"
     ],
+    "name:mad_x_preferred":[
+        "Ekuador"
+    ],
     "name:mal_x_preferred":[
         "\u0d07\u0d15\u0d4d\u0d35\u0d21\u0d4b\u0d7c"
     ],
@@ -511,8 +570,14 @@
     "name:mar_x_variant":[
         "\u0907\u0915\u094d\u0935\u093e\u0921\u094b\u0930"
     ],
+    "name:mdf_x_preferred":[
+        "\u042d\u043a\u0432\u0430\u0434\u043e\u0440"
+    ],
     "name:mhr_x_preferred":[
         "\u042d\u043a\u0432\u0430\u0434\u043e\u0440"
+    ],
+    "name:min_x_preferred":[
+        "Ekuador"
     ],
     "name:mkd_x_preferred":[
         "\u0415\u043a\u0432\u0430\u0434\u043e\u0440"
@@ -525,6 +590,9 @@
     ],
     "name:mlt_x_preferred":[
         "Ekwador"
+    ],
+    "name:mni_x_preferred":[
+        "\uabcf\uabc0\uabed\uabcb\uabe6\uabd7\uabe3\uabd4"
     ],
     "name:mon_x_preferred":[
         "\u042d\u043a\u0432\u0430\u0434\u043e\u0440"
@@ -551,13 +619,17 @@
         "\u0627\u06a9\u0648\u0627\u062f\u0631"
     ],
     "name:mzn_x_variant":[
-        "\u0626\u06d5\u06a9\u0648\u0627\u062f\u0648\u0631"
+        "\u0626\u06d5\u06a9\u0648\u0627\u062f\u0648\u0631",
+        "\u0627\u06a9\u0648\u0627\u062f\u0648\u0631"
     ],
     "name:nah_x_preferred":[
         "Ecuador"
     ],
     "name:nan_x_preferred":[
         "Ecuador"
+    ],
+    "name:nan_x_variant":[
+        "Chhiah-t\u014d Ki\u014dng-h\u00f4-kok"
     ],
     "name:nau_x_preferred":[
         "Ekwador"
@@ -633,6 +705,9 @@
     "name:pap_x_preferred":[
         "Ecuador"
     ],
+    "name:pcd_x_preferred":[
+        "\u00c9quateur"
+    ],
     "name:pih_x_preferred":[
         "Ekwador"
     ],
@@ -696,6 +771,9 @@
     "name:san_x_preferred":[
         "\u090f\u0915\u094d\u0935\u093e\u0921\u094b\u0930"
     ],
+    "name:sat_x_preferred":[
+        "\u1c64\u1c60\u1c69\u1c63\u1c5f\u1c70\u1c5a\u1c68"
+    ],
     "name:scn_x_preferred":[
         "Ecuador"
     ],
@@ -704,6 +782,9 @@
     ],
     "name:sgs_x_preferred":[
         "Ekvaduors"
+    ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u1022\u1031\u1087\u1075\u1082\u1083\u1087\u1010\u1031\u1083\u1087"
     ],
     "name:sin_x_preferred":[
         "\u0d89\u0d9a\u0dca\u0dc0\u0daf\u0ddd\u0dbb\u0dba"
@@ -717,8 +798,14 @@
     "name:sme_x_preferred":[
         "Ecuador"
     ],
+    "name:smn_x_preferred":[
+        "Ecuador"
+    ],
     "name:smo_x_preferred":[
         "Ekuatoa"
+    ],
+    "name:sms_x_preferred":[
+        "Ecuador"
     ],
     "name:sna_x_preferred":[
         "Ecuador"
@@ -731,6 +818,9 @@
     ],
     "name:som_x_variant":[
         "Ikuwadoor"
+    ],
+    "name:sot_x_preferred":[
+        "Ecuador"
     ],
     "name:spa_x_preferred":[
         "Ecuador"
@@ -792,6 +882,9 @@
     "name:tat_x_variant":[
         "\u0418\u043a\u0432\u0430\u0434\u0443\u0440"
     ],
+    "name:tay_x_preferred":[
+        "Ecuador"
+    ],
     "name:tel_x_preferred":[
         "\u0c08\u0c15\u0c4d\u0c35\u0c21\u0c3e\u0c30\u0c4d"
     ],
@@ -819,14 +912,23 @@
     "name:tir_x_variant":[
         "\u12a4\u12b3\u12f6\u122d"
     ],
+    "name:tok_x_preferred":[
+        "ma Ekato"
+    ],
     "name:ton_x_preferred":[
         "\u02bbEkuetoa"
     ],
     "name:tpi_x_preferred":[
         "Ekuwado"
     ],
+    "name:trv_x_preferred":[
+        "Ecuador"
+    ],
     "name:tuk_x_preferred":[
         "Ekwador"
+    ],
+    "name:tum_x_preferred":[
+        "Ecuador"
     ],
     "name:tur_x_preferred":[
         "Ekvador"
@@ -1157,7 +1259,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1617827570,
+    "wof:lastmodified":1690875584,
     "wof:name":"Ecuador",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

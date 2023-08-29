@@ -17,7 +17,13 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Suc\u00faa"
+    ],
     "name:ceb_x_preferred":[
+        "Suc\u00faa"
+    ],
+    "name:deu_x_preferred":[
         "Suc\u00faa"
     ],
     "name:eng_x_preferred":[
@@ -29,8 +35,14 @@
     "name:nld_x_preferred":[
         "Suc\u00faa"
     ],
+    "name:pol_x_preferred":[
+        "Suc\u00faa"
+    ],
     "name:que_x_preferred":[
         "Sukuwa"
+    ],
+    "name:spa_x_preferred":[
+        "Suc\u00faa"
     ],
     "name:swe_x_preferred":[
         "Suc\u00faa"
@@ -82,7 +94,7 @@
         }
     ],
     "wof:id":421182561,
-    "wof:lastmodified":1566584517,
+    "wof:lastmodified":1690875650,
     "wof:name":"Suc\u00faa",
     "wof:parent_id":421193533,
     "wof:placetype":"locality",

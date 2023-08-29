@@ -20,6 +20,9 @@
     "name:ceb_x_preferred":[
         "Vilcabamba"
     ],
+    "name:ces_x_preferred":[
+        "Vilcabamba"
+    ],
     "name:deu_x_preferred":[
         "Vilcabamba"
     ],
@@ -44,6 +47,9 @@
     "name:que_x_preferred":[
         "Willkapampa"
     ],
+    "name:slk_x_preferred":[
+        "Vilcabamba"
+    ],
     "name:spa_x_preferred":[
         "Vilcabamba"
     ],
@@ -52,6 +58,9 @@
     ],
     "name:und_x_variant":[
         "La Victoria"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u723e\u5361\u73ed\u5df4\uff08\u5384\u74dc\u591a\u723e\uff09"
     ],
     "qs:gn_country":"EC",
     "qs:gn_fcode":"PPL",
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":421192183,
-    "wof:lastmodified":1566584455,
+    "wof:lastmodified":1690875610,
     "wof:name":"Vilcabamba",
     "wof:parent_id":421182159,
     "wof:placetype":"locality",

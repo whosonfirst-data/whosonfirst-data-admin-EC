@@ -48,6 +48,9 @@
     "name:deu_x_preferred":[
         "Milagro"
     ],
+    "name:deu_x_variant":[
+        "Kanton Milagro"
+    ],
     "name:eng_x_preferred":[
         "Milagro"
     ],
@@ -71,6 +74,9 @@
     ],
     "name:lit_x_preferred":[
         "Milagras"
+    ],
+    "name:nan_x_preferred":[
+        "Milagro Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Milagro Canton"
@@ -168,7 +174,7 @@
         }
     ],
     "wof:id":421191245,
-    "wof:lastmodified":1636502160,
+    "wof:lastmodified":1690875635,
     "wof:name":"Milagro",
     "wof:parent_id":85670917,
     "wof:placetype":"county",

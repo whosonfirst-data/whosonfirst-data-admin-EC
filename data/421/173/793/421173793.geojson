@@ -17,10 +17,19 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u062c\u064a\u0646\u064a\u0648 \u0625\u0633\u0628\u064a\u062e\u0648"
+    ],
+    "name:arz_x_preferred":[
+        "\u0627\u0648\u062c\u064a\u0646\u064a\u0648 \u0627\u0633\u067e\u064a\u0686\u0648"
+    ],
     "name:ast_x_preferred":[
         "Eugenio Espejo"
     ],
     "name:cat_x_preferred":[
+        "Eugenio Espejo"
+    ],
+    "name:cym_x_preferred":[
         "Eugenio Espejo"
     ],
     "name:dan_x_preferred":[
@@ -40,6 +49,9 @@
     ],
     "name:glg_x_preferred":[
         "Eugenio Espejo"
+    ],
+    "name:hye_x_preferred":[
+        "\u0567\u0578\u0582\u056d\u0565\u0576\u056b\u0578 \u0537\u057d\u057a\u0565\u056d\u0578"
     ],
     "name:ita_x_preferred":[
         "Eugenio Espejo"
@@ -68,6 +80,9 @@
     "name:spa_x_preferred":[
         "Eugenio Espejo"
     ],
+    "name:sqi_x_preferred":[
+        "Eugenio Espejo"
+    ],
     "name:swe_x_preferred":[
         "Eugenio Espejo"
     ],
@@ -76,6 +91,9 @@
     ],
     "name:und_x_variant":[
         "E. Espejo"
+    ],
+    "name:zho_x_preferred":[
+        "\u6b50\u4ea8\u5c3c\u5967\u00b7\u57c3\u65af\u4f69\u970d"
     ],
     "qs:gn_country":"EC",
     "qs:gn_fcode":"PPL",
@@ -123,7 +141,7 @@
         }
     ],
     "wof:id":421173793,
-    "wof:lastmodified":1566584477,
+    "wof:lastmodified":1690875625,
     "wof:name":"Eugenio Espejo",
     "wof:parent_id":421171751,
     "wof:placetype":"locality",

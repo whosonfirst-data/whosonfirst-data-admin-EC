@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Cumbay\u00e1"
+    ],
     "name:eng_x_preferred":[
         "Cumbay\u00e1"
     ],
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":421178975,
-    "wof:lastmodified":1566584516,
+    "wof:lastmodified":1690875650,
     "wof:name":"Cumbay\u00e1",
     "wof:parent_id":421188131,
     "wof:placetype":"locality",

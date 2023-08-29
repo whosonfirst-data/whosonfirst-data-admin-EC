@@ -42,6 +42,9 @@
     "name:ceb_x_preferred":[
         "Cant\u00f3n Portoviejo"
     ],
+    "name:deu_x_preferred":[
+        "Kanton Portoviejo"
+    ],
     "name:eng_x_preferred":[
         "Portoviejo"
     ],
@@ -68,6 +71,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10de\u10dd\u10e0\u10e2\u10dd\u10d5\u10d8\u10d4\u10ee\u10dd\u10e1 \u10d9\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8"
+    ],
+    "name:nan_x_preferred":[
+        "Portoviejo Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Portoviejo Canton"
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":421189223,
-    "wof:lastmodified":1636502157,
+    "wof:lastmodified":1690875626,
     "wof:name":"Portoviejo",
     "wof:parent_id":85670927,
     "wof:placetype":"county",

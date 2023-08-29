@@ -51,6 +51,9 @@
     "name:deu_x_preferred":[
         "San-Lorenzo"
     ],
+    "name:deu_x_variant":[
+        "Kanton San Lorenzo"
+    ],
     "name:eng_x_preferred":[
         "San Lorenzo"
     ],
@@ -95,6 +98,9 @@
     ],
     "name:msa_x_preferred":[
         "San-Lorenzo"
+    ],
+    "name:nan_x_preferred":[
+        "San Lorenzo Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "San-Lorenzo"
@@ -234,7 +240,7 @@
         }
     ],
     "wof:id":421171763,
-    "wof:lastmodified":1636502165,
+    "wof:lastmodified":1690875653,
     "wof:name":"San Lorenzo",
     "wof:parent_id":85670963,
     "wof:placetype":"county",

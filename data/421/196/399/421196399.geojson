@@ -17,8 +17,14 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Pedernales"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09c7\u09a6\u09c7\u09b0\u09a8\u09be\u09b2\u09c7\u09b8"
+    ],
+    "name:cat_x_preferred":[
+        "Pedernales"
     ],
     "name:ceb_x_preferred":[
         "Pedernales"
@@ -35,6 +41,9 @@
     "name:fra_x_preferred":[
         "Pedernales"
     ],
+    "name:glg_x_preferred":[
+        "Pedernales"
+    ],
     "name:heb_x_preferred":[
         "\u05e4\u05d3\u05e8\u05e0\u05d0\u05dc\u05e1"
     ],
@@ -44,10 +53,22 @@
     "name:ind_x_preferred":[
         "Pedernales"
     ],
+    "name:ita_x_preferred":[
+        "Pedernales"
+    ],
+    "name:nld_x_preferred":[
+        "Pedernales"
+    ],
     "name:pol_x_preferred":[
         "Pedernales"
     ],
     "name:por_x_preferred":[
+        "Pedernales"
+    ],
+    "name:que_x_preferred":[
+        "Pedernales"
+    ],
+    "name:qug_x_preferred":[
         "Pedernales"
     ],
     "name:spa_x_preferred":[
@@ -111,7 +132,7 @@
         }
     ],
     "wof:id":421196399,
-    "wof:lastmodified":1636502159,
+    "wof:lastmodified":1690875635,
     "wof:name":"Pedernales",
     "wof:parent_id":1108571251,
     "wof:placetype":"locality",

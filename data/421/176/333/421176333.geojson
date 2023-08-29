@@ -17,13 +17,22 @@
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Colimes"
+    ],
     "name:ceb_x_preferred":[
+        "Colimes"
+    ],
+    "name:deu_x_preferred":[
         "Colimes"
     ],
     "name:eng_x_preferred":[
         "Colimes"
     ],
     "name:nld_x_preferred":[
+        "Colimes"
+    ],
+    "name:pol_x_preferred":[
         "Colimes"
     ],
     "name:que_x_preferred":[
@@ -83,7 +92,7 @@
         }
     ],
     "wof:id":421176333,
-    "wof:lastmodified":1566584519,
+    "wof:lastmodified":1690875652,
     "wof:name":"Colimes",
     "wof:parent_id":1108568689,
     "wof:placetype":"localadmin",

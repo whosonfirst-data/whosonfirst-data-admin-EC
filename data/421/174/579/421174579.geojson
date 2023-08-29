@@ -17,6 +17,15 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "Puerto Ayora"
+    ],
+    "name:ast_x_preferred":[
+        "Puerto Ayora"
+    ],
+    "name:cat_x_preferred":[
+        "Puerto Ayora"
+    ],
     "name:ceb_x_preferred":[
         "Puerto Ayora"
     ],
@@ -26,11 +35,26 @@
     "name:eng_x_preferred":[
         "Puerto Ayora"
     ],
+    "name:eus_x_preferred":[
+        "Puerto Ayora"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0631\u062a\u0648 \u0622\u0626\u0648\u0631\u0627"
+    ],
     "name:fin_x_preferred":[
         "Puerto Ayora"
     ],
     "name:fra_x_preferred":[
         "Puerto Isidro Ayora"
+    ],
+    "name:fra_x_variant":[
+        "Puerto Ayora"
+    ],
+    "name:gle_x_preferred":[
+        "Puerto Ayora"
+    ],
+    "name:glg_x_preferred":[
+        "Puerto Ayora"
     ],
     "name:heb_x_preferred":[
         "\u05e4\u05d5\u05d0\u05e8\u05d8\u05d5 \u05d0\u05d9\u05d5\u05e8\u05d4"
@@ -40,6 +64,9 @@
     ],
     "name:hrv_x_preferred":[
         "Puerto Ayora"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0578\u0582\u0565\u0580\u057f\u0578-\u0531\u0575\u0578\u0580\u0561"
     ],
     "name:ita_x_preferred":[
         "Puerto Ayora"
@@ -74,6 +101,9 @@
     "name:que_x_preferred":[
         "Ayora Wampurani"
     ],
+    "name:qug_x_preferred":[
+        "Puerto Ayora"
+    ],
     "name:ron_x_preferred":[
         "Puerto Ayora"
     ],
@@ -84,6 +114,9 @@
         "Puerto Ayora"
     ],
     "name:spa_x_preferred":[
+        "Puerto Ayora"
+    ],
+    "name:sqi_x_preferred":[
         "Puerto Ayora"
     ],
     "name:swe_x_preferred":[
@@ -143,7 +176,7 @@
         }
     ],
     "wof:id":421174579,
-    "wof:lastmodified":1566584473,
+    "wof:lastmodified":1690875622,
     "wof:name":"Puerto Ayora",
     "wof:parent_id":421183483,
     "wof:placetype":"locality",

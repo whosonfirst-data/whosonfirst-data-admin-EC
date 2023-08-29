@@ -26,6 +26,9 @@
     "name:nld_x_preferred":[
         "Sigchos"
     ],
+    "name:pol_x_preferred":[
+        "Sigchos"
+    ],
     "name:que_x_preferred":[
         "Sikchus"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":421198203,
-    "wof:lastmodified":1582351941,
+    "wof:lastmodified":1690875634,
     "wof:name":"Sigchos",
     "wof:parent_id":421184865,
     "wof:placetype":"localadmin",

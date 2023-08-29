@@ -17,7 +17,19 @@
     "mz:is_current":-1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "Tosagua"
+    ],
+    "name:ast_x_preferred":[
+        "Tosagua"
+    ],
+    "name:cat_x_preferred":[
+        "Tosagua"
+    ],
     "name:ceb_x_preferred":[
+        "Tosagua"
+    ],
+    "name:deu_x_preferred":[
         "Tosagua"
     ],
     "name:eng_x_preferred":[
@@ -26,13 +38,22 @@
     "name:fra_x_preferred":[
         "Tosagua"
     ],
+    "name:glg_x_preferred":[
+        "Tosagua"
+    ],
     "name:nld_x_preferred":[
         "Tosagua"
     ],
     "name:pol_x_preferred":[
         "Tosagua"
     ],
+    "name:por_x_preferred":[
+        "Tosagua"
+    ],
     "name:que_x_preferred":[
+        "Tosagua"
+    ],
+    "name:qug_x_preferred":[
         "Tosagua"
     ],
     "name:spa_x_preferred":[
@@ -92,7 +113,7 @@
         }
     ],
     "wof:id":421172281,
-    "wof:lastmodified":1566584486,
+    "wof:lastmodified":1690875629,
     "wof:name":"Tosagua",
     "wof:parent_id":1108573061,
     "wof:placetype":"localadmin",

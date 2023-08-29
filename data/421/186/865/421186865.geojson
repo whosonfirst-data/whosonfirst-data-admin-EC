@@ -17,6 +17,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Kokablatt"
+    ],
     "name:eng_x_preferred":[
         "coca leaf"
     ],
@@ -26,11 +29,26 @@
     "name:ind_x_preferred":[
         "Koka"
     ],
+    "name:ind_x_variant":[
+        "daun koka"
+    ],
+    "name:jav_x_preferred":[
+        "godhong koka"
+    ],
     "name:rus_x_preferred":[
         "\u043a\u043e\u043a\u0430"
     ],
+    "name:rus_x_variant":[
+        "\u043b\u0438\u0441\u0442 \u043a\u043e\u043a\u0438"
+    ],
+    "name:slv_x_preferred":[
+        "list koke"
+    ],
     "name:spa_x_preferred":[
         "Coca"
+    ],
+    "name:swe_x_preferred":[
+        "kokablad"
     ],
     "name:tel_x_preferred":[
         "coca"
@@ -86,7 +104,7 @@
         }
     ],
     "wof:id":421186865,
-    "wof:lastmodified":1566584489,
+    "wof:lastmodified":1690875630,
     "wof:name":"Coca",
     "wof:parent_id":421185491,
     "wof:placetype":"locality",

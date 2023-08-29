@@ -23,6 +23,15 @@
     "name:ara_x_variant":[
         "\u0644\u0648\u062e\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0644\u0648\u062e\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Loja"
+    ],
+    "name:bel_x_preferred":[
+        "\u041b\u043e\u0445\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u09b2\u09cb\u099c\u09be"
     ],
@@ -59,10 +68,19 @@
     "name:epo_x_variant":[
         "Lo\u0125o"
     ],
+    "name:eus_x_preferred":[
+        "Loja"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u062c\u0627"
+    ],
     "name:fin_x_preferred":[
         "Loja"
     ],
     "name:fra_x_preferred":[
+        "Loja"
+    ],
+    "name:gle_x_preferred":[
         "Loja"
     ],
     "name:glg_x_preferred":[
@@ -131,6 +149,9 @@
     "name:que_x_preferred":[
         "Loja"
     ],
+    "name:qug_x_preferred":[
+        "Loja"
+    ],
     "name:ron_x_preferred":[
         "Loja"
     ],
@@ -149,14 +170,23 @@
     "name:spa_x_preferred":[
         "Loja"
     ],
+    "name:srp_x_preferred":[
+        "\u041b\u043e\u0458\u0430"
+    ],
     "name:swe_x_preferred":[
         "Loja"
     ],
     "name:tam_x_preferred":[
         "\u0bb2\u0bcb\u0b9c\u0bbe"
     ],
+    "name:tat_x_preferred":[
+        "\u041b\u043e\u0445\u0430"
+    ],
     "name:tel_x_preferred":[
         "\u0c32\u0c4b\u0c1c\u0c3e"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041b\u043e\u0445\u0430"
     ],
     "name:tha_x_preferred":[
         "\u0e42\u0e25\u0e04\u0e32"
@@ -184,6 +214,9 @@
     ],
     "name:war_x_preferred":[
         "Loja"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6d1b\u54c8"
     ],
     "name:zho_x_preferred":[
         "\u6d1b\u54c8"
@@ -329,7 +362,7 @@
         }
     ],
     "wof:id":421169563,
-    "wof:lastmodified":1636502152,
+    "wof:lastmodified":1690875617,
     "wof:name":"Loja",
     "wof:parent_id":421182159,
     "wof:placetype":"locality",

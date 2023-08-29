@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0627\u0633\u0629"
     ],
+    "name:ast_x_preferred":[
+        "Baeza"
+    ],
     "name:cat_x_preferred":[
         "Baeza"
     ],
@@ -206,7 +209,7 @@
         }
     ],
     "wof:id":421173807,
-    "wof:lastmodified":1566584478,
+    "wof:lastmodified":1690875625,
     "wof:name":"Baeza",
     "wof:parent_id":1108571837,
     "wof:placetype":"locality",

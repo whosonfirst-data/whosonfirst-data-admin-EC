@@ -20,6 +20,9 @@
     "name:ceb_x_preferred":[
         "Portovelo"
     ],
+    "name:deu_x_preferred":[
+        "Portovelo"
+    ],
     "name:eng_x_preferred":[
         "Portovelo"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":421180007,
-    "wof:lastmodified":1566584474,
+    "wof:lastmodified":1690875622,
     "wof:name":"Portovelo",
     "wof:parent_id":421189213,
     "wof:placetype":"locality",

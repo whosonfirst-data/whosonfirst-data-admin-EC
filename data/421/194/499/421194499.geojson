@@ -35,6 +35,9 @@
     "name:ita_x_preferred":[
         "El Triunfo"
     ],
+    "name:nds_x_preferred":[
+        "El Triunfo"
+    ],
     "name:nld_x_preferred":[
         "El Triunfo"
     ],
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":421194499,
-    "wof:lastmodified":1566584459,
+    "wof:lastmodified":1690875612,
     "wof:name":"El Triunfo",
     "wof:parent_id":421201111,
     "wof:placetype":"locality",

@@ -42,6 +42,9 @@
     "name:bul_x_preferred":[
         "\u041d\u0430\u043f\u043e"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Napo"
+    ],
     "name:dan_x_preferred":[
         "Napo Province"
     ],
@@ -60,6 +63,9 @@
     "name:epo_x_preferred":[
         "Napo"
     ],
+    "name:eus_x_preferred":[
+        "Napo probintzia"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0646\u0627\u067e\u0648"
     ],
@@ -71,6 +77,9 @@
     ],
     "name:frr_x_preferred":[
         "Napo"
+    ],
+    "name:guc_x_preferred":[
+        "Naapa"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0ac7\u0aaa\u0acb \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -86,6 +95,9 @@
     ],
     "name:hun_x_variant":[
         "Napo tartom\u00e1ny"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0561\u057a\u0578"
     ],
     "name:ind_x_preferred":[
         "Provinsi Napo"
@@ -191,6 +203,9 @@
     ],
     "name:war_x_preferred":[
         "Napo"
+    ],
+    "name:wuu_x_preferred":[
+        "\u7eb3\u6ce2\u7701"
     ],
     "name:zho_x_preferred":[
         "\u7eb3\u6ce2\u7701"
@@ -318,7 +333,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1636502090,
+    "wof:lastmodified":1690875576,
     "wof:name":"Tungurahua",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

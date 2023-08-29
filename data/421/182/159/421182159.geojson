@@ -39,6 +39,9 @@
     "name:deu_x_preferred":[
         "Loja"
     ],
+    "name:deu_x_variant":[
+        "Kanton Loja"
+    ],
     "name:eng_x_preferred":[
         "Loja"
     ],
@@ -50,6 +53,9 @@
     ],
     "name:eus_x_preferred":[
         "Loja"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0646\u062a\u0648\u0646 \u0644\u0648\u062e\u0627"
     ],
     "name:fra_x_preferred":[
         "Loja"
@@ -83,6 +89,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub85c\ud558"
+    ],
+    "name:nan_x_preferred":[
+        "Loja Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Loja"
@@ -186,7 +195,7 @@
         }
     ],
     "wof:id":421182159,
-    "wof:lastmodified":1636502163,
+    "wof:lastmodified":1690875650,
     "wof:name":"Loja",
     "wof:parent_id":85670891,
     "wof:placetype":"county",

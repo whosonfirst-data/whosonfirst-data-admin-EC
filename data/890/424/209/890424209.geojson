@@ -37,8 +37,14 @@
     "name:fra_x_preferred":[
         "Pululahua"
     ],
+    "name:ind_x_preferred":[
+        "Pululahua"
+    ],
     "name:lit_x_preferred":[
         "Pululagva"
+    ],
+    "name:lld_x_preferred":[
+        "Pululagua"
     ],
     "name:nld_x_preferred":[
         "Pululagua"
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":890424209,
-    "wof:lastmodified":1566584526,
+    "wof:lastmodified":1690875657,
     "wof:name":"Pululahua",
     "wof:parent_id":421188131,
     "wof:placetype":"locality",

@@ -17,13 +17,28 @@
     "mz:is_current":-1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "Catamayo"
+    ],
+    "name:ast_x_preferred":[
+        "Catamayo"
+    ],
+    "name:cat_x_preferred":[
+        "Catamayo"
+    ],
     "name:ceb_x_preferred":[
+        "Catamayo"
+    ],
+    "name:deu_x_preferred":[
         "Catamayo"
     ],
     "name:eng_x_preferred":[
         "Catamayo"
     ],
     "name:fra_x_preferred":[
+        "Catamayo"
+    ],
+    "name:glg_x_preferred":[
         "Catamayo"
     ],
     "name:jpn_x_preferred":[
@@ -35,11 +50,17 @@
     "name:pol_x_preferred":[
         "Catamayo"
     ],
+    "name:por_x_preferred":[
+        "Catamayo"
+    ],
     "name:que_x_preferred":[
         "Katamayu"
     ],
     "name:que_x_variant":[
         "Katamayu llaqta"
+    ],
+    "name:qug_x_preferred":[
+        "Catamayo"
     ],
     "name:spa_x_preferred":[
         "Catamayo"
@@ -101,7 +122,7 @@
         }
     ],
     "wof:id":421203193,
-    "wof:lastmodified":1566584469,
+    "wof:lastmodified":1690875619,
     "wof:name":"Catamayo",
     "wof:parent_id":1108568325,
     "wof:placetype":"localadmin",

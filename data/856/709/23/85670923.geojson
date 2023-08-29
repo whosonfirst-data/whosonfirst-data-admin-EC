@@ -55,6 +55,9 @@
     "name:ceb_x_preferred":[
         "Provincia de Los R\u00edos"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Los R\u00edos"
+    ],
     "name:dan_x_preferred":[
         "Los R\u00edos Province"
     ],
@@ -73,6 +76,12 @@
     "name:epo_x_preferred":[
         "Los R\u00edos"
     ],
+    "name:epo_x_variant":[
+        "Provinco Los R\u00edos"
+    ],
+    "name:eus_x_preferred":[
+        "Los R\u00edos probintzia"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0644\u0648\u0633 \u0631\u06cc\u0648\u0633"
     ],
@@ -90,6 +99,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05dc\u05d5\u05e1 \u05e1\u05e0\u05d8\u05d5\u05e1"
+    ],
+    "name:heb_x_variant":[
+        "\u05dc\u05d5\u05e1 \u05e8\u05d9\u05d5\u05e1"
     ],
     "name:hin_x_preferred":[
         "\u0932\u0949\u0938 \u0930\u093f\u0913\u0938 \u092a\u094d\u0930\u093e\u0902\u0924"
@@ -205,6 +217,9 @@
     ],
     "name:war_x_preferred":[
         "Los R\u00edos"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6d1b\u65af\u91cc\u5965\u65af\u7701"
     ],
     "name:zho_x_preferred":[
         "\u6d1b\u65af\u91cc\u5967\u65af\u7701"
@@ -332,7 +347,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1636502091,
+    "wof:lastmodified":1690875582,
     "wof:name":"Los Rios",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

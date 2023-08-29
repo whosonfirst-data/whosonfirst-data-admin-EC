@@ -17,7 +17,16 @@
     "mz:is_current":-1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "Calceta"
+    ],
+    "name:cat_x_preferred":[
+        "Calceta"
+    ],
     "name:ceb_x_preferred":[
+        "Calceta"
+    ],
+    "name:dan_x_preferred":[
         "Calceta"
     ],
     "name:deu_x_preferred":[
@@ -29,6 +38,9 @@
     "name:fra_x_preferred":[
         "Calceta"
     ],
+    "name:glg_x_preferred":[
+        "Calceta"
+    ],
     "name:lit_x_preferred":[
         "Kalseta"
     ],
@@ -38,7 +50,13 @@
     "name:pol_x_preferred":[
         "Calceta"
     ],
+    "name:por_x_preferred":[
+        "Calceta"
+    ],
     "name:que_x_preferred":[
+        "Calceta"
+    ],
+    "name:qug_x_preferred":[
         "Calceta"
     ],
     "name:spa_x_preferred":[
@@ -104,7 +122,7 @@
         }
     ],
     "wof:id":421179431,
-    "wof:lastmodified":1582351943,
+    "wof:lastmodified":1690875649,
     "wof:name":"Calceta",
     "wof:parent_id":1108568121,
     "wof:placetype":"localadmin",
