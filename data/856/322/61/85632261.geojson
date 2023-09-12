@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":20.814053,
-    "geom:area_square_m":257216514823.684357,
+    "geom:area_square_m":257216514823.713531,
     "geom:bbox":"-92.011559,-5.013975,-75.188794,1.665833",
     "geom:latitude":-1.426932,
     "geom:longitude":-78.775014,
@@ -14,6 +14,9 @@
     "iso:country":"EC",
     "itu:country_code":[
         "593"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "EC"
@@ -1184,7 +1187,8 @@
         "meso"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"593",
     "statoids:ds":"EC",
     "statoids:fifa":"ECU",
@@ -1243,7 +1247,7 @@
         "naturalearth-display-terrestrial-zoom6",
         "meso"
     ],
-    "wof:geomhash":"0bdef4f015e3aa26aa8389c8ae4117a6",
+    "wof:geomhash":"4403df7d8ec3025319fbd04e8b3ceab7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -1259,12 +1263,12 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1690875584,
+    "wof:lastmodified":1694492093,
     "wof:name":"Ecuador",
     "wof:parent_id":102191577,
     "wof:placetype":"country",
-    "wof:population":15737878,
-    "wof:population_rank":14,
+    "wof:population":17373662,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-ec",
     "wof:shortcode":"EC",
     "wof:superseded_by":[],
