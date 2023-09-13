@@ -1188,7 +1188,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"593",
     "statoids:ds":"EC",
     "statoids:fifa":"ECU",
@@ -1263,7 +1263,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1694492093,
+    "wof:lastmodified":1694639546,
     "wof:name":"Ecuador",
     "wof:parent_id":102191577,
     "wof:placetype":"country",
