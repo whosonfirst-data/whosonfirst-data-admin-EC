@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035419,
-    "geom:area_square_m":437878334.106052,
+    "geom:area_square_m":437877896.933523,
     "geom:bbox":"-78.572334,-1.241241,-78.321107,-0.979785",
     "geom:latitude":-1.118899,
     "geom:longitude":-78.450873,
@@ -104,11 +104,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"EC.TU.PI",
         "wd:id":"Q3656240"
     },
     "wof:country":"EC",
     "wof:created":1474064561,
-    "wof:geomhash":"463b2ae9289450e0f2a5ce15bd69299a",
+    "wof:geomhash":"70cf13d82ceb2d62f19620ab50db1ee0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":1108572557,
-    "wof:lastmodified":1690875595,
+    "wof:lastmodified":1694492371,
     "wof:name":"Santiago de Pillaro",
     "wof:parent_id":85670959,
     "wof:placetype":"county",

@@ -5,11 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054162,
-    "geom:area_square_m":669727663.163783,
+    "geom:area_square_m":669727663.163798,
     "geom:bbox":"-79.6239808914,-0.113223383425,-79.2668544322,0.125959643037",
     "geom:latitude":-0.002246,
     "geom:longitude":-79.465642,
     "iso:country":"EC",
+    "label:eng_x_preferred_placetype":[
+        "canton (unorganized)"
+    ],
     "lbl:latitude":-0.003638,
     "lbl:longitude":-79.469082,
     "lbl:max_zoom":10.0,
@@ -37,7 +40,7 @@
     "wof:concordances":{},
     "wof:country":"EC",
     "wof:created":1474064487,
-    "wof:geomhash":"a518ee393cc5385f3507bf15f0398bce",
+    "wof:geomhash":"99ddad1a5df6a703c9a274ba3a6c6a14",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1108570759,
-    "wof:lastmodified":1566584313,
+    "wof:lastmodified":1694492371,
     "wof:name":"",
     "wof:parent_id":85670983,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032492,
-    "geom:area_square_m":401569488.527939,
+    "geom:area_square_m":401569457.926987,
     "geom:bbox":"-79.904849,-1.935688,-79.666725,-1.64093",
     "geom:latitude":-1.803554,
     "geom:longitude":-79.80076,
@@ -110,11 +110,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"EC.GY.ST",
         "wd:id":"Q1990368"
     },
     "wof:country":"EC",
     "wof:created":1474064585,
-    "wof:geomhash":"8412a187823d618927dd10e30d31b3dc",
+    "wof:geomhash":"826ce2cb556997e77df97092fc478375",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -124,7 +125,7 @@
         }
     ],
     "wof:id":1108573139,
-    "wof:lastmodified":1690875590,
+    "wof:lastmodified":1694492370,
     "wof:name":"Urbina Jado",
     "wof:parent_id":85670917,
     "wof:placetype":"county",

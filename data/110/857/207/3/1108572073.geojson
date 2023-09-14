@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040894,
-    "geom:area_square_m":505314673.426096,
+    "geom:area_square_m":505314540.335082,
     "geom:bbox":"-79.820118,-2.310251,-79.512038,-1.929293",
     "geom:latitude":-2.139053,
     "geom:longitude":-79.680259,
@@ -98,11 +98,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"EC.GY.YA",
         "wd:id":"Q1990029"
     },
     "wof:country":"EC",
     "wof:created":1474064542,
-    "wof:geomhash":"93e2ba0ae5fd871882ca1ff790bfa36c",
+    "wof:geomhash":"bb2131293c5df6bc510d70dd2bbbd327",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1108572073,
-    "wof:lastmodified":1690875594,
+    "wof:lastmodified":1694492371,
     "wof:name":"San Jacinto de Yaguac",
     "wof:parent_id":85670917,
     "wof:placetype":"county",
