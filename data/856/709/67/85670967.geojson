@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.310942,
-    "geom:area_square_m":3844490859.836877,
+    "geom:area_square_m":3844491568.269318,
     "geom:bbox":"-78.545816,0.355629,-77.534288,1.195309",
     "geom:latitude":0.762905,
     "geom:longitude":-78.064741,
@@ -311,17 +311,19 @@
         "gn:id":3659718,
         "gp:id":2345206,
         "hasc:id":"EC.CR",
+        "iso:code":"EC-C",
         "iso:id":"EC-C",
         "qs_pg:id":423738,
         "unlc:id":"EC-C",
         "wd:id":"Q321729",
         "wk:page":"Carchi Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"EC",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f985bf8c6d00ade7baceff93406e5f24",
+    "wof:geomhash":"c9842c3575dcd39924b675a0e9747f33",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -338,7 +340,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1690875577,
+    "wof:lastmodified":1695884366,
     "wof:name":"Carchi",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

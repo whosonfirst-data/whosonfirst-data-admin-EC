@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.415526,
-    "geom:area_square_m":29854576541.985523,
+    "geom:area_square_m":29854576541.98465,
     "geom:bbox":"-78.16985,-2.610042,-75.570734,-0.995007",
     "geom:latitude":-1.709596,
     "geom:longitude":-76.874378,
@@ -314,12 +314,14 @@
         "gn:id":3653392,
         "gp:id":2345218,
         "hasc:id":"EC.PA",
+        "iso:code":"EC-Y",
         "iso:id":"EC-Y",
         "qs_pg:id":219548,
         "unlc:id":"EC-Y",
         "wd:id":"Q214814",
         "wk:page":"Pastaza Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         421185499
     ],
@@ -327,7 +329,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"539b240caaf4d1c1f0aa27e6d16875e6",
+    "wof:geomhash":"0970565488a30b36697f68afc7a9f6bd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -344,7 +346,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1690875583,
+    "wof:lastmodified":1695884921,
     "wof:name":"Pastaza",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

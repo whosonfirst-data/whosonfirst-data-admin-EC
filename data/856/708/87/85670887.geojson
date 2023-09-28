@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.472968,
-    "geom:area_square_m":5837339833.575554,
+    "geom:area_square_m":5837340012.873726,
     "geom:bbox":"-80.307653,-3.892187,-79.36281,-3.040236",
     "geom:latitude":-3.509117,
     "geom:longitude":-79.826015,
@@ -308,17 +308,19 @@
         "gn:id":3658195,
         "gp:id":2345209,
         "hasc:id":"EC.EO",
+        "iso:code":"EC-O",
         "iso:id":"EC-O",
         "qs_pg:id":235588,
         "unlc:id":"EC-O",
         "wd:id":"Q466019",
         "wk:page":"El Oro Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"EC",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"75a717cc7d809a54eab022d0c3905495",
+    "wof:geomhash":"66fd7e8bacce203c5ce5c3123b73d9d6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -335,7 +337,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1690875574,
+    "wof:lastmodified":1695884365,
     "wof:name":"El Oro",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

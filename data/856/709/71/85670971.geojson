@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.389155,
-    "geom:area_square_m":4811842390.569378,
+    "geom:area_square_m":4811841807.097549,
     "geom:bbox":"-79.273112,0.123108,-77.784663,0.877563",
     "geom:latitude":0.40531,
     "geom:longitude":-78.357075,
@@ -308,17 +308,19 @@
         "gn:id":3655635,
         "gp:id":2345212,
         "hasc:id":"EC.IM",
+        "iso:code":"EC-I",
         "iso:id":"EC-I",
         "qs_pg:id":890050,
         "unlc:id":"EC-I",
         "wd:id":"Q321863",
         "wk:page":"Imbabura Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"EC",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"20e879287acfa0048abd2f376728cec5",
+    "wof:geomhash":"16ef3a134ef02818f76ea254dbff19e5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -335,7 +337,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1690875582,
+    "wof:lastmodified":1695884366,
     "wof:name":"Imbabura",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

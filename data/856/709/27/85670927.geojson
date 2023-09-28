@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.575702,
-    "geom:area_square_m":19481392515.274601,
+    "geom:area_square_m":19481392844.975788,
     "geom:bbox":"-81.082085,-1.943955,-79.398944,0.370111",
     "geom:latitude":-0.750991,
     "geom:longitude":-80.135315,
@@ -319,16 +319,18 @@
         "gn:id":3654451,
         "gp:id":2345215,
         "hasc:id":"EC.MN",
+        "iso:code":"EC-M",
         "iso:id":"EC-M",
         "qs_pg:id":318436,
         "wd:id":"Q504666",
         "wk:page":"Manab\u00ed Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"EC",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3ba6fa1376f8d22c9e3ae26eb484c780",
+    "wof:geomhash":"3f675944b1b07745834a1f204ee7c78c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -345,7 +347,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1690875578,
+    "wof:lastmodified":1695884366,
     "wof:name":"Manabi",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

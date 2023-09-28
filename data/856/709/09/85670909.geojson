@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.270686,
-    "geom:area_square_m":3343807609.62482,
+    "geom:area_square_m":3343807971.667336,
     "geom:bbox":"-79.524834,-2.840273,-78.566988,-2.220676",
     "geom:latitude":-2.530704,
     "geom:longitude":-79.025565,
@@ -318,17 +318,19 @@
         "gn:id":3659849,
         "gp:id":2345205,
         "hasc:id":"EC.CN",
+        "iso:code":"EC-F",
         "iso:id":"EC-F",
         "qs_pg:id":423737,
         "unlc:id":"EC-F",
         "wd:id":"Q335471",
         "wk:page":"Ca\u00f1ar Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"EC",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b4cb9ee1cbbb06d478ae6291ea6025bf",
+    "wof:geomhash":"5b90c63498a6b4b768b0d81f4840c00b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -345,7 +347,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1690875579,
+    "wof:lastmodified":1695884366,
     "wof:name":"Ca\u00f1ar",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

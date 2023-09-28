@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.287404,
-    "geom:area_square_m":15907609888.206226,
+    "geom:area_square_m":15907608617.197262,
     "geom:bbox":"-80.564525,-3.062599,-79.111589,-0.830383",
     "geom:latitude":-2.109518,
     "geom:longitude":-79.88035,
@@ -341,17 +341,19 @@
         "gn:id":3657505,
         "gp:id":2345211,
         "hasc:id":"EC.GY",
+        "iso:code":"EC-G",
         "iso:id":"EC-G",
         "qs_pg:id":890049,
         "unlc:id":"EC-G",
         "wd:id":"Q335464",
         "wk:page":"Guayas Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"EC",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"842825efffe480605a3fd72fdeed8a65",
+    "wof:geomhash":"334081dad1426c5714ec26a06baf3b3a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -368,7 +370,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1690875578,
+    "wof:lastmodified":1695884365,
     "wof:name":"Guayas",
     "wof:parent_id":85632261,
     "wof:placetype":"region",
