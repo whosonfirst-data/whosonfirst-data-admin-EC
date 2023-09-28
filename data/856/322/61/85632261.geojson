@@ -1226,6 +1226,7 @@
         "hasc:id":"EC",
         "icao:code":"HC",
         "ioc:id":"ECU",
+        "iso:code":"EC",
         "itu:id":"EQA",
         "loc:id":"n79068415",
         "m49:code":"218",
@@ -1240,6 +1241,7 @@
         "wk:page":"Ecuador",
         "wmo:id":"EQ"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"EC",
     "wof:country_alpha3":"ECU",
     "wof:geom_alt":[
@@ -1263,7 +1265,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1694639546,
+    "wof:lastmodified":1695881204,
     "wof:name":"Ecuador",
     "wof:parent_id":102191577,
     "wof:placetype":"country",
