@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040446,
-    "geom:area_square_m":500119957.109733,
+    "geom:area_square_m":500119708.84939,
     "geom:bbox":"-78.602712,0.123108,-78.127642,0.3243",
     "geom:latitude":0.227862,
     "geom:longitude":-78.319007,
@@ -137,12 +137,13 @@
         "qs_pg:id":1264188,
         "wd:id":"Q3656211"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459008905,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c681d758a3e5780e7fba707adde721e7",
+    "wof:geomhash":"5db69bc7327981694f0610d95f6ff24d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -152,7 +153,7 @@
         }
     ],
     "wof:id":421171751,
-    "wof:lastmodified":1690875654,
+    "wof:lastmodified":1695886799,
     "wof:name":"Otavalo",
     "wof:parent_id":85670971,
     "wof:placetype":"county",

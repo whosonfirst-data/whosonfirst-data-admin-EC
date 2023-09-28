@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.1932,
-    "geom:area_square_m":2383166033.803331,
+    "geom:area_square_m":2383165505.273994,
     "geom:bbox":"-79.198159,-4.262137,-78.475203,-3.700314",
     "geom:latitude":-3.986457,
     "geom:longitude":-78.912821,
@@ -167,12 +167,13 @@
         "qs_pg:id":911539,
         "wd:id":"Q1989431"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459009330,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"dedadcc3528e8212d4aa80d1c2d88d08",
+    "wof:geomhash":"e464c7698bb51db7e6801577c1e9501b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -182,7 +183,7 @@
         }
     ],
     "wof:id":421182449,
-    "wof:lastmodified":1690875651,
+    "wof:lastmodified":1695886048,
     "wof:name":"Zamora",
     "wof:parent_id":85670895,
     "wof:placetype":"county",

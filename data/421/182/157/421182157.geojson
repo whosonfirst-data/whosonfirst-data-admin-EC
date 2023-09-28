@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.112447,
-    "geom:area_square_m":1390294183.297918,
+    "geom:area_square_m":1390293546.191345,
     "geom:bbox":"-78.832844,-1.011604,-78.384366,-0.589689",
     "geom:latitude":-0.788904,
     "geom:longitude":-78.578637,
@@ -138,12 +138,13 @@
         "qs_pg:id":891811,
         "wd:id":"Q2182152"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459009320,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3147b4feed51add90782c2e8ac9bdb68",
+    "wof:geomhash":"2c6d27edcc9700d0d106f45afe345ace",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -153,7 +154,7 @@
         }
     ],
     "wof:id":421182157,
-    "wof:lastmodified":1690875650,
+    "wof:lastmodified":1695886047,
     "wof:name":"Latacunga",
     "wof:parent_id":85670915,
     "wof:placetype":"county",

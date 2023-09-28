@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069486,
-    "geom:area_square_m":857643241.859167,
+    "geom:area_square_m":857643893.095416,
     "geom:bbox":"-80.307653,-3.629073,-79.760906,-3.204639",
     "geom:latitude":-3.449822,
     "geom:longitude":-79.972816,
@@ -137,9 +137,10 @@
         "hasc:id":"EC.EO.SR",
         "wd:id":"Q1989250"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064560,
-    "wof:geomhash":"958bc41cf8e31b9f444874be50f5716d",
+    "wof:geomhash":"6c9cabb427693a98b7f4f632ef24a467",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -149,7 +150,7 @@
         }
     ],
     "wof:id":1108572519,
-    "wof:lastmodified":1690875589,
+    "wof:lastmodified":1695886044,
     "wof:name":"Santa Rosa",
     "wof:parent_id":85670887,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024926,
-    "geom:area_square_m":307541586.705279,
+    "geom:area_square_m":307541320.77231,
     "geom:bbox":"-80.187649,-3.892187,-79.965879,-3.706559",
     "geom:latitude":-3.80337,
     "geom:longitude":-80.06514,
@@ -116,9 +116,10 @@
         "hasc:id":"EC.EO.LL",
         "wd:id":"Q1989281"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064458,
-    "wof:geomhash":"0a3021390462386fb6968a2e1dd3eb7e",
+    "wof:geomhash":"9b0248981de2d23a006eedb4b8e5f545",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -128,7 +129,7 @@
         }
     ],
     "wof:id":1108570011,
-    "wof:lastmodified":1690875589,
+    "wof:lastmodified":1695886043,
     "wof:name":"Las Lajas",
     "wof:parent_id":85670887,
     "wof:placetype":"county",

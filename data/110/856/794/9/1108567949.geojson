@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.097192,
-    "geom:area_square_m":1201498439.705612,
+    "geom:area_square_m":1201498027.302186,
     "geom:bbox":"-80.152504,-1.531162,-79.65924,-1.073129",
     "geom:latitude":-1.287742,
     "geom:longitude":-79.906617,
@@ -110,9 +110,10 @@
         "hasc:id":"EC.GY.BZ",
         "wd:id":"Q1989901"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064373,
-    "wof:geomhash":"81b35576f665cf4f04ba0ba1809deb64",
+    "wof:geomhash":"508709ec26b116ca523bedd50032ae69",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":1108567949,
-    "wof:lastmodified":1690875602,
+    "wof:lastmodified":1695886626,
     "wof:name":"Balzar",
     "wof:parent_id":85670917,
     "wof:placetype":"county",

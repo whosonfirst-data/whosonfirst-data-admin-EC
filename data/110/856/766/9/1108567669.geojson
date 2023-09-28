@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.245122,
-    "geom:area_square_m":3030740103.941389,
+    "geom:area_square_m":3030741357.588157,
     "geom:bbox":"-78.411189,-0.975498,-77.495811,-0.455265",
     "geom:latitude":-0.717642,
     "geom:longitude":-77.932302,
@@ -117,9 +117,10 @@
         "hasc:id":"EC.NA.AR",
         "wd:id":"Q2448757"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064362,
-    "wof:geomhash":"cdc7db0ff53f8a29e043ebe9f13f3fe1",
+    "wof:geomhash":"ba0d1abf640f213cd15f5450caeabe41",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108567669,
-    "wof:lastmodified":1690875604,
+    "wof:lastmodified":1695886626,
     "wof:name":"Archidona",
     "wof:parent_id":-1,
     "wof:placetype":"county",

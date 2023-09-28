@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.248219,
-    "geom:area_square_m":3069147086.083207,
+    "geom:area_square_m":3069146708.495383,
     "geom:bbox":"-80.285016,-0.860691,-79.596514,0.092093",
     "geom:latitude":-0.464049,
     "geom:longitude":-79.955581,
@@ -180,12 +180,13 @@
         "qs_pg:id":1110304,
         "wd:id":"Q1992996"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459009614,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"77b5ee56fe3e96b2a3c813fec3f1a970",
+    "wof:geomhash":"2800b24fb131bb5629625bf919066d95",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -195,7 +196,7 @@
         }
     ],
     "wof:id":421189211,
-    "wof:lastmodified":1690875625,
+    "wof:lastmodified":1695886046,
     "wof:name":"Chone",
     "wof:parent_id":85670927,
     "wof:placetype":"county",

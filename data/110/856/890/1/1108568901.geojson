@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026362,
-    "geom:area_square_m":325727166.575082,
+    "geom:area_square_m":325727732.488476,
     "geom:bbox":"-79.884099,-2.331472,-79.679611,-2.084417",
     "geom:latitude":-2.223068,
     "geom:longitude":-79.784512,
@@ -107,9 +107,10 @@
         "hasc:id":"EC.GY.DU",
         "wd:id":"Q2051891"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064412,
-    "wof:geomhash":"cb7b8f507b0a464837963563e3aaae50",
+    "wof:geomhash":"75e9059b232571145c348013961db118",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1108568901,
-    "wof:lastmodified":1690875605,
+    "wof:lastmodified":1695886627,
     "wof:name":"Dur\u00e1n",
     "wof:parent_id":85670917,
     "wof:placetype":"county",

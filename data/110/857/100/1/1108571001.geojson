@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031384,
-    "geom:area_square_m":387834265.260908,
+    "geom:area_square_m":387834733.360157,
     "geom:bbox":"-79.033491,-2.115873,-78.808255,-1.912436",
     "geom:latitude":-2.013989,
     "geom:longitude":-78.92799,
@@ -101,9 +101,10 @@
         "hasc:id":"EC.CB.PA",
         "wd:id":"Q930902"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064497,
-    "wof:geomhash":"ffff7eaeb49e7640099a87036e53eaac",
+    "wof:geomhash":"0e4ea7d8b28c1816e31f4a8568da7138",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1108571001,
-    "wof:lastmodified":1690875591,
+    "wof:lastmodified":1695886622,
     "wof:name":"Pallatanga",
     "wof:parent_id":85670931,
     "wof:placetype":"county",

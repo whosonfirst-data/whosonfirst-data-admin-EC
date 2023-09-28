@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053263,
-    "geom:area_square_m":657021492.092427,
+    "geom:area_square_m":657021324.751378,
     "geom:bbox":"-79.581006,-4.181199,-79.220898,-3.794885",
     "geom:latitude":-3.982457,
     "geom:longitude":-79.393146,
@@ -107,9 +107,10 @@
         "hasc:id":"EC.LJ.CT",
         "wd:id":"Q1989912"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064386,
-    "wof:geomhash":"6b79367c9eedc80494dc6c5b836e5db8",
+    "wof:geomhash":"d1d6e0164f9d92167e078e3927f2aa32",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1108568325,
-    "wof:lastmodified":1690875600,
+    "wof:lastmodified":1695886625,
     "wof:name":"Catamayo",
     "wof:parent_id":85670891,
     "wof:placetype":"county",

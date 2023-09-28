@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.057904,
-    "geom:area_square_m":715865240.076224,
+    "geom:area_square_m":715865823.885485,
     "geom:bbox":"-79.335379,-1.215581,-78.930158,-0.979444",
     "geom:latitude":-1.096883,
     "geom:longitude":-79.148081,
@@ -107,9 +107,10 @@
         "hasc:id":"EC.CT.PA",
         "wd:id":"Q2066697"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064500,
-    "wof:geomhash":"07f03b3a67fabad0fd35785d697caf8e",
+    "wof:geomhash":"eeda21c9469e0707873cd36e7a39f0e7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1108571101,
-    "wof:lastmodified":1690875591,
+    "wof:lastmodified":1695886622,
     "wof:name":"Pangua",
     "wof:parent_id":85670915,
     "wof:placetype":"county",

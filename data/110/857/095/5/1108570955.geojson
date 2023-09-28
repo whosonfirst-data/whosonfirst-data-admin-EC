@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015289,
-    "geom:area_square_m":188970391.543833,
+    "geom:area_square_m":188970293.888876,
     "geom:bbox":"-80.01459,-1.716567,-79.852641,-1.536675",
     "geom:latitude":-1.635019,
     "geom:longitude":-79.917927,
@@ -110,9 +110,10 @@
         "hasc:id":"EC.GY.PA",
         "wd:id":"Q1990111"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064495,
-    "wof:geomhash":"c2228de969ff3f7897092d7a735f1093",
+    "wof:geomhash":"2620dc283bfbef287c2177ddd0f12dbd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":1108570955,
-    "wof:lastmodified":1690875594,
+    "wof:lastmodified":1695886624,
     "wof:name":"Palestina",
     "wof:parent_id":85670917,
     "wof:placetype":"county",

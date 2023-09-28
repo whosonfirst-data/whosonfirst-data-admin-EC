@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018513,
-    "geom:area_square_m":228749661.89099,
+    "geom:area_square_m":228750136.727382,
     "geom:bbox":"-79.499111,-2.225552,-79.274679,-2.082247",
     "geom:latitude":-2.151173,
     "geom:longitude":-79.395891,
@@ -107,9 +107,10 @@
         "hasc:id":"EC.GY.NT",
         "wd:id":"Q1990400"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064484,
-    "wof:geomhash":"e849595c2868b6f849a0385b386edc20",
+    "wof:geomhash":"ee79c323386cbcb345ee2d301832f3b1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1108570687,
-    "wof:lastmodified":1690875595,
+    "wof:lastmodified":1695886624,
     "wof:name":"Naranjito",
     "wof:parent_id":85670917,
     "wof:placetype":"county",

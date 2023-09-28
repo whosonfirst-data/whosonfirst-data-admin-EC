@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.172839,
-    "geom:area_square_m":2131080482.549419,
+    "geom:area_square_m":2131080328.231375,
     "geom:bbox":"-78.951692,-4.680606,-78.529435,-3.947781",
     "geom:latitude":-4.32771,
     "geom:longitude":-78.753709,
@@ -101,9 +101,10 @@
         "hasc:id":"EC.ZC.NA",
         "wd:id":"Q1989193"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064482,
-    "wof:geomhash":"74357a305b843796290c1c249a3fcc9b",
+    "wof:geomhash":"3c24a32e6eeceaa678277062364e2cdb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1108570627,
-    "wof:lastmodified":1690875588,
+    "wof:lastmodified":1695886622,
     "wof:name":"Nangaritza",
     "wof:parent_id":85670895,
     "wof:placetype":"county",

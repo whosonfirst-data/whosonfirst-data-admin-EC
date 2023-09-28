@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.169231,
-    "geom:area_square_m":2091422456.044509,
+    "geom:area_square_m":2091422382.159019,
     "geom:bbox":"-78.488577,-2.124297,-77.77279,-1.61982",
     "geom:latitude":-1.894533,
     "geom:longitude":-78.170022,
@@ -101,9 +101,10 @@
         "hasc:id":"EC.MS.HB",
         "wd:id":"Q1992987"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064445,
-    "wof:geomhash":"5e927b0621b952603249348d3bd12fe5",
+    "wof:geomhash":"974e65a4e378d6408acfcfbadf16a391",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1108569775,
-    "wof:lastmodified":1690875600,
+    "wof:lastmodified":1695886626,
     "wof:name":"Huamboya",
     "wof:parent_id":85670935,
     "wof:placetype":"county",

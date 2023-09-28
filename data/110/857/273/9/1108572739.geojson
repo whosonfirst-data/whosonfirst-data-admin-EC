@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.204947,
-    "geom:area_square_m":2534162189.753261,
+    "geom:area_square_m":2534161417.51941,
     "geom:bbox":"-76.90339,-0.567774,-75.897306,-0.000787",
     "geom:latitude":-0.312624,
     "geom:longitude":-76.414226,
@@ -110,9 +110,10 @@
         "hasc:id":"EC.SU.SH",
         "wd:id":"Q1992924"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064569,
-    "wof:geomhash":"3de26196d0ac0be4baecf58b54a044f3",
+    "wof:geomhash":"2ae29811737734698f24ab412bfedd0f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":1108572739,
-    "wof:lastmodified":1690875587,
+    "wof:lastmodified":1695886621,
     "wof:name":"Shushufindi",
     "wof:parent_id":85670977,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053947,
-    "geom:area_square_m":666994062.45394,
+    "geom:area_square_m":666993695.461805,
     "geom:bbox":"-79.317106,-1.001112,-78.985247,-0.562625",
     "geom:latitude":-0.799262,
     "geom:longitude":-79.137756,
@@ -133,12 +133,13 @@
         "qs_pg:id":44044,
         "wd:id":"Q950390"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459009172,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4b68b814315fb74a538a11a5c96fd6cd",
+    "wof:geomhash":"466310d5289cc486c6e00765b68e9ad0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -148,7 +149,7 @@
         }
     ],
     "wof:id":421178141,
-    "wof:lastmodified":1690875650,
+    "wof:lastmodified":1695886799,
     "wof:name":"La Man\u00e1",
     "wof:parent_id":85670915,
     "wof:placetype":"county",

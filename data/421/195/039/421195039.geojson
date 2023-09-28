@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049116,
-    "geom:area_square_m":606687077.479541,
+    "geom:area_square_m":606687784.297215,
     "geom:bbox":"-78.917598,-2.840273,-78.566988,-2.423668",
     "geom:latitude":-2.623483,
     "geom:longitude":-78.743281,
@@ -138,12 +138,13 @@
         "qs_pg:id":1184638,
         "wd:id":"Q1990037"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459009829,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1e5614be99f8c9602435de2fb07deb4f",
+    "wof:geomhash":"53bed43003f4f99278939596a8663372",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -153,7 +154,7 @@
         }
     ],
     "wof:id":421195039,
-    "wof:lastmodified":1690875611,
+    "wof:lastmodified":1695886046,
     "wof:name":"Azogues",
     "wof:parent_id":85670909,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006932,
-    "geom:area_square_m":85684357.723317,
+    "geom:area_square_m":85684592.391041,
     "geom:bbox":"-78.764689,-1.468167,-78.608915,-1.35412",
     "geom:latitude":-1.415104,
     "geom:longitude":-78.694582,
@@ -107,9 +107,10 @@
         "hasc:id":"EC.TU.MO",
         "wd:id":"Q3656170"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064473,
-    "wof:geomhash":"80547ffc53d9bd90c6b1a66331ee9e3b",
+    "wof:geomhash":"9f04cb08aa242364c2c69fae20c872a6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1108570381,
-    "wof:lastmodified":1690875588,
+    "wof:lastmodified":1695886622,
     "wof:name":"Mocha",
     "wof:parent_id":85670959,
     "wof:placetype":"county",

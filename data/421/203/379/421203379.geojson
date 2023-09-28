@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048033,
-    "geom:area_square_m":593892330.552652,
+    "geom:area_square_m":593892525.501381,
     "geom:bbox":"-78.452458,0.475583,-77.984919,0.961122",
     "geom:latitude":0.720742,
     "geom:longitude":-78.19392,
@@ -157,12 +157,13 @@
         "qs_pg:id":61228,
         "wd:id":"Q2448888"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459010149,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6c6b626b99bc3a2fb77b06bb42e0714d",
+    "wof:geomhash":"c16be3ae7d997155df8099cedf899c34",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -172,7 +173,7 @@
         }
     ],
     "wof:id":421203379,
-    "wof:lastmodified":1690875620,
+    "wof:lastmodified":1695886046,
     "wof:name":"Mira",
     "wof:parent_id":85670967,
     "wof:placetype":"county",

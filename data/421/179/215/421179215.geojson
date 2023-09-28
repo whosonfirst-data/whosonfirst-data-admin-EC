@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021724,
-    "geom:area_square_m":268393681.86686,
+    "geom:area_square_m":268393698.707094,
     "geom:bbox":"-79.041864,-2.407842,-78.803352,-2.234513",
     "geom:latitude":-2.330366,
     "geom:longitude":-78.905118,
@@ -132,12 +132,13 @@
         "qs_pg:id":369001,
         "wd:id":"Q2448829"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459009208,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fee7eec8113ca4f085cbb0d4bd8825c7",
+    "wof:geomhash":"aedd34e4ffc2bebe271a182968b5f296",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":421179215,
-    "wof:lastmodified":1690875649,
+    "wof:lastmodified":1695886798,
     "wof:name":"Chunchi",
     "wof:parent_id":85670931,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026102,
-    "geom:area_square_m":322404789.777058,
+    "geom:area_square_m":322404789.77704,
     "geom:bbox":"-78.6592430763,-2.85451171697,-78.4203053356,-2.54981531159",
     "geom:latitude":-2.675892,
     "geom:longitude":-78.560671,
@@ -98,9 +98,10 @@
         "hasc:id":"EC.AZ.SO",
         "wd:id":"Q1014499"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064567,
-    "wof:geomhash":"83c5553598c6daa1eb46672a137e506a",
+    "wof:geomhash":"e4b129650e32b3e6f9e871d16bfa41fa",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1108572697,
-    "wof:lastmodified":1566584308,
+    "wof:lastmodified":1695886622,
     "wof:name":"Sevilla de Oro",
     "wof:parent_id":85670885,
     "wof:placetype":"county",

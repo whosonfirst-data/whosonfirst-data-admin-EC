@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011598,
-    "geom:area_square_m":143304600.223077,
+    "geom:area_square_m":143304513.815233,
     "geom:bbox":"-79.1396,-2.284448,-78.970027,-2.135761",
     "geom:latitude":-2.212903,
     "geom:longitude":-79.059328,
@@ -107,9 +107,10 @@
         "hasc:id":"EC.CB.CD",
         "wd:id":"Q2448719"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064409,
-    "wof:geomhash":"8cbb68bf181c0a0c106e4e6f52be1c0c",
+    "wof:geomhash":"ae522793c9c148291c1a88a9f8a82214",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1108568819,
-    "wof:lastmodified":1690875599,
+    "wof:lastmodified":1695886625,
     "wof:name":"Cumand\u00e1",
     "wof:parent_id":85670931,
     "wof:placetype":"county",

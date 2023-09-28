@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.067126,
-    "geom:area_square_m":829609961.594609,
+    "geom:area_square_m":829610525.952208,
     "geom:bbox":"-79.021609,-1.946541,-78.677739,-1.645882",
     "geom:latitude":-1.814123,
     "geom:longitude":-78.843443,
@@ -131,12 +131,13 @@
         "qs_pg:id":1110305,
         "wd:id":"Q662249"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459009805,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b567b14976bff5599868dc6bfc5cbc0b",
+    "wof:geomhash":"8fecaed9c064ce6293919e57a5f7d758",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -146,7 +147,7 @@
         }
     ],
     "wof:id":421194443,
-    "wof:lastmodified":1690875613,
+    "wof:lastmodified":1695886796,
     "wof:name":"Colta",
     "wof:parent_id":85670931,
     "wof:placetype":"county",

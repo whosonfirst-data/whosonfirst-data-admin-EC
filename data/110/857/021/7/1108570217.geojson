@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029681,
-    "geom:area_square_m":366400415.884003,
+    "geom:area_square_m":366400206.050056,
     "geom:bbox":"-80.032974,-3.433741,-79.838025,-3.165663",
     "geom:latitude":-3.307936,
     "geom:longitude":-79.941234,
@@ -116,9 +116,10 @@
         "hasc:id":"EC.EO.MC",
         "wd:id":"Q2448795"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064466,
-    "wof:geomhash":"822a975996f586c4d79c9d50927c29c2",
+    "wof:geomhash":"938d18118a334f60dc84d9404fc572a8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -128,7 +129,7 @@
         }
     ],
     "wof:id":1108570217,
-    "wof:lastmodified":1690875593,
+    "wof:lastmodified":1695886043,
     "wof:name":"Machala",
     "wof:parent_id":85670887,
     "wof:placetype":"county",

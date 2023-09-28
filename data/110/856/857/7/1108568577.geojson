@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053712,
-    "geom:area_square_m":663744732.287989,
+    "geom:area_square_m":663744889.464719,
     "geom:bbox":"-79.261152,-2.196502,-79.001371,-1.8642",
     "geom:latitude":-2.009235,
     "geom:longitude":-79.119397,
@@ -110,9 +110,10 @@
         "hasc:id":"EC.BO.CN",
         "wd:id":"Q2466598"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064396,
-    "wof:geomhash":"b587631d374782e77ff0072ea930c9ba",
+    "wof:geomhash":"c0ae994203c0ec2d81b8e6a5eeef03f6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":1108568577,
-    "wof:lastmodified":1690875600,
+    "wof:lastmodified":1695886625,
     "wof:name":"Chillanes",
     "wof:parent_id":85670905,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012233,
-    "geom:area_square_m":151220719.670967,
+    "geom:area_square_m":151220881.777654,
     "geom:bbox":"-79.390141,-1.354192,-79.192912,-1.201094",
     "geom:latitude":-1.284734,
     "geom:longitude":-79.289398,
@@ -119,9 +119,10 @@
         "hasc:id":"EC.BO.LN",
         "wd:id":"Q2466646"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064459,
-    "wof:geomhash":"4762515929ddb7110a4b8763da6a92f7",
+    "wof:geomhash":"91602deb2f15190646ff76402fb7c1a3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -131,7 +132,7 @@
         }
     ],
     "wof:id":1108570033,
-    "wof:lastmodified":1690875593,
+    "wof:lastmodified":1695886623,
     "wof:name":"Las Naves",
     "wof:parent_id":85670905,
     "wof:placetype":"county",

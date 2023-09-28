@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039777,
-    "geom:area_square_m":491766899.032957,
+    "geom:area_square_m":491767265.42878,
     "geom:bbox":"-78.839872,-1.152661,-78.393621,-0.952888",
     "geom:latitude":-1.057744,
     "geom:longitude":-78.612807,
@@ -159,12 +159,13 @@
         "qs_pg:id":1264195,
         "wd:id":"Q2707803"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459008906,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"52273cd1035680df5ac592ade0737daf",
+    "wof:geomhash":"f72362adcf12a6c551288e3731e4d4c2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -174,7 +175,7 @@
         }
     ],
     "wof:id":421171759,
-    "wof:lastmodified":1690875654,
+    "wof:lastmodified":1695886048,
     "wof:name":"Salcedo",
     "wof:parent_id":85670915,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025646,
-    "geom:area_square_m":316399371.965058,
+    "geom:area_square_m":316399191.479809,
     "geom:bbox":"-79.806415,-3.945992,-79.5556,-3.745854",
     "geom:latitude":-3.851127,
     "geom:longitude":-79.668918,
@@ -98,9 +98,10 @@
         "hasc:id":"EC.LJ.CP",
         "wd:id":"Q1989999"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064392,
-    "wof:geomhash":"2eb30d50a46cbd0ce421626a8d9a7721",
+    "wof:geomhash":"36eb329dbcbf1fea5bd110b7e14f1c24",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1108568481,
-    "wof:lastmodified":1690875604,
+    "wof:lastmodified":1695886626,
     "wof:name":"Chaguarpamba",
     "wof:parent_id":85670891,
     "wof:placetype":"county",

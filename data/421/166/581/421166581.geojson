@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.279027,
-    "geom:area_square_m":3450214749.181064,
+    "geom:area_square_m":3450215203.792007,
     "geom:bbox":"-76.437505,-0.170715,-75.25476,0.437024",
     "geom:latitude":0.081763,
     "geom:longitude":-76.010517,
@@ -174,12 +174,13 @@
         "qs_pg:id":1242728,
         "wd:id":"Q1992558"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459008695,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5fa2c6aaee8399f5d1e7a1c2d48f26e4",
+    "wof:geomhash":"3a2a48d048fbaf0c0acf6f9c89ebe48a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -189,7 +190,7 @@
         }
     ],
     "wof:id":421166581,
-    "wof:lastmodified":1690875608,
+    "wof:lastmodified":1695886046,
     "wof:name":"Putumayo",
     "wof:parent_id":85670977,
     "wof:placetype":"county",

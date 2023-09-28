@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.072512,
-    "geom:area_square_m":896478639.87871,
+    "geom:area_square_m":896478800.704004,
     "geom:bbox":"-80.561658,-1.198791,-80.008162,-0.927666",
     "geom:latitude":-1.050386,
     "geom:longitude":-80.350236,
@@ -149,12 +149,13 @@
         "qs_pg:id":1110311,
         "wd:id":"Q617905"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459009614,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1a94a0cc2e7b43e3e66961bfe44b48d6",
+    "wof:geomhash":"0557592820881779018ba3c41b176c07",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -164,7 +165,7 @@
         }
     ],
     "wof:id":421189223,
-    "wof:lastmodified":1690875626,
+    "wof:lastmodified":1695886047,
     "wof:name":"Portoviejo",
     "wof:parent_id":85670927,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04256,
-    "geom:area_square_m":524601135.932037,
+    "geom:area_square_m":524600844.287395,
     "geom:bbox":"-79.508646,-4.744841,-79.303723,-4.396091",
     "geom:latitude":-4.54555,
     "geom:longitude":-79.410234,
@@ -107,9 +107,10 @@
         "hasc:id":"EC.LJ.ES",
         "wd:id":"Q1989947"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064430,
-    "wof:geomhash":"b3ba20cd043d40e38befa14b6ae13983",
+    "wof:geomhash":"bfdc5efc86c8593a38033a652f0dde05",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1108569379,
-    "wof:lastmodified":1690875598,
+    "wof:lastmodified":1695886625,
     "wof:name":"Esp\u00edndola",
     "wof:parent_id":85670891,
     "wof:placetype":"county",

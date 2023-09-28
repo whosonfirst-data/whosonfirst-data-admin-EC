@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005923,
-    "geom:area_square_m":73176036.42538,
+    "geom:area_square_m":73176061.160404,
     "geom:bbox":"-81.010445,-2.337083,-80.852699,-2.180417",
     "geom:latitude":-2.257744,
     "geom:longitude":-80.917971,
@@ -217,12 +217,13 @@
         "qs_pg:id":978468,
         "wd:id":"Q1992844"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459010154,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"64f7294949b26126f8644e28c10db5c8",
+    "wof:geomhash":"e734d4a24345e0dce4bb39a660c2cd08",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -232,7 +233,7 @@
         }
     ],
     "wof:id":421203481,
-    "wof:lastmodified":1690875620,
+    "wof:lastmodified":1695886046,
     "wof:name":"Salinas",
     "wof:parent_id":85670979,
     "wof:placetype":"county",

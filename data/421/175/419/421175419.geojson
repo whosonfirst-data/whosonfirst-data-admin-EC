@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043228,
-    "geom:area_square_m":534369751.51799,
+    "geom:area_square_m":534369751.51796,
     "geom:bbox":"-80.4973088983,-1.55264865762,-80.2516471808,-1.20670612644",
     "geom:latitude":-1.382244,
     "geom:longitude":-80.373596,
@@ -120,12 +120,13 @@
         "qs_pg:id":369060,
         "wd:id":"Q1992944"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459009066,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e130a41c8d80784d677d74075a0c481f",
+    "wof:geomhash":"384464ca58a0c1764d04c0aa3d37b940",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":421175419,
-    "wof:lastmodified":1582351941,
+    "wof:lastmodified":1695886797,
     "wof:name":"Veinticuatro de Mayo",
     "wof:parent_id":85670927,
     "wof:placetype":"county",

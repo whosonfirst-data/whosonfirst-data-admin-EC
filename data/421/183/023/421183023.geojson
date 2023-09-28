@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019168,
-    "geom:area_square_m":236755185.334886,
+    "geom:area_square_m":236755244.172034,
     "geom:bbox":"-79.093768,-2.73967,-78.860697,-2.601024",
     "geom:latitude":-2.669351,
     "geom:longitude":-78.959957,
@@ -134,12 +134,13 @@
         "qs_pg:id":959197,
         "wd:id":"Q1529187"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459009355,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6b944391d31851baaedb25bf4cf90f2c",
+    "wof:geomhash":"dd98f4c0d40e3a05dde10ec75683dc55",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -149,7 +150,7 @@
         }
     ],
     "wof:id":421183023,
-    "wof:lastmodified":1690875647,
+    "wof:lastmodified":1695886798,
     "wof:name":"Bibli\u00e1n",
     "wof:parent_id":85670909,
     "wof:placetype":"county",

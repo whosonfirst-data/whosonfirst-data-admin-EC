@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026524,
-    "geom:area_square_m":327891561.367035,
+    "geom:area_square_m":327891489.036299,
     "geom:bbox":"-78.51955,-1.402234,-78.321963,-1.152061",
     "geom:latitude":-1.264489,
     "geom:longitude":-78.423565,
@@ -113,9 +113,10 @@
         "hasc:id":"EC.TU.PA",
         "wd:id":"Q3656217"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064504,
-    "wof:geomhash":"db72dd9040dcc03a4ac09f75414f166a",
+    "wof:geomhash":"ed42a93862bf82c54e230e77d464f0f2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -125,7 +126,7 @@
         }
     ],
     "wof:id":1108571185,
-    "wof:lastmodified":1690875590,
+    "wof:lastmodified":1695886622,
     "wof:name":"Patate",
     "wof:parent_id":85670959,
     "wof:placetype":"county",

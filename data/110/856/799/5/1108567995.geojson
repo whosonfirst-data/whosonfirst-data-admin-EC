@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.08727,
-    "geom:area_square_m":1078821049.767783,
+    "geom:area_square_m":1078821248.01506,
     "geom:bbox":"-78.475634,-1.519016,-78.109639,-1.135846",
     "geom:latitude":-1.334696,
     "geom:longitude":-78.272646,
@@ -110,9 +110,10 @@
         "hasc:id":"EC.TU.BA",
         "wd:id":"Q3655923"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064375,
-    "wof:geomhash":"89d96a567f09fc41ced1787928c77432",
+    "wof:geomhash":"f78b1dfb1086e651e048669b7783aa4b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":1108567995,
-    "wof:lastmodified":1690875597,
+    "wof:lastmodified":1695886624,
     "wof:name":"Ba\u00f1os",
     "wof:parent_id":85670959,
     "wof:placetype":"county",

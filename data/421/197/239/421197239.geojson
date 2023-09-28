@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033316,
-    "geom:area_square_m":411936253.099316,
+    "geom:area_square_m":411936271.6357,
     "geom:bbox":"-77.913348,0.423538,-77.643335,0.707491",
     "geom:latitude":0.563316,
     "geom:longitude":-77.799848,
@@ -131,12 +131,13 @@
         "qs_pg:id":61229,
         "wd:id":"Q2448812"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459009907,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"940349d6039a2279e1feae4c4bf156db",
+    "wof:geomhash":"41c754f64387a80146b0064c823c969a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -146,7 +147,7 @@
         }
     ],
     "wof:id":421197239,
-    "wof:lastmodified":1690875638,
+    "wof:lastmodified":1695886798,
     "wof:name":"Mont\u00fafar",
     "wof:parent_id":85670967,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04132,
-    "geom:area_square_m":510704123.567919,
+    "geom:area_square_m":510704431.452047,
     "geom:bbox":"-79.749971,-1.889229,-79.573223,-1.44378",
     "geom:latitude":-1.675923,
     "geom:longitude":-79.658199,
@@ -113,9 +113,10 @@
         "hasc:id":"EC.LR.BB",
         "wd:id":"Q1990086"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064369,
-    "wof:geomhash":"457fbc855cbb3ac7b142392da770945f",
+    "wof:geomhash":"26c1e035c66f384d0ae549066e57543d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -125,7 +126,7 @@
         }
     ],
     "wof:id":1108567841,
-    "wof:lastmodified":1690875601,
+    "wof:lastmodified":1695886626,
     "wof:name":"Baba",
     "wof:parent_id":85670923,
     "wof:placetype":"county",

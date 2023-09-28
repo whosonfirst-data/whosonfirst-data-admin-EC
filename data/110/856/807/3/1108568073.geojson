@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030786,
-    "geom:area_square_m":380658349.220588,
+    "geom:area_square_m":380658599.413973,
     "geom:bbox":"-78.061429,0.355629,-77.769375,0.584002",
     "geom:latitude":0.473429,
     "geom:longitude":-77.908728,
@@ -61,9 +61,10 @@
     "wof:concordances":{
         "hasc:id":"EC.CR.BO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064378,
-    "wof:geomhash":"67203c100bba57353ccf411a6e3c9b33",
+    "wof:geomhash":"318c538aef112cb7917e4cd83bf39c92",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":1108568073,
-    "wof:lastmodified":1627522037,
+    "wof:lastmodified":1695886548,
     "wof:name":"Bol\u00edvar",
     "wof:parent_id":85670967,
     "wof:placetype":"county",

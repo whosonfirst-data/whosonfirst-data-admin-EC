@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005394,
-    "geom:area_square_m":66629576.728017,
+    "geom:area_square_m":66629845.015597,
     "geom:bbox":"-78.982653,-2.533822,-78.853265,-2.430473",
     "geom:latitude":-2.489466,
     "geom:longitude":-78.914009,
@@ -113,9 +113,10 @@
         "hasc:id":"EC.CN.ET",
         "wd:id":"Q2466637"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064425,
-    "wof:geomhash":"060a2f102e768bc49bd8b1c93f8518b4",
+    "wof:geomhash":"98f5d765bce57f3507932c2251d6c75a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -125,7 +126,7 @@
         }
     ],
     "wof:id":1108569245,
-    "wof:lastmodified":1690875601,
+    "wof:lastmodified":1695886626,
     "wof:name":"El Tambo",
     "wof:parent_id":85670909,
     "wof:placetype":"county",

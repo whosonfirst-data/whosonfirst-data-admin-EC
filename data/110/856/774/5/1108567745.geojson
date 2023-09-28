@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037373,
-    "geom:area_square_m":462080427.002523,
+    "geom:area_square_m":462080577.445347,
     "geom:bbox":"-80.014079,0.639755,-79.726411,0.951988",
     "geom:latitude":0.78511,
     "geom:longitude":-79.853802,
@@ -101,9 +101,10 @@
         "hasc:id":"EC.ES.AT",
         "wd:id":"Q3991161"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064365,
-    "wof:geomhash":"b00c47b3469b592f3a43ac1956420f23",
+    "wof:geomhash":"48d9bb586f003dadca25f732a6cc2105",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1108567745,
-    "wof:lastmodified":1690875605,
+    "wof:lastmodified":1695886627,
     "wof:name":"Atacames",
     "wof:parent_id":85670963,
     "wof:placetype":"county",

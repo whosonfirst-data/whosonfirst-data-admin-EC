@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.356741,
-    "geom:area_square_m":4410493283.311899,
+    "geom:area_square_m":4410493811.336312,
     "geom:bbox":"-78.42271,-1.243855,-77.031939,-0.689086",
     "geom:latitude":-0.999455,
     "geom:longitude":-77.805212,
@@ -128,9 +128,10 @@
         "hasc:id":"EC.NA.TE",
         "wd:id":"Q2448860"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064579,
-    "wof:geomhash":"8106182da2ca85aed89abcc1d14fa42f",
+    "wof:geomhash":"ce00c86c6ca8dbe59cfeaf0e3985578a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -140,7 +141,7 @@
         }
     ],
     "wof:id":1108572985,
-    "wof:lastmodified":1690875594,
+    "wof:lastmodified":1695886045,
     "wof:name":"Tena",
     "wof:parent_id":85670953,
     "wof:placetype":"county",

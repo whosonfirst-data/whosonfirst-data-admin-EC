@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022272,
-    "geom:area_square_m":274869815.497676,
+    "geom:area_square_m":274869718.906928,
     "geom:bbox":"-79.8365,-3.652069,-79.599085,-3.458576",
     "geom:latitude":-3.553873,
     "geom:longitude":-79.713621,
@@ -285,12 +285,13 @@
         "qs_pg:id":1184636,
         "wd:id":"Q179577"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459009754,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e7c52db9964b1f34e7620cc406e8ac8f",
+    "wof:geomhash":"dae1ea5432b67601fa7a495215f32369",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -300,7 +301,7 @@
         }
     ],
     "wof:id":421192947,
-    "wof:lastmodified":1690875609,
+    "wof:lastmodified":1695886796,
     "wof:name":"Atahualpa",
     "wof:parent_id":85670887,
     "wof:placetype":"county",

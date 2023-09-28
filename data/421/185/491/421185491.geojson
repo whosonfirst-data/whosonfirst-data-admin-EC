@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.554148,
-    "geom:area_square_m":6851668327.032974,
+    "geom:area_square_m":6851667653.33875,
     "geom:bbox":"-77.301363,-1.127384,-75.975681,-0.03698",
     "geom:latitude":-0.639752,
     "geom:longitude":-76.76771,
@@ -216,12 +216,13 @@
         "qs_pg:id":897119,
         "wd:id":"Q1992935"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459009444,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e0665e51e74d37166b56fd6fbd36740b",
+    "wof:geomhash":"c7b5d81d91e195d4c457b8b40aad9fe9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -231,7 +232,7 @@
         }
     ],
     "wof:id":421185491,
-    "wof:lastmodified":1636502165,
+    "wof:lastmodified":1695886048,
     "wof:name":"Orellana",
     "wof:parent_id":85670941,
     "wof:placetype":"county",

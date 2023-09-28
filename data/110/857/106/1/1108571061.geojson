@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.103778,
-    "geom:area_square_m":1280104459.832741,
+    "geom:area_square_m":1280104687.103322,
     "geom:bbox":"-79.996966,-4.180583,-79.511138,-3.819959",
     "geom:latitude":-4.004092,
     "geom:longitude":-79.74399,
@@ -101,9 +101,10 @@
         "hasc:id":"EC.LJ.PA",
         "wd:id":"Q1990006"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064499,
-    "wof:geomhash":"fca958af41526f7ff5ff97b5cfb969a4",
+    "wof:geomhash":"fc05f47e96ca4d17d485b1c73fc444b2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1108571061,
-    "wof:lastmodified":1690875591,
+    "wof:lastmodified":1695886623,
     "wof:name":"Paltas",
     "wof:parent_id":85670891,
     "wof:placetype":"county",

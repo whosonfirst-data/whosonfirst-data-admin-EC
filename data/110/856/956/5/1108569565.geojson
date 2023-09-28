@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056921,
-    "geom:area_square_m":701984676.496809,
+    "geom:area_square_m":701984827.305657,
     "geom:bbox":"-79.603759,-4.327885,-79.320391,-3.998489",
     "geom:latitude":-4.156997,
     "geom:longitude":-79.454359,
@@ -104,9 +104,10 @@
         "hasc:id":"EC.LJ.GO",
         "wd:id":"Q628740"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064437,
-    "wof:geomhash":"c232e3f42d368a2f1fb5a5c3502e72a4",
+    "wof:geomhash":"d1a99c1a4c3e0685920d8257d02e071b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1108569565,
-    "wof:lastmodified":1690875603,
+    "wof:lastmodified":1695886626,
     "wof:name":"Gonzanam\u00e1",
     "wof:parent_id":85670891,
     "wof:placetype":"county",

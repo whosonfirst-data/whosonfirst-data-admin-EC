@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029115,
-    "geom:area_square_m":359463702.597517,
+    "geom:area_square_m":359463845.261718,
     "geom:bbox":"-79.30747,-3.287012,-79.016738,-3.050503",
     "geom:latitude":-3.176621,
     "geom:longitude":-79.158295,
@@ -113,9 +113,10 @@
         "hasc:id":"EC.AZ.GR",
         "wd:id":"Q2466073"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064434,
-    "wof:geomhash":"564b10f8b8e52c75fb5086195e92a4f0",
+    "wof:geomhash":"903dc1ce7cd81aac8c799a8b4dbb05d6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -125,7 +126,7 @@
         }
     ],
     "wof:id":1108569491,
-    "wof:lastmodified":1690875601,
+    "wof:lastmodified":1695886626,
     "wof:name":"Gir\u00f3n",
     "wof:parent_id":85670885,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05365,
-    "geom:area_square_m":662120581.414905,
+    "geom:area_square_m":662120578.02519,
     "geom:bbox":"-79.651297,-3.708648,-79.36281,-3.305845",
     "geom:latitude":-3.54151,
     "geom:longitude":-79.518412,
@@ -135,12 +135,13 @@
         "qs_pg:id":1005282,
         "wd:id":"Q2448769"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459009420,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"81af86ac2c25e736431ec8be28755e38",
+    "wof:geomhash":"fa24bae1c220a7884d15bdd01a36f9b8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":421184733,
-    "wof:lastmodified":1690875643,
+    "wof:lastmodified":1695886798,
     "wof:name":"Zaruma",
     "wof:parent_id":85670887,
     "wof:placetype":"county",

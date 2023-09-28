@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.110519,
-    "geom:area_square_m":1366567857.985247,
+    "geom:area_square_m":1366567947.574471,
     "geom:bbox":"-80.04912,-0.548015,-79.608469,-0.097159",
     "geom:latitude":-0.324003,
     "geom:longitude":-79.816626,
@@ -107,9 +107,10 @@
         "hasc:id":"EC.MN.FA",
         "wd:id":"Q931546"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064431,
-    "wof:geomhash":"2dd87300c187014366174409b88a7cec",
+    "wof:geomhash":"e54d68e355084c8433d8bba06bcf1068",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1108569419,
-    "wof:lastmodified":1690875601,
+    "wof:lastmodified":1695886625,
     "wof:name":"Flavio Alfaro",
     "wof:parent_id":85670927,
     "wof:placetype":"county",

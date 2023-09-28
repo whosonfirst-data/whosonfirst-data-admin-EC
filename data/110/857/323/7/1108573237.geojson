@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.067964,
-    "geom:area_square_m":840170513.444094,
+    "geom:area_square_m":840170426.03099,
     "geom:bbox":"-79.540181,-1.537394,-79.266257,-0.95529",
     "geom:latitude":-1.286934,
     "geom:longitude":-79.390052,
@@ -110,9 +110,10 @@
         "hasc:id":"EC.LR.VE",
         "wd:id":"Q3656370"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064589,
-    "wof:geomhash":"62963484e331968d8ce1341888473a3e",
+    "wof:geomhash":"b5aa671752a744147ba7cb1d41c38a9e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":1108573237,
-    "wof:lastmodified":1690875590,
+    "wof:lastmodified":1695886622,
     "wof:name":"Ventanas",
     "wof:parent_id":85670923,
     "wof:placetype":"county",

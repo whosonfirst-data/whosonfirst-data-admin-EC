@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037324,
-    "geom:area_square_m":461352268.590384,
+    "geom:area_square_m":461352209.237016,
     "geom:bbox":"-78.846116,-1.648144,-78.510247,-1.42681",
     "geom:latitude":-1.540758,
     "geom:longitude":-78.660265,
@@ -279,12 +279,13 @@
         "qs_pg:id":1264176,
         "wd:id":"Q2448847"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459010079,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7970288b6d5fa291e28c4200f959f5bb",
+    "wof:geomhash":"3569af91d19582faffdd40d7f602ccc5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -294,7 +295,7 @@
         }
     ],
     "wof:id":421201625,
-    "wof:lastmodified":1690875642,
+    "wof:lastmodified":1695886798,
     "wof:name":"Guano",
     "wof:parent_id":85670931,
     "wof:placetype":"county",

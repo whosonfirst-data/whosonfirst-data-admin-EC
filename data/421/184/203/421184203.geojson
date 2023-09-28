@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.086014,
-    "geom:area_square_m":1063127262.750815,
+    "geom:area_square_m":1063127201.603811,
     "geom:bbox":"-80.573228,-1.943955,-80.180321,-1.452631",
     "geom:latitude":-1.658107,
     "geom:longitude":-80.395889,
@@ -111,12 +111,13 @@
         "qs_pg:id":990188,
         "wd:id":"Q7125333"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459009403,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d6724849b43d3ace067a5033a05a2a51",
+    "wof:geomhash":"2b92209b9e10aea854dfe14d94da39a0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":421184203,
-    "wof:lastmodified":1690875643,
+    "wof:lastmodified":1695886798,
     "wof:name":"Paj\u00e1n",
     "wof:parent_id":85670927,
     "wof:placetype":"county",

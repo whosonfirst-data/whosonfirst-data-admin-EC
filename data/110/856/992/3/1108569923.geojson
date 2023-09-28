@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.117019,
-    "geom:area_square_m":1446501016.178145,
+    "geom:area_square_m":1446501575.748412,
     "geom:bbox":"-80.778117,-1.85526,-80.41421,-1.173925",
     "geom:latitude":-1.438559,
     "geom:longitude":-80.588774,
@@ -128,9 +128,10 @@
         "hasc:id":"EC.MN.JJ",
         "wd:id":"Q1990149"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064450,
-    "wof:geomhash":"3c2d85e73c5b999ba57aa0c8eeafaec8",
+    "wof:geomhash":"3309afdc15de0f9750b9d627c89acca0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -140,7 +141,7 @@
         }
     ],
     "wof:id":1108569923,
-    "wof:lastmodified":1690875602,
+    "wof:lastmodified":1695886045,
     "wof:name":"Jipijapa",
     "wof:parent_id":85670927,
     "wof:placetype":"county",

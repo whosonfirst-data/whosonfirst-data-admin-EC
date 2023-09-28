@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011268,
-    "geom:area_square_m":139333313.036156,
+    "geom:area_square_m":139333120.651443,
     "geom:bbox":"-78.480005,-0.505145,-78.390972,-0.294686",
     "geom:latitude":-0.399134,
     "geom:longitude":-78.44149,
@@ -140,12 +140,13 @@
         "qs_pg:id":890676,
         "wd:id":"Q1990505"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459008771,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"40e807bc4e496786dd4201df2e967768",
+    "wof:geomhash":"45b3d0e2ec8b6f11dabbe4be77c4174d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -155,7 +156,7 @@
         }
     ],
     "wof:id":421168623,
-    "wof:lastmodified":1690875608,
+    "wof:lastmodified":1695886796,
     "wof:name":"Rumi\u00f1ahui",
     "wof:parent_id":85670945,
     "wof:placetype":"county",

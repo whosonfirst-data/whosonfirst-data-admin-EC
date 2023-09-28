@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.068405,
-    "geom:area_square_m":845681390.838327,
+    "geom:area_square_m":845681294.617907,
     "geom:bbox":"-80.883743,-1.286501,-80.51604,-0.927058",
     "geom:latitude":-1.106535,
     "geom:longitude":-80.684102,
@@ -119,9 +119,10 @@
         "hasc:id":"EC.MN.MO",
         "wd:id":"Q2466536"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064476,
-    "wof:geomhash":"86e408f94ea5e364ab16b2bd3094ad30",
+    "wof:geomhash":"28f6e3b603cd7fb658654d72ccf62e40",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -131,7 +132,7 @@
         }
     ],
     "wof:id":1108570471,
-    "wof:lastmodified":1690875588,
+    "wof:lastmodified":1695886621,
     "wof:name":"Montecristi",
     "wof:parent_id":85670927,
     "wof:placetype":"county",

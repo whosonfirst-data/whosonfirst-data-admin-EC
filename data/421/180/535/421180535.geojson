@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04501,
-    "geom:area_square_m":556517977.588837,
+    "geom:area_square_m":556517448.989474,
     "geom:bbox":"-78.218325,0.557828,-77.871574,0.860938",
     "geom:latitude":0.712134,
     "geom:longitude":-78.037929,
@@ -138,12 +138,13 @@
         "qs_pg:id":286230,
         "wd:id":"Q733734"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459009262,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6c6940c57be23c954211324251722091",
+    "wof:geomhash":"74bb146fad859e85434f04081dcc33b4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -153,7 +154,7 @@
         }
     ],
     "wof:id":421180535,
-    "wof:lastmodified":1690875622,
+    "wof:lastmodified":1695886796,
     "wof:name":"Espejo",
     "wof:parent_id":85670967,
     "wof:placetype":"county",

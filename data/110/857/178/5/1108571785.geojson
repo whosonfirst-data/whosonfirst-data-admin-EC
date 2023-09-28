@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013938,
-    "geom:area_square_m":172297448.978338,
+    "geom:area_square_m":172297379.957395,
     "geom:bbox":"-78.712053,-1.504653,-78.541152,-1.34897",
     "geom:latitude":-1.441981,
     "geom:longitude":-78.616588,
@@ -107,9 +107,10 @@
         "hasc:id":"EC.TU.QU",
         "wd:id":"Q3656241"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064527,
-    "wof:geomhash":"8de60774e3992c251ab517fd423ae5b2",
+    "wof:geomhash":"882e4f92debf79b2b64bcf956db5b275",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1108571785,
-    "wof:lastmodified":1690875596,
+    "wof:lastmodified":1695886624,
     "wof:name":"Quero",
     "wof:parent_id":85670959,
     "wof:placetype":"county",

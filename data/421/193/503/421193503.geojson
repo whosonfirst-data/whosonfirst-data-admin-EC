@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025414,
-    "geom:area_square_m":313881178.759431,
+    "geom:area_square_m":313881118.564076,
     "geom:bbox":"-78.8773,-2.861445,-78.613678,-2.631848",
     "geom:latitude":-2.752623,
     "geom:longitude":-78.735081,
@@ -131,12 +131,13 @@
         "qs_pg:id":911537,
         "wd:id":"Q2449101"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459009773,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e188de30c3ba09ea104678cbf92ecf1d",
+    "wof:geomhash":"6e3817e2768ff3de219e7c49514753b6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -146,7 +147,7 @@
         }
     ],
     "wof:id":421193503,
-    "wof:lastmodified":1690875614,
+    "wof:lastmodified":1695886796,
     "wof:name":"Paute",
     "wof:parent_id":85670885,
     "wof:placetype":"county",

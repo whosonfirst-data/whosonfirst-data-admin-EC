@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.299623,
-    "geom:area_square_m":3702323901.552818,
+    "geom:area_square_m":3702323901.552258,
     "geom:bbox":"-80.887391,-2.503434,-80.225604,-1.652626",
     "geom:latitude":-2.128767,
     "geom:longitude":-80.566985,
@@ -129,12 +129,13 @@
         "hasc:id":"EC.SE.SE",
         "wd:id":"Q1992974"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:coterminous":[
         85670979
     ],
     "wof:country":"EC",
     "wof:created":1474064555,
-    "wof:geomhash":"489b0772aa292fe77f0634da0923e03b",
+    "wof:geomhash":"316dc0a57574e6993abd062de91f8a32",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":1108572401,
-    "wof:lastmodified":1690875593,
+    "wof:lastmodified":1695886044,
     "wof:name":"Santa Elena",
     "wof:parent_id":85670979,
     "wof:placetype":"county",

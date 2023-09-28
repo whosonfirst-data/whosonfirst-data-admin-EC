@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026923,
-    "geom:area_square_m":332828611.447017,
+    "geom:area_square_m":332828176.141726,
     "geom:bbox":"-77.969381,-1.365972,-77.730659,-1.16145",
     "geom:latitude":-1.272864,
     "geom:longitude":-77.862366,
@@ -113,9 +113,10 @@
         "hasc:id":"EC.PA.SC",
         "wd:id":"Q1992910"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064553,
-    "wof:geomhash":"ad13b50e9619edcc2fdbda49e3c9becf",
+    "wof:geomhash":"f3a8a6b1a98072e8e92301f4403a2898",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -125,7 +126,7 @@
         }
     ],
     "wof:id":1108572349,
-    "wof:lastmodified":1690875589,
+    "wof:lastmodified":1695886622,
     "wof:name":"Santa Clara",
     "wof:parent_id":85670949,
     "wof:placetype":"county",

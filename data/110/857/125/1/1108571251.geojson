@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.153249,
-    "geom:area_square_m":1894946546.796096,
+    "geom:area_square_m":1894946495.201228,
     "geom:bbox":"-80.165514,-0.236659,-79.57203,0.370111",
     "geom:latitude":0.088137,
     "geom:longitude":-79.902367,
@@ -138,9 +138,10 @@
         "hasc:id":"EC.MN.PE",
         "wd:id":"Q367954"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064506,
-    "wof:geomhash":"febae89098b59cb4dbc2302df046c288",
+    "wof:geomhash":"5aea7f923ed442ba60e8fb7b82af1f1d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":1108571251,
-    "wof:lastmodified":1690875596,
+    "wof:lastmodified":1695886045,
     "wof:name":"Pedernales",
     "wof:parent_id":85670927,
     "wof:placetype":"county",

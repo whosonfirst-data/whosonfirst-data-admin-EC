@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065921,
-    "geom:area_square_m":813511246.472152,
+    "geom:area_square_m":813510953.599141,
     "geom:bbox":"-80.218229,-3.784194,-79.924083,-3.391652",
     "geom:latitude":-3.599601,
     "geom:longitude":-80.08963,
@@ -113,9 +113,10 @@
         "hasc:id":"EC.EO.AR",
         "wd:id":"Q2448877"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064363,
-    "wof:geomhash":"5a519c6822238c3c1341ffc6119334cf",
+    "wof:geomhash":"614799b97acb23371824d4241ea9befc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -125,7 +126,7 @@
         }
     ],
     "wof:id":1108567705,
-    "wof:lastmodified":1690875601,
+    "wof:lastmodified":1695886626,
     "wof:name":"Arenillas",
     "wof:parent_id":85670887,
     "wof:placetype":"county",

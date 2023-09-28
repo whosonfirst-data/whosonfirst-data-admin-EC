@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018668,
-    "geom:area_square_m":230761820.397882,
+    "geom:area_square_m":230761882.262607,
     "geom:bbox":"-79.340775,-1.539807,-79.17384,-1.348964",
     "geom:latitude":-1.453606,
     "geom:longitude":-79.258428,
@@ -107,9 +107,10 @@
         "hasc:id":"EC.BO.EC",
         "wd:id":"Q2466090"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064415,
-    "wof:geomhash":"54da058298d3cbf54521882248c6f158",
+    "wof:geomhash":"71be70c2e81a8e15c4baaadeb171e932",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1108568983,
-    "wof:lastmodified":1690875604,
+    "wof:lastmodified":1695886627,
     "wof:name":"Echeand\u00eda",
     "wof:parent_id":85670905,
     "wof:placetype":"county",

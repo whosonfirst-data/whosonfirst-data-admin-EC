@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034469,
-    "geom:area_square_m":425028307.055178,
+    "geom:area_square_m":425028345.88089,
     "geom:bbox":"-79.878935,-4.483238,-79.676577,-4.112455",
     "geom:latitude":-4.279787,
     "geom:longitude":-79.779007,
@@ -107,9 +107,10 @@
         "hasc:id":"EC.LJ.SO",
         "wd:id":"Q1990061"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064574,
-    "wof:geomhash":"86ac6fa38c42339e11fd0092d006e9dc",
+    "wof:geomhash":"91616d7f97ecb4499506c77a85b81efa",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1108572851,
-    "wof:lastmodified":1690875593,
+    "wof:lastmodified":1695886623,
     "wof:name":"Sozoranga",
     "wof:parent_id":85670891,
     "wof:placetype":"county",

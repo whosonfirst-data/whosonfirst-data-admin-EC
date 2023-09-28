@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.15121,
-    "geom:area_square_m":1867957655.519806,
+    "geom:area_square_m":1867957178.59167,
     "geom:bbox":"-79.388503,-2.734724,-78.735552,-2.220676",
     "geom:latitude":-2.503737,
     "geom:longitude":-79.051122,
@@ -150,12 +150,13 @@
         "qs_pg:id":115830,
         "wd:id":"Q2466578"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459009853,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"acb90cfa65106b76ee500998e11f5ed6",
+    "wof:geomhash":"54130a4ee2fe69d662aa4fa85908c419",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -165,7 +166,7 @@
         }
     ],
     "wof:id":421195597,
-    "wof:lastmodified":1690875612,
+    "wof:lastmodified":1695886796,
     "wof:name":"Ca\u00f1ar",
     "wof:parent_id":85670909,
     "wof:placetype":"county",

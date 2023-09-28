@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.179994,
-    "geom:area_square_m":2221824306.710564,
+    "geom:area_square_m":2221824020.322584,
     "geom:bbox":"-78.949525,-3.584404,-78.340037,-3.063066",
     "geom:latitude":-3.361382,
     "geom:longitude":-78.651764,
@@ -107,9 +107,10 @@
         "hasc:id":"EC.MS.GU",
         "wd:id":"Q1990498"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064440,
-    "wof:geomhash":"96d9a5b9b0588d362353968ecfbc90ad",
+    "wof:geomhash":"7c24e8c4ae0fd76d25ff40710e20b5bd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1108569641,
-    "wof:lastmodified":1690875598,
+    "wof:lastmodified":1695886625,
     "wof:name":"Gualaquiza",
     "wof:parent_id":85670935,
     "wof:placetype":"county",

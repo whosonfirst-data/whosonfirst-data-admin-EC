@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011083,
-    "geom:area_square_m":136744835.642404,
+    "geom:area_square_m":136744898.383641,
     "geom:bbox":"-79.994145,-3.840961,-79.851737,-3.70725",
     "geom:latitude":-3.778063,
     "geom:longitude":-79.928396,
@@ -101,9 +101,10 @@
         "hasc:id":"EC.EO.MR",
         "wd:id":"Q1988800"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064468,
-    "wof:geomhash":"34b9177ca117c8ac80ee5a069aa81e8b",
+    "wof:geomhash":"c4bf6ab6c1a43d5793b243b7c95f13bf",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1108570273,
-    "wof:lastmodified":1690875592,
+    "wof:lastmodified":1695886623,
     "wof:name":"Marcabel\u00ed",
     "wof:parent_id":85670887,
     "wof:placetype":"county",

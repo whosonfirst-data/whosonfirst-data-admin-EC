@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038972,
-    "geom:area_square_m":481285219.985698,
+    "geom:area_square_m":481285177.928224,
     "geom:bbox":"-79.855415,-2.993358,-79.505514,-2.786697",
     "geom:latitude":-2.894096,
     "geom:longitude":-79.711392,
@@ -107,9 +107,10 @@
         "hasc:id":"EC.GY.BO",
         "wd:id":"Q1990431"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064370,
-    "wof:geomhash":"746ddbf656913e6cb7fde069bee6275f",
+    "wof:geomhash":"4cdd18bc73ed6153ee73197d51b856b7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1108567875,
-    "wof:lastmodified":1690875605,
+    "wof:lastmodified":1695886627,
     "wof:name":"Balao",
     "wof:parent_id":85670917,
     "wof:placetype":"county",

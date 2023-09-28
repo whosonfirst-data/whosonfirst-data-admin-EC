@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030055,
-    "geom:area_square_m":371598770.309881,
+    "geom:area_square_m":371598656.057992,
     "geom:bbox":"-80.382613,-0.889253,-80.155949,-0.64265",
     "geom:latitude":-0.775265,
     "geom:longitude":-80.270742,
@@ -101,9 +101,10 @@
         "hasc:id":"EC.MN.TO",
         "wd:id":"Q1992593"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064583,
-    "wof:geomhash":"445d52d2ef480942abd8991c17af4c8c",
+    "wof:geomhash":"97b12e3237088bba1b3b19b8a162df1a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1108573061,
-    "wof:lastmodified":1690875586,
+    "wof:lastmodified":1695886621,
     "wof:name":"Tosagua",
     "wof:parent_id":85670927,
     "wof:placetype":"county",

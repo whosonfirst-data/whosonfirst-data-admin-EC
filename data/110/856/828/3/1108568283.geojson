@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.096062,
-    "geom:area_square_m":1187815384.591897,
+    "geom:area_square_m":1187814583.058246,
     "geom:bbox":"-77.39085,-0.102215,-77.036484,0.391844",
     "geom:latitude":0.139246,
     "geom:longitude":-77.217466,
@@ -107,9 +107,10 @@
         "hasc:id":"EC.SU.CA",
         "wd:id":"Q976081"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064385,
-    "wof:geomhash":"5a1ad172c99b179f7a335ef6c8cf3f36",
+    "wof:geomhash":"f5e460510b74eb57a02b34794c81fea7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1108568283,
-    "wof:lastmodified":1690875598,
+    "wof:lastmodified":1695886625,
     "wof:name":"Cascales",
     "wof:parent_id":85670977,
     "wof:placetype":"county",

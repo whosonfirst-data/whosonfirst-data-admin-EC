@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.34232,
-    "geom:area_square_m":4228815651.69999,
+    "geom:area_square_m":4228815651.700014,
     "geom:bbox":"-80.461609,-3.062599,-79.71096,-1.961942",
     "geom:latitude":-2.487508,
     "geom:longitude":-80.086806,
@@ -151,13 +151,14 @@
         "qs_pg:id":369061,
         "wd:id":"Q1991935"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459009067,
     "wof:geom_alt":[
         "quattroshapes",
         "meso"
     ],
-    "wof:geomhash":"c12d575a9942b275f83e8d751627b24f",
+    "wof:geomhash":"8c0f2758448a52f6e79119e735359d5f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -167,7 +168,7 @@
         }
     ],
     "wof:id":421175423,
-    "wof:lastmodified":1690875633,
+    "wof:lastmodified":1695886577,
     "wof:name":"Guayaquil",
     "wof:parent_id":85670917,
     "wof:placetype":"county",
