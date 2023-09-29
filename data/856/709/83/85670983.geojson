@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.337031,
-    "geom:area_square_m":4167386877.400862,
+    "geom:area_square_m":4167386280.22927,
     "geom:bbox":"-79.623981,-0.69801,-78.735132,0.12596",
     "geom:latitude":-0.262006,
     "geom:longitude":-79.218565,
@@ -277,17 +277,19 @@
         "gn:id":7062136,
         "gp:id":56189814,
         "hasc:id":"EC.SD",
+        "iso:code":"EC-SD",
         "iso:id":"EC-SD",
         "qs_pg:id":232142,
         "unlc:id":"EC-SD",
         "wd:id":"Q1123208",
         "wk:page":"Santo Domingo de los Ts\u00e1chilas Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"EC",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6a018342c27fd14d23989d7ee316742f",
+    "wof:geomhash":"87911777ec42e3e6e02ac56619e4a296",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -304,7 +306,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1690875581,
+    "wof:lastmodified":1695884366,
     "wof:name":"Santo Domingo de los Ts\u00e1chilas",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.299512,
-    "geom:area_square_m":3703427942.634808,
+    "geom:area_square_m":3703428332.621917,
     "geom:bbox":"-79.825136,0.068936,-78.821441,0.685701",
     "geom:latitude":0.394056,
     "geom:longitude":-79.427662,
@@ -107,9 +107,10 @@
         "hasc:id":"EC.ES.QU",
         "wd:id":"Q971410"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064532,
-    "wof:geomhash":"59531637ba3fcc31852125cefb0a7842",
+    "wof:geomhash":"3d7a2264813d36d1e98102495881ceab",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1108571921,
-    "wof:lastmodified":1690875586,
+    "wof:lastmodified":1695886621,
     "wof:name":"Quinind\u00e9",
     "wof:parent_id":85670963,
     "wof:placetype":"county",

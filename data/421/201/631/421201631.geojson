@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.116004,
-    "geom:area_square_m":1433796853.851122,
+    "geom:area_square_m":1433796619.250188,
     "geom:bbox":"-78.374897,-1.877692,-77.842087,-1.444084",
     "geom:latitude":-1.66775,
     "geom:longitude":-78.110465,
@@ -132,12 +132,13 @@
         "qs_pg:id":1264190,
         "wd:id":"Q1990533"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459010079,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"31ba24cd4009306e776c68f79512af28",
+    "wof:geomhash":"1f7ea89a0fb880d9a8555e3538484679",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":421201631,
-    "wof:lastmodified":1690875642,
+    "wof:lastmodified":1695886798,
     "wof:name":"Palora",
     "wof:parent_id":85670935,
     "wof:placetype":"county",

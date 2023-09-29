@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011813,
-    "geom:area_square_m":145979247.662488,
+    "geom:area_square_m":145979469.677362,
     "geom:bbox":"-80.113314,-2.083088,-79.989976,-1.875212",
     "geom:latitude":-1.970794,
     "geom:longitude":-80.055028,
@@ -129,12 +129,13 @@
         "qs_pg:id":1313099,
         "wd:id":"Q2466465"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459009903,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6025009b2df4e30453f6dca858ac39d2",
+    "wof:geomhash":"c2c985d1a65dbe740dce483ad08eeb7c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":421197133,
-    "wof:lastmodified":1690875637,
+    "wof:lastmodified":1695886798,
     "wof:name":"Nobol",
     "wof:parent_id":85670917,
     "wof:placetype":"county",

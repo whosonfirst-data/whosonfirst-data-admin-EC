@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.133616,
-    "geom:area_square_m":1650867534.169473,
+    "geom:area_square_m":1650866406.190634,
     "geom:bbox":"-79.074275,-2.555529,-78.462874,-2.081529",
     "geom:latitude":-2.291474,
     "geom:longitude":-78.74029,
@@ -141,12 +141,13 @@
         "qs_pg:id":1205490,
         "wd:id":"Q2448841"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459009886,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"be9f898a842edc39ba48ae2bcca84a18",
+    "wof:geomhash":"5ccde2936c48b8e38c2a7c51cea888d2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -156,7 +157,7 @@
         }
     ],
     "wof:id":421196577,
-    "wof:lastmodified":1690875635,
+    "wof:lastmodified":1695886798,
     "wof:name":"Alaus\u00ed",
     "wof:parent_id":85670931,
     "wof:placetype":"county",

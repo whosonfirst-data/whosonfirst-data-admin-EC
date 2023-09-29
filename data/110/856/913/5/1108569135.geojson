@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047773,
-    "geom:area_square_m":589817728.414354,
+    "geom:area_square_m":589817954.668579,
     "geom:bbox":"-79.913629,-3.276428,-79.585779,-3.040236",
     "geom:latitude":-3.164603,
     "geom:longitude":-79.777645,
@@ -113,9 +113,10 @@
         "hasc:id":"EC.EO.EG",
         "wd:id":"Q2448730"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064421,
-    "wof:geomhash":"b3e221e0b5177a68bbc16cdbec91b247",
+    "wof:geomhash":"ce15469b3267c4e76d539938879744d4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -125,7 +126,7 @@
         }
     ],
     "wof:id":1108569135,
-    "wof:lastmodified":1690875602,
+    "wof:lastmodified":1695886626,
     "wof:name":"El Guabo",
     "wof:parent_id":85670887,
     "wof:placetype":"county",

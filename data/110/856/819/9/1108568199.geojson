@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014333,
-    "geom:area_square_m":177159830.818262,
+    "geom:area_square_m":177159616.909415,
     "geom:bbox":"-79.347055,-1.655802,-79.093366,-1.533263",
     "geom:latitude":-1.606658,
     "geom:longitude":-79.216079,
@@ -107,9 +107,10 @@
         "hasc:id":"EC.BO.CA",
         "wd:id":"Q605964"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064382,
-    "wof:geomhash":"0367465eb63d7a22e4083b60416034fd",
+    "wof:geomhash":"bdefb1e5c3e18a2524eb682580c6705b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1108568199,
-    "wof:lastmodified":1690875599,
+    "wof:lastmodified":1695886625,
     "wof:name":"Caluma",
     "wof:parent_id":85670905,
     "wof:placetype":"county",

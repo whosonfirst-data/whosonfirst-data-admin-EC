@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031408,
-    "geom:area_square_m":388136541.605758,
+    "geom:area_square_m":388136589.848105,
     "geom:bbox":"-79.892155,-2.154055,-79.639651,-1.865938",
     "geom:latitude":-1.98752,
     "geom:longitude":-79.783814,
@@ -141,12 +141,13 @@
         "qs_pg:id":1110308,
         "wd:id":"Q2051898"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459009614,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b8ae493c55032bcbef04145088477428",
+    "wof:geomhash":"f6c2c6c7dc162bec192d401928e07d77",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -156,7 +157,7 @@
         }
     ],
     "wof:id":421189217,
-    "wof:lastmodified":1690875626,
+    "wof:lastmodified":1695886796,
     "wof:name":"Samborond\u00f3n",
     "wof:parent_id":85670917,
     "wof:placetype":"county",

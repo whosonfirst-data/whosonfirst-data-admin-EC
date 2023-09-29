@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018096,
-    "geom:area_square_m":223635538.33881,
+    "geom:area_square_m":223635520.376824,
     "geom:bbox":"-79.643467,-2.026529,-79.438224,-1.880151",
     "geom:latitude":-1.945813,
     "geom:longitude":-79.542292,
@@ -101,9 +101,10 @@
         "hasc:id":"EC.GY.AB",
         "wd:id":"Q2466508"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064358,
-    "wof:geomhash":"5bab06baf127fc5db498a7a865b24e0e",
+    "wof:geomhash":"acb955ec62ee20a09f1670180d96a48a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1108567563,
-    "wof:lastmodified":1690875603,
+    "wof:lastmodified":1695886626,
     "wof:name":"Alfredo Baquerizo Moreno",
     "wof:parent_id":85670917,
     "wof:placetype":"county",

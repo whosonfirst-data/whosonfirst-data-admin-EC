@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037592,
-    "geom:area_square_m":464576098.701643,
+    "geom:area_square_m":464576136.589427,
     "geom:bbox":"-80.065689,-2.062027,-79.832831,-1.772093",
     "geom:latitude":-1.895544,
     "geom:longitude":-79.943608,
@@ -132,12 +132,13 @@
         "qs_pg:id":911528,
         "wd:id":"Q1990162"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459010051,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0f7d0b50db827a92812f262ab4a93dad",
+    "wof:geomhash":"6cb640a920cc2fce5aae31d1c0df2718",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":421201111,
-    "wof:lastmodified":1690875641,
+    "wof:lastmodified":1695886798,
     "wof:name":"Daule",
     "wof:parent_id":85670917,
     "wof:placetype":"county",

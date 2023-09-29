@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.120366,
-    "geom:area_square_m":1488298233.162052,
+    "geom:area_square_m":1488298840.750005,
     "geom:bbox":"-78.951864,-0.719393,-78.315386,-0.270321",
     "geom:latitude":-0.488552,
     "geom:longitude":-78.627875,
@@ -138,12 +138,13 @@
         "qs_pg:id":369018,
         "wd:id":"Q1990543"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459009066,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"29f2e77796554f43e1b5fcf4abc40e34",
+    "wof:geomhash":"3bbd1bb0f4da3da990797d14c7f611f1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -153,7 +154,7 @@
         }
     ],
     "wof:id":421175413,
-    "wof:lastmodified":1690875632,
+    "wof:lastmodified":1695886797,
     "wof:name":"Mej\u00eda",
     "wof:parent_id":85670945,
     "wof:placetype":"county",

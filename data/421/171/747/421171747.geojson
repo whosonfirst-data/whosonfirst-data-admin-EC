@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.177375,
-    "geom:area_square_m":2193275774.58666,
+    "geom:area_square_m":2193275609.247494,
     "geom:bbox":"-77.969155,-0.150262,-77.244947,0.342703",
     "geom:latitude":0.079067,
     "geom:longitude":-77.5805,
@@ -180,12 +180,13 @@
         "qs_pg:id":1264186,
         "wd:id":"Q1990055"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459008905,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4c0f74a50db30786c9d6911da31be420",
+    "wof:geomhash":"dcff7e97dfe10f637c25dd60b7f4fd03",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -195,7 +196,7 @@
         }
     ],
     "wof:id":421171747,
-    "wof:lastmodified":1690875654,
+    "wof:lastmodified":1695886799,
     "wof:name":"Gonzalo Pizarro",
     "wof:parent_id":85670977,
     "wof:placetype":"county",

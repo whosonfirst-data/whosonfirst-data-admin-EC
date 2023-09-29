@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.446626,
-    "geom:area_square_m":17887641851.042332,
+    "geom:area_square_m":17887641636.646732,
     "geom:bbox":"-77.969155,-0.658076,-75.223009,0.662214",
     "geom:latitude":-0.017923,
     "geom:longitude":-76.576108,
@@ -320,16 +320,18 @@
         "gn:id":3830305,
         "gp:id":2345222,
         "hasc:id":"EC.SU",
+        "iso:code":"EC-U",
         "iso:id":"EC-U",
         "qs_pg:id":423744,
         "wd:id":"Q499456",
         "wk:page":"Sucumb\u00edos Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"EC",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1d6bccd81f32f1c1034ac5751c611b2e",
+    "wof:geomhash":"8022fc49c4f0cd54ee8b8f04f7a20ec6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -346,7 +348,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1690875581,
+    "wof:lastmodified":1695884921,
     "wof:name":"Sucumbios",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

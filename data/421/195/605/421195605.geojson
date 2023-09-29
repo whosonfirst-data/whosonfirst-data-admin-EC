@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050329,
-    "geom:area_square_m":621024906.359446,
+    "geom:area_square_m":621025016.238801,
     "geom:bbox":"-79.9494,-3.844436,-79.630748,-3.571294",
     "geom:latitude":-3.702263,
     "geom:longitude":-79.779816,
@@ -210,12 +210,13 @@
         "qs_pg:id":115842,
         "wd:id":"Q740750"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459009853,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"388c1261803330b8a0686e5c2efa104c",
+    "wof:geomhash":"475eeab1f2afce9feef08f548daa99f9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -225,7 +226,7 @@
         }
     ],
     "wof:id":421195605,
-    "wof:lastmodified":1690875611,
+    "wof:lastmodified":1695886796,
     "wof:name":"Pi\u00f1as",
     "wof:parent_id":85670887,
     "wof:placetype":"county",

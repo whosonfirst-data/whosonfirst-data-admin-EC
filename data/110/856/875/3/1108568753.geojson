@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053935,
-    "geom:area_square_m":666399359.490418,
+    "geom:area_square_m":666399358.588153,
     "geom:bbox":"-79.60894,-2.368142,-79.13005,-2.177371",
     "geom:latitude":-2.267999,
     "geom:longitude":-79.35961,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"EC.GY.CM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064406,
-    "wof:geomhash":"79d0f5d809041c66edc28bae10b51006",
+    "wof:geomhash":"c3a6588db9b209621ef0d220433b342b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108568753,
-    "wof:lastmodified":1627522037,
+    "wof:lastmodified":1695886548,
     "wof:name":"Coronel Marcelino Maridue\u00f1a",
     "wof:parent_id":85670917,
     "wof:placetype":"county",

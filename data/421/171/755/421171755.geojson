@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.160935,
-    "geom:area_square_m":1988011174.000747,
+    "geom:area_square_m":1988010811.526457,
     "geom:bbox":"-79.832108,-2.859307,-79.36559,-2.289306",
     "geom:latitude":-2.556032,
     "geom:longitude":-79.615589,
@@ -107,12 +107,13 @@
         "hasc:id":"EC.GY.NL",
         "qs_pg:id":1264193
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459008905,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e054e4e824e590e69005880cb073580c",
+    "wof:geomhash":"c10aecd87d7b2c2f632fb80f8cacf84e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":421171755,
-    "wof:lastmodified":1627522037,
+    "wof:lastmodified":1695886547,
     "wof:name":"Naranjal",
     "wof:parent_id":85670917,
     "wof:placetype":"county",

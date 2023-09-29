@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.10525,
-    "geom:area_square_m":1301240415.542139,
+    "geom:area_square_m":1301240403.356812,
     "geom:bbox":"-79.194482,-1.196234,-78.611119,-0.80975",
     "geom:latitude":-0.989634,
     "geom:longitude":-78.896877,
@@ -132,12 +132,13 @@
         "qs_pg:id":897122,
         "wd:id":"Q385955"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459009445,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e7015c4f0f25e63521f75c060b8a9af4",
+    "wof:geomhash":"e7a6d24a72cba02d7c629e15a19ba2d0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":421185497,
-    "wof:lastmodified":1690875655,
+    "wof:lastmodified":1695886799,
     "wof:name":"Pujil\u00ed",
     "wof:parent_id":85670915,
     "wof:placetype":"county",

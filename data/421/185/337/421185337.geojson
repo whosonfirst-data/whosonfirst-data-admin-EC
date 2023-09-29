@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.081876,
-    "geom:area_square_m":1011954416.390516,
+    "geom:area_square_m":1011954019.58087,
     "geom:bbox":"-78.897528,-1.949254,-78.394893,-1.460494",
     "geom:latitude":-1.71728,
     "geom:longitude":-78.634856,
@@ -144,12 +144,13 @@
         "qs_pg:id":890675,
         "wd:id":"Q2448899"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459009439,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2e02eef264e088d6d5494bd4b7ae721a",
+    "wof:geomhash":"2d4744a8d2d5648225929c0454db688c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -159,7 +160,7 @@
         }
     ],
     "wof:id":421185337,
-    "wof:lastmodified":1690875655,
+    "wof:lastmodified":1695886799,
     "wof:name":"Riobamba",
     "wof:parent_id":85670931,
     "wof:placetype":"county",

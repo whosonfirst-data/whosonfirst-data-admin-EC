@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019533,
-    "geom:area_square_m":240830854.492909,
+    "geom:area_square_m":240830848.730584,
     "geom:bbox":"-79.470235,-4.455985,-79.303449,-4.237541",
     "geom:latitude":-4.340345,
     "geom:longitude":-79.379911,
@@ -98,9 +98,10 @@
         "hasc:id":"EC.LJ.QU",
         "wd:id":"Q627330"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064531,
-    "wof:geomhash":"b652e0176dded58e7f66023ad3968dde",
+    "wof:geomhash":"82c749047fe85c11594f719192664729",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1108571879,
-    "wof:lastmodified":1690875590,
+    "wof:lastmodified":1695886622,
     "wof:name":"Quilanga",
     "wof:parent_id":85670891,
     "wof:placetype":"county",

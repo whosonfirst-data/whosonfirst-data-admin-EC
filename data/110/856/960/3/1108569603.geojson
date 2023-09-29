@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029754,
-    "geom:area_square_m":367438096.478281,
+    "geom:area_square_m":367438356.177698,
     "geom:bbox":"-78.914849,-3.026298,-78.627373,-2.806158",
     "geom:latitude":-2.919974,
     "geom:longitude":-78.771982,
@@ -107,9 +107,10 @@
         "hasc:id":"EC.AZ.GL",
         "wd:id":"Q2466629"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064439,
-    "wof:geomhash":"7a7f7879fccfbd5051d03bf2a9e171ea",
+    "wof:geomhash":"77dc58ea40c013f25eb4694ba0d2b929",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1108569603,
-    "wof:lastmodified":1690875603,
+    "wof:lastmodified":1695886626,
     "wof:name":"Gualaceo",
     "wof:parent_id":85670885,
     "wof:placetype":"county",

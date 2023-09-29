@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.90362,
-    "geom:area_square_m":11144870152.864212,
+    "geom:area_square_m":11144870539.916595,
     "geom:bbox":"-80.485956,-4.744841,-79.096636,-3.32675",
     "geom:latitude":-4.089208,
     "geom:longitude":-79.655417,
@@ -319,17 +319,19 @@
         "gn:id":3654665,
         "gp:id":2345213,
         "hasc:id":"EC.LJ",
+        "iso:code":"EC-L",
         "iso:id":"EC-L",
         "qs_pg:id":423742,
         "unlc:id":"EC-L",
         "wd:id":"Q504238",
         "wk:page":"Loja Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"EC",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bbc5ff06979f25ce2bbca3d0d4b34b50",
+    "wof:geomhash":"976458d3f6eeb4c96aa13b6db80ba53d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -346,7 +348,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1690875575,
+    "wof:lastmodified":1695884920,
     "wof:name":"Loja",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.730634,
-    "geom:area_square_m":21397381441.48827,
+    "geom:area_square_m":21397379898.258705,
     "geom:bbox":"-77.627997,-1.563567,-75.188794,-0.03698",
     "geom:latitude":-0.778256,
     "geom:longitude":-76.372775,
@@ -318,17 +318,19 @@
         "gn:id":3830306,
         "gp:id":20070099,
         "hasc:id":"EC.OR",
+        "iso:code":"EC-D",
         "iso:id":"EC-D",
         "qs_pg:id":424304,
         "unlc:id":"EC-D",
         "wd:id":"Q499475",
         "wk:page":"Orellana Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"EC",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"820d8e9a3dbafe8af7d47cd5635e5ad3",
+    "wof:geomhash":"e085dec48e3d48fc237d0d0dc5cae985",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -345,7 +347,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1690875581,
+    "wof:lastmodified":1695884921,
     "wof:name":"Orellana",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

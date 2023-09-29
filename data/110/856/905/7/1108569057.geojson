@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.282245,
-    "geom:area_square_m":3489979567.919719,
+    "geom:area_square_m":3489979583.441166,
     "geom:bbox":"-78.190702,-0.518549,-77.250341,0.037147",
     "geom:latitude":-0.249126,
     "geom:longitude":-77.670371,
@@ -119,9 +119,10 @@
         "hasc:id":"EC.NA.EL",
         "wd:id":"Q1989394"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064418,
-    "wof:geomhash":"605218aba361f7f6d8ad144dd9c31d9f",
+    "wof:geomhash":"70eb439bf164bb40e397227f570305e1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -131,7 +132,7 @@
         }
     ],
     "wof:id":1108569057,
-    "wof:lastmodified":1690875603,
+    "wof:lastmodified":1695886627,
     "wof:name":"El Chaco",
     "wof:parent_id":85670953,
     "wof:placetype":"county",

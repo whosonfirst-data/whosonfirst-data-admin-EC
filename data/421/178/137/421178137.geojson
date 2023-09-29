@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.098488,
-    "geom:area_square_m":1217802720.22455,
+    "geom:area_square_m":1217802798.538619,
     "geom:bbox":"-77.156828,-0.464935,-76.601755,-0.053715",
     "geom:latitude":-0.277713,
     "geom:longitude":-76.889712,
@@ -96,12 +96,13 @@
         "qs_pg:id":44036,
         "wd:id":"Q1992899"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459009172,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c6f951281fa8b5b98e09d64aa5ce7835",
+    "wof:geomhash":"52236fbb28a67fc77ba9d9d6cccd0537",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":421178137,
-    "wof:lastmodified":1627522037,
+    "wof:lastmodified":1695886547,
     "wof:name":"Joya de los Sachas",
     "wof:parent_id":85670941,
     "wof:placetype":"county",

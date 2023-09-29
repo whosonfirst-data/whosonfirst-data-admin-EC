@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.099077,
-    "geom:area_square_m":1221774677.558142,
+    "geom:area_square_m":1221774792.487308,
     "geom:bbox":"-80.485956,-4.486707,-80.101244,-3.980349",
     "geom:latitude":-4.223093,
     "geom:longitude":-80.323963,
@@ -95,9 +95,10 @@
         "hasc:id":"EC.LJ.ZA",
         "wd:id":"Q948227"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064595,
-    "wof:geomhash":"307f442e676b50d5ed281453e47a0664",
+    "wof:geomhash":"6ba1a2aac974b30aea0b7848d5b67410",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108573397,
-    "wof:lastmodified":1690875586,
+    "wof:lastmodified":1695886621,
     "wof:name":"Zapotillo",
     "wof:parent_id":85670891,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.587659,
-    "geom:area_square_m":7264348318.355412,
+    "geom:area_square_m":7264349465.424256,
     "geom:bbox":"-79.872545,-2.131365,-79.077456,-0.532686",
     "geom:latitude":-1.344793,
     "geom:longitude":-79.487591,
@@ -321,16 +321,18 @@
         "gn:id":3654592,
         "gp:id":2345214,
         "hasc:id":"EC.LR",
+        "iso:code":"EC-R",
         "iso:id":"EC-R",
         "qs_pg:id":423743,
         "wd:id":"Q504260",
         "wk:page":"Los R\u00edos Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"EC",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c1cf979e65ec6068e0379570cc7fb693",
+    "wof:geomhash":"eaa0ebf62375975835218f015434ae50",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -347,7 +349,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1690875582,
+    "wof:lastmodified":1695884921,
     "wof:name":"Los Rios",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

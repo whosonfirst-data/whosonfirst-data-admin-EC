@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030099,
-    "geom:area_square_m":372040725.945197,
+    "geom:area_square_m":372040918.230772,
     "geom:bbox":"-78.544023,-1.674142,-78.357451,-1.429984",
     "geom:latitude":-1.561902,
     "geom:longitude":-78.449416,
@@ -125,12 +125,13 @@
         "qs_pg:id":995778,
         "wd:id":"Q2448780"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459009409,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"02e37aae7b7802539d092b5e6b871a24",
+    "wof:geomhash":"324e2f5070c808bfadac384ea755de64",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -140,7 +141,7 @@
         }
     ],
     "wof:id":421184411,
-    "wof:lastmodified":1690875644,
+    "wof:lastmodified":1695886798,
     "wof:name":"Penipe",
     "wof:parent_id":85670931,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005433,
-    "geom:area_square_m":67038028.664069,
+    "geom:area_square_m":67038015.268531,
     "geom:bbox":"-79.877855,-3.822264,-79.788607,-3.720088",
     "geom:latitude":-3.765213,
     "geom:longitude":-79.837816,
@@ -143,9 +143,10 @@
         "hasc:id":"EC.EO.BA",
         "wd:id":"Q2448322"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064372,
-    "wof:geomhash":"a9f35bd39b9902080f9df81ef42c7c0b",
+    "wof:geomhash":"e56262dc543cd0e83289f6d67cfb4312",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -155,7 +156,7 @@
         }
     ],
     "wof:id":1108567915,
-    "wof:lastmodified":1690875598,
+    "wof:lastmodified":1695886045,
     "wof:name":"Balsas",
     "wof:parent_id":85670887,
     "wof:placetype":"county",

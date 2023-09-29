@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.078228,
-    "geom:area_square_m":965731991.993866,
+    "geom:area_square_m":965731672.824797,
     "geom:bbox":"-78.657896,-3.509989,-78.125369,-3.031607",
     "geom:latitude":-3.261372,
     "geom:longitude":-78.381818,
@@ -101,9 +101,10 @@
         "hasc:id":"EC.MS.SJ",
         "wd:id":"Q1990469"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064544,
-    "wof:geomhash":"7b9453a69357528aa80bf2386c519501",
+    "wof:geomhash":"7136f32d2d2ff7346e0c61fb9bd31a31",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1108572097,
-    "wof:lastmodified":1690875594,
+    "wof:lastmodified":1695886624,
     "wof:name":"San Juan Bosco",
     "wof:parent_id":85670935,
     "wof:placetype":"county",

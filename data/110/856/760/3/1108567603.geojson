@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083108,
-    "geom:area_square_m":1027385953.301509,
+    "geom:area_square_m":1027385519.825909,
     "geom:bbox":"-78.936449,-1.470084,-78.534667,-1.105231",
     "geom:latitude":-1.276341,
     "geom:longitude":-78.748775,
@@ -116,9 +116,10 @@
         "hasc:id":"EC.TU.AM",
         "wd:id":"Q1990525"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064359,
-    "wof:geomhash":"85375c620d2a850db5422c1546fde834",
+    "wof:geomhash":"4ecc28401b320c27655cf9357821aed1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -128,7 +129,7 @@
         }
     ],
     "wof:id":1108567603,
-    "wof:lastmodified":1690875602,
+    "wof:lastmodified":1695886044,
     "wof:name":"Ambato",
     "wof:parent_id":85670959,
     "wof:placetype":"county",

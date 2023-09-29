@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.153086,
-    "geom:area_square_m":1888173907.949126,
+    "geom:area_square_m":1888174395.635073,
     "geom:bbox":"-79.541484,-4.506712,-79.096636,-3.666113",
     "geom:latitude":-4.060607,
     "geom:longitude":-79.249608,
@@ -180,12 +180,13 @@
         "qs_pg:id":891812,
         "wd:id":"Q1158141"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459009320,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5f691efd84c6ec8a1016d8f2542acb6e",
+    "wof:geomhash":"aee4a13f6ff54ef0134523df38165389",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -195,7 +196,7 @@
         }
     ],
     "wof:id":421182159,
-    "wof:lastmodified":1690875650,
+    "wof:lastmodified":1695886047,
     "wof:name":"Loja",
     "wof:parent_id":85670891,
     "wof:placetype":"county",

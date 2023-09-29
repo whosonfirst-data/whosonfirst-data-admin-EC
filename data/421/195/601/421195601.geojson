@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.089637,
-    "geom:area_square_m":1107807110.293318,
+    "geom:area_square_m":1107807317.005054,
     "geom:bbox":"-79.671544,-2.131365,-79.18981,-1.617126",
     "geom:latitude":-1.838314,
     "geom:longitude":-79.430424,
@@ -141,12 +141,13 @@
         "qs_pg:id":115834,
         "wd:id":"Q1990171"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459009853,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"adbb3b8733f514a5f0146f0ca76f6c32",
+    "wof:geomhash":"a86ff974cdd6e5c02c8b902e0325fb19",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -156,7 +157,7 @@
         }
     ],
     "wof:id":421195601,
-    "wof:lastmodified":1690875612,
+    "wof:lastmodified":1695886046,
     "wof:name":"Babahoyo",
     "wof:parent_id":85670923,
     "wof:placetype":"county",

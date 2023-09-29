@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.175947,
-    "geom:area_square_m":2175471993.802384,
+    "geom:area_square_m":2175471610.9619,
     "geom:bbox":"-77.627997,-0.948163,-77.067586,-0.344619",
     "geom:latitude":-0.640614,
     "geom:longitude":-77.34938,
@@ -207,12 +207,13 @@
         "qs_pg:id":1119690,
         "wd:id":"Q3586431"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459009424,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5d98c69d4450c63fb5409cfa8b2e20c6",
+    "wof:geomhash":"fa124dca96150f864529c9b7fa14916d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -222,7 +223,7 @@
         }
     ],
     "wof:id":421184851,
-    "wof:lastmodified":1690875643,
+    "wof:lastmodified":1695886047,
     "wof:name":"Loreto",
     "wof:parent_id":85670941,
     "wof:placetype":"county",

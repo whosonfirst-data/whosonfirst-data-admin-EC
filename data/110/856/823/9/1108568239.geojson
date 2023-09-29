@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.06834,
-    "geom:area_square_m":842614899.703794,
+    "geom:area_square_m":842614791.156523,
     "geom:bbox":"-79.766877,-4.527314,-79.42339,-4.147591",
     "geom:latitude":-4.337074,
     "geom:longitude":-79.600057,
@@ -104,9 +104,10 @@
         "hasc:id":"EC.LJ.CV",
         "wd:id":"Q1989880"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064384,
-    "wof:geomhash":"d2302bc6a65896fdc44451e25c83697e",
+    "wof:geomhash":"53b144535b58d770d027a3b4f02078c0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1108568239,
-    "wof:lastmodified":1690875604,
+    "wof:lastmodified":1695886627,
     "wof:name":"Calvas",
     "wof:parent_id":85670891,
     "wof:placetype":"county",

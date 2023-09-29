@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.088315,
-    "geom:area_square_m":1089947659.164012,
+    "geom:area_square_m":1089947725.030237,
     "geom:bbox":"-79.497513,-3.722616,-79.098081,-3.32675",
     "geom:latitude":-3.535994,
     "geom:longitude":-79.305867,
@@ -132,12 +132,13 @@
         "qs_pg:id":1002632,
         "wd:id":"Q1990045"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459009417,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0eaf2115005e0ecca0b4088b0b617315",
+    "wof:geomhash":"3b0ab72212e93058200f9df54ba39afb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":421184627,
-    "wof:lastmodified":1690875643,
+    "wof:lastmodified":1695886798,
     "wof:name":"Saraguro",
     "wof:parent_id":85670891,
     "wof:placetype":"county",

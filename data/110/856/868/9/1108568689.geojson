@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.062874,
-    "geom:area_square_m":777172481.746099,
+    "geom:area_square_m":777172258.934739,
     "geom:bbox":"-80.285435,-1.671813,-79.866578,-1.349883",
     "geom:latitude":-1.528701,
     "geom:longitude":-80.086365,
@@ -107,9 +107,10 @@
         "hasc:id":"EC.GY.CO",
         "wd:id":"Q1990070"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064402,
-    "wof:geomhash":"cea429e6a93fb207a229dcc2a9a2ccb1",
+    "wof:geomhash":"ce45d1ced2269f3f5080e09e2f8b015a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1108568689,
-    "wof:lastmodified":1690875600,
+    "wof:lastmodified":1695886625,
     "wof:name":"Colimes",
     "wof:parent_id":85670917,
     "wof:placetype":"county",

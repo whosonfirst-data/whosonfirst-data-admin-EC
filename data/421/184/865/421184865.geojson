@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.102646,
-    "geom:area_square_m":1269160386.720421,
+    "geom:area_square_m":1269160441.911104,
     "geom:bbox":"-79.108998,-0.891737,-78.725552,-0.331313",
     "geom:latitude":-0.641526,
     "geom:longitude":-78.916668,
@@ -132,12 +132,13 @@
         "qs_pg:id":1119697,
         "wd:id":"Q2639966"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459009424,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"aed8863d078a95664d9e18cdfc4fa6a2",
+    "wof:geomhash":"d69382d8df5f840395213f11e4b344c6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":421184865,
-    "wof:lastmodified":1690875645,
+    "wof:lastmodified":1695886798,
     "wof:name":"Sigchos",
     "wof:parent_id":85670915,
     "wof:placetype":"county",

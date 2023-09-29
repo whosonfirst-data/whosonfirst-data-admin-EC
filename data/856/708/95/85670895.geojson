@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.86221,
-    "geom:area_square_m":10632864757.117531,
+    "geom:area_square_m":10632864926.947292,
     "geom:bbox":"-79.429451,-5.013975,-78.36667,-3.331658",
     "geom:latitude":-4.170697,
     "geom:longitude":-78.902971,
@@ -309,17 +309,19 @@
         "gn:id":3649953,
         "gp:id":2345221,
         "hasc:id":"EC.ZC",
+        "iso:code":"EC-Z",
         "iso:id":"EC-Z",
         "qs_pg:id":219550,
         "unlc:id":"EC-Z",
         "wd:id":"Q744670",
         "wk:page":"Zamora-Chinchipe Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"EC",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e48889705e59b538e59e8724a03adfc0",
+    "wof:geomhash":"7a4c663ebe7d363cb7743e1fba7128cf",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -336,7 +338,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1690875574,
+    "wof:lastmodified":1695884920,
     "wof:name":"Zamora Chinchipe",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

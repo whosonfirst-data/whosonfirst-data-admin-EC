@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063039,
-    "geom:area_square_m":778311931.599573,
+    "geom:area_square_m":778311870.892594,
     "geom:bbox":"-79.617476,-3.369837,-79.224709,-2.902272",
     "geom:latitude":-3.150514,
     "geom:longitude":-79.3996,
@@ -156,12 +156,13 @@
         "qs_pg:id":1110310,
         "wd:id":"Q2466558"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459009614,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a868d5a157fda8eb8dfea0d358c83c75",
+    "wof:geomhash":"09699eaa6196cbf4e32da55e74b9be6a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -171,7 +172,7 @@
         }
     ],
     "wof:id":421189221,
-    "wof:lastmodified":1690875626,
+    "wof:lastmodified":1695886047,
     "wof:name":"Santa Isabel",
     "wof:parent_id":85670885,
     "wof:placetype":"county",

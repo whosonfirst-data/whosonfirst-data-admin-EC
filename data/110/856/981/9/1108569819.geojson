@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005275,
-    "geom:area_square_m":65111260.939137,
+    "geom:area_square_m":65111448.002515,
     "geom:bbox":"-80.245001,-3.502358,-80.118805,-3.417944",
     "geom:latitude":-3.461003,
     "geom:longitude":-80.185166,
@@ -113,9 +113,10 @@
         "hasc:id":"EC.EO.HU",
         "wd:id":"Q940256"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064446,
-    "wof:geomhash":"08acf51da2078485be4a142242a77053",
+    "wof:geomhash":"d68eead9b0aba61eb5b099e05b094b08",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -125,7 +126,7 @@
         }
     ],
     "wof:id":1108569819,
-    "wof:lastmodified":1690875606,
+    "wof:lastmodified":1695886628,
     "wof:name":"Huaquillas",
     "wof:parent_id":85670887,
     "wof:placetype":"county",

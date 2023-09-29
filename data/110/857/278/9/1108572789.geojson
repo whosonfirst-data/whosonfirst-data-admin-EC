@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053696,
-    "geom:area_square_m":662973134.302347,
+    "geom:area_square_m":662973396.529985,
     "geom:bbox":"-79.025043,-3.28557,-78.668403,-2.975588",
     "geom:latitude":-3.12785,
     "geom:longitude":-78.854731,
@@ -108,9 +108,10 @@
         "hasc:id":"EC.AZ.SG",
         "wd:id":"Q2466113"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064571,
-    "wof:geomhash":"26e4b1d039ab0b25e470cc991e44a8b2",
+    "wof:geomhash":"6b999fb9d91ce9d72d859e630e2d1fb4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":1108572789,
-    "wof:lastmodified":1690875592,
+    "wof:lastmodified":1695886623,
     "wof:name":"Sigsig",
     "wof:parent_id":85670885,
     "wof:placetype":"county",

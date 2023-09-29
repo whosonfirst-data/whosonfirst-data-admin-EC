@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.129999,
-    "geom:area_square_m":1607405140.352733,
+    "geom:area_square_m":1607405140.59908,
     "geom:bbox":"-78.255278,-0.663772,-77.557928,-0.235301",
     "geom:latitude":-0.466589,
     "geom:longitude":-77.972819,
@@ -114,9 +114,10 @@
         "hasc:id":"EC.NA.QU",
         "wd:id":"Q1989112"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064529,
-    "wof:geomhash":"ba5145345ffb110b67790625ac4df9d7",
+    "wof:geomhash":"d9668cf2f97cbddca39d0829009e8fa3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1108571837,
-    "wof:lastmodified":1690875596,
+    "wof:lastmodified":1695886624,
     "wof:name":"Quijos",
     "wof:parent_id":-1,
     "wof:placetype":"county",

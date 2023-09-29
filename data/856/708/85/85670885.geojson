@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.650931,
-    "geom:area_square_m":8037686835.570027,
+    "geom:area_square_m":8037687226.143045,
     "geom:bbox":"-79.758123,-3.623347,-78.420305,-2.549815",
     "geom:latitude":-3.014888,
     "geom:longitude":-79.146551,
@@ -323,17 +323,19 @@
         "gn:id":3660431,
         "gp:id":2345203,
         "hasc:id":"EC.AZ",
+        "iso:code":"EC-A",
         "iso:id":"EC-A",
         "qs_pg:id":423732,
         "unlc:id":"EC-A",
         "wd:id":"Q220451",
         "wk:page":"Azuay Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"EC",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"36a7232c09253daf07504686911a81ea",
+    "wof:geomhash":"2d93e0344198bbaae6aad8547d0d5b14",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -350,7 +352,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1690875576,
+    "wof:lastmodified":1695884365,
     "wof:name":"Azuay",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

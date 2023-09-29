@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.068937,
-    "geom:area_square_m":851140601.567276,
+    "geom:area_square_m":851140541.373795,
     "geom:bbox":"-79.758123,-3.325055,-79.407259,-2.968852",
     "geom:latitude":-3.144408,
     "geom:longitude":-79.564482,
@@ -101,9 +101,10 @@
         "hasc:id":"EC.AZ.PU",
         "wd:id":"Q2449080"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064519,
-    "wof:geomhash":"15ba2e6513360dee9c30fd54397b41ca",
+    "wof:geomhash":"54cf7a60caa40c530c9605969f3f1b8e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1108571605,
-    "wof:lastmodified":1690875587,
+    "wof:lastmodified":1695886621,
     "wof:name":"Pucar\u00e1",
     "wof:parent_id":85670885,
     "wof:placetype":"county",

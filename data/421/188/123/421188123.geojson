@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.317462,
-    "geom:area_square_m":3925419958.274101,
+    "geom:area_square_m":3925420117.95484,
     "geom:bbox":"-76.52895,-0.658076,-75.223009,-0.00698",
     "geom:latitude":-0.27534,
     "geom:longitude":-75.87817,
@@ -128,12 +128,13 @@
         "qs_pg:id":1087914,
         "wd:id":"Q1990065"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459009535,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0127049e949dd8895fa52f855f035133",
+    "wof:geomhash":"0992ba44c91d9540ab8e64deb6c65251",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -143,7 +144,7 @@
         }
     ],
     "wof:id":421188123,
-    "wof:lastmodified":1690875628,
+    "wof:lastmodified":1695886797,
     "wof:name":"Cuyabeno",
     "wof:parent_id":85670977,
     "wof:placetype":"county",

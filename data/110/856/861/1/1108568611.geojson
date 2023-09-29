@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0213,
-    "geom:area_square_m":263261284.099448,
+    "geom:area_square_m":263261476.320342,
     "geom:bbox":"-79.287045,-1.739599,-79.002394,-1.604089",
     "geom:latitude":-1.670951,
     "geom:longitude":-79.142349,
@@ -110,9 +110,10 @@
         "hasc:id":"EC.BO.CB",
         "wd:id":"Q2466566"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064397,
-    "wof:geomhash":"b08238626e96c9ecfc12021975cf1536",
+    "wof:geomhash":"808e295c880b72a9deaee5cb40f50731",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":1108568611,
-    "wof:lastmodified":1690875599,
+    "wof:lastmodified":1695886625,
     "wof:name":"Chimbo",
     "wof:parent_id":85670905,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042459,
-    "geom:area_square_m":524953267.083834,
+    "geom:area_square_m":524953288.870867,
     "geom:bbox":"-80.234851,-1.044684,-79.870805,-0.809117",
     "geom:latitude":-0.908739,
     "geom:longitude":-80.029297,
@@ -61,9 +61,10 @@
     "wof:concordances":{
         "hasc:id":"EC.MN.BO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064379,
-    "wof:geomhash":"5f70e2bcc30b4949a12a4bdff79b4b98",
+    "wof:geomhash":"8bcc628b99d6a9b4e2290b9f5b9c62de",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":1108568121,
-    "wof:lastmodified":1627522037,
+    "wof:lastmodified":1695886548,
     "wof:name":"Bol\u00edvar",
     "wof:parent_id":85670927,
     "wof:placetype":"county",

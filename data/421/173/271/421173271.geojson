@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05869,
-    "geom:area_square_m":725459921.225329,
+    "geom:area_square_m":725459562.442101,
     "geom:bbox":"-79.872545,-1.741076,-79.517318,-1.311548",
     "geom:latitude":-1.520799,
     "geom:longitude":-79.730827,
@@ -129,12 +129,13 @@
         "qs_pg:id":286231,
         "wd:id":"Q1707682"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459008976,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"743efbdf28a1a20959c4cfe7fddbf9eb",
+    "wof:geomhash":"61f4d5b58fe06b5a779467f66ecc8cd0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":421173271,
-    "wof:lastmodified":1690875625,
+    "wof:lastmodified":1695886796,
     "wof:name":"Vinces",
     "wof:parent_id":85670923,
     "wof:placetype":"county",

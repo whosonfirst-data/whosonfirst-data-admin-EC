@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.436371,
-    "geom:area_square_m":5395494146.353027,
+    "geom:area_square_m":5395494225.730176,
     "geom:bbox":"-91.662941,-1.052139,-90.781219,0.166639",
     "geom:latitude":-0.536158,
     "geom:longitude":-91.224946,
@@ -134,9 +134,10 @@
         "hasc:id":"EC.GA.IS",
         "wd:id":"Q14920554"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064448,
-    "wof:geomhash":"582b178c8ab403f51f8377690c477246",
+    "wof:geomhash":"fe64dbab263cd515543654b87176558e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -146,7 +147,7 @@
         }
     ],
     "wof:id":1108569881,
-    "wof:lastmodified":1690875606,
+    "wof:lastmodified":1695886045,
     "wof:name":"Isabela",
     "wof:parent_id":85670899,
     "wof:placetype":"county",

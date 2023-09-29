@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02487,
-    "geom:area_square_m":307472482.109752,
+    "geom:area_square_m":307472434.277988,
     "geom:bbox":"-81.082085,-1.287917,-80.648781,-0.922139",
     "geom:latitude":-1.026054,
     "geom:longitude":-80.802397,
@@ -152,12 +152,13 @@
         "qs_pg:id":369017,
         "wd:id":"Q1990138"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459009066,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4b6d8e48a31fc416a9ef0d0434baf89a",
+    "wof:geomhash":"709f35b833a54d7fe7d51767f3e10254",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -167,7 +168,7 @@
         }
     ],
     "wof:id":421175411,
-    "wof:lastmodified":1690875634,
+    "wof:lastmodified":1695886047,
     "wof:name":"Manta",
     "wof:parent_id":85670927,
     "wof:placetype":"county",

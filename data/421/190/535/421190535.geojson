@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.266989,
-    "geom:area_square_m":3301313067.241577,
+    "geom:area_square_m":3301312521.335155,
     "geom:bbox":"-79.544931,-0.69801,-78.735132,-0.043204",
     "geom:latitude":-0.32731,
     "geom:longitude":-79.168885,
@@ -79,12 +79,13 @@
         "hasc:id":"EC.PI.SD",
         "qs_pg:id":1119694
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459009660,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5b4df8e0e616ce4d084e3fd21b68684b",
+    "wof:geomhash":"4c4de7a355e9a0756f9e116a1c8a3bc9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":421190535,
-    "wof:lastmodified":1627522038,
+    "wof:lastmodified":1695886549,
     "wof:name":"Santo Domingo de los Colorados",
     "wof:parent_id":85670983,
     "wof:placetype":"county",

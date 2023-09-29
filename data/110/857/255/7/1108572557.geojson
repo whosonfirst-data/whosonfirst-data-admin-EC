@@ -107,6 +107,7 @@
         "hasc:id":"EC.TU.PI",
         "wd:id":"Q3656240"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064561,
     "wof:geomhash":"70cf13d82ceb2d62f19620ab50db1ee0",
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1108572557,
-    "wof:lastmodified":1694492371,
+    "wof:lastmodified":1696023152,
     "wof:name":"Santiago de Pillaro",
     "wof:parent_id":85670959,
     "wof:placetype":"county",

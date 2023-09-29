@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.319096,
-    "geom:area_square_m":3944119380.381306,
+    "geom:area_square_m":3944119186.590034,
     "geom:bbox":"-79.390141,-2.196502,-78.838707,-1.146593",
     "geom:latitude":-1.591461,
     "geom:longitude":-79.102997,
@@ -317,16 +317,18 @@
         "gn:id":3660130,
         "gp:id":2345204,
         "hasc:id":"EC.BO",
+        "iso:code":"EC-B",
         "iso:id":"EC-B",
         "qs_pg:id":1285168,
         "wd:id":"Q261165",
         "wk:page":"Bol\u00edvar Province (Ecuador)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"EC",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"af460cf3e180b2c49e2dab1b2f310ec0",
+    "wof:geomhash":"8ae8ba7e5c6d66d0634041d888f4108f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -343,7 +345,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1690875577,
+    "wof:lastmodified":1695884921,
     "wof:name":"Bolivar",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

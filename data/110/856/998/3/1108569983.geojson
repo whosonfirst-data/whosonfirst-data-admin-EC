@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020643,
-    "geom:area_square_m":255222963.869768,
+    "geom:area_square_m":255222751.207855,
     "geom:bbox":"-80.293655,-1.019114,-80.062536,-0.855988",
     "geom:latitude":-0.939903,
     "geom:longitude":-80.189678,
@@ -116,9 +116,10 @@
         "hasc:id":"EC.MN.JN",
         "wd:id":"Q1992882"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064452,
-    "wof:geomhash":"b4b2c02d4d5edf1a8ad51a54719de02b",
+    "wof:geomhash":"40e378dcf96d8f3abc2ed38e198c5806",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -128,7 +129,7 @@
         }
     ],
     "wof:id":1108569983,
-    "wof:lastmodified":1690875598,
+    "wof:lastmodified":1695886625,
     "wof:name":"Jun\u00edn",
     "wof:parent_id":85670927,
     "wof:placetype":"county",

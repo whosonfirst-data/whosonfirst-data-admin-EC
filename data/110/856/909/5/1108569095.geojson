@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05861,
-    "geom:area_square_m":724616171.822076,
+    "geom:area_square_m":724615834.603785,
     "geom:bbox":"-79.840611,-1.122683,-79.501741,-0.830383",
     "geom:latitude":-0.985689,
     "geom:longitude":-79.657335,
@@ -107,9 +107,10 @@
         "hasc:id":"EC.GY.EE",
         "wd:id":"Q607595"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064419,
-    "wof:geomhash":"0992fbe09db93c3bae4d640c6eb2fa9c",
+    "wof:geomhash":"91f910b955ecfc0aafefbc82a3f1a992",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1108569095,
-    "wof:lastmodified":1690875597,
+    "wof:lastmodified":1695886624,
     "wof:name":"El Empalme",
     "wof:parent_id":85670917,
     "wof:placetype":"county",

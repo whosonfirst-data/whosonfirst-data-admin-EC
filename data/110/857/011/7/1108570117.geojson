@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044504,
-    "geom:area_square_m":549977497.930195,
+    "geom:area_square_m":549977497.929741,
     "geom:bbox":"-80.266599652,-2.10782804488,-80.0490667887,-1.73440610035",
     "geom:latitude":-1.948183,
     "geom:longitude":-80.151914,
@@ -92,9 +92,10 @@
         "hasc:id":"EC.GY.LS",
         "wd:id":"Q1990032"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064462,
-    "wof:geomhash":"09ef5ef8e14ec0522251ec8514dc2310",
+    "wof:geomhash":"5948043c7e3a691da7345e58263f7e4c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108570117,
-    "wof:lastmodified":1566584312,
+    "wof:lastmodified":1695886623,
     "wof:name":"Lomas de Sargentillo",
     "wof:parent_id":85670917,
     "wof:placetype":"county",

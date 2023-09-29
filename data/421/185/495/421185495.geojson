@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.250621,
-    "geom:area_square_m":3095087441.403238,
+    "geom:area_square_m":3095088111.990241,
     "geom:bbox":"-79.593589,-3.174068,-78.84655,-2.554299",
     "geom:latitude":-2.869583,
     "geom:longitude":-79.211658,
@@ -233,12 +233,13 @@
         "qs_pg:id":897121,
         "wd:id":"Q629038"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459009445,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"26fe601b8c4908e429d636d680f92ef3",
+    "wof:geomhash":"bb8c173c6bf19264c340e7c09018d435",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -248,7 +249,7 @@
         }
     ],
     "wof:id":421185495,
-    "wof:lastmodified":1690875656,
+    "wof:lastmodified":1695886799,
     "wof:name":"Cuenca",
     "wof:parent_id":85670885,
     "wof:placetype":"county",

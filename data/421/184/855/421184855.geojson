@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01692,
-    "geom:area_square_m":209196178.780426,
+    "geom:area_square_m":209196326.095409,
     "geom:bbox":"-78.815792,-0.923487,-78.641846,-0.746616",
     "geom:latitude":-0.824873,
     "geom:longitude":-78.739631,
@@ -126,12 +126,13 @@
         "qs_pg:id":1119695,
         "wd:id":"Q920244"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459009424,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e69b268536189a40fc22f1de36ad03d3",
+    "wof:geomhash":"b1d050eb1371610dcc37a7f82aba57d1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":421184855,
-    "wof:lastmodified":1690875645,
+    "wof:lastmodified":1695886798,
     "wof:name":"Saquisil\u00ed",
     "wof:parent_id":85670915,
     "wof:placetype":"county",

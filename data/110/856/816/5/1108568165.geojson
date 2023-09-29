@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046837,
-    "geom:area_square_m":579102106.729541,
+    "geom:area_square_m":579102501.298078,
     "geom:bbox":"-79.608549,-0.957943,-79.34271,-0.532686",
     "geom:latitude":-0.718106,
     "geom:longitude":-79.478629,
@@ -61,9 +61,10 @@
     "wof:concordances":{
         "hasc:id":"EC.LR.BF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064381,
-    "wof:geomhash":"7a2a6270783c33b42c746d8e48fbd564",
+    "wof:geomhash":"d542e728e5ce7ae3f1895ca36141878f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":1108568165,
-    "wof:lastmodified":1627522037,
+    "wof:lastmodified":1695886548,
     "wof:name":"Buena F\u00e9",
     "wof:parent_id":85670923,
     "wof:placetype":"county",

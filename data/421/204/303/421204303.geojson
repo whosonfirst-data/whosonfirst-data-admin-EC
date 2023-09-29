@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.153797,
-    "geom:area_square_m":1901485949.375235,
+    "geom:area_square_m":1901486722.728969,
     "geom:bbox":"-78.545816,0.560062,-77.534288,1.195309",
     "geom:latitude":0.892113,
     "geom:longitude":-78.120854,
@@ -261,12 +261,13 @@
         "qs_pg:id":239109,
         "wd:id":"Q752113"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459010180,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9485661931caf6a56ca21f03a51b4b7c",
+    "wof:geomhash":"4a74c92b2d2e5ecfcbe602e4dcea8500",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -276,7 +277,7 @@
         }
     ],
     "wof:id":421204303,
-    "wof:lastmodified":1690875619,
+    "wof:lastmodified":1695886796,
     "wof:name":"Tulc\u00e1n",
     "wof:parent_id":85670967,
     "wof:placetype":"county",

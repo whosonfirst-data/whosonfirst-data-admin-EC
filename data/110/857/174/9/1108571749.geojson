@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050642,
-    "geom:area_square_m":624694093.017594,
+    "geom:area_square_m":624694158.623056,
     "geom:bbox":"-80.293512,-4.074364,-79.881639,-3.854836",
     "geom:latitude":-3.972203,
     "geom:longitude":-80.072143,
@@ -104,9 +104,10 @@
         "hasc:id":"EC.LJ.PU",
         "wd:id":"Q1989981"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064526,
-    "wof:geomhash":"302d8bb149cebb118f83c57218295d41",
+    "wof:geomhash":"214212baeb8b46845b545124d7023ff5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1108571749,
-    "wof:lastmodified":1690875589,
+    "wof:lastmodified":1695886622,
     "wof:name":"Puyango",
     "wof:parent_id":85670891,
     "wof:placetype":"county",

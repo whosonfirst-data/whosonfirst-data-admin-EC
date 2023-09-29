@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023305,
-    "geom:area_square_m":287556852.935947,
+    "geom:area_square_m":287556984.205122,
     "geom:bbox":"-79.644786,-3.811394,-79.368596,-3.667491",
     "geom:latitude":-3.738775,
     "geom:longitude":-79.501059,
@@ -132,12 +132,13 @@
         "qs_pg:id":1110306,
         "wd:id":"Q661446"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459009614,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a34c91c86b965900e615547823ef1ef5",
+    "wof:geomhash":"e7079e6683ac1c92223b7deb7082a154",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":421189213,
-    "wof:lastmodified":1690875626,
+    "wof:lastmodified":1695886797,
     "wof:name":"Portovelo",
     "wof:parent_id":85670887,
     "wof:placetype":"county",

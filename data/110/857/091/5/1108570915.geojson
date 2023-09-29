@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045607,
-    "geom:area_square_m":563792343.417668,
+    "geom:area_square_m":563792686.299634,
     "geom:bbox":"-79.846804,-1.486634,-79.565937,-1.176051",
     "geom:latitude":-1.329432,
     "geom:longitude":-79.713384,
@@ -104,9 +104,10 @@
         "hasc:id":"EC.LR.PA",
         "wd:id":"Q1990986"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064493,
-    "wof:geomhash":"6e5b4f58c93a23cf6b6ac06d95918c5e",
+    "wof:geomhash":"8e8d807562c0e0bee7df8227c3873851",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1108570915,
-    "wof:lastmodified":1690875588,
+    "wof:lastmodified":1695886622,
     "wof:name":"Palenque",
     "wof:parent_id":85670923,
     "wof:placetype":"county",

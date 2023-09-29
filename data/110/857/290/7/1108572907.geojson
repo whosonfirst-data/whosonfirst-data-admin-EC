@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.121423,
-    "geom:area_square_m":1501378762.104755,
+    "geom:area_square_m":1501379166.808951,
     "geom:bbox":"-77.807948,0.132456,-77.346199,0.662214",
     "geom:latitude":0.39002,
     "geom:longitude":-77.598598,
@@ -122,9 +122,10 @@
         "hasc:id":"EC.SU.SU",
         "wd:id":"Q1992501"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064577,
-    "wof:geomhash":"01a40aa8f48210e76f59eee9cac1ec48",
+    "wof:geomhash":"b56113c6d35a613574339a26b499d54b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":1108572907,
-    "wof:lastmodified":1690875595,
+    "wof:lastmodified":1695886624,
     "wof:name":"Sucumb\u00edos",
     "wof:parent_id":85670977,
     "wof:placetype":"county",

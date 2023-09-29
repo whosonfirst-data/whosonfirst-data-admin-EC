@@ -113,6 +113,7 @@
         "hasc:id":"EC.GY.ST",
         "wd:id":"Q1990368"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064585,
     "wof:geomhash":"826ce2cb556997e77df97092fc478375",
@@ -125,7 +126,7 @@
         }
     ],
     "wof:id":1108573139,
-    "wof:lastmodified":1694492370,
+    "wof:lastmodified":1696023152,
     "wof:name":"Urbina Jado",
     "wof:parent_id":85670917,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.958656,
-    "geom:area_square_m":24194086271.230896,
+    "geom:area_square_m":24194083709.377357,
     "geom:bbox":"-78.949525,-3.584404,-76.691148,-1.444084",
     "geom:latitude":-2.562339,
     "geom:longitude":-78.003384,
@@ -318,17 +318,19 @@
         "gn:id":3654005,
         "gp:id":2345216,
         "hasc:id":"EC.MS",
+        "iso:code":"EC-S",
         "iso:id":"EC-S",
         "qs_pg:id":235590,
         "unlc:id":"EC-S",
         "wd:id":"Q549522",
         "wk:page":"Morona-Santiago Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"EC",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bdedb8937d501ba793b292f1dca8428b",
+    "wof:geomhash":"b7956c819149f2e255d06f5f303e5942",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -345,7 +347,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1690875576,
+    "wof:lastmodified":1695884366,
     "wof:name":"Morona Santiago",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

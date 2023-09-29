@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.127213,
-    "geom:area_square_m":1573006280.898485,
+    "geom:area_square_m":1573006685.872203,
     "geom:bbox":"-79.371496,-0.14133,-78.645337,0.330008",
     "geom:latitude":0.048828,
     "geom:longitude":-79.046738,
@@ -91,12 +91,13 @@
         "hasc:id":"EC.PC.SM",
         "qs_pg:id":1119691
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459009660,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3e1b91117563999d0340948c90abb974",
+    "wof:geomhash":"0a8be4ad33d206d3b0726e7008236ae6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":421190531,
-    "wof:lastmodified":1627522037,
+    "wof:lastmodified":1695886547,
     "wof:name":"San Miguel de los Bancos",
     "wof:parent_id":85670945,
     "wof:placetype":"county",

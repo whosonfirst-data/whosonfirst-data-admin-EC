@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.09222,
-    "geom:area_square_m":1140268518.7284,
+    "geom:area_square_m":1140268164.751382,
     "geom:bbox":"-78.455571,0.159425,-77.950402,0.877563",
     "geom:latitude":0.505603,
     "geom:longitude":-78.170365,
@@ -165,12 +165,13 @@
         "qs_pg:id":1264185,
         "wd:id":"Q295092"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459008905,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a3f54862bf108457f8f045623612deda",
+    "wof:geomhash":"ebcfc3eaccc4743b6bfaafcca33fef80",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -180,7 +181,7 @@
         }
     ],
     "wof:id":421171745,
-    "wof:lastmodified":1690875655,
+    "wof:lastmodified":1695886799,
     "wof:name":"Ibarra",
     "wof:parent_id":85670971,
     "wof:placetype":"county",

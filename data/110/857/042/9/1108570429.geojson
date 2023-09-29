@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029793,
-    "geom:area_square_m":368214703.27922,
+    "geom:area_square_m":368214590.856454,
     "geom:bbox":"-79.458997,-1.934376,-79.195276,-1.664266",
     "geom:latitude":-1.803174,
     "geom:longitude":-79.315303,
@@ -107,9 +107,10 @@
         "hasc:id":"EC.LR.MN",
         "wd:id":"Q1990411"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064475,
-    "wof:geomhash":"d271ca12647219bbb5deba590427e585",
+    "wof:geomhash":"04e79f1a1868c9ed48f5b7dbe359a54e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1108570429,
-    "wof:lastmodified":1690875592,
+    "wof:lastmodified":1695886623,
     "wof:name":"Montalvo",
     "wof:parent_id":85670923,
     "wof:placetype":"county",

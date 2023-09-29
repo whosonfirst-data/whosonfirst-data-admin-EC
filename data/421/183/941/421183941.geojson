@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.261316,
-    "geom:area_square_m":3220513459.666162,
+    "geom:area_square_m":3220513608.863409,
     "geom:bbox":"-79.429451,-5.013975,-78.863844,-4.226745",
     "geom:latitude":-4.664015,
     "geom:longitude":-79.116851,
@@ -137,12 +137,13 @@
         "qs_pg:id":986273,
         "wd:id":"Q1989134"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459009395,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8337d5e502d45b55ce9cb251f21cb647",
+    "wof:geomhash":"95c70d831a9505a2385818482ab8c6bc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -152,7 +153,7 @@
         }
     ],
     "wof:id":421183941,
-    "wof:lastmodified":1690875647,
+    "wof:lastmodified":1695886799,
     "wof:name":"Chinchipe",
     "wof:parent_id":85670895,
     "wof:placetype":"county",

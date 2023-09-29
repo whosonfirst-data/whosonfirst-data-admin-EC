@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051406,
-    "geom:area_square_m":635637220.404419,
+    "geom:area_square_m":635636883.230173,
     "geom:bbox":"-79.176067,0.001178,-78.929185,0.320431",
     "geom:latitude":0.150028,
     "geom:longitude":-79.05622,
@@ -147,12 +147,13 @@
         "qs_pg:id":233710,
         "wd:id":"Q1992916"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459010157,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ee716e1af1dd15e9ce9e8129d7dc98d2",
+    "wof:geomhash":"e42a6161d2637bc7237dbcbf75821da2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -162,7 +163,7 @@
         }
     ],
     "wof:id":421203597,
-    "wof:lastmodified":1690875620,
+    "wof:lastmodified":1695886796,
     "wof:name":"Pedro Vicente Maldonado",
     "wof:parent_id":85670945,
     "wof:placetype":"county",

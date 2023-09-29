@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.526146,
-    "geom:area_square_m":6501982446.18535,
+    "geom:area_square_m":6501982152.580894,
     "geom:bbox":"-79.1396,-2.555529,-78.357451,-1.42681",
     "geom:latitude":-1.969092,
     "geom:longitude":-78.714846,
@@ -346,16 +346,18 @@
         "gn:id":3659237,
         "gp:id":2345207,
         "hasc:id":"EC.CB",
+        "iso:code":"EC-H",
         "iso:id":"EC-H",
         "qs_pg:id":219546,
         "wd:id":"Q238492",
         "wk:page":"Chimborazo Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"EC",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"224aa00890751d769a540dd8e43bbc20",
+    "wof:geomhash":"919d41cd228545a28e107ce3006be723",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -372,7 +374,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1690875579,
+    "wof:lastmodified":1695884921,
     "wof:name":"Chimborazo",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

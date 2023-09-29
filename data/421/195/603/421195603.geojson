@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042764,
-    "geom:area_square_m":527384280.25087,
+    "geom:area_square_m":527384403.568733,
     "geom:bbox":"-80.240759,-4.277251,-79.850864,-4.048298",
     "geom:latitude":-4.166267,
     "geom:longitude":-80.029367,
@@ -141,12 +141,13 @@
         "qs_pg:id":115835,
         "wd:id":"Q1989929"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459009853,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e53ba80f640916499f42e2f059541921",
+    "wof:geomhash":"5651c446ee746c6c0700dbea96546a7a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -156,7 +157,7 @@
         }
     ],
     "wof:id":421195603,
-    "wof:lastmodified":1690875611,
+    "wof:lastmodified":1695886796,
     "wof:name":"Celica",
     "wof:parent_id":85670891,
     "wof:placetype":"county",

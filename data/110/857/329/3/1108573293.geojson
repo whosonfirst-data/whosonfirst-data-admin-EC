@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.101764,
-    "geom:area_square_m":1255840539.595503,
+    "geom:area_square_m":1255840749.660481,
     "geom:bbox":"-79.157606,-3.819634,-78.814977,-3.331658",
     "geom:latitude":-3.605336,
     "geom:longitude":-78.96514,
@@ -110,9 +110,10 @@
         "hasc:id":"EC.ZC.YC",
         "wd:id":"Q1989457"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064591,
-    "wof:geomhash":"485fd46522c0643ae17fbc2c12598b70",
+    "wof:geomhash":"f91a8c26378b73f169443b6898777e78",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":1108573293,
-    "wof:lastmodified":1690875595,
+    "wof:lastmodified":1695886624,
     "wof:name":"Yacuambi",
     "wof:parent_id":85670895,
     "wof:placetype":"county",

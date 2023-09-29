@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013024,
-    "geom:area_square_m":160973337.915975,
+    "geom:area_square_m":160973276.19485,
     "geom:bbox":"-78.631701,-1.806124,-78.425235,-1.677313",
     "geom:latitude":-1.755317,
     "geom:longitude":-78.534856,
@@ -138,12 +138,13 @@
         "qs_pg:id":772744,
         "wd:id":"Q2448802"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459010066,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2fb7399780520c8486dc38e480b8fcb6",
+    "wof:geomhash":"1a84cb720302374cdabdc165fbaaada2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -153,7 +154,7 @@
         }
     ],
     "wof:id":421201227,
-    "wof:lastmodified":1690875640,
+    "wof:lastmodified":1695886798,
     "wof:name":"Chambo",
     "wof:parent_id":85670931,
     "wof:placetype":"county",

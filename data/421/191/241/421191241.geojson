@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.093885,
-    "geom:area_square_m":13512637931.8582,
+    "geom:area_square_m":13512636073.881603,
     "geom:bbox":"-78.673632,-3.318882,-76.691148,-1.968072",
     "geom:latitude":-2.536861,
     "geom:longitude":-77.775113,
@@ -150,12 +150,13 @@
         "qs_pg:id":61225,
         "wd:id":"Q1990574"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459009685,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3acb35c39dd1745b8208a3aae37576ef",
+    "wof:geomhash":"7f783e230bf72b4783d1f6a56d8e03c9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -165,7 +166,7 @@
         }
     ],
     "wof:id":421191241,
-    "wof:lastmodified":1690875636,
+    "wof:lastmodified":1695886797,
     "wof:name":"Morona",
     "wof:parent_id":85670935,
     "wof:placetype":"county",

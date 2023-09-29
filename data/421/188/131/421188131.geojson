@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.340374,
-    "geom:area_square_m":4208755967.163292,
+    "geom:area_square_m":4208755943.94413,
     "geom:bbox":"-78.944185,-0.595832,-78.160569,0.260146",
     "geom:latitude":-0.100685,
     "geom:longitude":-78.516903,
@@ -135,12 +135,13 @@
         "qs_pg:id":1087919,
         "wd:id":"Q2466472"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459009535,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b6515f1fac3c45eff9718be66bbb4e3d",
+    "wof:geomhash":"84ddc20bf9fdceb985450994f7e1d990",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":421188131,
-    "wof:lastmodified":1690875627,
+    "wof:lastmodified":1695886797,
     "wof:name":"Quito",
     "wof:parent_id":85670945,
     "wof:placetype":"county",

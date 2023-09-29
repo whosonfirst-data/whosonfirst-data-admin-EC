@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.014107,
-    "geom:area_square_m":12538618095.528502,
+    "geom:area_square_m":12538619892.962799,
     "geom:bbox":"-78.42271,-1.243855,-77.031939,0.037147",
     "geom:latitude":-0.654198,
     "geom:longitude":-77.819888,
@@ -304,16 +304,18 @@
         "gn:id":3650445,
         "gp:id":2345220,
         "hasc:id":"EC.NA",
+        "iso:code":"EC-N",
         "iso:id":"EC-N",
         "qs_pg:id":1168645,
         "wd:id":"Q504252",
         "wk:page":"Tungurahua Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"EC",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ffbc27ef2eacfe3ac43fa27f545a3be8",
+    "wof:geomhash":"0279f992e38359b1b9212fa0e58a4afa",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -330,7 +332,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1690875579,
+    "wof:lastmodified":1695884921,
     "wof:name":"Napo",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

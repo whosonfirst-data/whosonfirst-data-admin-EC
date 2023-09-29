@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.488891,
-    "geom:area_square_m":6044517365.902821,
+    "geom:area_square_m":6044517502.330825,
     "geom:bbox":"-79.335379,-1.215581,-78.384366,-0.331313",
     "geom:latitude":-0.861913,
     "geom:longitude":-78.855614,
@@ -308,17 +308,19 @@
         "gn:id":3658766,
         "gp:id":2345208,
         "hasc:id":"EC.CT",
+        "iso:code":"EC-X",
         "iso:id":"EC-X",
         "qs_pg:id":894876,
         "unlc:id":"EC-X",
         "wd:id":"Q241140",
         "wk:page":"Cotopaxi Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"EC",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"770234f6f43f9a6d197d78d05a05d693",
+    "wof:geomhash":"174aa90b7c027b8b400df96d33635641",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -335,7 +337,7 @@
         "spa",
         "que"
     ],
-    "wof:lastmodified":1690875582,
+    "wof:lastmodified":1695884921,
     "wof:name":"Cotopaxi",
     "wof:parent_id":85632261,
     "wof:placetype":"region",

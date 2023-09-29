@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050781,
-    "geom:area_square_m":626854151.679365,
+    "geom:area_square_m":626854236.232265,
     "geom:bbox":"-79.306906,-3.470734,-78.935363,-3.191765",
     "geom:latitude":-3.328213,
     "geom:longitude":-79.117671,
@@ -131,12 +131,13 @@
         "qs_pg:id":1064734,
         "wd:id":"Q2449094"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459009478,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"623ada109fe6628dc165cd051038be0f",
+    "wof:geomhash":"209f0d176a75b85c2f0884b314a654cd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -146,7 +147,7 @@
         }
     ],
     "wof:id":421186367,
-    "wof:lastmodified":1690875630,
+    "wof:lastmodified":1695886797,
     "wof:name":"Nab\u00f3n",
     "wof:parent_id":85670885,
     "wof:placetype":"county",

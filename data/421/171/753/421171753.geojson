@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026593,
-    "geom:area_square_m":328825918.780664,
+    "geom:area_square_m":328825880.713337,
     "geom:bbox":"-78.406956,-0.035638,-78.156696,0.151527",
     "geom:latitude":0.05367,
     "geom:longitude":-78.274507,
@@ -135,12 +135,13 @@
         "qs_pg:id":1264192,
         "wd:id":"Q4504255"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459008905,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7a56477ef2d8ac6adbad61c35c6bc996",
+    "wof:geomhash":"fdb38b1e8a99c4d31c2c7d3d0f2844f1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":421171753,
-    "wof:lastmodified":1690875653,
+    "wof:lastmodified":1695886799,
     "wof:name":"Pedro Moncayo",
     "wof:parent_id":85670945,
     "wof:placetype":"county",

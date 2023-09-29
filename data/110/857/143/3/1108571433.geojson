@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037984,
-    "geom:area_square_m":469670447.768281,
+    "geom:area_square_m":469670332.475716,
     "geom:bbox":"-78.030276,0.159618,-77.784663,0.432131",
     "geom:latitude":0.287217,
     "geom:longitude":-77.918761,
@@ -104,9 +104,10 @@
         "hasc:id":"EC.IM.PI",
         "wd:id":"Q1528983"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064513,
-    "wof:geomhash":"d4bf5ce9239ab89e6687202e4b0f99fc",
+    "wof:geomhash":"0064f9358e936201ab80492fa8f41416",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1108571433,
-    "wof:lastmodified":1690875590,
+    "wof:lastmodified":1695886622,
     "wof:name":"Pimampiro",
     "wof:parent_id":85670971,
     "wof:placetype":"county",

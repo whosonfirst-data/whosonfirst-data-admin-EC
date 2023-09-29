@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049414,
-    "geom:area_square_m":609796658.420705,
+    "geom:area_square_m":609796700.730921,
     "geom:bbox":"-78.698111,-3.713581,-78.36667,-3.526339",
     "geom:latitude":-3.61963,
     "geom:longitude":-78.535596,
@@ -104,9 +104,10 @@
         "hasc:id":"EC.ZC.EP",
         "wd:id":"Q1990054"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064424,
-    "wof:geomhash":"b0e7f05d30943d9a123ee589740370fd",
+    "wof:geomhash":"7250077d8347827891e304cd32ba38cb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1108569209,
-    "wof:lastmodified":1690875605,
+    "wof:lastmodified":1695886627,
     "wof:name":"El Pangui",
     "wof:parent_id":85670895,
     "wof:placetype":"county",

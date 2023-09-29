@@ -104,6 +104,7 @@
         "hasc:id":"EC.TU.PE",
         "wd:id":"Q3656220"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064551,
     "wof:geomhash":"110ca78c4355649d2ef70174fb6adc0a",
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1108572289,
-    "wof:lastmodified":1694492370,
+    "wof:lastmodified":1696023150,
     "wof:name":"San Pedro de Pelileo",
     "wof:parent_id":85670959,
     "wof:placetype":"county",

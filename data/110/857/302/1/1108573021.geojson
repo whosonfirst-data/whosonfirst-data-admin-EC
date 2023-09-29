@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004466,
-    "geom:area_square_m":55202811.553816,
+    "geom:area_square_m":55202873.001115,
     "geom:bbox":"-78.719848,-1.403353,-78.628403,-1.317271",
     "geom:latitude":-1.364203,
     "geom:longitude":-78.670765,
@@ -101,9 +101,10 @@
         "hasc:id":"EC.TU.TI",
         "wd:id":"Q3656352"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064581,
-    "wof:geomhash":"a194cc445df84607cbd4ed98b2cb603c",
+    "wof:geomhash":"38ac086c9b9a473661e35660fc9b529b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1108573021,
-    "wof:lastmodified":1690875592,
+    "wof:lastmodified":1695886623,
     "wof:name":"Tisaleo",
     "wof:parent_id":85670959,
     "wof:placetype":"county",

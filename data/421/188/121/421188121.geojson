@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007446,
-    "geom:area_square_m":91951623.266443,
+    "geom:area_square_m":91951273.131169,
     "geom:bbox":"-78.79282,-3.049675,-78.667952,-2.905188",
     "geom:latitude":-2.983493,
     "geom:longitude":-78.737736,
@@ -125,12 +125,13 @@
         "qs_pg:id":1087913,
         "wd:id":"Q768756"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459009535,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4685534d661ce776260e9fb81da5bc0a",
+    "wof:geomhash":"2862ddc58705a01a390dbddc76da9e80",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -140,7 +141,7 @@
         }
     ],
     "wof:id":421188121,
-    "wof:lastmodified":1690875627,
+    "wof:lastmodified":1695886796,
     "wof:name":"Chordeleg",
     "wof:parent_id":85670885,
     "wof:placetype":"county",

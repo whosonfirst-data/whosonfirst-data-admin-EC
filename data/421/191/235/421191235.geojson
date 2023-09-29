@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.098375,
-    "geom:area_square_m":1215651654.227813,
+    "geom:area_square_m":1215651851.311267,
     "geom:bbox":"-78.889027,-2.247118,-78.433579,-1.854923",
     "geom:latitude":-2.039099,
     "geom:longitude":-78.634234,
@@ -135,12 +135,13 @@
         "qs_pg:id":61222,
         "wd:id":"Q2448699"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459009685,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"784f8bfe18d04d66a8b7a937437399e4",
+    "wof:geomhash":"4e695ecf25d42f9775c6cf2bb3f4ca5f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":421191235,
-    "wof:lastmodified":1690875636,
+    "wof:lastmodified":1695886797,
     "wof:name":"Guamote",
     "wof:parent_id":85670931,
     "wof:placetype":"county",

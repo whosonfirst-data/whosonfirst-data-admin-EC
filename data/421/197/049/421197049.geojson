@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.097583,
-    "geom:area_square_m":1206627399.402712,
+    "geom:area_square_m":1206627292.474587,
     "geom:bbox":"-78.313287,-0.190591,-77.840108,0.187295",
     "geom:latitude":-0.002503,
     "geom:longitude":-78.071374,
@@ -189,12 +189,13 @@
         "qs_pg:id":1289870,
         "wd:id":"Q1990489"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459009901,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3b7825dddad576b8574cfb33d30e37b5",
+    "wof:geomhash":"585c33cba47fbf8b79ada5550110a513",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -204,7 +205,7 @@
         }
     ],
     "wof:id":421197049,
-    "wof:lastmodified":1690875637,
+    "wof:lastmodified":1695886047,
     "wof:name":"Cayambe",
     "wof:parent_id":85670945,
     "wof:placetype":"county",

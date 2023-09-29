@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083677,
-    "geom:area_square_m":1032467583.081362,
+    "geom:area_square_m":1032468034.187615,
     "geom:bbox":"-78.850123,-3.867773,-78.401983,-3.537421",
     "geom:latitude":-3.744167,
     "geom:longitude":-78.661948,
@@ -101,9 +101,10 @@
         "hasc:id":"EC.ZC.YN",
         "wd:id":"Q4614380"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064593,
-    "wof:geomhash":"8e61c725ab074db437a5e12a3c1532fe",
+    "wof:geomhash":"8a86081c64c008c4da95dc4cf380bece",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1108573331,
-    "wof:lastmodified":1690875591,
+    "wof:lastmodified":1695886623,
     "wof:name":"Yanzatza",
     "wof:parent_id":85670895,
     "wof:placetype":"county",

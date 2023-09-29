@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.088233,
-    "geom:area_square_m":1090880907.174057,
+    "geom:area_square_m":1090880787.193014,
     "geom:bbox":"-80.041902,-1.150481,-79.66773,-0.63349",
     "geom:latitude":-0.885299,
     "geom:longitude":-79.841116,
@@ -110,9 +110,10 @@
         "hasc:id":"EC.MN.PI",
         "wd:id":"Q1990121"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064511,
-    "wof:geomhash":"b974da5707837b48e3b1b4ff968cc80e",
+    "wof:geomhash":"2c97943180b6db1362a95abee7b5ad0b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":1108571403,
-    "wof:lastmodified":1690875597,
+    "wof:lastmodified":1695886045,
     "wof:name":"Pichincha",
     "wof:parent_id":85670927,
     "wof:placetype":"county",

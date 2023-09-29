@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006487,
-    "geom:area_square_m":80216293.333376,
+    "geom:area_square_m":80216360.016446,
     "geom:bbox":"-78.245894,0.263258,-78.134081,0.399154",
     "geom:latitude":0.337775,
     "geom:longitude":-78.197465,
@@ -132,12 +132,13 @@
         "qs_pg:id":224360,
         "wd:id":"Q1992605"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1459008817,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0d0383ae739c2a74ea19a8f48b4883e2",
+    "wof:geomhash":"f1aa9f1db36071a3dd90cd5a69a46659",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":421169627,
-    "wof:lastmodified":1690875615,
+    "wof:lastmodified":1695886796,
     "wof:name":"Antonio Ante",
     "wof:parent_id":85670971,
     "wof:placetype":"county",

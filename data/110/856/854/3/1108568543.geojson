@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026577,
-    "geom:area_square_m":328035130.352674,
+    "geom:area_square_m":328034921.612158,
     "geom:bbox":"-79.737303,-3.544547,-79.538774,-3.322138",
     "geom:latitude":-3.438842,
     "geom:longitude":-79.626518,
@@ -104,9 +104,10 @@
         "hasc:id":"EC.EO.CH",
         "wd:id":"Q2448742"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064394,
-    "wof:geomhash":"8588a4066a79e46356bbde995f06f39f",
+    "wof:geomhash":"9d2cdc797b08679d3fb4ba37b07b1c39",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1108568543,
-    "wof:lastmodified":1690875605,
+    "wof:lastmodified":1695886627,
     "wof:name":"Chilla",
     "wof:parent_id":85670887,
     "wof:placetype":"county",

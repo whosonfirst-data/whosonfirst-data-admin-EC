@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02722,
-    "geom:area_square_m":336457641.274859,
+    "geom:area_square_m":336457641.274739,
     "geom:bbox":"-79.6275233563,-1.69988913878,-79.4831818631,-1.36637380084",
     "geom:latitude":-1.546776,
     "geom:longitude":-79.542566,
@@ -82,9 +82,10 @@
     "wof:concordances":{
         "hasc:id":"EC.LR.PV"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EC",
     "wof:created":1474064521,
-    "wof:geomhash":"2dcea4245a2c3eef41df184f13c4587c",
+    "wof:geomhash":"c2f4a8a5b86f8a7a795ad13ee6715ec2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":1108571631,
-    "wof:lastmodified":1566584310,
+    "wof:lastmodified":1695886622,
     "wof:name":"Pueblo Viejo",
     "wof:parent_id":85670923,
     "wof:placetype":"county",
