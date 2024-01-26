@@ -42,6 +42,11 @@
     "wof:concordances":{
         "gn:id":3653536
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8471191
+        ]
+    },
     "wof:country":"EC",
     "wof:geomhash":"1d303941ce9e2f7910fa51815a2c7760",
     "wof:hierarchy":[
@@ -54,13 +59,15 @@
         }
     ],
     "wof:id":1225920017,
-    "wof:lastmodified":1566584674,
+    "wof:lastmodified":1706239504,
     "wof:name":"Palmito Pamba",
     "wof:parent_id":421188131,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ec",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309871927
+    ],
     "wof:tags":[]
 },
   "bbox": [

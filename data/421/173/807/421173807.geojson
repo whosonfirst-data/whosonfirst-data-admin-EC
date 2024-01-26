@@ -9,6 +9,21 @@
     "geom:bbox":"-77.89411,-0.4632,-77.89411,-0.4632",
     "geom:latitude":-0.4632,
     "geom:longitude":-77.89411,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"1507.0",
+    "gn:admin3_code":"150750.0",
+    "gn:asciiname":"Baeza",
+    "gn:country_code":"EC",
+    "gn:dem":1898,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10343870,
+    "gn:latitude":-0.46314,
+    "gn:longitude":-77.89375,
+    "gn:modification_date":"2018-04-10",
+    "gn:name":"Baeza",
+    "gn:population":0,
+    "gn:timezone":"America/Guayaquil",
     "iso:country":"EC",
     "lbl:bbox":"-77.91411,-0.4832,-77.87411,-0.4432",
     "lbl:max_zoom":18.0,
@@ -187,7 +202,13 @@
         "gn:id":3660407,
         "gp:id":375772,
         "qs_pg:id":299864,
-        "wd:id":"Q4841319"
+        "wd:id":"Q4841319",
+        "wk:page":"Baeza,_Ecuador"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10343870
+        ]
     },
     "wof:country":"EC",
     "wof:created":1459009006,
@@ -209,13 +230,15 @@
         }
     ],
     "wof:id":421173807,
-    "wof:lastmodified":1690875625,
+    "wof:lastmodified":1706239504,
     "wof:name":"Baeza",
     "wof:parent_id":1108571837,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ec",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326899075
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -42,6 +42,11 @@
     "wof:concordances":{
         "gn:id":3658900
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9255435
+        ]
+    },
     "wof:country":"EC",
     "wof:geomhash":"c68f189c2ca62bce8fdcef8342864138",
     "wof:hierarchy":[
@@ -54,13 +59,15 @@
         }
     ],
     "wof:id":1226013081,
-    "wof:lastmodified":1566584742,
+    "wof:lastmodified":1706239504,
     "wof:name":"Concepcion",
     "wof:parent_id":421184851,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ec",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293446343
+    ],
     "wof:tags":[]
 },
   "bbox": [
