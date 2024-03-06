@@ -42,6 +42,11 @@
     "wof:concordances":{
         "gn:id":3654121
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8470624
+        ]
+    },
     "wof:country":"EC",
     "wof:geomhash":"1e5675bfec1ff6728e0be305132d04af",
     "wof:hierarchy":[
@@ -54,13 +59,15 @@
         }
     ],
     "wof:id":1226218269,
-    "wof:lastmodified":1566584685,
+    "wof:lastmodified":1706239504,
     "wof:name":"Mojanda Chico",
     "wof:parent_id":421188131,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ec",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343933617
+    ],
     "wof:tags":[]
 },
   "bbox": [

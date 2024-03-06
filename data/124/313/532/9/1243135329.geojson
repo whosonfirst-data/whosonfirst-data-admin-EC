@@ -42,6 +42,11 @@
     "wof:concordances":{
         "gn:id":8470623
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3656579
+        ]
+    },
     "wof:country":"EC",
     "wof:geomhash":"a6858aa3006c03218c64cf27d9b2c377",
     "wof:hierarchy":[
@@ -54,13 +59,15 @@
         }
     ],
     "wof:id":1243135329,
-    "wof:lastmodified":1566584571,
+    "wof:lastmodified":1706239504,
     "wof:name":"Mojanda Grande",
     "wof:parent_id":421188131,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ec",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293456003
+    ],
     "wof:tags":[]
 },
   "bbox": [
